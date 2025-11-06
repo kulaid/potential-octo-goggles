@@ -1,0 +1,529 @@
+{
+  "title": "BLAME",
+  "description": "Killy is a man of few words. He wanders, seemingly endlessly, through a lonely, gargantuan labyrinth of concrete and steel, fighting off cyborgs and other futuristic nightmares, searching only for something called Net Terminal Genes. And he has a very powerful gun, which he uses without hesitation whenever anything resembling danger rears its ugly head. Who is this quiet, violent, determined man and what are these Genes he seeks? The small communities he finds tucked into the crevices of this towering, dystopic ruin hardly give him leads on his treasure, driving him to find larger enclaves of civilization where people can reveal more about the world he lives in and the quarry he seeks.",
+  "artist": "Tsutomu Nihei",
+  "author": "Tsutomu Nihei",
+  "cover": "https://mangadex.org/covers/b905f827-8d48-4948-b58c-0d6fd330d10d/7310014a-0f95-487b-b2bc-0f89e1d40073.jpg",
+  "chapters": {
+    "0001": {
+      "title": "NET TERMINAL GENE",
+      "last_updated": "1761096907",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/na7kavjbb48"
+      },
+      "volume": "001"
+    },
+    "0002": {
+      "title": "THE MEMORY OF LAND",
+      "last_updated": "1761096934",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/9rydq6kwl4k"
+      },
+      "volume": "001"
+    },
+    "0003": {
+      "title": "TECHNOMADS",
+      "last_updated": "1761096990",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/ej7maldxn7d"
+      },
+      "volume": "001"
+    },
+    "0004": {
+      "title": "THE ADMINISTRATION",
+      "last_updated": "1761097017",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/qb4z58xzd4j"
+      },
+      "volume": "001"
+    },
+    "0005": {
+      "title": "ESCAPE",
+      "last_updated": "1761097046",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/bp45m5glqy5"
+      },
+      "volume": "001"
+    },
+    "0006": {
+      "title": "SILICON LIFE",
+      "last_updated": "1761097073",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/m9yx986wqyq"
+      },
+      "volume": "001"
+    },
+    "0007": {
+      "title": "THE BUILDERS",
+      "last_updated": "1761097107",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/dl7pad32p7o"
+      },
+      "volume": "001"
+    },
+    "0008": {
+      "title": "THE CLUSTER",
+      "last_updated": "1761097172",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/5xy2q8k99yl"
+      },
+      "volume": "002"
+    },
+    "0009": {
+      "title": "BIO-ELECTRIC, INC",
+      "last_updated": "1761097241",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/9rydq6kkl4k"
+      },
+      "volume": "002"
+    },
+    "0010": {
+      "title": "THE NETSPHERE",
+      "last_updated": "1761097276",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/bp45m5ggqy5"
+      },
+      "volume": "002"
+    },
+    "0011": {
+      "title": "SAFEGUARDS",
+      "last_updated": "1761097306",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/agyvx955j78"
+      },
+      "volume": "002"
+    },
+    "0012": {
+      "title": "STORAGE KING",
+      "last_updated": "1761097344",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/9p4nvjrrmyn"
+      },
+      "volume": "003"
+    },
+    "0013": {
+      "title": "ELECTRO-FISHERS",
+      "last_updated": "1761097375",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/dl7pad33p7o"
+      },
+      "volume": "003"
+    },
+    "0014": {
+      "title": "PLANTERS",
+      "last_updated": "1761097404",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/vj4jegllx78"
+      },
+      "volume": "003"
+    },
+    "0015": {
+      "title": "AWAKENING",
+      "last_updated": "1761097430",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/ljyqarwwn72"
+      },
+      "volume": "003"
+    },
+    "0016": {
+      "title": "THE ATTACK",
+      "last_updated": "1761097461",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/pg73d5emjyr"
+      },
+      "volume": "003"
+    },
+    "0017": {
+      "title": "LANGUAGE MATRIX",
+      "last_updated": "1761097485",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/qe4gm5naj4j"
+      },
+      "volume": "003"
+    },
+    "0018": {
+      "title": "ANNIHILATION",
+      "last_updated": "1761097515",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/xny8e5ag5yb"
+      },
+      "volume": "003"
+    },
+    "0019": {
+      "title": "THE BACKUP WORLD",
+      "last_updated": "1761097544",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/agyvx953j78"
+      },
+      "volume": "004"
+    },
+    "0020": {
+      "title": "RESTRICTION LIFTED",
+      "last_updated": "1761097584",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/9p4nvjrpmyn"
+      },
+      "volume": "004"
+    },
+    "0021": {
+      "title": "THE HYBRID",
+      "last_updated": "1761097614",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/md7oaqm2ryp"
+      },
+      "volume": "004"
+    },
+    "0022": {
+      "title": "TOHA HEAVY INDUSTRIES",
+      "last_updated": "1761097646",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/wl7la2qnqyx"
+      },
+      "volume": "004"
+    },
+    "0023": {
+      "title": "THE DIGITAL KNIGHT",
+      "last_updated": "1761097671",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/5xy2q8kwzyl"
+      },
+      "volume": "004"
+    },
+    "0024": {
+      "title": "THE EIGHTH CAVE",
+      "last_updated": "1761097703",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/ljyqarwnd72"
+      },
+      "volume": "004"
+    },
+    "0025": {
+      "title": "HACKING",
+      "last_updated": "1761097729",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/6eyramepx4p"
+      },
+      "volume": "005"
+    },
+    "0026": {
+      "title": "THE UNSTABLE CAVE",
+      "last_updated": "1761097774",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/n87w9xawxyx"
+      },
+      "volume": "005"
+    },
+    "0027": {
+      "title": "THE GRAVITY REACTOR",
+      "last_updated": "1761097797",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/bp45m5gany5"
+      },
+      "volume": "005"
+    },
+    "0028": {
+      "title": "VERSION",
+      "last_updated": "1761097826",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/a846358vz4x"
+      },
+      "volume": "005"
+    },
+    "0029": {
+      "title": "THE THIRTEENTH CAVE",
+      "last_updated": "1761097853",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/9p4nvjr5byn"
+      },
+      "volume": "005"
+    },
+    "0030": {
+      "title": "ENDLESS WAR",
+      "last_updated": "1761097895",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/md7oaqm62yp"
+      },
+      "volume": "005"
+    },
+    "0031": {
+      "title": "SANAKAN AND CIBO",
+      "last_updated": "1761097926",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/6eyramqrx4p"
+      },
+      "volume": "006"
+    },
+    "0032": {
+      "title": "VIBRATIONS",
+      "last_updated": "1761097958",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/lqyedg8jm7d"
+      },
+      "volume": "006"
+    },
+    "0033": {
+      "title": "COLLAPSE",
+      "last_updated": "1761097992",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/o24a28wxd7l"
+      },
+      "volume": "006"
+    },
+    "0034": {
+      "title": "MELTDOWN",
+      "last_updated": "1761098031",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/9p4nvjpgbyn"
+      },
+      "volume": "006"
+    },
+    "0035": {
+      "title": "ANNIHILATED",
+      "last_updated": "1761098062",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/dl7padlg37o"
+      },
+      "volume": "006"
+    },
+    "0036": {
+      "title": "BEAUTIFUL LIFE",
+      "last_updated": "1761098094",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/na7kav9x348"
+      },
+      "volume": "006"
+    },
+    "0037": {
+      "title": "UNOFFICIAL MEGASTRUCTURE",
+      "last_updated": "1761098120",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/vj4jegxd378"
+      },
+      "volume": "007"
+    },
+    "0038": {
+      "title": "THE WAREHOUSE",
+      "last_updated": "1761098170",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/9rydq6g5a4k"
+      },
+      "volume": "007"
+    },
+    "0039": {
+      "title": "TYPE 1 UNKNOWN CRITICALITY WEAPON",
+      "last_updated": "1761098211",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/pg73d5m9gyr"
+      },
+      "volume": "007"
+    },
+    "0040": {
+      "title": "CAPTURED",
+      "last_updated": "1761098255",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/lqyedg83m7d"
+      },
+      "volume": "007"
+    },
+    "0041": {
+      "title": "ANTI-INFILTRATION ELECTRONIC SPACE",
+      "last_updated": "1761098303",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/xny8e5gx2yb"
+      },
+      "volume": "007"
+    },
+    "0042": {
+      "title": "INTERNAL FISSURES IN THE MEGASTRUCTURE",
+      "last_updated": "1761098354",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/m9yx98ekpyq"
+      },
+      "volume": "007"
+    },
+    "0043": {
+      "title": "PROVISIONAL SAFEGUARDS",
+      "last_updated": "1761098403",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/na7kav9z348"
+      },
+      "volume": "007"
+    },
+    "0044": {
+      "title": "INSIDE THE MEGASTRUCTURE",
+      "last_updated": "1761098437",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/5xy2q8rezyl"
+      },
+      "volume": "008"
+    },
+    "0045": {
+      "title": "COMPOUND DYNAMIC PARTICLES",
+      "last_updated": "1761098469",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/ljyqarjqd72"
+      },
+      "volume": "008"
+    },
+    "0046": {
+      "title": "TEMPORARY ACCESS AUTHENTICATION",
+      "last_updated": "1761098502",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/lqyedg8vm7d"
+      },
+      "volume": "008"
+    },
+    "0047": {
+      "title": "INFILTRATION",
+      "last_updated": "1761098547",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/xny8e5gz2yb"
+      },
+      "volume": "008"
+    },
+    "0048": {
+      "title": "IMPULSE",
+      "last_updated": "1761098592",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/bp45m5w8ny5"
+      },
+      "volume": "008"
+    },
+    "0049": {
+      "title": "LEVEL 9",
+      "last_updated": "1761098630",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/agyvx936b78"
+      },
+      "volume": "008"
+    },
+    "0050": {
+      "title": "DISTANT",
+      "last_updated": "1761098671",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/ne7blkepmy5"
+      },
+      "volume": "008"
+    },
+    "0051": {
+      "title": "PARALLEL BATTERY STORAGE CLUSTER",
+      "last_updated": "1761098715",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/na7kav9r348"
+      },
+      "volume": "009"
+    },
+    "0052": {
+      "title": "THE ONE WHO CALLS",
+      "last_updated": "1761098739",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/vj4jegxw378"
+      },
+      "volume": "009"
+    },
+    "0053": {
+      "title": "OMISSION",
+      "last_updated": "1761098782",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/5xy2q8rl3yl"
+      },
+      "volume": "009"
+    },
+    "0054": {
+      "title": "CAPTORS",
+      "last_updated": "1761098819",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/ljyqarjdx72"
+      },
+      "volume": "009"
+    },
+    "0055": {
+      "title": "REUNION",
+      "last_updated": "1761098868",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/6eyramqdl4p"
+      },
+      "volume": "009"
+    },
+    "0056": {
+      "title": "PEOPLE",
+      "last_updated": "1761098916",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/n87w9xkrqyx"
+      },
+      "volume": "009"
+    },
+    "0057": {
+      "title": "THE OBSERVER",
+      "last_updated": "1761098956",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/bp45m5wdvy5"
+      },
+      "volume": "009"
+    },
+    "0058": {
+      "title": "UNBROKEN WIRING",
+      "last_updated": "1761098988",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/92492p8j8yn"
+      },
+      "volume": "010"
+    },
+    "0059": {
+      "title": "THE CONTINUUM",
+      "last_updated": "1761099022",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/na7kav9ew48"
+      },
+      "volume": "010"
+    },
+    "0060": {
+      "title": "ORGANICAL",
+      "last_updated": "1761099057",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/vj4jegxv978"
+      },
+      "volume": "010"
+    },
+    "0061": {
+      "title": "BURNING SILICON",
+      "last_updated": "1761099098",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/9rydq6ga64k"
+      },
+      "volume": "010"
+    },
+    "0062": {
+      "title": "RECEPTOR RECAPTURE",
+      "last_updated": "1761099136",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/ej7malbka7d"
+      },
+      "volume": "010"
+    },
+    "0063": {
+      "title": "HIGH-LEVEL EXTERMINATORS",
+      "last_updated": "1761099178",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/qb4z58gjl4j"
+      },
+      "volume": "010"
+    },
+    "0064": {
+      "title": "RECOVERED PERSONALITY",
+      "last_updated": "1761099216",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/qe4gm5axk4j"
+      },
+      "volume": "010"
+    },
+    "0065": {
+      "title": "OMISSION",
+      "last_updated": "1761099266",
+      "groups": {
+        "Master Edition": "/proxy/api/imgchest/chapter/a84635ek24x"
+      },
+      "volume": "010"
+    }
+  }
+}
