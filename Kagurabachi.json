@@ -1,0 +1,748 @@
+{
+  "title": "Kagurabachi",
+  "description": "Young Chihiro spends his days training under his famous swordsmith father. One day he hopes to become a great sword-maker himself. The goofy father and the serious son--they thought these days would last forever. But suddenly, tragedy strikes. A dark day soaked in blood. Chihiro and his blade now live only for revenge.",
+  "artist": "Takeru Hokazono",
+  "author": "Takeru Hokazono",
+  "cover": "https://mangadex.org/covers/d65c0332-3764-4c89-84bd-b1a4e7278ad7/f852a981-2a40-4cda-a514-f675ae9d7578.png",
+  "chapters": {
+    "47": {
+      "title": "Uruha",
+      "last_updated": "1762846431",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kap6oq48"
+      }
+    },
+    "48": {
+      "title": "The Kokugoku Steam Squad",
+      "last_updated": "1762846440",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lapv9pyx"
+      }
+    },
+    "49": {
+      "title": "Deadlock",
+      "last_updated": "1762846449",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jepa9278"
+      }
+    },
+    "50": {
+      "title": "Interception",
+      "last_updated": "1762846458",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqaplvo72"
+      }
+    },
+    "51": {
+      "title": "Samura",
+      "last_updated": "1762846467",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9rydq9wxw4k"
+      }
+    },
+    "52": {
+      "title": "Just the Two of Us",
+      "last_updated": "1762846477",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrakjve4p"
+      }
+    },
+    "53": {
+      "title": "Darkness",
+      "last_updated": "1762846488",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73danrzyr"
+      }
+    },
+    "54": {
+      "title": "Friendship",
+      "last_updated": "1762846498",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87w9p3dzyx"
+      }
+    },
+    "55": {
+      "title": "Fight Alongside",
+      "last_updated": "1762846507",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyedke237d"
+      }
+    },
+    "56": {
+      "title": "Daybreak",
+      "last_updated": "1762846516",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny8endvoyb"
+      }
+    },
+    "57": {
+      "title": "Collapse",
+      "last_updated": "1762846525",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a8463njww4x"
+      }
+    },
+    "58": {
+      "title": "Reunion",
+      "last_updated": "1762846534",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/92492nrw2yn"
+      }
+    },
+    "59": {
+      "title": "Blackout",
+      "last_updated": "1762846544",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7bl9mdny5"
+      }
+    },
+    "60": {
+      "title": "Resurrection",
+      "last_updated": "1762846554",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pap2e67o"
+      }
+    },
+    "61": {
+      "title": "Night Battle",
+      "last_updated": "1762846563",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oapnwdyp"
+      }
+    },
+    "62": {
+      "title": "Iori",
+      "last_updated": "1762846573",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2q59ajyl"
+      }
+    },
+    "63": {
+      "title": "Car Chase",
+      "last_updated": "1762846584",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lapvgpyx"
+      }
+    },
+    "64": {
+      "title": "Become the Samurai",
+      "last_updated": "1762846593",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jepak278"
+      }
+    },
+    "65": {
+      "title": "Imitate",
+      "last_updated": "1762846603",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqaplxo72"
+      }
+    },
+    "66": {
+      "title": "Truth",
+      "last_updated": "1762846613",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9rydq9wmw4k"
+      }
+    },
+    "67": {
+      "title": "Kyoto Bloodshed Hotel",
+      "last_updated": "1762846623",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrakj9e4p"
+      }
+    },
+    "68": {
+      "title": "Metamorphosis",
+      "last_updated": "1762846632",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mapxwb7d"
+      }
+    },
+    "69": {
+      "title": "The Guy with the Scar",
+      "last_updated": "1762846642",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87w9p3xzyx"
+      }
+    },
+    "70": {
+      "title": "Iai White Purity Style",
+      "last_updated": "1762846652",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyedkeg37d"
+      }
+    },
+    "71": {
+      "title": "Contest",
+      "last_updated": "1762846661",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4z52z834j"
+      }
+    },
+    "72": {
+      "title": "Future",
+      "last_updated": "1762846671",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gm9g5r4j"
+      }
+    },
+    "73": {
+      "title": "Daybreak",
+      "last_updated": "1762846681",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny8end5oyb"
+      }
+    },
+    "74": {
+      "title": "Dawn",
+      "last_updated": "1762846691",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45mvl52y5"
+      }
+    },
+    "75": {
+      "title": "Illusion",
+      "last_updated": "1762846701",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a29r837l"
+      }
+    },
+    "76": {
+      "title": "Banquet",
+      "last_updated": "1762846710",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a8463nj5w4x"
+      }
+    },
+    "77": {
+      "title": "No Longer Relevant",
+      "last_updated": "1762846720",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvxpk9978"
+      }
+    },
+    "78": {
+      "title": "Switch",
+      "last_updated": "1762846730",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/92492nrp2yn"
+      }
+    },
+    "79": {
+      "title": "Threat!!",
+      "last_updated": "1762846739",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nvo9jzyn"
+      }
+    },
+    "80": {
+      "title": "Secret Room",
+      "last_updated": "1762846749",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pap2d67o"
+      }
+    },
+    "81": {
+      "title": "Core",
+      "last_updated": "1762846758",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kap6vq48"
+      }
+    },
+    "82": {
+      "title": "Enten Vs. Tobi-mune",
+      "last_updated": "1762846767",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2q598jyl"
+      }
+    },
+    "83": {
+      "title": "The Enten",
+      "last_updated": "1762846776",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lapv2pyx"
+      }
+    },
+    "84": {
+      "title": "The Wounded",
+      "last_updated": "1762846784",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jepag278"
+      }
+    },
+    "85": {
+      "title": "Open",
+      "last_updated": "1762846792",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2q5989yl"
+      }
+    },
+    "86": {
+      "title": "Quickening",
+      "last_updated": "1762846801",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lapv2qyx"
+      }
+    },
+    "87": {
+      "title": "Phantoms",
+      "last_updated": "1762846810",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jepagx78"
+      }
+    },
+    "88": {
+      "title": "The First Step",
+      "last_updated": "1762846819",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqaplrn72"
+      }
+    },
+    "89": {
+      "title": "Battle Chaos",
+      "last_updated": "1762846830",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9rydq9wrl4k"
+      }
+    },
+    "90": {
+      "title": "Kiri chan",
+      "last_updated": "1762846840",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mapx8n7d"
+      }
+    },
+    "91": {
+      "title": "Natsuki",
+      "last_updated": "1762846850",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73danljyr"
+      }
+    },
+    "92": {
+      "title": "The Swordsmen",
+      "last_updated": "1762846854",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87w9p3mgyx"
+      }
+    },
+    "93": {
+      "title": "Finishing Touches",
+      "last_updated": "1762846863",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyedkemq7d"
+      }
+    },
+    "94": {
+      "title": "The Second Arrow",
+      "last_updated": "1762846872",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45mvlqqy5"
+      }
+    },
+    "95": {
+      "title": "Flood",
+      "last_updated": "1762846882",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a29rj27l"
+      }
+    },
+    "96": {
+      "title": "Urgency",
+      "last_updated": "1762846892",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a8463njdo4x"
+      }
+    },
+    "97": {
+      "title": "Vessel",
+      "last_updated": "1762846901",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvxpkrj78"
+      }
+    },
+    "98": {
+      "title": "Ikuto Hagiwara, Worthless Commander",
+      "last_updated": "1762846910",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yx9pw3qyq"
+      }
+    },
+    "99": {
+      "title": "Strongest",
+      "last_updated": "1762846919",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nvo98myn"
+      }
+    },
+    "1": {
+      "title": "Mission",
+      "last_updated": "1762846958",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pap28p7o"
+      },
+      "volume": "1"
+    },
+    "2": {
+      "title": "Heaps",
+      "last_updated": "1762846973",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oapn8ryp"
+      },
+      "volume": "1"
+    },
+    "3": {
+      "title": "Witness",
+      "last_updated": "1762846988",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kap68b48"
+      },
+      "volume": "1"
+    },
+    "4": {
+      "title": "Sorcery and the Enchanted Blade",
+      "last_updated": "1762847001",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lapvoqyx"
+      },
+      "volume": "1"
+    },
+    "5": {
+      "title": "A Good Meal",
+      "last_updated": "1762847013",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jepa8x78"
+      },
+      "volume": "1"
+    },
+    "6": {
+      "title": "Peace",
+      "last_updated": "1762847024",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqapl2n72"
+      },
+      "volume": "1"
+    },
+    "7": {
+      "title": "Smoke Signal",
+      "last_updated": "1762847035",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrakjag4p"
+      },
+      "volume": "1"
+    },
+    "8": {
+      "title": "Norisaku Madoka_ Change",
+      "last_updated": "1762847050",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mapxan7d"
+      },
+      "volume": "1"
+    },
+    "10": {
+      "title": "Swift",
+      "last_updated": "1762847062",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73dandjyr"
+      },
+      "volume": "2"
+    },
+    "11": {
+      "title": "Awaken",
+      "last_updated": "1762847075",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyedkedq7d"
+      },
+      "volume": "2"
+    },
+    "12": {
+      "title": "Preparations",
+      "last_updated": "1762847087",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4z52z5d4j"
+      },
+      "volume": "2"
+    },
+    "13": {
+      "title": "Elites",
+      "last_updated": "1762847100",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gm9gmj4j"
+      },
+      "volume": "2"
+    },
+    "14": {
+      "title": "Chapter 14",
+      "last_updated": "1762847114",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45mvlmqy5"
+      },
+      "volume": "2"
+    },
+    "15": {
+      "title": "Food",
+      "last_updated": "1762847127",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a29r227l"
+      },
+      "volume": "2"
+    },
+    "16": {
+      "title": "Silence",
+      "last_updated": "1762847140",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvxpkxj78"
+      },
+      "volume": "2"
+    },
+    "17": {
+      "title": "Tea",
+      "last_updated": "1762847151",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yx9pw9qyq"
+      },
+      "volume": "2"
+    },
+    "18": {
+      "title": "Roar",
+      "last_updated": "1762847163",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/92492nr2myn"
+      },
+      "volume": "2"
+    },
+    "9": {
+      "title": "Enten vs. Cloud Gouger",
+      "last_updated": "1762847180",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nvo9vmyn"
+      },
+      "volume": "2"
+    },
+    "19": {
+      "title": "Knight of Darkness",
+      "last_updated": "1762847199",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oapnaryp"
+      },
+      "volume": "3"
+    },
+    "20": {
+      "title": "The Kamunabi's Weapon",
+      "last_updated": "1762847211",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2q59q9yl"
+      },
+      "volume": "3"
+    },
+    "21": {
+      "title": "Lukeworm",
+      "last_updated": "1762847224",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lapvaqyx"
+      },
+      "volume": "3"
+    },
+    "22": {
+      "title": "Deadlock",
+      "last_updated": "1762847236",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqaplan72"
+      },
+      "volume": "3"
+    },
+    "23": {
+      "title": "Storehouse",
+      "last_updated": "1762847249",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrakjng4p"
+      },
+      "volume": "3"
+    },
+    "24": {
+      "title": "Hunters",
+      "last_updated": "1762847262",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87w9p3ngyx"
+      },
+      "volume": "3"
+    },
+    "25": {
+      "title": "Deal",
+      "last_updated": "1762847275",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4z52zpd4j"
+      },
+      "volume": "3"
+    },
+    "26": {
+      "title": "Confidence",
+      "last_updated": "1762847288",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gm9gqj4j"
+      },
+      "volume": "3"
+    },
+    "27": {
+      "title": "Mr.Inazuma",
+      "last_updated": "1762847301",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a29r627l"
+      },
+      "volume": "3"
+    },
+    "28": {
+      "title": "Breach",
+      "last_updated": "1762847319",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a8463njoo4x"
+      },
+      "volume": "4"
+    },
+    "29": {
+      "title": "Selection",
+      "last_updated": "1762847330",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvxpknj78"
+      },
+      "volume": "4"
+    },
+    "30": {
+      "title": "Intruders",
+      "last_updated": "1762847343",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/92492nrkmyn"
+      },
+      "volume": "4"
+    },
+    "31": {
+      "title": "Greeting",
+      "last_updated": "1762847358",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nvo9zmyn"
+      },
+      "volume": "4"
+    },
+    "32": {
+      "title": "Selection",
+      "last_updated": "1762847371",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oapnbryp"
+      },
+      "volume": "4"
+    },
+    "33": {
+      "title": "Defend to the Death",
+      "last_updated": "1762847383",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kap6kb48"
+      },
+      "volume": "4"
+    },
+    "34": {
+      "title": "Duty",
+      "last_updated": "1762847395",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2q59o9yl"
+      },
+      "volume": "4"
+    },
+    "35": {
+      "title": "Cage",
+      "last_updated": "1762847406",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jepamx78"
+      },
+      "volume": "4"
+    },
+    "36": {
+      "title": "Geniuses",
+      "last_updated": "1762847419",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9rydq9wnl4k"
+      },
+      "volume": "4"
+    },
+    "37": {
+      "title": "Equal",
+      "last_updated": "1762847433",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mapxvn7d"
+      },
+      "volume": "4"
+    },
+    "38": {
+      "title": "Race",
+      "last_updated": "1762847450",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73dan6jyr"
+      },
+      "volume": "5"
+    },
+    "39": {
+      "title": "Surpass!",
+      "last_updated": "1762847461",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87w9p3qgyx"
+      },
+      "volume": "5"
+    },
+    "40": {
+      "title": "The Tip",
+      "last_updated": "1762847473",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyedkenq7d"
+      },
+      "volume": "5"
+    },
+    "41": {
+      "title": "Fervent",
+      "last_updated": "1762847486",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4z52zmd4j"
+      },
+      "volume": "5"
+    },
+    "42": {
+      "title": "Everything",
+      "last_updated": "1762847498",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny8end25yb"
+      },
+      "volume": "5"
+    },
+    "43": {
+      "title": "Fulfill",
+      "last_updated": "1762847510",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45mvl6qy5"
+      },
+      "volume": "5"
+    },
+    "44": {
+      "title": "The Curtain Falls",
+      "last_updated": "1762847523",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a29rn27l"
+      },
+      "volume": "5"
+    },
+    "45": {
+      "title": "What Comes Next",
+      "last_updated": "1762847534",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvxpkjj78"
+      },
+      "volume": "5"
+    },
+    "46": {
+      "title": "Unruly Punk",
+      "last_updated": "1762847547",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yx9pwdqyq"
+      },
+      "volume": "5"
+    }
+  }
+}
