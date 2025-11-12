@@ -1,0 +1,1305 @@
+{
+  "title": "Monster",
+  "description": "Kenzo Tenma, a renowned Japanese neurosurgeon working in post-war Germany, faces a difficult choice: to operate on Johan Liebert, an orphan boy on the verge of death, or on the mayor of Düsseldorf. In the end, Tenma decides to gamble his reputation by saving Johan, effectively leaving the mayor for dead. As a consequence of his actions, hospital director Heinemann strips Tenma of his position, and Heinemann's daughter Eva breaks off their engagement. Disgraced and shunned by his colleagues, Tenma loses all hope of a successful career—that is, until the mysterious killing of Heinemann gives him another chance. Nine years later, Tenma is the head of the surgical department and close to becoming the director himself. Although all seems well for him at first, he soon becomes entangled in a chain of gruesome murders that have taken place throughout Germany. The culprit is a monster—the same one that Tenma saved on that fateful day nine years ago.",
+  "artist": "Naoki Urasawa",
+  "author": "Naoki Urasawa",
+  "cover": "https://mangadex.org/covers/d9e30523-9d65-469e-92a2-302995770950/a397b3d3-d7b3-413f-8d6a-f2b136a4b4e2.jpg",
+  "chapters": {
+    "1": {
+      "title": "Herr Doctor Tenma.cbz",
+      "last_updated": "1762929325",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mbpr2y5"
+      },
+      "volume": "1"
+    },
+    "2": {
+      "title": "Kill.cbz",
+      "last_updated": "1762929353",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/a8463bwmw4x"
+      },
+      "volume": "1"
+    },
+    "3": {
+      "title": "Downfall.cbz",
+      "last_updated": "1762929380",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/m9yx9arb3yq"
+      },
+      "volume": "1"
+    },
+    "4": {
+      "title": "Brother and Sister.cbz",
+      "last_updated": "1762929406",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9p4nvdwazyn"
+      },
+      "volume": "1"
+    },
+    "5": {
+      "title": "A case of Murder.cbz",
+      "last_updated": "1762929433",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/dl7pameb67o"
+      },
+      "volume": "1"
+    },
+    "6": {
+      "title": "The BKA Man.cbz",
+      "last_updated": "1762929459",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/na7kalmgq48"
+      },
+      "volume": "1"
+    },
+    "7": {
+      "title": "Monster.cbz",
+      "last_updated": "1762929487",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/5xy2qvajjyl"
+      },
+      "volume": "1"
+    },
+    "8": {
+      "title": "Night of the Execution.cbz",
+      "last_updated": "1762929514",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/wl7lajg8pyx"
+      },
+      "volume": "1"
+    },
+    "78": {
+      "title": "Grimmer",
+      "last_updated": "1762929533",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/vj4je2kz278"
+      },
+      "volume": "10"
+    },
+    "79": {
+      "title": "Picnic",
+      "last_updated": "1762929554",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3xbo72"
+      },
+      "volume": "10"
+    },
+    "80": {
+      "title": "Ghost of 511",
+      "last_updated": "1762929578",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/6eyraw9be4p"
+      },
+      "volume": "10"
+    },
+    "81": {
+      "title": "A New Experiment",
+      "last_updated": "1762929598",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/n87w95dpzyx"
+      },
+      "volume": "10"
+    },
+    "82": {
+      "title": "Key",
+      "last_updated": "1762929618",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/lqyed52k37d"
+      },
+      "volume": "10"
+    },
+    "83": {
+      "title": "The Magnificent Steiner's Adventure",
+      "last_updated": "1762929637",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qe4gm6j9r4j"
+      },
+      "volume": "10"
+    },
+    "84": {
+      "title": "Agent Suk",
+      "last_updated": "1762929657",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mbpv2y5"
+      },
+      "volume": "10"
+    },
+    "85": {
+      "title": "Top Secret Investigation",
+      "last_updated": "1762929679",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/o24a2eq937l"
+      },
+      "volume": "10"
+    },
+    "86": {
+      "title": "Something Important",
+      "last_updated": "1762929706",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/a8463bwnw4x"
+      },
+      "volume": "10"
+    },
+    "87": {
+      "title": "Two Darknesses",
+      "last_updated": "1762929732",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/m9yx9arp3yq"
+      },
+      "volume": "11"
+    },
+    "88": {
+      "title": "The Monster's Afterimage",
+      "last_updated": "1762929752",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9p4nvdwozyn"
+      },
+      "volume": "11"
+    },
+    "89": {
+      "title": "Playback",
+      "last_updated": "1762929771",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/dl7pamep67o"
+      },
+      "volume": "11"
+    },
+    "90": {
+      "title": "Tangent",
+      "last_updated": "1762929791",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/md7oarwpdyp"
+      },
+      "volume": "11"
+    },
+    "91": {
+      "title": "The Dead Angle",
+      "last_updated": "1762929811",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/na7kalmpq48"
+      },
+      "volume": "11"
+    },
+    "92": {
+      "title": "Memories of the Magnificent Steiner",
+      "last_updated": "1762929831",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/5xy2qva5jyl"
+      },
+      "volume": "11"
+    },
+    "93": {
+      "title": "Memories of  Cocoa",
+      "last_updated": "1762929851",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/vj4je2kp278"
+      },
+      "volume": "11"
+    },
+    "94": {
+      "title": "Door to a  Nightmare",
+      "last_updated": "1762929874",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/6eyraw9ke4p"
+      },
+      "volume": "11"
+    },
+    "95": {
+      "title": "The Most Frightening Thing",
+      "last_updated": "1762929893",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ej7maqwpb7d"
+      },
+      "volume": "11"
+    },
+    "100": {
+      "title": "The Rose Mansion",
+      "last_updated": "1762929913",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/n87w95d5zyx"
+      },
+      "volume": "12"
+    },
+    "101": {
+      "title": "An Unopened Door",
+      "last_updated": "1762929934",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mbpb2y5"
+      },
+      "volume": "12"
+    },
+    "102": {
+      "title": "A Long Farewell",
+      "last_updated": "1762929953",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/agyvx8q8978"
+      },
+      "volume": "12"
+    },
+    "103": {
+      "title": "Look for Helenka",
+      "last_updated": "1762929975",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/dl7pamem67o"
+      },
+      "volume": "12"
+    },
+    "104": {
+      "title": "The People Left Behind",
+      "last_updated": "1762930005",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/wl7lajgjpyx"
+      },
+      "volume": "12"
+    },
+    "96": {
+      "title": "A Long Vacation",
+      "last_updated": "1762930021",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/pg73dxgxzyr"
+      },
+      "volume": "12"
+    },
+    "97": {
+      "title": "The Detective Boys",
+      "last_updated": "1762930041",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/n87w95dozyx"
+      },
+      "volume": "12"
+    },
+    "98": {
+      "title": "The Most Cruel Thing",
+      "last_updated": "1762930061",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/lqyed52b37d"
+      },
+      "volume": "12"
+    },
+    "99": {
+      "title": "The Border Town",
+      "last_updated": "1762930081",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qb4z5veo34j"
+      },
+      "volume": "12"
+    },
+    "105": {
+      "title": "A Monster's Love Letter",
+      "last_updated": "1762930112",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mbp92y5"
+      },
+      "volume": "13"
+    },
+    "106": {
+      "title": "Jailbreaker",
+      "last_updated": "1762930138",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/m9yx9aro3yq"
+      },
+      "volume": "13"
+    },
+    "107": {
+      "title": "Lawyer",
+      "last_updated": "1762930159",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/92492bwq2yn"
+      },
+      "volume": "13"
+    },
+    "108": {
+      "title": "Witness",
+      "last_updated": "1762930181",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/vj4je2kb278"
+      },
+      "volume": "13"
+    },
+    "109": {
+      "title": "Determination",
+      "last_updated": "1762930202",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/wl7lajgbqyx"
+      },
+      "volume": "13"
+    },
+    "110": {
+      "title": "Muddy Sandwiches",
+      "last_updated": "1762930228",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3xon72"
+      },
+      "volume": "13"
+    },
+    "111": {
+      "title": "Helene and Gustaf",
+      "last_updated": "1762930251",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/6eyraw9jg4p"
+      },
+      "volume": "13"
+    },
+    "112": {
+      "title": "Escape",
+      "last_updated": "1762930271",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/pg73dxgnjyr"
+      },
+      "volume": "13"
+    },
+    "113": {
+      "title": "Room 402",
+      "last_updated": "1762930292",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qe4gm6jgj4j"
+      },
+      "volume": "13"
+    },
+    "114": {
+      "title": "Son of a Spy",
+      "last_updated": "1762930312",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mbplqy5"
+      },
+      "volume": "14"
+    },
+    "115": {
+      "title": "A Neverending Journey",
+      "last_updated": "1762930333",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/a8463bwjo4x"
+      },
+      "volume": "14"
+    },
+    "116": {
+      "title": "Puppeteer",
+      "last_updated": "1762930355",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/m9yx9arwqyq"
+      },
+      "volume": "14"
+    },
+    "117": {
+      "title": "The Seminar  Children",
+      "last_updated": "1762930379",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/92492bwrmyn"
+      },
+      "volume": "14"
+    },
+    "118": {
+      "title": "That Night",
+      "last_updated": "1762930404",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/md7oarwnryp"
+      },
+      "volume": "14"
+    },
+    "119": {
+      "title": "What Johan Saw",
+      "last_updated": "1762930425",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/vj4je2kax78"
+      },
+      "volume": "14"
+    },
+    "120": {
+      "title": "Fond Memories",
+      "last_updated": "1762930445",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/6eyraw9eg4p"
+      },
+      "volume": "14"
+    },
+    "121": {
+      "title": "An Unpleasant Job",
+      "last_updated": "1762930467",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ej7maqwdn7d"
+      },
+      "volume": "14"
+    },
+    "122": {
+      "title": "Hideous Necktie",
+      "last_updated": "1762930494",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/pg73dxgejyr"
+      },
+      "volume": "14"
+    },
+    "123": {
+      "title": "The Party Is Over",
+      "last_updated": "1762930522",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/n87w95dagyx"
+      },
+      "volume": "15"
+    },
+    "124": {
+      "title": "The Man Who Saw a Demon",
+      "last_updated": "1762930544",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/xny8ekva5yb"
+      },
+      "volume": "15"
+    },
+    "125": {
+      "title": "The Demon's  Friend",
+      "last_updated": "1762930565",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/agyvx8q5j78"
+      },
+      "volume": "15"
+    },
+    "126": {
+      "title": "The Man Who Knew Too Much",
+      "last_updated": "1762930586",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ne7blzdajy5"
+      },
+      "volume": "15"
+    },
+    "127": {
+      "title": "A Sorrowful  Reunion",
+      "last_updated": "1762930607",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/md7oarwmryp"
+      },
+      "volume": "15"
+    },
+    "128": {
+      "title": "Nina's Memories",
+      "last_updated": "1762930628",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3xwn72"
+      },
+      "volume": "15"
+    },
+    "129": {
+      "title": "Memories of the Seminar",
+      "last_updated": "1762930650",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/6eyraw9qg4p"
+      },
+      "volume": "15"
+    },
+    "130": {
+      "title": "The Door to Memory",
+      "last_updated": "1762930675",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qb4z5vegd4j"
+      },
+      "volume": "15"
+    },
+    "131": {
+      "title": "A Fun Meal",
+      "last_updated": "1762930696",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mbpwqy5"
+      },
+      "volume": "15"
+    },
+    "132": {
+      "title": "Over the Roofs",
+      "last_updated": "1762930717",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/agyvx8q3j78"
+      },
+      "volume": "16"
+    },
+    "133": {
+      "title": "A Friendly  Answer",
+      "last_updated": "1762930737",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/dl7pamelp7o"
+      },
+      "volume": "16"
+    },
+    "134": {
+      "title": "Taxi Driver",
+      "last_updated": "1762930758",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/md7oarw2ryp"
+      },
+      "volume": "16"
+    },
+    "135": {
+      "title": "Unrelated Murders",
+      "last_updated": "1762930778",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/wl7lajgnqyx"
+      },
+      "volume": "16"
+    },
+    "136": {
+      "title": "The Baby's Depression",
+      "last_updated": "1762930800",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/vj4je2kxx78"
+      },
+      "volume": "16"
+    },
+    "137": {
+      "title": "Frightening Footsteps",
+      "last_updated": "1762930821",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3xjn72"
+      },
+      "volume": "16"
+    },
+    "138": {
+      "title": "Johan's Footprints",
+      "last_updated": "1762930843",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9rydq8mvl4k"
+      },
+      "volume": "16"
+    },
+    "139": {
+      "title": "Massacre",
+      "last_updated": "1762930866",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/6eyraw9pg4p"
+      },
+      "volume": "16"
+    },
+    "140": {
+      "title": "Father and Mother",
+      "last_updated": "1762930891",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ej7maqwgn7d"
+      },
+      "volume": "16"
+    },
+    "141": {
+      "title": "Welcome Back",
+      "last_updated": "1762930919",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/pg73dxgzjyr"
+      },
+      "volume": "16"
+    },
+    "142": {
+      "title": "I'm Home",
+      "last_updated": "1762930947",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qb4z5vead4j"
+      },
+      "volume": "17"
+    },
+    "143": {
+      "title": "Where to Go",
+      "last_updated": "1762930970",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/xny8ekvb5yb"
+      },
+      "volume": "17"
+    },
+    "144": {
+      "title": "Ruhenheim",
+      "last_updated": "1762930991",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mbpaqy5"
+      },
+      "volume": "17"
+    },
+    "145": {
+      "title": "A Quiet Gunshot",
+      "last_updated": "1762931012",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/a8463bwvo4x"
+      },
+      "volume": "17"
+    },
+    "146": {
+      "title": "The Vampire's House",
+      "last_updated": "1762931033",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/m9yx9arzqyq"
+      },
+      "volume": "17"
+    },
+    "147": {
+      "title": "A Paranoid Town",
+      "last_updated": "1762931054",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/92492bwomyn"
+      },
+      "volume": "17"
+    },
+    "148": {
+      "title": "The Perfect Suicide",
+      "last_updated": "1762931075",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ne7blzd8jy5"
+      },
+      "volume": "17"
+    },
+    "149": {
+      "title": "The Peaceful Home",
+      "last_updated": "1762931096",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/dl7pamexp7o"
+      },
+      "volume": "17"
+    },
+    "150": {
+      "title": "Town Bloodbath",
+      "last_updated": "1762931119",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/md7oarw6ryp"
+      },
+      "volume": "17"
+    },
+    "151": {
+      "title": "Memories I Don't Want to Forget",
+      "last_updated": "1762931140",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/5xy2qvaw9yl"
+      },
+      "volume": "17"
+    },
+    "152": {
+      "title": "A Fictitious Man",
+      "last_updated": "1762931162",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/vj4je2krx78"
+      },
+      "volume": "18"
+    },
+    "153": {
+      "title": "The Vacation is Over",
+      "last_updated": "1762931184",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3xnn72"
+      },
+      "volume": "18"
+    },
+    "154": {
+      "title": "Grimmer's Scream",
+      "last_updated": "1762931206",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/5xy2qv8zzyl"
+      },
+      "volume": "18"
+    },
+    "155": {
+      "title": "The Magnificent Steiner's Rage",
+      "last_updated": "1762931227",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3rgd72"
+      },
+      "volume": "18"
+    },
+    "156": {
+      "title": "A Nameless Man",
+      "last_updated": "1762931248",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9rydq86la4k"
+      },
+      "volume": "18"
+    },
+    "157": {
+      "title": "An Undrawable Picture",
+      "last_updated": "1762931271",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/6eyrawmrx4p"
+      },
+      "volume": "18"
+    },
+    "158": {
+      "title": "Don't Cry",
+      "last_updated": "1762931292",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/pg73dx5kgyr"
+      },
+      "volume": "18"
+    },
+    "159": {
+      "title": "Scenery of the Doomsday",
+      "last_updated": "1762931314",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/lqyed5gjm7d"
+      },
+      "volume": "18"
+    },
+    "160": {
+      "title": "Those Who Live",
+      "last_updated": "1762931337",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qb4z5v8654j"
+      },
+      "volume": "18"
+    },
+    "161": {
+      "title": "Tomorrow Will Come",
+      "last_updated": "1762931358",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qe4gm65vq4j"
+      },
+      "volume": "18"
+    },
+    "162": {
+      "title": "The Real Monster",
+      "last_updated": "1762931389",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/xny8ek5p2yb"
+      },
+      "volume": "18"
+    },
+    "10": {
+      "title": "Prince on a White Horse.cbz",
+      "last_updated": "1762931415",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/o24a2e8xd7l"
+      },
+      "volume": "2"
+    },
+    "11": {
+      "title": "Reported disappearance.cbz",
+      "last_updated": "1762931445",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/m9yx9a8xpyq"
+      },
+      "volume": "2"
+    },
+    "12": {
+      "title": "Surprise party.cbz",
+      "last_updated": "1762931473",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9p4nvdjgbyn"
+      },
+      "volume": "2"
+    },
+    "13": {
+      "title": "Mansion of tragedy.cbz",
+      "last_updated": "1762931501",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ne7blzkgmy5"
+      },
+      "volume": "2"
+    },
+    "14": {
+      "title": "It's Not Your Fault.cbz",
+      "last_updated": "1762931528",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/dl7pamdg37o"
+      },
+      "volume": "2"
+    },
+    "15": {
+      "title": "Being chased.cbz",
+      "last_updated": "1762931557",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/na7kalvx348"
+      },
+      "volume": "2"
+    },
+    "16": {
+      "title": "The Ex-Soldier and the Little Girl.cbz",
+      "last_updated": "1762931598",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/5xy2qv8pzyl"
+      },
+      "volume": "2"
+    },
+    "9": {
+      "title": "The Girl from Heidelberg.cbz",
+      "last_updated": "1762931625",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3r9d72"
+      },
+      "volume": "2"
+    },
+    "17": {
+      "title": "An Erased past.cbz",
+      "last_updated": "1762931657",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9rydq865a4k"
+      },
+      "volume": "3"
+    },
+    "18": {
+      "title": "Lawyer's Law.cbz",
+      "last_updated": "1762931684",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/pg73dx59gyr"
+      },
+      "volume": "3"
+    },
+    "19": {
+      "title": "511 Kinderheim.cbz",
+      "last_updated": "1762931710",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/n87w95x6xyx"
+      },
+      "volume": "3"
+    },
+    "20": {
+      "title": "Chapter 20.cbz",
+      "last_updated": "1762931735",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/lqyed5g3m7d"
+      },
+      "volume": "3"
+    },
+    "21": {
+      "title": "A Meager Experiment.cbz",
+      "last_updated": "1762931768",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qb4z5v8954j"
+      },
+      "volume": "3"
+    },
+    "22": {
+      "title": "Petra and Schumann.cbz",
+      "last_updated": "1762931795",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mb5xny5"
+      },
+      "volume": "3"
+    },
+    "23": {
+      "title": "Petra and Heinz.cbz",
+      "last_updated": "1762931822",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/92492bpzbyn"
+      },
+      "volume": "3"
+    },
+    "24": {
+      "title": "The Only Man Left.cbz",
+      "last_updated": "1762931849",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ne7blzkwmy5"
+      },
+      "volume": "3"
+    },
+    "25": {
+      "title": "An Abandoned Woman.cbz",
+      "last_updated": "1762931875",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/dl7pamdj37o"
+      },
+      "volume": "4"
+    },
+    "26": {
+      "title": "Be My Baby.cbz",
+      "last_updated": "1762931902",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/na7kalvz348"
+      },
+      "volume": "4"
+    },
+    "27": {
+      "title": "Professor Geidlitz.cbz",
+      "last_updated": "1762931929",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/5xy2qv8ezyl"
+      },
+      "volume": "4"
+    },
+    "28": {
+      "title": "Ayse's Friend.cbz",
+      "last_updated": "1762931956",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/wl7laj2kxyx"
+      },
+      "volume": "4"
+    },
+    "29": {
+      "title": "Wolf's Confession.cbz",
+      "last_updated": "1762931982",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/vj4je2g3378"
+      },
+      "volume": "4"
+    },
+    "30": {
+      "title": "Main Dish.cbz",
+      "last_updated": "1762932007",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9rydq86za4k"
+      },
+      "volume": "4"
+    },
+    "31": {
+      "title": "Reunion.cbz",
+      "last_updated": "1762932036",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/pg73dx5pgyr"
+      },
+      "volume": "4"
+    },
+    "32": {
+      "title": "The Fifth Spoon- ful of Sugar.cbz",
+      "last_updated": "1762932076",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/n87w95xvxyx"
+      },
+      "volume": "4"
+    },
+    "33": {
+      "title": "The Monster's Abyss",
+      "last_updated": "1762932105",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qe4gm65lq4j"
+      },
+      "volume": "5"
+    },
+    "34": {
+      "title": "Jurgens' Storage Room",
+      "last_updated": "1762932129",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/o24a2e8gd7l"
+      },
+      "volume": "5"
+    },
+    "35": {
+      "title": "After the Carnival",
+      "last_updated": "1762932148",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/a8463b5xz4x"
+      },
+      "volume": "5"
+    },
+    "36": {
+      "title": "Journey to Freiham",
+      "last_updated": "1762932170",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/m9yx9a8vpyq"
+      },
+      "volume": "5"
+    },
+    "37": {
+      "title": "A Wonderful Holiday",
+      "last_updated": "1762932193",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/92492bpabyn"
+      },
+      "volume": "5"
+    },
+    "38": {
+      "title": "Revenge at Gunpoint",
+      "last_updated": "1762932214",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9p4nvdj2byn"
+      },
+      "volume": "5"
+    },
+    "39": {
+      "title": "Tomorrow Will be Sunny",
+      "last_updated": "1762932237",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ne7blzkpmy5"
+      },
+      "volume": "5"
+    },
+    "40": {
+      "title": "Lunge's Expectations",
+      "last_updated": "1762932258",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/dl7pamdq37o"
+      },
+      "volume": "5"
+    },
+    "41": {
+      "title": "Lunge's Trap",
+      "last_updated": "1762932279",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/md7oarql2yp"
+      },
+      "volume": "5"
+    },
+    "42": {
+      "title": "Showdown",
+      "last_updated": "1762932299",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/wl7laj2mxyx"
+      },
+      "volume": "6"
+    },
+    "43": {
+      "title": "The end of her fall",
+      "last_updated": "1762932322",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/vj4je2gw378"
+      },
+      "volume": "6"
+    },
+    "44": {
+      "title": "Eva's Confession",
+      "last_updated": "1762932343",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3rdd72"
+      },
+      "volume": "6"
+    },
+    "45": {
+      "title": "The Men's Dining Table",
+      "last_updated": "1762932362",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/6eyrawmdx4p"
+      },
+      "volume": "6"
+    },
+    "46": {
+      "title": "Unseen  Enemies",
+      "last_updated": "1762932384",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/n87w95xrxyx"
+      },
+      "volume": "6"
+    },
+    "47": {
+      "title": "The Tuesday Boy",
+      "last_updated": "1762932410",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qe4gm65rq4j"
+      },
+      "volume": "6"
+    },
+    "48": {
+      "title": "The Thursday Boy",
+      "last_updated": "1762932435",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/o24a2e8kd7l"
+      },
+      "volume": "6"
+    },
+    "49": {
+      "title": "The Leftover Mystery",
+      "last_updated": "1762932454",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/a8463b5gz4x"
+      },
+      "volume": "6"
+    },
+    "50": {
+      "title": "The Secret Woods",
+      "last_updated": "1762932486",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9p4nvdjlbyn"
+      },
+      "volume": "6"
+    },
+    "51": {
+      "title": "Richard",
+      "last_updated": "1762932508",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/md7oarqj2yp"
+      },
+      "volume": "7"
+    },
+    "52": {
+      "title": "Article of Evidence",
+      "last_updated": "1762932530",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/5xy2qv83zyl"
+      },
+      "volume": "7"
+    },
+    "53": {
+      "title": "In Broad Daylight",
+      "last_updated": "1762932550",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/wl7laj2rxyx"
+      },
+      "volume": "7"
+    },
+    "54": {
+      "title": "Just One Case",
+      "last_updated": "1762932571",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/vj4je2gv378"
+      },
+      "volume": "7"
+    },
+    "55": {
+      "title": "Johan's Journey",
+      "last_updated": "1762932592",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/5xy2qv833yl"
+      },
+      "volume": "7"
+    },
+    "56": {
+      "title": "Execution",
+      "last_updated": "1762932614",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3rzx72"
+      },
+      "volume": "7"
+    },
+    "57": {
+      "title": "A Decision",
+      "last_updated": "1762932633",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9rydq86a64k"
+      },
+      "volume": "7"
+    },
+    "58": {
+      "title": "Reichwein's Days",
+      "last_updated": "1762932653",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ej7maqlka7d"
+      },
+      "volume": "7"
+    },
+    "59": {
+      "title": "Into  Broad Daylight",
+      "last_updated": "1762932674",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/qb4z5v8jl4j"
+      },
+      "volume": "7"
+    },
+    "60": {
+      "title": "Show Me Proof",
+      "last_updated": "1762932694",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/xny8ek5owyb"
+      },
+      "volume": "8"
+    },
+    "61": {
+      "title": "After the Party",
+      "last_updated": "1762932716",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/o24a2e8ve7l"
+      },
+      "volume": "8"
+    },
+    "62": {
+      "title": "Holy Ground",
+      "last_updated": "1762932737",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/m9yx9a826yq"
+      },
+      "volume": "8"
+    },
+    "63": {
+      "title": "Child's Sight",
+      "last_updated": "1762932757",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/92492bpg8yn"
+      },
+      "volume": "8"
+    },
+    "64": {
+      "title": "Fortune of Humanity",
+      "last_updated": "1762932777",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/na7kalvdw48"
+      },
+      "volume": "8"
+    },
+    "65": {
+      "title": "At the End of Darkness",
+      "last_updated": "1762932798",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/5xy2qv8b3yl"
+      },
+      "volume": "8"
+    },
+    "66": {
+      "title": "Aim for  the Light",
+      "last_updated": "1762932817",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/wl7laj233yx"
+      },
+      "volume": "8"
+    },
+    "67": {
+      "title": "I Am Tenma",
+      "last_updated": "1762932837",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3r8x72"
+      },
+      "volume": "8"
+    },
+    "68": {
+      "title": "My Nameless Hero",
+      "last_updated": "1762932867",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/6eyrawmxl4p"
+      },
+      "volume": "8"
+    },
+    "69": {
+      "title": "A Greater Monster",
+      "last_updated": "1762932894",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/lqyed5gqz7d"
+      },
+      "volume": "9"
+    },
+    "70": {
+      "title": "A Monster of Chaos",
+      "last_updated": "1762932910",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/xny8ek5qwyb"
+      },
+      "volume": "9"
+    },
+    "71": {
+      "title": "A Nameless Monster",
+      "last_updated": "1762932935",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mb52vy5"
+      },
+      "volume": "9"
+    },
+    "72": {
+      "title": "Feast of the  Ants",
+      "last_updated": "1762932955",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/o24a2e8ae7l"
+      },
+      "volume": "9"
+    },
+    "73": {
+      "title": "The Demon in My Eyes",
+      "last_updated": "1762932974",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/92492bpd8yn"
+      },
+      "volume": "9"
+    },
+    "74": {
+      "title": "Letter From Mother",
+      "last_updated": "1762932995",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/md7oarq9lyp"
+      },
+      "volume": "9"
+    },
+    "75": {
+      "title": "Traces of Heart",
+      "last_updated": "1762933014",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/na7kalvow48"
+      },
+      "volume": "9"
+    },
+    "76": {
+      "title": "The Hell in His Eyes",
+      "last_updated": "1762933034",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/ljyqa3rvx72"
+      },
+      "volume": "9"
+    },
+    "77": {
+      "title": "Frogs in a Fairy- Tale Land",
+      "last_updated": "1762933053",
+      "groups": {
+        "The Perfect Edition": "/proxy/api/imgchest/chapter/9rydq86x64k"
+      },
+      "volume": "9"
+    }
+  }
+}
