@@ -5,7 +5,7 @@
   "author": "Hideo Yamamoto",
   "cover": "https://mangadex.org/covers/231d5196-1f41-4eba-af8d-841d40bc548d/635cda52-8fbb-4536-bd0b-5ea2fa9b1fa8.jpg",
   "chapters": {
-    "0.1": {
+    "1": {
       "title": "Volume 1",
       "last_updated": "1762850114",
       "groups": {
@@ -13,77 +13,77 @@
       },
       "volume": "1"
     },
-    "0": {
+    "2": {
       "title": "Volume 2",
       "last_updated": "1762850618",
       "groups": {
         "Omnibus": "/proxy/api/imgchest/chapter/a8463njn24x"
       },
-      "volume": "2"
+      "volume": "1"
     },
-    "0": {
+    "3": {
       "title": "Volume 3",
       "last_updated": "1762850963",
       "groups": {
         "Omnibus": "/proxy/api/imgchest/chapter/vj4jepab978"
       },
-      "volume": "3"
+      "volume": "2"
     },
-    "0": {
+    "4": {
       "title": "Volume 4",
       "last_updated": "1762851310",
       "groups": {
         "Omnibus": "/proxy/api/imgchest/chapter/md7oapnnlyp"
       },
-      "volume": "4"
+      "volume": "2"
     },
-    "0": {
+    "5": {
       "title": "Volume 5",
       "last_updated": "1762851657",
       "groups": {
         "Omnibus": "/proxy/api/imgchest/chapter/md7oapnmlyp"
       },
-      "volume": "5"
+      "volume": "3"
     },
-    "0": {
+    "6": {
       "title": "Volume 6",
       "last_updated": "1762852020",
       "groups": {
         "Omnibus": "/proxy/api/imgchest/chapter/lqyedkexk7d"
       },
-      "volume": "6"
+      "volume": "3"
     },
-    "0": {
+    "7": {
       "title": "Volume 7",
       "last_updated": "1762852370",
       "groups": {
         "Omnibus": "/proxy/api/imgchest/chapter/n87w9p3kbyx"
       },
-      "volume": "7"
+      "volume": "4"
     },
-    "0": {
+    "8": {
       "title": "Volume 8",
       "last_updated": "1762852715",
       "groups": {
         "Omnibus": "/proxy/api/imgchest/chapter/vj4jepare78"
       },
-      "volume": "8"
+      "volume": "4"
     },
-    "0": {
+    "9": {
       "title": "Volume 9",
       "last_updated": "1762853472",
       "groups": {
         "Omnibus": "/proxy/api/imgchest/chapter/5xy2q5kp8yl"
       },
-      "volume": "9"
+      "volume": "5"
     },
-    "0": {
+    "10": {
       "title": "Volume 10",
       "last_updated": "1762853108",
       "groups": {
         "Omnibus": "/proxy/api/imgchest/chapter/agyvxp5zz78"
       },
-      "volume": "10"
+      "volume": "5"
     }
   }
 }
