@@ -253,6 +253,14 @@
       },
       "volume": "003"
     },
+    "0032": {
+      "title": "Man in Bangkok",
+      "last_updated": "1761039039",
+      "groups": {
+        "Scan-HQ": "/proxy/api/imgchest/chapter/o24a28nld7l"
+      },
+      "volume": "003"
+    },
     "0033": {
       "title": "Friendship Party",
       "last_updated": "1761039008",
@@ -268,14 +276,6 @@
         "Scan-HQ": "/proxy/api/imgchest/chapter/bp45m56rny5"
       },
       "volume": "003"
-    },
-    "0032": {
-      "title": "Man in Bangkok",
-      "last_updated": "1761039039",
-      "groups": {
-        "Scan-HQ": "/proxy/api/imgchest/chapter/o24a28nld7l"
-      },
-      "volume": "004"
     },
     "0035": {
       "title": "Connections",
