@@ -6,7 +6,7 @@
   "cover": "https://mangadex.org/covers/d9e30523-9d65-469e-92a2-302995770950/a397b3d3-d7b3-413f-8d6a-f2b136a4b4e2.jpg",
   "chapters": {
     "1": {
-      "title": "Herr Doctor Tenma",
+      "title": "Herr Dr. Tenma",
       "last_updated": "1762929325",
       "groups": {
         "The Perfect Edition": "/proxy/api/imgchest/chapter/bp45mbpr2y5"
@@ -22,7 +22,7 @@
       "volume": "1"
     },
     "3": {
-      "title": "Downfall",
+      "title": "The Fall",
       "last_updated": "1762929380",
       "groups": {
         "The Perfect Edition": "/proxy/api/imgchest/chapter/m9yx9arb3yq"
@@ -38,7 +38,7 @@
       "volume": "1"
     },
     "5": {
-      "title": "A Case of Murder",
+      "title": "Murder",
       "last_updated": "1762929433",
       "groups": {
         "The Perfect Edition": "/proxy/api/imgchest/chapter/dl7pameb67o"
