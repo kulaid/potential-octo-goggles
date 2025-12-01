@@ -1,0 +1,2769 @@
+{
+  "title": "Berserk",
+  "description": "Guts, known as the Black Swordsman, seeks sanctuary from the demonic forces attracted to him and his woman because of a demonic mark on their necks, and also vengeance against the man who branded him as an unholy sacrifice. Aided only by his titanic strength gained from a harsh childhood lived with mercenaries, a gigantic sword, and an iron prosthetic left hand, Guts must struggle against his bleak destiny, all the while fighting with a rage that might strip him of his humanity.",
+  "artist": "Kentaro Miura",
+  "author": "Kentaro Miura",
+  "cover": "https://mangadex.org/covers/801513ba-a712-498c-8f57-cae55b38cc92/89f73b2f-f857-40d1-a0a7-150d78aab26d.jpg.512.jpg",
+  "chapters": {
+    "50": {
+      "title": "Infiltrating Windham (2)",
+      "last_updated": "1764581069",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8lvx75"
+      },
+      "volume": "10"
+    },
+    "49": {
+      "title": "Infiltrating Windham (1)",
+      "last_updated": "1764581075",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3zbgyj"
+      },
+      "volume": "10"
+    },
+    "48": {
+      "title": "Sparks from a Sword Tip",
+      "last_updated": "1764581081",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zdnp4b"
+      },
+      "volume": "10"
+    },
+    "52": {
+      "title": "Festival's Eve (2)",
+      "last_updated": "1764581093",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnvwpm7q"
+      },
+      "volume": "10"
+    },
+    "53": {
+      "title": "Thousand-Year Fiefdom",
+      "last_updated": "1764581099",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz29ow4n"
+      },
+      "volume": "10"
+    },
+    "51": {
+      "title": "Festival's Eve (1)",
+      "last_updated": "1764581099",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn6kpw48"
+      },
+      "volume": "10"
+    },
+    "54": {
+      "title": "Reunion in the Abyss",
+      "last_updated": "1764581112",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkr6lk78"
+      },
+      "volume": "10"
+    },
+    "55": {
+      "title": "A Way Through",
+      "last_updated": "1764581121",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846oxj2g4x"
+      },
+      "volume": "10"
+    },
+    "56": {
+      "title": "Bakiraka (1)",
+      "last_updated": "1764581124",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn6kow48"
+      },
+      "volume": "10"
+    },
+    "57": {
+      "title": "Bakiraka (2)",
+      "last_updated": "1764581137",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pmbky5"
+      },
+      "volume": "10"
+    },
+    "58": {
+      "title": "Flower of the Stone Castle",
+      "last_updated": "1764581144",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq2o8yo"
+      },
+      "volume": "10"
+    },
+    "59": {
+      "title": "Devil Dogs (1)",
+      "last_updated": "1764581148",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblnoa4p"
+      },
+      "volume": "11"
+    },
+    "60": {
+      "title": "Devil Dogs (2)",
+      "last_updated": "1764581156",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkr6bk78"
+      },
+      "volume": "11"
+    },
+    "61": {
+      "title": "Devil Dogs (3)",
+      "last_updated": "1764581162",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oe96n4l"
+      },
+      "volume": "11"
+    },
+    "62": {
+      "title": "Devil Dogs (4)",
+      "last_updated": "1764581167",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkvb64x"
+      },
+      "volume": "11"
+    },
+    "63": {
+      "title": "Roar of the Wild Beast",
+      "last_updated": "1764581180",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqloey2"
+      },
+      "volume": "11"
+    },
+    "64": {
+      "title": "Forest of Tragedy",
+      "last_updated": "1764581184",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zwbd4k"
+      },
+      "volume": "11"
+    },
+    "65": {
+      "title": "Mortal Combat (1)",
+      "last_updated": "1764581186",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7menxoqyd"
+      },
+      "volume": "11"
+    },
+    "66": {
+      "title": "Mortal Combat (2)",
+      "last_updated": "1764581202",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opnvv7r"
+      },
+      "volume": "11"
+    },
+    "67": {
+      "title": "Armour to the Heart",
+      "last_updated": "1764581202",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnv3o37x"
+      },
+      "volume": "11"
+    },
+    "68": {
+      "title": "The Flying One",
+      "last_updated": "1764581207",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvebx4d"
+      },
+      "volume": "11"
+    },
+    "69": {
+      "title": "The Immortal Once Again",
+      "last_updated": "1764581230",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlgbo7j"
+      },
+      "volume": "11"
+    },
+    "70": {
+      "title": "Requiem of the Wind",
+      "last_updated": "1764581232",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zddp4b"
+      },
+      "volume": "12"
+    },
+    "71": {
+      "title": "The Warriors of Twilight",
+      "last_updated": "1764581232",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8llx75"
+      },
+      "volume": "12"
+    },
+    "72": {
+      "title": "Back Alley Boy",
+      "last_updated": "1764581249",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6grrgyl"
+      },
+      "volume": "12"
+    },
+    "74": {
+      "title": "The Promised Time",
+      "last_updated": "1764581259",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846oxjjg4x"
+      },
+      "volume": "12"
+    },
+    "73": {
+      "title": "Eclipse",
+      "last_updated": "1764581266",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn6kkw48"
+      },
+      "volume": "12"
+    },
+    "75": {
+      "title": "Advent",
+      "last_updated": "1764581271",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz299w4n"
+      },
+      "volume": "12"
+    },
+    "76": {
+      "title": "The Inhuman Host",
+      "last_updated": "1764581279",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pmmky5"
+      },
+      "volume": "12"
+    },
+    "1": {
+      "title": "Swords Wind",
+      "last_updated": "1764583198",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq35jyo"
+      },
+      "volume": "5"
+    },
+    "77": {
+      "title": "The Castle",
+      "last_updated": "1764581288",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq228yo"
+      },
+      "volume": "12"
+    },
+    "78": {
+      "title": "Parting",
+      "last_updated": "1764581290",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblnna4p"
+      },
+      "volume": "12"
+    },
+    "79": {
+      "title": "The Feast",
+      "last_updated": "1764581303",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkr66k78"
+      },
+      "volume": "12"
+    },
+    "80": {
+      "title": "Storm of Death (1)",
+      "last_updated": "1764581308",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oe99n4l"
+      },
+      "volume": "13"
+    },
+    "81": {
+      "title": "Storm of Death (2)",
+      "last_updated": "1764581310",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkvv64x"
+      },
+      "volume": "13"
+    },
+    "82": {
+      "title": "God of the Abyss",
+      "last_updated": "1764581312",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3aa548"
+      },
+      "volume": "13"
+    },
+    "84": {
+      "title": "Lifeblood",
+      "last_updated": "1764581320",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqlley2"
+      },
+      "volume": "13"
+    },
+    "85": {
+      "title": "Quickening",
+      "last_updated": "1764581330",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oe99j4l"
+      },
+      "volume": "13"
+    },
+    "86": {
+      "title": "Birth",
+      "last_updated": "1764581337",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkvvp4x"
+      },
+      "volume": "13"
+    },
+    "87": {
+      "title": "Afterglow of the Right Eye",
+      "last_updated": "1764581338",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3aa248"
+      },
+      "volume": "13"
+    },
+    "88": {
+      "title": "Escape",
+      "last_updated": "1764581339",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqlloy2"
+      },
+      "volume": "13"
+    },
+    "89": {
+      "title": "Awakening to a Nightmare",
+      "last_updated": "1764581347",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7menxxbyd"
+      },
+      "volume": "13"
+    },
+    "90": {
+      "title": "The Sprint",
+      "last_updated": "1764581359",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnv3az7x"
+      },
+      "volume": "13"
+    },
+    "91": {
+      "title": "Vow of Retaliation",
+      "last_updated": "1764581363",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3zx3yj"
+      },
+      "volume": "13"
+    },
+    "93": {
+      "title": "Armament",
+      "last_updated": "1764581372",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlgnr7j"
+      },
+      "volume": "14"
+    },
+    "92": {
+      "title": "Demon Infant",
+      "last_updated": "1764581372",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvex34d"
+      },
+      "volume": "14"
+    },
+    "94": {
+      "title": "He Who Hunts Dragons",
+      "last_updated": "1764581385",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zdao4b"
+      },
+      "volume": "14"
+    },
+    "96": {
+      "title": "The Elves of Misty Valley",
+      "last_updated": "1764581390",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6gr53yl"
+      },
+      "volume": "14"
+    },
+    "95": {
+      "title": "The Black Swordsman, Once More",
+      "last_updated": "1764581396",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8lg275"
+      },
+      "volume": "14"
+    },
+    "97": {
+      "title": "Jill",
+      "last_updated": "1764581397",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846oxj8w4x"
+      },
+      "volume": "14"
+    },
+    "98": {
+      "title": "By Air",
+      "last_updated": "1764581403",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnvw637q"
+      },
+      "volume": "14"
+    },
+    "101": {
+      "title": "Elf Fire",
+      "last_updated": "1764581416",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq236yo"
+      },
+      "volume": "15"
+    },
+    "100": {
+      "title": "Queen",
+      "last_updated": "1764581423",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pmany5"
+      },
+      "volume": "15"
+    },
+    "102": {
+      "title": "Red-Eyed Peekaf",
+      "last_updated": "1764581426",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblnmd4p"
+      },
+      "volume": "15"
+    },
+    "103": {
+      "title": "The Recollected Girl",
+      "last_updated": "1764581436",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oe9kj4l"
+      },
+      "volume": "15"
+    },
+    "104": {
+      "title": "The World of Winged Things",
+      "last_updated": "1764581442",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkvqp4x"
+      },
+      "volume": "15"
+    },
+    "105": {
+      "title": "Guardians (1)",
+      "last_updated": "1764581451",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqlwoy2"
+      },
+      "volume": "15"
+    },
+    "106": {
+      "title": "Guardians (2)",
+      "last_updated": "1764581456",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2jee7p"
+      },
+      "volume": "15"
+    },
+    "107": {
+      "title": "Pursuers",
+      "last_updated": "1764581461",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opnez7r"
+      },
+      "volume": "15"
+    },
+    "99": {
+      "title": "Elf Bugs",
+      "last_updated": "1764581462",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249kar62yn"
+      },
+      "volume": "14"
+    },
+    "108": {
+      "title": "The Misty Valley (1)",
+      "last_updated": "1764581470",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnv3kz7x"
+      },
+      "volume": "15"
+    },
+    "109": {
+      "title": "The Misty Valley (2)",
+      "last_updated": "1764581475",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelve834d"
+      },
+      "volume": "15"
+    },
+    "110": {
+      "title": "Cocoons",
+      "last_updated": "1764581486",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3zg3yj"
+      },
+      "volume": "15"
+    },
+    "112": {
+      "title": "Sky Demon",
+      "last_updated": "1764581488",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zdgo4b"
+      },
+      "volume": "16"
+    },
+    "111": {
+      "title": "Monster",
+      "last_updated": "1764581489",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlgar7j"
+      },
+      "volume": "16"
+    },
+    "113": {
+      "title": "A Bloody Night Sky",
+      "last_updated": "1764581495",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8lw275"
+      },
+      "volume": "16"
+    },
+    "114": {
+      "title": "The Space Between Demon and Man",
+      "last_updated": "1764581506",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846oxjew4x"
+      },
+      "volume": "16"
+    },
+    "116": {
+      "title": "The Way Home",
+      "last_updated": "1764581511",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnvwe37q"
+      },
+      "volume": "16"
+    },
+    "115": {
+      "title": "Firefly",
+      "last_updated": "1764581513",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn6k3948"
+      },
+      "volume": "16"
+    },
+    "117": {
+      "title": "Blue Sky Elf",
+      "last_updated": "1764581519",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249kar82yn"
+      },
+      "volume": "16"
+    },
+    "118": {
+      "title": "The Beast of Darkness",
+      "last_updated": "1764581529",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz29pz4n"
+      },
+      "volume": "16"
+    },
+    "119": {
+      "title": "The Holy Iron Chain Knights (1)",
+      "last_updated": "1764581532",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pmeny5"
+      },
+      "volume": "16"
+    },
+    "120": {
+      "title": "The Holy Iron Chain Knights (2)",
+      "last_updated": "1764581534",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7obln2d4p"
+      },
+      "volume": "16"
+    },
+    "121": {
+      "title": "The Hollow Idol",
+      "last_updated": "1764581542",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oe9rj4l"
+      },
+      "volume": "16"
+    },
+    "123": {
+      "title": "Night of Miracles",
+      "last_updated": "1764581551",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3ax248"
+      },
+      "volume": "17"
+    },
+    "122": {
+      "title": "The Unseen",
+      "last_updated": "1764581554",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkvnp4x"
+      },
+      "volume": "17"
+    },
+    "124": {
+      "title": "Past and Future",
+      "last_updated": "1764581555",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqljoy2"
+      },
+      "volume": "17"
+    },
+    "125": {
+      "title": "Morning of Truth",
+      "last_updated": "1764581564",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zwgw4k"
+      },
+      "volume": "17"
+    },
+    "126": {
+      "title": "Revelations (1)",
+      "last_updated": "1764581569",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2jqe7p"
+      },
+      "volume": "17"
+    },
+    "127": {
+      "title": "Revelations (2)",
+      "last_updated": "1764581580",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opnmz7r"
+      },
+      "volume": "17"
+    },
+    "128": {
+      "title": "Revelations (3)",
+      "last_updated": "1764581580",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7menxbbyd"
+      },
+      "volume": "17"
+    },
+    "129": {
+      "title": "Cracks in the Blade",
+      "last_updated": "1764581582",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnv3wz7x"
+      },
+      "volume": "17"
+    },
+    "130": {
+      "title": "A Feeble Flame",
+      "last_updated": "1764581591",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3za3yj"
+      },
+      "volume": "17"
+    },
+    "131": {
+      "title": "To Holy Ground (1)",
+      "last_updated": "1764581601",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zdbo4b"
+      },
+      "volume": "17"
+    },
+    "133": {
+      "title": "Kushan Scouts (1)",
+      "last_updated": "1764581607",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6grz3yl"
+      },
+      "volume": "18"
+    },
+    "134": {
+      "title": "Kushan Scouts (2)",
+      "last_updated": "1764581610",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846oxjvw4x"
+      },
+      "volume": "18"
+    },
+    "132": {
+      "title": "To Holy Ground (2)",
+      "last_updated": "1764581611",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8la275"
+      },
+      "volume": "17"
+    },
+    "135": {
+      "title": "Tower of Shadow (1)",
+      "last_updated": "1764581623",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnvwz37q"
+      },
+      "volume": "18"
+    },
+    "136": {
+      "title": "Tower of Shadow (2)",
+      "last_updated": "1764581630",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249karo2yn"
+      },
+      "volume": "18"
+    },
+    "137": {
+      "title": "Children of Shadow",
+      "last_updated": "1764581630",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz295z4n"
+      },
+      "volume": "18"
+    },
+    "138": {
+      "title": "Fierce Believer",
+      "last_updated": "1764581632",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pm8ny5"
+      },
+      "volume": "18"
+    },
+    "139": {
+      "title": "Bowels of the Holy Ground",
+      "last_updated": "1764581643",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq2x6yo"
+      },
+      "volume": "18"
+    },
+    "140": {
+      "title": "The Witch",
+      "last_updated": "1764581655",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7obln6d4p"
+      },
+      "volume": "18"
+    },
+    "141": {
+      "title": "Spirit Road (1)",
+      "last_updated": "1764581656",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oe9wj4l"
+      },
+      "volume": "18"
+    },
+    "142": {
+      "title": "Spirit Road (2)",
+      "last_updated": "1764581659",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkr63q78"
+      },
+      "volume": "18"
+    },
+    "143": {
+      "title": "Pillar of Flame",
+      "last_updated": "1764581666",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkvep4x"
+      },
+      "volume": "18"
+    },
+    "146": {
+      "title": "Ambition Boy",
+      "last_updated": "1764581682",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7menxgbyd"
+      },
+      "volume": "19"
+    },
+    "144": {
+      "title": "The Black Swordsman on Holy Ground",
+      "last_updated": "1764581682",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zwvw4k"
+      },
+      "volume": "19"
+    },
+    "145": {
+      "title": "Straying",
+      "last_updated": "1764581683",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opnzz7r"
+      },
+      "volume": "19"
+    },
+    "147": {
+      "title": "Den of Evil",
+      "last_updated": "1764581689",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnvazz7x"
+      },
+      "volume": "19"
+    },
+    "149": {
+      "title": "Ambush",
+      "last_updated": "1764581709",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlnvr7j"
+      },
+      "volume": "19"
+    },
+    "148": {
+      "title": "The Reunion",
+      "last_updated": "1764581709",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3x63yj"
+      },
+      "volume": "19"
+    },
+    "151": {
+      "title": "Captives",
+      "last_updated": "1764581712",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8gk275"
+      },
+      "volume": "19"
+    },
+    "150": {
+      "title": "The Cliff",
+      "last_updated": "1764581712",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zapo4b"
+      },
+      "volume": "19"
+    },
+    "152": {
+      "title": "The Iron Maiden",
+      "last_updated": "1764581728",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6g5x3yl"
+      },
+      "volume": "19"
+    },
+    "153": {
+      "title": "Blood Flow of the Dead (1)",
+      "last_updated": "1764581736",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnv6x37q"
+      },
+      "volume": "19"
+    },
+    "154": {
+      "title": "Blood Flow of the Dead (2)",
+      "last_updated": "1764581740",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn65z948"
+      },
+      "volume": "19"
+    },
+    "155": {
+      "title": "The Spider's Thread",
+      "last_updated": "1764581753",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka6x2yn"
+      },
+      "volume": "20"
+    },
+    "156": {
+      "title": "Those Who Dance at the Summit, Those Who Creep in the Depths",
+      "last_updated": "1764581759",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq3g6yo"
+      },
+      "volume": "20"
+    },
+    "157": {
+      "title": "Hell's Angels",
+      "last_updated": "1764581763",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblmzd4p"
+      },
+      "volume": "20"
+    },
+    "158": {
+      "title": "One Unknown in the Depth of the Depths",
+      "last_updated": "1764581772",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjxq78"
+      },
+      "volume": "20"
+    },
+    "159": {
+      "title": "The Threatened",
+      "last_updated": "1764581779",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oekzj4l"
+      },
+      "volume": "20"
+    },
+    "160": {
+      "title": "Omens",
+      "last_updated": "1764581782",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqzp4x"
+      },
+      "volume": "20"
+    },
+    "161": {
+      "title": "Martyrdom",
+      "last_updated": "1764581793",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqzq4x"
+      },
+      "volume": "20"
+    },
+    "162": {
+      "title": "Collapse",
+      "last_updated": "1764581806",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3lox48"
+      },
+      "volume": "20"
+    },
+    "163": {
+      "title": "Shadows of Idea (1)",
+      "last_updated": "1764581807",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqwgny2"
+      },
+      "volume": "20"
+    },
+    "164": {
+      "title": "Shadows of Idea (2)",
+      "last_updated": "1764581814",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zk5l4k"
+      },
+      "volume": "20"
+    },
+    "165": {
+      "title": "Shadows of Idea (3)",
+      "last_updated": "1764581828",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka6zmyn"
+      },
+      "volume": "20"
+    },
+    "167": {
+      "title": "Bestial Priest (1)",
+      "last_updated": "1764581834",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq3jpyo"
+      },
+      "volume": "21"
+    },
+    "166": {
+      "title": "Leaping Fish",
+      "last_updated": "1764581835",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2rem4n"
+      },
+      "volume": "21"
+    },
+    "168": {
+      "title": "Bestial Priest (2)",
+      "last_updated": "1764581850",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqxq4x"
+      },
+      "volume": "21"
+    },
+    "169": {
+      "title": "Those Who Cling, Those Who Struggle",
+      "last_updated": "1764581859",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3ldx48"
+      },
+      "volume": "21"
+    },
+    "170": {
+      "title": "Tidal Wave of Darkness (1)",
+      "last_updated": "1764581863",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqw9ny2"
+      },
+      "volume": "21"
+    },
+    "171": {
+      "title": "Tidal Wave of Darkness (2)",
+      "last_updated": "1764581872",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zkzl4k"
+      },
+      "volume": "21"
+    },
+    "172": {
+      "title": "Resonance",
+      "last_updated": "1764581880",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2e2g7p"
+      },
+      "volume": "21"
+    },
+    "173": {
+      "title": "The Sky Fall",
+      "last_updated": "1764581881",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opepj7r"
+      },
+      "volume": "21"
+    },
+    "174": {
+      "title": "Daybreak",
+      "last_updated": "1764581891",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvxvq4d"
+      },
+      "volume": "21"
+    },
+    "175": {
+      "title": "The Arrival",
+      "last_updated": "1764581899",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3x3dyj"
+      },
+      "volume": "21"
+    },
+    "176": {
+      "title": "Determination and Departure",
+      "last_updated": "1764581910",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlnlj7j"
+      },
+      "volume": "21"
+    },
+    "178": {
+      "title": "Reunion on the Hill of Swords",
+      "last_updated": "1764581915",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8g8q75"
+      },
+      "volume": "22"
+    },
+    "177": {
+      "title": "The Rent World",
+      "last_updated": "1764581920",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zaz54b"
+      },
+      "volume": "22"
+    },
+    "179": {
+      "title": "The Beast Swordsman VS The Black Swordsman",
+      "last_updated": "1764581937",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka6amyn"
+      },
+      "volume": "22"
+    },
+    "181": {
+      "title": "Prologue to the War",
+      "last_updated": "1764581937",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2r2m4n"
+      },
+      "volume": "22"
+    },
+    "180": {
+      "title": "Unchanged",
+      "last_updated": "1764581943",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnv6vq7q"
+      },
+      "volume": "22"
+    },
+    "182": {
+      "title": "Fierce Kushan Attack",
+      "last_updated": "1764581961",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6papjy5"
+      },
+      "volume": "22"
+    },
+    "2": {
+      "title": "Nosferatu Zodd (1)",
+      "last_updated": "1764583178",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblm5l4p"
+      },
+      "volume": "5"
+    },
+    "183": {
+      "title": "War Cry of the Wind (1)",
+      "last_updated": "1764581965",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjrb78"
+      },
+      "volume": "22"
+    },
+    "184": {
+      "title": "War Cry of the Wind (2)",
+      "last_updated": "1764581969",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oeke94l"
+      },
+      "volume": "22"
+    },
+    "185": {
+      "title": "Of Snow and Flames_First Act",
+      "last_updated": "1764581983",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqkq4x"
+      },
+      "volume": "22"
+    },
+    "188": {
+      "title": "Winter Journey (2)",
+      "last_updated": "1764581988",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zkpl4k"
+      },
+      "volume": "23"
+    },
+    "186": {
+      "title": "Of Snow and Flames_Final Act",
+      "last_updated": "1764581993",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqwqny2"
+      },
+      "volume": "22"
+    },
+    "187": {
+      "title": "Winter Journey (1)",
+      "last_updated": "1764581994",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3l3x48"
+      },
+      "volume": "23"
+    },
+    "189": {
+      "title": "Scattered Time",
+      "last_updated": "1764582006",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mend2nyd"
+      },
+      "volume": "23"
+    },
+    "190": {
+      "title": "Fangs of Ego",
+      "last_updated": "1764582008",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opejj7r"
+      },
+      "volume": "23"
+    },
+    "191": {
+      "title": "Wilderness Reunion",
+      "last_updated": "1764582012",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvxpq4d"
+      },
+      "volume": "23"
+    },
+    "192": {
+      "title": "The War Demons",
+      "last_updated": "1764582016",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3xkdyj"
+      },
+      "volume": "23"
+    },
+    "193": {
+      "title": "Banner of the Flying Sword",
+      "last_updated": "1764582023",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlnrj7j"
+      },
+      "volume": "23"
+    },
+    "194": {
+      "title": "Wings of Light and Darkness",
+      "last_updated": "1764582029",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8gdq75"
+      },
+      "volume": "23"
+    },
+    "195": {
+      "title": "The Night of Falling Stars",
+      "last_updated": "1764582030",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6g5k2yl"
+      },
+      "volume": "23"
+    },
+    "196": {
+      "title": "Like a Baby",
+      "last_updated": "1764582037",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846ox8go4x"
+      },
+      "volume": "23"
+    },
+    "198": {
+      "title": "The Witch",
+      "last_updated": "1764582047",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka6jmyn"
+      },
+      "volume": "24"
+    },
+    "197": {
+      "title": "Trolls",
+      "last_updated": "1764582051",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnv6gq7q"
+      },
+      "volume": "24"
+    },
+    "199": {
+      "title": "Mansion of the Spirit Tree (1)",
+      "last_updated": "1764582051",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2rlm4n"
+      },
+      "volume": "24"
+    },
+    "200": {
+      "title": "Mansion of the Spirit Tree (2)",
+      "last_updated": "1764582056",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6paxjy5"
+      },
+      "volume": "24"
+    },
+    "201": {
+      "title": "The Astral World",
+      "last_updated": "1764582066",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq3zpyo"
+      },
+      "volume": "24"
+    },
+    "202": {
+      "title": "Magic Stone",
+      "last_updated": "1764582073",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjwb78"
+      },
+      "volume": "24"
+    },
+    "203": {
+      "title": "Elementals",
+      "last_updated": "1764582076",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblmjr4p"
+      },
+      "volume": "24"
+    },
+    "204": {
+      "title": "Enoch Village",
+      "last_updated": "1764582081",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oekl94l"
+      },
+      "volume": "24"
+    },
+    "205": {
+      "title": "Ambition and Reflection",
+      "last_updated": "1764582086",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqmq4x"
+      },
+      "volume": "24"
+    },
+    "206": {
+      "title": "Troll Raid",
+      "last_updated": "1764582094",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3lwx48"
+      },
+      "volume": "24"
+    },
+    "208": {
+      "title": "Mirror of Sin",
+      "last_updated": "1764582106",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mendknyd"
+      },
+      "volume": "25"
+    },
+    "207": {
+      "title": "Magic Sword",
+      "last_updated": "1764582107",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zkal4k"
+      },
+      "volume": "25"
+    },
+    "209": {
+      "title": "Magic",
+      "last_updated": "1764582109",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2e8g7p"
+      },
+      "volume": "25"
+    },
+    "210": {
+      "title": "The Arcana of Invocation",
+      "last_updated": "1764582114",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opewj7r"
+      },
+      "volume": "25"
+    },
+    "211": {
+      "title": "Evil Horde (1)",
+      "last_updated": "1764582134",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnvagg7x"
+      },
+      "volume": "25"
+    },
+    "212": {
+      "title": "Evil Horde (2)",
+      "last_updated": "1764582136",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvx6q4d"
+      },
+      "volume": "25"
+    },
+    "213": {
+      "title": "Raging Torrent",
+      "last_updated": "1764582142",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zao54b"
+      },
+      "volume": "25"
+    },
+    "214": {
+      "title": "Shaman",
+      "last_updated": "1764582143",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlnxj7j"
+      },
+      "volume": "25"
+    },
+    "215": {
+      "title": "Qliphoth",
+      "last_updated": "1764582152",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8gzq75"
+      },
+      "volume": "25"
+    },
+    "216": {
+      "title": "Taint",
+      "last_updated": "1764582159",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6g5v2yl"
+      },
+      "volume": "25"
+    },
+    "218": {
+      "title": "Redemption",
+      "last_updated": "1764582165",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnv62q7q"
+      },
+      "volume": "26"
+    },
+    "217": {
+      "title": "Retribution",
+      "last_updated": "1764582170",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn65wj48"
+      },
+      "volume": "26"
+    },
+    "219": {
+      "title": "Vicinity of the Netherworld",
+      "last_updated": "1764582174",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka6gmyn"
+      },
+      "volume": "26"
+    },
+    "220": {
+      "title": "Whore Princess of the Uterine Sea",
+      "last_updated": "1764582180",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2rxm4n"
+      },
+      "volume": "26"
+    },
+    "221": {
+      "title": "Companions",
+      "last_updated": "1764582186",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pavjy5"
+      },
+      "volume": "26"
+    },
+    "222": {
+      "title": "Claw Marks",
+      "last_updated": "1764582188",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq39pyo"
+      },
+      "volume": "26"
+    },
+    "223": {
+      "title": "The Blaze (1)",
+      "last_updated": "1764582193",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblmxr4p"
+      },
+      "volume": "26"
+    },
+    "224": {
+      "title": "The Blaze (2)",
+      "last_updated": "1764582199",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjeb78"
+      },
+      "volume": "26"
+    },
+    "225": {
+      "title": "The Berserker Armor (1)",
+      "last_updated": "1764582210",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oek394l"
+      },
+      "volume": "26"
+    },
+    "226": {
+      "title": "The Berserker Armor (2)",
+      "last_updated": "1764582217",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqrq4x"
+      },
+      "volume": "26"
+    },
+    "228": {
+      "title": "The Depths of Hellfire",
+      "last_updated": "1764582220",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqwzny2"
+      },
+      "volume": "27"
+    },
+    "227": {
+      "title": "Fire Dragon",
+      "last_updated": "1764582223",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3lvx48"
+      },
+      "volume": "27"
+    },
+    "229": {
+      "title": "Departure of Flame",
+      "last_updated": "1764582232",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkq3x4x"
+      },
+      "volume": "27"
+    },
+    "230": {
+      "title": "Demon City",
+      "last_updated": "1764582237",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3lq348"
+      },
+      "volume": "27"
+    },
+    "232": {
+      "title": "The Daka",
+      "last_updated": "1764582243",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2exx7p"
+      },
+      "volume": "27"
+    },
+    "231": {
+      "title": "Dread Emperor",
+      "last_updated": "1764582244",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zkja4k"
+      },
+      "volume": "27"
+    },
+    "233": {
+      "title": "Demon Knights",
+      "last_updated": "1764582252",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mend39yd"
+      },
+      "volume": "27"
+    },
+    "234": {
+      "title": "Demon God",
+      "last_updated": "1764582257",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opebg7r"
+      },
+      "volume": "27"
+    },
+    "235": {
+      "title": "The Sleeping Princess Awakens",
+      "last_updated": "1764582266",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnvaex7x"
+      },
+      "volume": "27"
+    },
+    "236": {
+      "title": "The Sound of the Sea",
+      "last_updated": "1764582270",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvxqm4d"
+      },
+      "volume": "27"
+    },
+    "238": {
+      "title": "The Boy in the Moonlight",
+      "last_updated": "1764582280",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqln2q7j"
+      },
+      "volume": "28"
+    },
+    "237": {
+      "title": "Proclaimed Omens",
+      "last_updated": "1764582282",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3xw5yj"
+      },
+      "volume": "28"
+    },
+    "239": {
+      "title": "Familiars",
+      "last_updated": "1764582288",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zaq24b"
+      },
+      "volume": "28"
+    },
+    "240": {
+      "title": "Supernatural Fog",
+      "last_updated": "1764582291",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8g2n75"
+      },
+      "volume": "28"
+    },
+    "241": {
+      "title": "Sea Beast (Makara)",
+      "last_updated": "1764582299",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6g5adyl"
+      },
+      "volume": "28"
+    },
+    "242": {
+      "title": "The Roar of the Sea",
+      "last_updated": "1764582303",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846ox8lz4x"
+      },
+      "volume": "28"
+    },
+    "243": {
+      "title": "Superhuman (Jnanin)",
+      "last_updated": "1764582308",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn65vb48"
+      },
+      "volume": "28"
+    },
+    "244": {
+      "title": "Navy Yard",
+      "last_updated": "1764582314",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnv6mp7q"
+      },
+      "volume": "28"
+    },
+    "245": {
+      "title": "City of Humans",
+      "last_updated": "1764582318",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka6dbyn"
+      },
+      "volume": "28"
+    },
+    "246": {
+      "title": "The Kite and the Owl of the Wharf",
+      "last_updated": "1764582327",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2r3b4n"
+      },
+      "volume": "28"
+    },
+    "248": {
+      "title": "Warrior",
+      "last_updated": "1764582333",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblme24p"
+      },
+      "volume": "29"
+    },
+    "247": {
+      "title": "Bloodshed",
+      "last_updated": "1764582338",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pa2my5"
+      },
+      "volume": "29"
+    },
+    "249": {
+      "title": "A Meager Supper",
+      "last_updated": "1764582339",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjd378"
+      },
+      "volume": "29"
+    },
+    "250": {
+      "title": "Homing",
+      "last_updated": "1764582348",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkq9x4x"
+      },
+      "volume": "29"
+    },
+    "251": {
+      "title": "Vandimion",
+      "last_updated": "1764582353",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqwvdy2"
+      },
+      "volume": "29"
+    },
+    "252": {
+      "title": "In the Garden",
+      "last_updated": "1764582358",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zkxa4k"
+      },
+      "volume": "29"
+    },
+    "253": {
+      "title": "The White Lily of the Field",
+      "last_updated": "1764582364",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2evx7p"
+      },
+      "volume": "29"
+    },
+    "254": {
+      "title": "Mother",
+      "last_updated": "1764582369",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mend99yd"
+      },
+      "volume": "29"
+    },
+    "255": {
+      "title": "The Ball",
+      "last_updated": "1764582372",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnvalx7x"
+      },
+      "volume": "29"
+    },
+    "256": {
+      "title": "The Colonnade Chamber",
+      "last_updated": "1764582378",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvxam4d"
+      },
+      "volume": "29"
+    },
+    "258": {
+      "title": "Suzerain of the Religious Domain",
+      "last_updated": "1764582392",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86za324b"
+      },
+      "volume": "30"
+    },
+    "259": {
+      "title": "Enchanted Tiger",
+      "last_updated": "1764582397",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8g3n75"
+      },
+      "volume": "30"
+    },
+    "257": {
+      "title": "Duel",
+      "last_updated": "1764582399",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlneq7j"
+      },
+      "volume": "30"
+    },
+    "260": {
+      "title": "Intrusion",
+      "last_updated": "1764582410",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn652b48"
+      },
+      "volume": "30"
+    },
+    "261": {
+      "title": "The Rusted Birdcage",
+      "last_updated": "1764582415",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnv6jp7q"
+      },
+      "volume": "30"
+    },
+    "262": {
+      "title": "A Proclamation of War",
+      "last_updated": "1764582418",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2rnb4n"
+      },
+      "volume": "30"
+    },
+    "263": {
+      "title": "Demon Beast Invasion",
+      "last_updated": "1764582429",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pa5my5"
+      },
+      "volume": "30"
+    },
+    "264": {
+      "title": "Divine Revelation",
+      "last_updated": "1764582436",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblm924p"
+      },
+      "volume": "30"
+    },
+    "265": {
+      "title": "City of Demon Beasts (1)",
+      "last_updated": "1764582437",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjo378"
+      },
+      "volume": "30"
+    },
+    "266": {
+      "title": "City of Demon Beasts (2)",
+      "last_updated": "1764582454",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oekaz4l"
+      },
+      "volume": "30"
+    },
+    "268": {
+      "title": "Blaze Rod",
+      "last_updated": "1764582459",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3lk348"
+      },
+      "volume": "31"
+    },
+    "267": {
+      "title": "Scorching Bay",
+      "last_updated": "1764582467",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqgx4x"
+      },
+      "volume": "31"
+    },
+    "269": {
+      "title": "Sword Beast",
+      "last_updated": "1764582471",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zkma4k"
+      },
+      "volume": "31"
+    },
+    "270": {
+      "title": "Paramarishia Senani",
+      "last_updated": "1764582480",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mendw9yd"
+      },
+      "volume": "31"
+    },
+    "271": {
+      "title": "Eastern Magic",
+      "last_updated": "1764582491",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opegg7r"
+      },
+      "volume": "31"
+    },
+    "272": {
+      "title": "The Coiler",
+      "last_updated": "1764582492",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvx2m4d"
+      },
+      "volume": "31"
+    },
+    "273": {
+      "title": "Bursting Flame",
+      "last_updated": "1764582504",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3xe5yj"
+      },
+      "volume": "31"
+    },
+    "274": {
+      "title": "Thunder Emperor",
+      "last_updated": "1764582511",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlnjq7j"
+      },
+      "volume": "31"
+    },
+    "275": {
+      "title": "Attack of the Demon Army",
+      "last_updated": "1764582511",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8gpn75"
+      },
+      "volume": "31"
+    },
+    "276": {
+      "title": "Cloud Cluster",
+      "last_updated": "1764582525",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6g5qdyl"
+      },
+      "volume": "31"
+    },
+    "278": {
+      "title": "Setting Sail",
+      "last_updated": "1764582536",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn65qb48"
+      },
+      "volume": "32"
+    },
+    "279": {
+      "title": "Massive Invasion (1)",
+      "last_updated": "1764582543",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka6wbyn"
+      },
+      "volume": "32"
+    },
+    "277": {
+      "title": "Human Bullet",
+      "last_updated": "1764582544",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846ox8wz4x"
+      },
+      "volume": "32"
+    },
+    "280": {
+      "title": "Massive Invasion (2)",
+      "last_updated": "1764582559",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2rwb4n"
+      },
+      "volume": "32"
+    },
+    "281": {
+      "title": "The Flight",
+      "last_updated": "1764582566",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6padmy5"
+      },
+      "volume": "32"
+    },
+    "282": {
+      "title": "The Torn Battlefield",
+      "last_updated": "1764582569",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq3e3yo"
+      },
+      "volume": "32"
+    },
+    "284": {
+      "title": "The Midland Regular Army",
+      "last_updated": "1764582584",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjm378"
+      },
+      "volume": "32"
+    },
+    "285": {
+      "title": "Hero",
+      "last_updated": "1764582592",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3lg348"
+      },
+      "volume": "32"
+    },
+    "286": {
+      "title": "On Board",
+      "last_updated": "1764582595",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkq2x4x"
+      },
+      "volume": "32"
+    },
+    "3": {
+      "title": "Nosferatu Zodd (2)",
+      "last_updated": "1764583184",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrj5w78"
+      },
+      "volume": "5"
+    },
+    "291": {
+      "title": "Foretelling Dreams",
+      "last_updated": "1764582625",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2emx7p"
+      },
+      "volume": "33"
+    },
+    "290": {
+      "title": "Howl from the Darkness",
+      "last_updated": "1764582625",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mendl9yd"
+      },
+      "volume": "33"
+    },
+    "292": {
+      "title": "Mist of Death",
+      "last_updated": "1764582627",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73ope5g7r"
+      },
+      "volume": "33"
+    },
+    "294": {
+      "title": "Exodus",
+      "last_updated": "1764582639",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnvaxx7x"
+      },
+      "volume": "33"
+    },
+    "295": {
+      "title": "End-God",
+      "last_updated": "1764582650",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvxgm4d"
+      },
+      "volume": "33"
+    },
+    "298": {
+      "title": "Demonic Release",
+      "last_updated": "1764582657",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86za524b"
+      },
+      "volume": "34"
+    },
+    "296": {
+      "title": "Roaring Heaven",
+      "last_updated": "1764582659",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqln5q7j"
+      },
+      "volume": "33"
+    },
+    "297": {
+      "title": "Giant God of Blindness",
+      "last_updated": "1764582665",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3x85yj"
+      },
+      "volume": "34"
+    },
+    "299": {
+      "title": "Inhuman Battlefield",
+      "last_updated": "1764582671",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8g5n75"
+      },
+      "volume": "34"
+    },
+    "300": {
+      "title": "The Medium of the Hawk",
+      "last_updated": "1764582678",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846ox85z4x"
+      },
+      "volume": "34"
+    },
+    "301": {
+      "title": "Chaos",
+      "last_updated": "1764582684",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn659b48"
+      },
+      "volume": "34"
+    },
+    "304": {
+      "title": "Fissure",
+      "last_updated": "1764582695",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnv68p7q"
+      },
+      "volume": "34"
+    },
+    "305": {
+      "title": "Creation",
+      "last_updated": "1764582697",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka6pbyn"
+      },
+      "volume": "34"
+    },
+    "306": {
+      "title": "Fantasia",
+      "last_updated": "1764582707",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2rjb4n"
+      },
+      "volume": "34"
+    },
+    "308": {
+      "title": "Ghost Ship (1)",
+      "last_updated": "1764582716",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblmq24p"
+      },
+      "volume": "35"
+    },
+    "307": {
+      "title": "Falconia",
+      "last_updated": "1764582718",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pakmy5"
+      },
+      "volume": "35"
+    },
+    "309": {
+      "title": "Ghost Ship (2)",
+      "last_updated": "1764582723",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjv378"
+      },
+      "volume": "35"
+    },
+    "310": {
+      "title": "Ghost Ship (3)",
+      "last_updated": "1764582729",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oek2z4l"
+      },
+      "volume": "35"
+    },
+    "311": {
+      "title": "Solitary Island",
+      "last_updated": "1764582739",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqox4x"
+      },
+      "volume": "35"
+    },
+    "313": {
+      "title": "Denizens of the Sinister Sea",
+      "last_updated": "1764582742",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqw2dy2"
+      },
+      "volume": "35"
+    },
+    "312": {
+      "title": "Girl of the Roaring Torrent",
+      "last_updated": "1764582743",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3l8348"
+      },
+      "volume": "35"
+    },
+    "314": {
+      "title": "Human Tentacles",
+      "last_updated": "1764582752",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oek234l"
+      },
+      "volume": "35"
+    },
+    "315": {
+      "title": "The Tentacled Ship",
+      "last_updated": "1764582769",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqw2xy2"
+      },
+      "volume": "35"
+    },
+    "317": {
+      "title": "Full Moon (2)",
+      "last_updated": "1764582770",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2ell7p"
+      },
+      "volume": "36"
+    },
+    "319": {
+      "title": "Sea God (1)",
+      "last_updated": "1764582774",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opelo7r"
+      },
+      "volume": "36"
+    },
+    "316": {
+      "title": "Full Moon (1)",
+      "last_updated": "1764582780",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zkr64k"
+      },
+      "volume": "36"
+    },
+    "320": {
+      "title": "Sea God (2)",
+      "last_updated": "1764582790",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnvamq7x"
+      },
+      "volume": "36"
+    },
+    "321": {
+      "title": "Sea God (3)",
+      "last_updated": "1764582798",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvxmz4d"
+      },
+      "volume": "36"
+    },
+    "322": {
+      "title": "Booming Art",
+      "last_updated": "1764582799",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3xnlyj"
+      },
+      "volume": "36"
+    },
+    "324": {
+      "title": "Merrow (1)",
+      "last_updated": "1764582809",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlnwk7j"
+      },
+      "volume": "36"
+    },
+    "326": {
+      "title": "Siren",
+      "last_updated": "1764582822",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8gqv75"
+      },
+      "volume": "37"
+    },
+    "325": {
+      "title": "Merrow (2)",
+      "last_updated": "1764582826",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zamw4b"
+      },
+      "volume": "37"
+    },
+    "327": {
+      "title": "Surfacing",
+      "last_updated": "1764582828",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6g5jeyl"
+      },
+      "volume": "37"
+    },
+    "328": {
+      "title": "Shooting Star",
+      "last_updated": "1764582835",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846ox8d24x"
+      },
+      "volume": "37"
+    },
+    "329": {
+      "title": "Spring Flowers of Distant Days (1)",
+      "last_updated": "1764582847",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn65rk48"
+      },
+      "volume": "37"
+    },
+    "330": {
+      "title": "Spring Flowers of Distant Days (2)",
+      "last_updated": "1764582850",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnv6367q"
+      },
+      "volume": "37"
+    },
+    "332": {
+      "title": "Covered Wagon",
+      "last_updated": "1764582863",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka638yn"
+      },
+      "volume": "37"
+    },
+    "333": {
+      "title": "Paradise",
+      "last_updated": "1764582866",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2r854n"
+      },
+      "volume": "37"
+    },
+    "334": {
+      "title": "City of Me",
+      "last_updated": "1764582897",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq3ajyo"
+      },
+      "volume": "38"
+    },
+    "337": {
+      "title": "Bridge of Parting",
+      "last_updated": "1764582907",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3le948"
+      },
+      "volume": "38"
+    },
+    "338": {
+      "title": "Twilight Assassin",
+      "last_updated": "1764582908",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqa34x"
+      },
+      "volume": "38"
+    },
+    "339": {
+      "title": "Royal Capital in the Moonlight",
+      "last_updated": "1764582921",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqwaxy2"
+      },
+      "volume": "38"
+    },
+    "340": {
+      "title": "Night Fight",
+      "last_updated": "1764582931",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zkq64k"
+      },
+      "volume": "38"
+    },
+    "342": {
+      "title": "Landfall",
+      "last_updated": "1764582959",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opedo7r"
+      },
+      "volume": "38"
+    },
+    "345": {
+      "title": "Great Gurus",
+      "last_updated": "1764582963",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvxdz4d"
+      },
+      "volume": "39"
+    },
+    "344": {
+      "title": "Village Of Witches",
+      "last_updated": "1764582965",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnva9q7x"
+      },
+      "volume": "39"
+    },
+    "343": {
+      "title": "Flame Puppet",
+      "last_updated": "1764582969",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mendaayd"
+      },
+      "volume": "39"
+    },
+    "346": {
+      "title": "Elfhelm",
+      "last_updated": "1764582992",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlnmk7j"
+      },
+      "volume": "39"
+    },
+    "347": {
+      "title": "The Flower Storm Monarch",
+      "last_updated": "1764583001",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86zaew4b"
+      },
+      "volume": "39"
+    },
+    "349": {
+      "title": "The Corridor of Dreams",
+      "last_updated": "1764583004",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6g52eyl"
+      },
+      "volume": "39"
+    },
+    "348": {
+      "title": "Dimly Lit Wasteland",
+      "last_updated": "1764583008",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8gmv75"
+      },
+      "volume": "39"
+    },
+    "350": {
+      "title": "Fragments of Memory",
+      "last_updated": "1764583022",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn65xk48"
+      },
+      "volume": "39"
+    },
+    "352": {
+      "title": "Main Culprits",
+      "last_updated": "1764583037",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2rv54n"
+      },
+      "volume": "40"
+    },
+    "351": {
+      "title": "Forest of Corpses and thorned Cedars",
+      "last_updated": "1764583043",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka628yn"
+      },
+      "volume": "40"
+    },
+    "353": {
+      "title": "The Final Fragment",
+      "last_updated": "1764583045",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq3njyo"
+      },
+      "volume": "40"
+    },
+    "354": {
+      "title": "Awakening",
+      "last_updated": "1764583071",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjkw78"
+      },
+      "volume": "40"
+    },
+    "356": {
+      "title": "Jotunn",
+      "last_updated": "1764583093",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oeko34l"
+      },
+      "volume": "40"
+    },
+    "357": {
+      "title": "Triumphant Return at Dawn",
+      "last_updated": "1764583098",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkqw34x"
+      },
+      "volume": "40"
+    },
+    "360": {
+      "title": "Cherry Tree Garden",
+      "last_updated": "1764583100",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqwkxy2"
+      },
+      "volume": "41"
+    },
+    "359": {
+      "title": "A Wall",
+      "last_updated": "1764583105",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3lm948"
+      },
+      "volume": "41"
+    },
+    "361": {
+      "title": "Crevice",
+      "last_updated": "1764583118",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2enl7p"
+      },
+      "volume": "41"
+    },
+    "362": {
+      "title": "Illusive Death",
+      "last_updated": "1764583122",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mendeayd"
+      },
+      "volume": "41"
+    },
+    "363": {
+      "title": "Leaping Monkey",
+      "last_updated": "1764583126",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73opeoo7r"
+      },
+      "volume": "41"
+    },
+    "366": {
+      "title": "Eye of the Maelstrom",
+      "last_updated": "1764583133",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlnqk7j"
+      },
+      "volume": "42"
+    },
+    "367": {
+      "title": "Cherry Blossoms Fading Like Mist",
+      "last_updated": "1764583137",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny86za6w4b"
+      },
+      "volume": "42"
+    },
+    "365": {
+      "title": "Lull of a Waning Moon",
+      "last_updated": "1764583138",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3xplyj"
+      },
+      "volume": "42"
+    },
+    "364": {
+      "title": "Tear of Morning Dew",
+      "last_updated": "1764583140",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnvanq7x"
+      },
+      "volume": "41"
+    },
+    "368": {
+      "title": "Devourers",
+      "last_updated": "1764583148",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8gov75"
+      },
+      "volume": "42"
+    },
+    "369": {
+      "title": "Fading Isle",
+      "last_updated": "1764583153",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24a6g56eyl"
+      },
+      "volume": "42"
+    },
+    "370": {
+      "title": "Refugees from the Western Sea",
+      "last_updated": "1764583153",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846ox8o24x"
+      },
+      "volume": "42"
+    },
+    "371": {
+      "title": "A Fading torch in a pitch black night",
+      "last_updated": "1764583156",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvn65nk48"
+      },
+      "volume": "42"
+    },
+    "372": {
+      "title": "The Red Raven Sleeps in the Birdcage",
+      "last_updated": "1764583165",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxnv6n67q"
+      },
+      "volume": "42"
+    },
+    "373": {
+      "title": "Rusted Iron Bands Unable To Push On",
+      "last_updated": "1764583175",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2rz54n"
+      },
+      "volume": "42"
+    },
+    "4": {
+      "title": "Nosferatu Zodd (3)",
+      "last_updated": "1764583194",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oekn34l"
+      },
+      "volume": "5"
+    },
+    "5": {
+      "title": "Nosferatu Zodd (4)",
+      "last_updated": "1764583200",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkq534x"
+      },
+      "volume": "5"
+    },
+    "10": {
+      "title": "Assassin (3)",
+      "last_updated": "1764583208",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqkqw5xy2"
+      },
+      "volume": "6"
+    },
+    "13": {
+      "title": "Departure for the Front",
+      "last_updated": "1764583220",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd2zkn64k"
+      },
+      "volume": "6"
+    },
+    "12": {
+      "title": "Precious Thing",
+      "last_updated": "1764583223",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mendvayd"
+      },
+      "volume": "6"
+    },
+    "14": {
+      "title": "Engagement",
+      "last_updated": "1764583223",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2e5l7p"
+      },
+      "volume": "6"
+    },
+    "15": {
+      "title": "Casca (1)",
+      "last_updated": "1764583228",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73ope6o7r"
+      },
+      "volume": "6"
+    },
+    "16": {
+      "title": "Casca (2)",
+      "last_updated": "1764583246",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnvaqq7x"
+      },
+      "volume": "6"
+    },
+    "8": {
+      "title": "Assassin (1)",
+      "last_updated": "1764583246",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvxnz4d"
+      },
+      "volume": "6"
+    },
+    "9": {
+      "title": "Assassin (2)",
+      "last_updated": "1764583246",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3xmlyj"
+      },
+      "volume": "6"
+    },
+    "7": {
+      "title": "Master of the Sword (2)",
+      "last_updated": "1764583269",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlnpk7j"
+      },
+      "volume": "6"
+    },
+    "21": {
+      "title": "Survival",
+      "last_updated": "1764583291",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846ox8624x"
+      },
+      "volume": "7"
+    },
+    "23": {
+      "title": "The Battle for Doldrey (1)",
+      "last_updated": "1764583305",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249ka6l8yn"
+      },
+      "volume": "7"
+    },
+    "24": {
+      "title": "The Battle for Doldrey (2)",
+      "last_updated": "1764583308",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nz2rk54n"
+      },
+      "volume": "7"
+    },
+    "25": {
+      "title": "The Battle for Doldrey (3)",
+      "last_updated": "1764583310",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b6pa3gy5"
+      },
+      "volume": "7"
+    },
+    "26": {
+      "title": "The Battle for Doldrey (4)",
+      "last_updated": "1764583317",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7pnq36jyo"
+      },
+      "volume": "7"
+    },
+    "28": {
+      "title": "The Battle for Doldrey (6)",
+      "last_updated": "1764583329",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kkrjnw78"
+      },
+      "volume": "8"
+    },
+    "29": {
+      "title": "Triumphant Return",
+      "last_updated": "1764583331",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oekg34l"
+      },
+      "volume": "8"
+    },
+    "27": {
+      "title": "The Battle for Doldrey (5)",
+      "last_updated": "1764583334",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7oblmvl4p"
+      },
+      "volume": "8"
+    },
+    "30": {
+      "title": "Moment of Glory",
+      "last_updated": "1764583338",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkq634x"
+      },
+      "volume": "8"
+    },
+    "32": {
+      "title": "Tombstone of Flame (2)",
+      "last_updated": "1764583359",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3l6948"
+      },
+      "volume": "8"
+    },
+    "34": {
+      "title": "The Morning Departure (1)",
+      "last_updated": "1764583364",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2oekg84l"
+      },
+      "volume": "8"
+    },
+    "35": {
+      "title": "The Morning Departure (2)",
+      "last_updated": "1764583368",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7lwkq6o4x"
+      },
+      "volume": "8"
+    },
+    "37": {
+      "title": "Knight of Skeleton",
+      "last_updated": "1764583376",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4jm3l6e48"
+      },
+      "volume": "9"
+    },
+    "38": {
+      "title": "Start of the Everlasting Night",
+      "last_updated": "1764583381",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrn2e667p"
+      },
+      "volume": "9"
+    },
+    "40": {
+      "title": "Demise of a Dream",
+      "last_updated": "1764583389",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mend6jyd"
+      },
+      "volume": "9"
+    },
+    "42": {
+      "title": "The Fugitives",
+      "last_updated": "1764583400",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73ope837r"
+      },
+      "volume": "9"
+    },
+    "44": {
+      "title": "Comrades in Arms",
+      "last_updated": "1764583402",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyelvxzk4d"
+      },
+      "volume": "9"
+    },
+    "43": {
+      "title": "The Fighter",
+      "last_updated": "1764583406",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wnvajb7x"
+      },
+      "volume": "9"
+    },
+    "45": {
+      "title": "Confession",
+      "last_updated": "1764583410",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3xrvyj"
+      },
+      "volume": "9"
+    },
+    "46": {
+      "title": "Wounds (1)",
+      "last_updated": "1764583419",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqln8b7j"
+      },
+      "volume": "9"
+    },
+    "47": {
+      "title": "Wounds (2)",
+      "last_updated": "1764583423",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45o8gng75"
+      },
+      "volume": "9"
+    }
+  }
+}
