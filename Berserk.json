@@ -2837,6 +2837,30 @@
       },
       "volume": "36"
     },
+    "0.1": {
+      "title": "Volume 1",
+      "last_updated": "1764584730",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gqlg3o7j"
+      },
+      "volume": "4"
+    },
+    "0.2": {
+      "title": "Volume 2",
+      "last_updated": "1764584730",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846ox8rw4x"
+      },
+      "volume": "4"
+    },
+    "0.3": {
+      "title": "Volume 3",
+      "last_updated": "1764584730",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3xd5yj"
+      },
+      "volume": "4"
+    },
     "0.4": {
       "title": "Volume 4",
       "last_updated": "1764584730",
@@ -2980,6 +3004,14 @@
         "Official": "/proxy/api/imgchest/chapter/qb4zp3xbvyj"
       },
       "volume": "9"
+    },
+    "336": {
+      "title": "Pandemonium",
+      "last_updated": "1764584962",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zp3x2gyj"
+      },
+      "volume": "38"
     }
   }
 }
