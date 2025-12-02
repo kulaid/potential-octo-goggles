@@ -1,0 +1,49 @@
+{
+  "title": "AKIRA",
+  "description": "Welcome to Neo-Tokyo, built on the ashes of a Tokyo annihilated by a blast of unknown origin that triggered World War III. The lives of two streetwise teenage friends, Tetsuo and Kaneda, change forever when paranormal abilities begin to waken in Tetsuo, making him a target for a shadowy agency that will stop at nothing to prevent another catastrophe like the one that leveled Tokyo. At the core of the agency's motivation is a raw, all-consuming fear of an unthinkable, monstrous power known only as Akira.",
+  "artist": "Katsuhiro Otomo",
+  "author": "Katsuhiro Otomo",
+  "cover": "https://mangadex.org/covers/175cf215-2122-4656-9fac-37ac092438af/822889a6-15b0-47d5-8a95-8dc9f0818cc7.jpg",
+  "chapters": {
+    "3": {
+      "title": "Volume 3",
+      "last_updated": "1764656659",
+      "groups": {
+        "35th Anniversary": "/proxy/api/imgchest/chapter/6eyrndmvk7p"
+      },
+      "volume": "3"
+    },
+    "1": {
+      "title": "Volume 1",
+      "last_updated": "1764656770",
+      "groups": {
+        "35th Anniversary": "/proxy/api/imgchest/chapter/ljyqkdrvey2"
+      },
+      "volume": "1"
+    },
+    "4": {
+      "title": "Volume 4",
+      "last_updated": "1764656838",
+      "groups": {
+        "35th Anniversary": "/proxy/api/imgchest/chapter/ej7me2l9qyd"
+      },
+      "volume": "4"
+    },
+    "5": {
+      "title": "Volume 5",
+      "last_updated": "1764656867",
+      "groups": {
+        "35th Anniversary": "/proxy/api/imgchest/chapter/pg73oj5rv7r"
+      },
+      "volume": "5"
+    },
+    "2": {
+      "title": "Volume 2",
+      "last_updated": "1764657572",
+      "groups": {
+        "35th Anniversary": "/proxy/api/imgchest/chapter/qe4gqr55r7j"
+      },
+      "volume": "2"
+    }
+  }
+}
