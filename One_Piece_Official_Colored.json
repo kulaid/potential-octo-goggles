@@ -1,15 +1,15 @@
 {
-  "title": "One Piece Official Colored",
-  "description": "Gol D. Roger, a man referred to as the \"Pirate King,\" is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the Pirate King is executed and the Great Age of Pirates begins.",
+  "title": "One Piece (Official Colored)",
+  "description": "Gol D. Roger, a man referred to as the \\\"Pirate King,\\\" is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the Pirate King is executed and the Great Age of Pirates begins.",
   "artist": "Eiichiro Oda",
   "author": "Eiichiro Oda",
-  "cover": "https://mangadex.org/covers/a1c7c817-4e59-43b7-9365-09675a149a6f/2f4aca53-64c7-46ac-ae85-3bc9b3169890.png",
+  "cover": "https://mangadex.org/covers/a460ab18-22c1-47eb-a08a-9ee85fe37ec8/7c8f9203-2b82-41f2-beb3-e7fb00e151e2.jpg",
   "chapters": {
     "1005": {
       "title": "Demon Child",
       "last_updated": "1773284205",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28jn4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28jn4k"
       },
       "volume": "100"
     },
@@ -17,7 +17,7 @@
       "title": "The Honorable Hyogoro the Flower",
       "last_updated": "1773284203",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k38k42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k38k42"
       },
       "volume": "100"
     },
@@ -25,7 +25,7 @@
       "title": "Mr. Raccoon Dog",
       "last_updated": "1773284201",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2qey8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2qey8"
       },
       "volume": "100"
     },
@@ -33,7 +33,7 @@
       "title": "Leader of the Atamayama Thieves Brigade, Ashura Doji",
       "last_updated": "1773284199",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wj3o7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wj3o7x"
       },
       "volume": "100"
     },
@@ -41,7 +41,7 @@
       "title": "Naraku",
       "last_updated": "1773284216",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nwx6yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nwx6yp"
       },
       "volume": "100"
     },
@@ -49,7 +49,7 @@
       "title": "Color of the Supreme King",
       "last_updated": "1773284215",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eq3j4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eq3j4d"
       },
       "volume": "100"
     },
@@ -57,7 +57,7 @@
       "title": "The Code of Sweet Beans",
       "last_updated": "1773284222",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5eb4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5eb4x"
       },
       "volume": "100"
     },
@@ -65,7 +65,7 @@
       "title": "Itch",
       "last_updated": "1773284220",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvwv7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvwv7j"
       },
       "volume": "100"
     },
@@ -73,7 +73,7 @@
       "title": "Anarchy in the B.M. (Big Mom)",
       "last_updated": "1773284228",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896kqd4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896kqd4b"
       },
       "volume": "100"
     },
@@ -81,7 +81,7 @@
       "title": "The Ham",
       "last_updated": "1773284229",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nob2g45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nob2g45"
       },
       "volume": "100"
     },
@@ -89,7 +89,7 @@
       "title": "Chains",
       "last_updated": "1773284236",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469oblv4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469oblv4x"
       },
       "volume": "100"
     },
@@ -97,7 +97,7 @@
       "title": "It's Me, Otama!!",
       "last_updated": "1773284236",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln82z78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln82z78"
       },
       "volume": "101"
     },
@@ -105,7 +105,7 @@
       "title": "The Order",
       "last_updated": "1773284243",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbva4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbva4n"
       },
       "volume": "101"
     },
@@ -113,7 +113,7 @@
       "title": "Jimbei vs. Who's-Who",
       "last_updated": "1773284242",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdnl7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdnl7n"
       },
       "volume": "101"
     },
@@ -121,7 +121,7 @@
       "title": "Heliceratops",
       "last_updated": "1773284253",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36z5vy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36z5vy5"
       },
       "volume": "101"
     },
@@ -129,7 +129,7 @@
       "title": "Robin vs. Black Maria",
       "last_updated": "1773284251",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nmvk4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nmvk4o"
       },
       "volume": "101"
     },
@@ -137,7 +137,7 @@
       "title": "Demonio",
       "last_updated": "1773284256",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knklom78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knklom78"
       },
       "volume": "101"
     },
@@ -145,7 +145,7 @@
       "title": "The Stars Take the Stage",
       "last_updated": "1773284257",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2govd87l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2govd87l"
       },
       "volume": "101"
     },
@@ -153,7 +153,7 @@
       "title": "Spitting Image",
       "last_updated": "1773284264",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wj9o7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wj9o7x"
       },
       "volume": "101"
     },
@@ -161,7 +161,7 @@
       "title": "So-and-So",
       "last_updated": "1773284267",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m29ey8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m29ey8"
       },
       "volume": "101"
     },
@@ -169,7 +169,7 @@
       "title": "Twin Dragons",
       "last_updated": "1773284270",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28xn4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28xn4k"
       },
       "volume": "101"
     },
@@ -177,7 +177,7 @@
       "title": "The Pivoml Clash",
       "last_updated": "1773284273",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nwv6yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nwv6yp"
       },
       "volume": "102"
     },
@@ -185,7 +185,7 @@
       "title": "Danger Beyond Imagining",
       "last_updated": "1773284278",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eq9j4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eq9j4d"
       },
       "volume": "102"
     },
@@ -193,7 +193,7 @@
       "title": "Brachiosnakeus",
       "last_updated": "1773284282",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738oxr34r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738oxr34r"
       },
       "volume": "102"
     },
@@ -201,7 +201,7 @@
       "title": "The Tower",
       "last_updated": "1773284284",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5lb4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5lb4x"
       },
       "volume": "102"
     },
@@ -209,7 +209,7 @@
       "title": "Echoing the Impermanence of All Things",
       "last_updated": "1773284288",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl5akyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl5akyd"
       },
       "volume": "102"
     },
@@ -217,7 +217,7 @@
       "title": "Warrior of Science",
       "last_updated": "1773284292",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvdv7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvdv7j"
       },
       "volume": "102"
     },
@@ -225,7 +225,7 @@
       "title": "Oden's Beloved Blade",
       "last_updated": "1773284296",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896k3d4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896k3d4b"
       },
       "volume": "102"
     },
@@ -233,7 +233,7 @@
       "title": "Shimotsuki Kozaburo",
       "last_updated": "1773284299",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6e3w4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6e3w4l"
       },
       "volume": "102"
     },
@@ -241,7 +241,7 @@
       "title": "Sanii vs. Queen",
       "last_updated": "1773284300",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469obpv4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469obpv4x"
       },
       "volume": "102"
     },
@@ -249,7 +249,7 @@
       "title": "Zolo vs. King",
       "last_updated": "1773284309",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnark7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnark7q"
       },
       "volume": "102"
     },
@@ -257,7 +257,7 @@
       "title": "Bushido Is the Way of Death",
       "last_updated": "1773284321",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbwa4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbwa4n"
       },
       "volume": "103"
     },
@@ -265,7 +265,7 @@
       "title": "Drunken Dragon Bagua",
       "last_updated": "1773284314",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdwl7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdwl7n"
       },
       "volume": "103"
     },
@@ -273,7 +273,7 @@
       "title": "Kid & Law vs. Big Mom",
       "last_updated": "1773284314",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36zdvy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36zdvy5"
       },
       "volume": "103"
     },
@@ -281,7 +281,7 @@
       "title": "Top Billing",
       "last_updated": "1773284325",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knklmm78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knklmm78"
       },
       "volume": "103"
     },
@@ -289,7 +289,7 @@
       "title": "Wasted Words on Young Ears",
       "last_updated": "1773284326",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2gova87l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2gova87l"
       },
       "volume": "103"
     },
@@ -297,7 +297,7 @@
       "title": "Komurasaki",
       "last_updated": "1773284329",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjgo7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjgo7x"
       },
       "volume": "103"
     },
@@ -305,7 +305,7 @@
       "title": "The Victor Needs No Epithet",
       "last_updated": "1773284336",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3xk42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3xk42"
       },
       "volume": "103"
     },
@@ -313,7 +313,7 @@
       "title": "Let‘s Face Death Together!!!",
       "last_updated": "1773284340",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjg67x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjg67x"
       },
       "volume": "103"
     },
@@ -321,7 +321,7 @@
       "title": "Warrior of Liberation",
       "last_updated": "1773284339",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2k5y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2k5y8"
       },
       "volume": "103"
     },
@@ -329,7 +329,7 @@
       "title": "Next Level",
       "last_updated": "1773284346",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3xe42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3xe42"
       },
       "volume": "103"
     },
@@ -337,7 +337,7 @@
       "title": "Raizo",
       "last_updated": "1773284352",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28md4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28md4k"
       },
       "volume": "103"
     },
@@ -345,7 +345,7 @@
       "title": "The Sky over the Capital",
       "last_updated": "1773284363",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nw9kyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nw9kyp"
       },
       "volume": "104"
     },
@@ -353,7 +353,7 @@
       "title": "Twenty Years",
       "last_updated": "1773284356",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqwq4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqwq4d"
       },
       "volume": "104"
     },
@@ -361,7 +361,7 @@
       "title": "The World That Should Be",
       "last_updated": "1773284360",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738oxgv4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738oxgv4r"
       },
       "volume": "104"
     },
@@ -369,7 +369,7 @@
       "title": "Honor",
       "last_updated": "1773284365",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5d34x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5d34x"
       },
       "volume": "104"
     },
@@ -377,7 +377,7 @@
       "title": "Shogun of Wano, Kozuki Momonosuke",
       "last_updated": "1773284370",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpveg7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpveg7j"
       },
       "volume": "104"
     },
@@ -385,7 +385,7 @@
       "title": "A New Morning",
       "last_updated": "1773284372",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896k5p4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896k5p4b"
       },
       "volume": "104"
     },
@@ -393,7 +393,7 @@
       "title": "New Emperors",
       "last_updated": "1773284379",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nob5x45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nob5x45"
       },
       "volume": "104"
     },
@@ -401,7 +401,7 @@
       "title": "Flame Emperor",
       "last_updated": "1773284382",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6e8g4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6e8g4l"
       },
       "volume": "104"
     },
@@ -409,7 +409,7 @@
       "title": "The New Era",
       "last_updated": "1773284391",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469ob5g4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469ob5g4x"
       },
       "volume": "104"
     },
@@ -417,7 +417,7 @@
       "title": "Cross Guild",
       "last_updated": "1773284394",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqna8m7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqna8m7q"
       },
       "volume": "105"
     },
@@ -425,7 +425,7 @@
       "title": "The End",
       "last_updated": "1773284393",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbpv4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbpv4n"
       },
       "volume": "105"
     },
@@ -433,7 +433,7 @@
       "title": "New Emperors",
       "last_updated": "1773284397",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdjw7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdjw7n"
       },
       "volume": "105"
     },
@@ -441,7 +441,7 @@
       "title": "The Matter Involving Captain Koby",
       "last_updated": "1773284405",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde286d4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde286d4k"
       },
       "volume": "105"
     },
@@ -449,7 +449,7 @@
       "title": "Luffy's Dream",
       "last_updated": "1773284409",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nwmkyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nwmkyp"
       },
       "volume": "105"
     },
@@ -457,7 +457,7 @@
       "title": "Future Island Egghead",
       "last_updated": "1773284408",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqlq4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqlq4d"
       },
       "volume": "105"
     },
@@ -465,7 +465,7 @@
       "title": "Adventure in the Land of Science",
       "last_updated": "1773284413",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738ox5v4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738ox5v4r"
       },
       "volume": "105"
     },
@@ -473,7 +473,7 @@
       "title": "My Only Family",
       "last_updated": "1773284418",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8rw78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8rw78"
       },
       "volume": "105"
     },
@@ -481,7 +481,7 @@
       "title": "Egghead Labophase",
       "last_updated": "1773284423",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zd8w7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zd8w7n"
       },
       "volume": "105"
     },
@@ -489,7 +489,7 @@
       "title": "Six Vegapunks",
       "last_updated": "1773284437",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36zqky5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36zqky5"
       },
       "volume": "105"
     },
@@ -497,7 +497,7 @@
       "title": "To the Deep Sea",
       "last_updated": "1773284441",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbr8ayp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbr8ayp"
       },
       "volume": "62"
     },
@@ -505,7 +505,7 @@
       "title": "The Kraken and the Pirates",
       "last_updated": "1773284437",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkl8k78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkl8k78"
       },
       "volume": "62"
     },
@@ -513,7 +513,7 @@
       "title": "Deep Sea Adventure",
       "last_updated": "1773284438",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjo67x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjo67x"
       },
       "volume": "62"
     },
@@ -521,7 +521,7 @@
       "title": "30,000 Feet Under the Sea",
       "last_updated": "1773284456",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k32e42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k32e42"
       },
       "volume": "62"
     },
@@ -529,7 +529,7 @@
       "title": "Underwater Paradise",
       "last_updated": "1773284455",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m285y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m285y8"
       },
       "volume": "62"
     },
@@ -537,7 +537,7 @@
       "title": "Adventure on Fish-Man Island",
       "last_updated": "1773284459",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nwlkyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nwlkyp"
       },
       "volume": "62"
     },
@@ -545,7 +545,7 @@
       "title": "Madam Sharley, Fortune-Teller",
       "last_updated": "1773284458",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738oxlv4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738oxlv4r"
       },
       "volume": "62"
     },
@@ -553,7 +553,7 @@
       "title": "Hody Jones",
       "last_updated": "1773284472",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvng7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvng7j"
       },
       "volume": "62"
     },
@@ -561,7 +561,7 @@
       "title": "Taken by the Shark They Saved",
       "last_updated": "1773284475",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q6wo7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q6wo7j"
       },
       "volume": "62"
     },
@@ -569,7 +569,7 @@
       "title": "Mermaid Princess of Shell Tower",
       "last_updated": "1773284474",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896kep4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896kep4b"
       },
       "volume": "62"
     },
@@ -577,7 +577,7 @@
       "title": "Too Late Now",
       "last_updated": "1773284480",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nobmx45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nobmx45"
       },
       "volume": "62"
     },
@@ -585,7 +585,7 @@
       "title": "Mark-Mark Curse",
       "last_updated": "1773284497",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469ob3g4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469ob3g4x"
       },
       "volume": "63"
     },
@@ -593,7 +593,7 @@
       "title": "Anniversary for Revenge",
       "last_updated": "1773284493",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8xw78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8xw78"
       },
       "volume": "63"
     },
@@ -601,7 +601,7 @@
       "title": "Incident at Coral Hill",
       "last_updated": "1773284494",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqna9m7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqna9m7q"
       },
       "volume": "63"
     },
@@ -609,7 +609,7 @@
       "title": "Proposal",
       "last_updated": "1773284500",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kb2v4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kb2v4n"
       },
       "volume": "63"
     },
@@ -617,7 +617,7 @@
       "title": "At the Forest of the Sea",
       "last_updated": "1773284510",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nma84o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nma84o"
       },
       "volume": "63"
     },
@@ -625,7 +625,7 @@
       "title": "The Wonderful Amusement Park",
       "last_updated": "1773284510",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbraayp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbraayp"
       },
       "volume": "63"
     },
@@ -633,7 +633,7 @@
       "title": "Otohime and Tiger",
       "last_updated": "1773284513",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knklak78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knklak78"
       },
       "volume": "63"
     },
@@ -641,7 +641,7 @@
       "title": "The Sun Pirates",
       "last_updated": "1773284521",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2govqn7l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2govqn7l"
       },
       "volume": "63"
     },
@@ -649,7 +649,7 @@
       "title": "Fisher Tiger the Pirate",
       "last_updated": "1773284529",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2e5y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2e5y8"
       },
       "volume": "63"
     },
@@ -657,7 +657,7 @@
       "title": "Queen Otohime",
       "last_updated": "1773284528",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3ae42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3ae42"
       },
       "volume": "63"
     },
@@ -665,7 +665,7 @@
       "title": "Uninherited Will",
       "last_updated": "1773284532",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28qd4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28qd4k"
       },
       "volume": "63"
     },
@@ -673,7 +673,7 @@
       "title": "Neptune Brothers",
       "last_updated": "1773284543",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqaq4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqaq4d"
       },
       "volume": "63"
     },
@@ -681,7 +681,7 @@
       "title": "Thank You",
       "last_updated": "1773284552",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5934x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5934x"
       },
       "volume": "64"
     },
@@ -689,7 +689,7 @@
       "title": "Spring Cleaning",
       "last_updated": "1773284548",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl5dxyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl5dxyd"
       },
       "volume": "64"
     },
@@ -697,7 +697,7 @@
       "title": "Former Warlord in the Way",
       "last_updated": "1773284551",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpv5g7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpv5g7j"
       },
       "volume": "64"
     },
@@ -705,7 +705,7 @@
       "title": "Getting Violent",
       "last_updated": "1773284560",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nobox45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nobox45"
       },
       "volume": "64"
     },
@@ -713,7 +713,7 @@
       "title": "Conchcorde Plaza",
       "last_updated": "1773284564",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6e6g4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6e6g4l"
       },
       "volume": "64"
     },
@@ -721,7 +721,7 @@
       "title": "I Knew",
       "last_updated": "1773284566",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8nw78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8nw78"
       },
       "volume": "64"
     },
@@ -729,7 +729,7 @@
       "title": "Friend or Foe",
       "last_updated": "1773284567",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnanm7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnanm7q"
       },
       "volume": "64"
     },
@@ -737,7 +737,7 @@
       "title": "100,000 vs. 10",
       "last_updated": "1773284575",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbkv4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbkv4n"
       },
       "volume": "64"
     },
@@ -745,7 +745,7 @@
       "title": "So Scary I Ran Up to the Sky",
       "last_updated": "1773284582",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdzw7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdzw7n"
       },
       "volume": "64"
     },
@@ -753,7 +753,7 @@
       "title": "General from Future Land",
       "last_updated": "1773284587",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36z6ky5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36z6ky5"
       },
       "volume": "64"
     },
@@ -761,7 +761,7 @@
       "title": "The Ancient Ark",
       "last_updated": "1773284586",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nmn84o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nmn84o"
       },
       "volume": "65"
     },
@@ -769,7 +769,7 @@
       "title": "Runaway-hoshi",
       "last_updated": "1773284590",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2govon7l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2govon7l"
       },
       "volume": "65"
     },
@@ -777,7 +777,7 @@
       "title": "I'll Protect Everything",
       "last_updated": "1773284595",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjw67x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjw67x"
       },
       "volume": "65"
     },
@@ -785,7 +785,7 @@
       "title": "Right Above Fishman Island",
       "last_updated": "1773284599",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2govoj7l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2govoj7l"
       },
       "volume": "65"
     },
@@ -793,7 +793,7 @@
       "title": "What Are You_",
       "last_updated": "1773284599",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjwp7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjwp7x"
       },
       "volume": "65"
     },
@@ -801,7 +801,7 @@
       "title": "Complete Loss of Face",
       "last_updated": "1773284603",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2m2y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2m2y8"
       },
       "volume": "65"
     },
@@ -809,7 +809,7 @@
       "title": "Phantom",
       "last_updated": "1773284611",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3ko42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3ko42"
       },
       "volume": "65"
     },
@@ -817,7 +817,7 @@
       "title": "To Zero",
       "last_updated": "1773284615",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nwneyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nwneyp"
       },
       "volume": "65"
     },
@@ -825,7 +825,7 @@
       "title": "Death Is Also Revenge",
       "last_updated": "1773284615",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqeb4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqeb4d"
       },
       "volume": "65"
     },
@@ -833,7 +833,7 @@
       "title": "Frog",
       "last_updated": "1773284625",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738oxoz4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738oxoz4r"
       },
       "volume": "65"
     },
@@ -841,7 +841,7 @@
       "title": "Stop, Noah",
       "last_updated": "1773284631",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl5n3yd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl5n3yd"
       },
       "volume": "66"
     },
@@ -849,7 +849,7 @@
       "title": "The Road Towards the Sun",
       "last_updated": "1773284628",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvm37j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvm37j"
       },
       "volume": "66"
     },
@@ -857,7 +857,7 @@
       "title": "Dancing of Breams and Plaices",
       "last_updated": "1773284630",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q6pr7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q6pr7j"
       },
       "volume": "66"
     },
@@ -865,7 +865,7 @@
       "title": "Two Changes to Keep in Mind",
       "last_updated": "1773284638",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nob6245"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nob6245"
       },
       "volume": "66"
     },
@@ -873,7 +873,7 @@
       "title": "The Voice From the New World",
       "last_updated": "1773284643",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6en34l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6en34l"
       },
       "volume": "66"
     },
@@ -881,7 +881,7 @@
       "title": "A Premonition of Stormy Seas",
       "last_updated": "1773284644",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469ob6w4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469ob6w4x"
       },
       "volume": "66"
     },
@@ -889,7 +889,7 @@
       "title": "The Hero Hat",
       "last_updated": "1773284647",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8j978"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8j978"
       },
       "volume": "66"
     },
@@ -897,7 +897,7 @@
       "title": "A Gam of Whales",
       "last_updated": "1773284655",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnad37q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnad37q"
       },
       "volume": "66"
     },
@@ -905,7 +905,7 @@
       "title": "Punk Hazard",
       "last_updated": "1773284660",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbl24n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbl24n"
       },
       "volume": "66"
     },
@@ -913,7 +913,7 @@
       "title": "Adventure on the Burning Island",
       "last_updated": "1773284671",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36znny5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36znny5"
       },
       "volume": "66"
     },
@@ -921,7 +921,7 @@
       "title": "Severed Head",
       "last_updated": "1773284667",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nm564o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nm564o"
       },
       "volume": "67"
     },
@@ -929,7 +929,7 @@
       "title": "The Biscuits Room",
       "last_updated": "1773284670",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkl5q78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkl5q78"
       },
       "volume": "67"
     },
@@ -937,7 +937,7 @@
       "title": "About My Torso",
       "last_updated": "1773284676",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wj5p7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wj5p7x"
       },
       "volume": "67"
     },
@@ -945,7 +945,7 @@
       "title": "Trafalgar Law, Warlord of the Sea",
       "last_updated": "1773284682",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2n2y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2n2y8"
       },
       "volume": "67"
     },
@@ -953,7 +953,7 @@
       "title": "Lakeside Bandits",
       "last_updated": "1773284687",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k35o42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k35o42"
       },
       "volume": "67"
     },
@@ -961,7 +961,7 @@
       "title": "Warlord Law vs. Vice Admiral Smoker",
       "last_updated": "1773284689",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nw5eyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nw5eyp"
       },
       "volume": "67"
     },
@@ -969,7 +969,7 @@
       "title": "CC",
       "last_updated": "1773284692",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqvb4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqvb4d"
       },
       "volume": "67"
     },
@@ -977,7 +977,7 @@
       "title": "Master Caesar Clown",
       "last_updated": "1773284697",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738ox6z4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738ox6z4r"
       },
       "volume": "67"
     },
@@ -985,7 +985,7 @@
       "title": "Candy",
       "last_updated": "1773284700",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl5z3yd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl5z3yd"
       },
       "volume": "67"
     },
@@ -993,7 +993,7 @@
       "title": "Yeti Cool Brothers",
       "last_updated": "1773284702",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvr37j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvr37j"
       },
       "volume": "67"
     },
@@ -1001,7 +1001,7 @@
       "title": "Cool Fight",
       "last_updated": "1773284718",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q68r7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q68r7j"
       },
       "volume": "67"
     },
@@ -1009,7 +1009,7 @@
       "title": "Pirate Alliance",
       "last_updated": "1773284720",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896k9o4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896k9o4b"
       },
       "volume": "68"
     },
@@ -1017,7 +1017,7 @@
       "title": "Commence Operation",
       "last_updated": "1773284715",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nobn245"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nobn245"
       },
       "volume": "68"
     },
@@ -1025,7 +1025,7 @@
       "title": "Blizzard With a Chance of Slime",
       "last_updated": "1773284718",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6em34l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6em34l"
       },
       "volume": "68"
     },
@@ -1033,7 +1033,7 @@
       "title": "Gas-Gas Fruit",
       "last_updated": "1773284728",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnaq37q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnaq37q"
       },
       "volume": "68"
     },
@@ -1041,7 +1041,7 @@
       "title": "My Name is Kin'emon!!",
       "last_updated": "1773284732",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zd6z7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zd6z7n"
       },
       "volume": "68"
     },
@@ -1049,7 +1049,7 @@
       "title": "Vergo and Joker",
       "last_updated": "1773284734",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36z3ny5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36z3ny5"
       },
       "volume": "68"
     },
@@ -1057,7 +1057,7 @@
       "title": "The Observers",
       "last_updated": "1773284734",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nm664o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nm664o"
       },
       "volume": "68"
     },
@@ -1065,7 +1065,7 @@
       "title": "I Call it Land of the Dead",
       "last_updated": "1773284743",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wj6p7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wj6p7x"
       },
       "volume": "68"
     },
@@ -1073,7 +1073,7 @@
       "title": "The Perfect Weapon of Mass Murder",
       "last_updated": "1773284749",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k36o42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k36o42"
       },
       "volume": "68"
     },
@@ -1081,7 +1081,7 @@
       "title": "Counter Hazard!!",
       "last_updated": "1773284748",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28ew4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28ew4k"
       },
       "volume": "68"
     },
@@ -1089,7 +1089,7 @@
       "title": "Lobby of Laboratory Building A",
       "last_updated": "1773284761",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nw6eyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nw6eyp"
       },
       "volume": "68"
     },
@@ -1097,7 +1097,7 @@
       "title": "The G-5 Spirit",
       "last_updated": "1773284765",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn58z4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn58z4x"
       },
       "volume": "69"
     },
@@ -1105,7 +1105,7 @@
       "title": "G-5 Commander Vergo the Bamboo Demon",
       "last_updated": "1773284763",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl5w3yd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl5w3yd"
       },
       "volume": "69"
     },
@@ -1113,7 +1113,7 @@
       "title": "Luffy vs. Master",
       "last_updated": "1773284768",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvl37j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvl37j"
       },
       "volume": "69"
     },
@@ -1121,7 +1121,7 @@
       "title": "Puppet Master",
       "last_updated": "1773284776",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6ed34l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6ed34l"
       },
       "volume": "69"
     },
@@ -1129,7 +1129,7 @@
       "title": "An Icy Woman",
       "last_updated": "1773284778",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469obqw4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469obqw4x"
       },
       "volume": "69"
     },
@@ -1137,7 +1137,7 @@
       "title": "Don't Do It, Vegapunk",
       "last_updated": "1773284781",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8g978"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8g978"
       },
       "volume": "69"
     },
@@ -1145,7 +1145,7 @@
       "title": "My Name is Momonosuke",
       "last_updated": "1773284784",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbm24n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbm24n"
       },
       "volume": "69"
     },
@@ -1153,7 +1153,7 @@
       "title": "The Snow-Woman in the Biscuits Room",
       "last_updated": "1773284792",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nmr64o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nmr64o"
       },
       "volume": "69"
     },
@@ -1161,7 +1161,7 @@
       "title": "Wild Beast",
       "last_updated": "1773284794",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbrddyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbrddyp"
       },
       "volume": "69"
     },
@@ -1169,7 +1169,7 @@
       "title": "Mocha",
       "last_updated": "1773284798",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2govxj7l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2govxj7l"
       },
       "volume": "69"
     },
@@ -1177,7 +1177,7 @@
       "title": "The Island That's There but Isn't There",
       "last_updated": "1773284798",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjlp7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjlp7x"
       },
       "volume": "69"
     },
@@ -1185,7 +1185,7 @@
       "title": "S.A.D.",
       "last_updated": "1773284811",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m252y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m252y8"
       },
       "volume": "69"
     },
@@ -1193,7 +1193,7 @@
       "title": "King of the Land of the Dead",
       "last_updated": "1773284811",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3mo42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3mo42"
       },
       "volume": "70"
     },
@@ -1201,7 +1201,7 @@
       "title": "Assassins from Dressrosa",
       "last_updated": "1773284814",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nw3eyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nw3eyp"
       },
       "volume": "70"
     },
@@ -1209,7 +1209,7 @@
       "title": "Die for Me",
       "last_updated": "1773284814",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqjb4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqjb4d"
       },
       "volume": "70"
     },
@@ -1217,7 +1217,7 @@
       "title": "The Most Dangerous Man",
       "last_updated": "1773284826",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl5o3yd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl5o3yd"
       },
       "volume": "70"
     },
@@ -1225,7 +1225,7 @@
       "title": "Leave It to Us!!!",
       "last_updated": "1773284826",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvq37j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvq37j"
       },
       "volume": "70"
     },
@@ -1233,7 +1233,7 @@
       "title": "Mutual Interests",
       "last_updated": "1773284830",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q6kr7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q6kr7j"
       },
       "volume": "70"
     },
@@ -1241,7 +1241,7 @@
       "title": "Deal",
       "last_updated": "1773284829",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896k8o4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896k8o4b"
       },
       "volume": "70"
     },
@@ -1249,7 +1249,7 @@
       "title": "Doflamingo Appears",
       "last_updated": "1773284840",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nobe245"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nobe245"
       },
       "volume": "70"
     },
@@ -1257,7 +1257,7 @@
       "title": "Morning Paper",
       "last_updated": "1773284841",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6eo34l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6eo34l"
       },
       "volume": "70"
     },
@@ -1265,7 +1265,7 @@
       "title": "His Pace",
       "last_updated": "1773284852",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469obzw4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469obzw4x"
       },
       "volume": "70"
     },
@@ -1273,7 +1273,7 @@
       "title": "Adventure in the Country of Love, Passion, and Toys",
       "last_updated": "1773284849",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8a978"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8a978"
       },
       "volume": "71"
     },
@@ -1281,7 +1281,7 @@
       "title": "Corrida Coliseum",
       "last_updated": "1773284850",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdmz7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdmz7n"
       },
       "volume": "71"
     },
@@ -1289,7 +1289,7 @@
       "title": "Waiting Room",
       "last_updated": "1773284856",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nmw64o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nmw64o"
       },
       "volume": "71"
     },
@@ -1297,7 +1297,7 @@
       "title": "Lucy and the Statue of Kyros",
       "last_updated": "1773284862",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbr3dyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbr3dyp"
       },
       "volume": "71"
     },
@@ -1305,7 +1305,7 @@
       "title": "Maynard the Pursuer",
       "last_updated": "1773284863",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knklqq78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knklqq78"
       },
       "volume": "71"
     },
@@ -1313,7 +1313,7 @@
       "title": "I Ain't Gonna Laugh at Ya",
       "last_updated": "1773284861",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2govmj7l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2govmj7l"
       },
       "volume": "71"
     },
@@ -1321,7 +1321,7 @@
       "title": "Block B",
       "last_updated": "1773284869",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2j2y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2j2y8"
       },
       "volume": "71"
     },
@@ -1329,7 +1329,7 @@
       "title": "Coliseum of Scoundrels",
       "last_updated": "1773284872",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3eo42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3eo42"
       },
       "volume": "71"
     },
@@ -1337,7 +1337,7 @@
       "title": "King Punch!!",
       "last_updated": "1773284875",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjdq7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjdq7x"
       },
       "volume": "71"
     },
@@ -1345,7 +1345,7 @@
       "title": "To Greenbit",
       "last_updated": "1773284877",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2jxy8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2jxy8"
       },
       "volume": "71"
     },
@@ -1353,7 +1353,7 @@
       "title": "Adventure in the Land of the Little People",
       "last_updated": "1773284886",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3en42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3en42"
       },
       "volume": "71"
     },
@@ -1361,7 +1361,7 @@
       "title": "Violet",
       "last_updated": "1773284891",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28dl4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28dl4k"
       },
       "volume": "72"
     },
@@ -1369,7 +1369,7 @@
       "title": "Usoland",
       "last_updated": "1773284890",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nwbgyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nwbgyp"
       },
       "volume": "72"
     },
@@ -1377,7 +1377,7 @@
       "title": "Lucy and Moocy",
       "last_updated": "1773284890",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eq5n4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eq5n4d"
       },
       "volume": "72"
     },
@@ -1385,7 +1385,7 @@
       "title": "The Battleground of Block C",
       "last_updated": "1773284899",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5bg4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5bg4x"
       },
       "volume": "72"
     },
@@ -1393,7 +1393,7 @@
       "title": "Don Chin Jao",
       "last_updated": "1773284903",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl5rqyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl5rqyd"
       },
       "volume": "72"
     },
@@ -1401,7 +1401,7 @@
       "title": "Dressrosa's Forgotten",
       "last_updated": "1773284904",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvbd7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvbd7j"
       },
       "volume": "72"
     },
@@ -1409,7 +1409,7 @@
       "title": "Riku Royal Army at the Flower Field",
       "last_updated": "1773284901",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q63j7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q63j7j"
       },
       "volume": "72"
     },
@@ -1417,7 +1417,7 @@
       "title": "Open, Chin Jao",
       "last_updated": "1773284911",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nobrq45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nobrq45"
       },
       "volume": "72"
     },
@@ -1425,7 +1425,7 @@
       "title": "Prisoner-Gladiators",
       "last_updated": "1773284915",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6el24l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6el24l"
       },
       "volume": "72"
     },
@@ -1433,7 +1433,7 @@
       "title": "Rebecca and the Soldier",
       "last_updated": "1773284919",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469obmo4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469obmo4x"
       },
       "volume": "72"
     },
@@ -1441,7 +1441,7 @@
       "title": "Royal Bloodlines",
       "last_updated": "1773284925",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8bj78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8bj78"
       },
       "volume": "73"
     },
@@ -1449,7 +1449,7 @@
       "title": "Change of Plans",
       "last_updated": "1773284926",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbem4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbem4n"
       },
       "volume": "73"
     },
@@ -1457,7 +1457,7 @@
       "title": "Law's Plan",
       "last_updated": "1773284929",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdam7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdam7n"
       },
       "volume": "73"
     },
@@ -1465,7 +1465,7 @@
       "title": "The Undefeated Woman",
       "last_updated": "1773284930",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36zjjy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36zjjy5"
       },
       "volume": "73"
     },
@@ -1473,7 +1473,7 @@
       "title": "The Riku Family",
       "last_updated": "1773284938",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nmbp4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nmbp4o"
       },
       "volume": "73"
     },
@@ -1481,7 +1481,7 @@
       "title": "The Hero's Ambush",
       "last_updated": "1773284939",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbrkryp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbrkryp"
       },
       "volume": "73"
     },
@@ -1489,7 +1489,7 @@
       "title": "The Number of Tragedies",
       "last_updated": "1773284942",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2govj97l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2govj97l"
       },
       "volume": "73"
     },
@@ -1497,7 +1497,7 @@
       "title": "Warlord Doflamingo vs. Warlord Law",
       "last_updated": "1773284941",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wj8q7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wj8q7x"
       },
       "volume": "73"
     },
@@ -1505,7 +1505,7 @@
       "title": "Three Cards",
       "last_updated": "1773284951",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2zxy8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2zxy8"
       },
       "volume": "73"
     },
@@ -1513,7 +1513,7 @@
       "title": "Operation Dressrosa S.O.P.",
       "last_updated": "1773284960",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3bn42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3bn42"
       },
       "volume": "73"
     },
@@ -1521,7 +1521,7 @@
       "title": "An Underground World",
       "last_updated": "1773284961",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde289l4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde289l4k"
       },
       "volume": "74"
     },
@@ -1529,7 +1529,7 @@
       "title": "What The Soldier Wants",
       "last_updated": "1773284958",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nwkgyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nwkgyp"
       },
       "volume": "74"
     },
@@ -1537,7 +1537,7 @@
       "title": "The Slicing Winds of Rommel",
       "last_updated": "1773284966",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5pg4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5pg4x"
       },
       "volume": "74"
     },
@@ -1545,7 +1545,7 @@
       "title": "Fujitora's Plan",
       "last_updated": "1773284970",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl5kqyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl5kqyd"
       },
       "volume": "74"
     },
@@ -1553,7 +1553,7 @@
       "title": "Supreme Officer Diamante",
       "last_updated": "1773284973",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpv2d7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpv2d7j"
       },
       "volume": "74"
     },
@@ -1561,7 +1561,7 @@
       "title": "Officer Tower",
       "last_updated": "1773284972",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896kn54b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896kn54b"
       },
       "volume": "74"
     },
@@ -1569,7 +1569,7 @@
       "title": "Trebol Army, Special Officer Sugar",
       "last_updated": "1773284979",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nobvq45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nobvq45"
       },
       "volume": "74"
     },
@@ -1577,7 +1577,7 @@
       "title": "Captain",
       "last_updated": "1773284984",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6e924l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6e924l"
       },
       "volume": "74"
     },
@@ -1585,7 +1585,7 @@
       "title": "It's in Your Hands!!!",
       "last_updated": "1773284986",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469obno4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469obno4x"
       },
       "volume": "74"
     },
@@ -1593,7 +1593,7 @@
       "title": "Usoland the Liar",
       "last_updated": "1773284988",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnapq7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnapq7q"
       },
       "volume": "74"
     },
@@ -1601,7 +1601,7 @@
       "title": "Ever At Your Side",
       "last_updated": "1773284996",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdom7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdom7n"
       },
       "volume": "74"
     },
@@ -1609,7 +1609,7 @@
       "title": "Dressrosa Trembles",
       "last_updated": "1773285001",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36z9jy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36z9jy5"
       },
       "volume": "75"
     },
@@ -1617,7 +1617,7 @@
       "title": "Revolutionary Army Chief of Staff",
       "last_updated": "1773284998",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nmpp4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nmpp4o"
       },
       "volume": "75"
     },
@@ -1625,7 +1625,7 @@
       "title": "The Birdcage",
       "last_updated": "1773285001",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbrpryp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbrpryp"
       },
       "volume": "75"
     },
@@ -1633,7 +1633,7 @@
       "title": "Stars",
       "last_updated": "1773285009",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjpq7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjpq7x"
       },
       "volume": "75"
     },
@@ -1641,7 +1641,7 @@
       "title": "Supreme Officer Pica",
       "last_updated": "1773285012",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2pxy8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2pxy8"
       },
       "volume": "75"
     },
@@ -1649,7 +1649,7 @@
       "title": "Repaying the Debt",
       "last_updated": "1773285015",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde288l4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde288l4k"
       },
       "volume": "75"
     },
@@ -1657,7 +1657,7 @@
       "title": "Onward, Gallery of Rogues!!",
       "last_updated": "1773285012",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3pn42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3pn42"
       },
       "volume": "75"
     },
@@ -1665,7 +1665,7 @@
       "title": "Flashpoints",
       "last_updated": "1773285023",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqqn4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqqn4d"
       },
       "volume": "75"
     },
@@ -1673,7 +1673,7 @@
       "title": "Sabo vs. Admiral Fujitora",
       "last_updated": "1773285024",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738oxxj4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738oxxj4r"
       },
       "volume": "75"
     },
@@ -1681,7 +1681,7 @@
       "title": "Palm",
       "last_updated": "1773285029",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn55g4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn55g4x"
       },
       "volume": "75"
     },
@@ -1689,7 +1689,7 @@
       "title": "Battle",
       "last_updated": "1773285038",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl55qyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl55qyd"
       },
       "volume": "76"
     },
@@ -1697,7 +1697,7 @@
       "title": "Making Acquaintance",
       "last_updated": "1773285039",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q66j7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q66j7j"
       },
       "volume": "76"
     },
@@ -1705,7 +1705,7 @@
       "title": "A Man's World",
       "last_updated": "1773285038",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896kk54b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896kk54b"
       },
       "volume": "76"
     },
@@ -1713,7 +1713,7 @@
       "title": "The Fourth Step",
       "last_updated": "1773285049",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469obbo4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469obbo4x"
       },
       "volume": "76"
     },
@@ -1721,7 +1721,7 @@
       "title": "Trump Card",
       "last_updated": "1773285053",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnaaq7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnaaq7q"
       },
       "volume": "76"
     },
@@ -1729,7 +1729,7 @@
       "title": "Just Keep Going",
       "last_updated": "1773285054",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbbm4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbbm4n"
       },
       "volume": "76"
     },
@@ -1737,7 +1737,7 @@
       "title": "Secret Plan",
       "last_updated": "1773285054",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zddm7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zddm7n"
       },
       "volume": "76"
     },
@@ -1745,7 +1745,7 @@
       "title": "The Same Bet",
       "last_updated": "1773285059",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36zzjy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36zzjy5"
       },
       "volume": "76"
     },
@@ -1753,7 +1753,7 @@
       "title": "The Op-Op Fruit",
       "last_updated": "1773285067",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nmmp4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nmmp4o"
       },
       "volume": "76"
     },
@@ -1761,7 +1761,7 @@
       "title": "The White Town",
       "last_updated": "1773285068",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbrrryp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbrrryp"
       },
       "volume": "76"
     },
@@ -1769,7 +1769,7 @@
       "title": "Declaration of Humanity",
       "last_updated": "1773285078",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkllb78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkllb78"
       },
       "volume": "76"
     },
@@ -1777,7 +1777,7 @@
       "title": "White Monster",
       "last_updated": "1773285085",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjjq7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjjq7x"
       },
       "volume": "77"
     },
@@ -1785,7 +1785,7 @@
       "title": "Minion, the Isle of Fate",
       "last_updated": "1773285085",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m22xy8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m22xy8"
       },
       "volume": "77"
     },
@@ -1793,7 +1793,7 @@
       "title": "Smile",
       "last_updated": "1773285084",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k33n42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k33n42"
       },
       "volume": "77"
     },
@@ -1801,7 +1801,7 @@
       "title": "Cora",
       "last_updated": "1773285095",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nwogyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nwogyp"
       },
       "volume": "77"
     },
@@ -1809,7 +1809,7 @@
       "title": "The Trigger That Day",
       "last_updated": "1773285099",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738oxvj4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738oxvj4r"
       },
       "volume": "77"
     },
@@ -1817,7 +1817,7 @@
       "title": "Bellamy the Pirate",
       "last_updated": "1773285102",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5og4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5og4x"
       },
       "volume": "77"
     },
@@ -1825,7 +1825,7 @@
       "title": "The Spear of Elbaph",
       "last_updated": "1773285101",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl5bqyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl5bqyd"
       },
       "volume": "77"
     },
@@ -1833,7 +1833,7 @@
       "title": "Sai, Don of the Happosui Army",
       "last_updated": "1773285115",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvod7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvod7j"
       },
       "volume": "77"
     },
@@ -1841,7 +1841,7 @@
       "title": "Cabbage and Lomeo",
       "last_updated": "1773285116",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q6bj7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q6bj7j"
       },
       "volume": "77"
     },
@@ -1849,7 +1849,7 @@
       "title": "Half 'n Half",
       "last_updated": "1773285121",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896kj54b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896kj54b"
       },
       "volume": "77"
     },
@@ -1857,7 +1857,7 @@
       "title": "Leo, Captain of the Tontatta Warriors",
       "last_updated": "1773285115",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nob9q45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nob9q45"
       },
       "volume": "77"
     },
@@ -1865,7 +1865,7 @@
       "title": "To Russian With Love",
       "last_updated": "1773285137",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469ob2o4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469ob2o4x"
       },
       "volume": "77"
     },
@@ -1873,7 +1873,7 @@
       "title": "The Hero of the Coliseum",
       "last_updated": "1773285142",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnaoq7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnaoq7q"
       },
       "volume": "78"
     },
@@ -1881,7 +1881,7 @@
       "title": "Zoro vs. Pica",
       "last_updated": "1773285135",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8oj78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8oj78"
       },
       "volume": "78"
     },
@@ -1889,7 +1889,7 @@
       "title": "Tactics No. 5",
       "last_updated": "1773285137",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdbm7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdbm7n"
       },
       "volume": "78"
     },
@@ -1897,7 +1897,7 @@
       "title": "His Final Battle",
       "last_updated": "1773285155",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36zbjy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36zbjy5"
       },
       "volume": "78"
     },
@@ -1905,7 +1905,7 @@
       "title": "The Heart Curse",
       "last_updated": "1773285153",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nmop4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nmop4o"
       },
       "volume": "78"
     },
@@ -1913,7 +1913,7 @@
       "title": "Desire",
       "last_updated": "1773285160",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbroryp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbroryp"
       },
       "volume": "78"
     },
@@ -1921,7 +1921,7 @@
       "title": "Champion of Evil",
       "last_updated": "1773285161",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knklbb78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knklbb78"
       },
       "volume": "78"
     },
@@ -1929,7 +1929,7 @@
       "title": "In My Way",
       "last_updated": "1773285170",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjbq7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjbq7x"
       },
       "volume": "78"
     },
@@ -1937,7 +1937,7 @@
       "title": "Gear Four",
       "last_updated": "1773285173",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2bxy8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2bxy8"
       },
       "volume": "78"
     },
@@ -1945,7 +1945,7 @@
       "title": "On Broken Legs",
       "last_updated": "1773285179",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3on42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3on42"
       },
       "volume": "78"
     },
@@ -1953,7 +1953,7 @@
       "title": "Gyats",
       "last_updated": "1773285185",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2gov9z7l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2gov9z7l"
       },
       "volume": "79"
     },
@@ -1961,7 +1961,7 @@
       "title": "Four Minutes Before",
       "last_updated": "1773285187",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3ld42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3ld42"
       },
       "volume": "79"
     },
@@ -1969,7 +1969,7 @@
       "title": "My Battle",
       "last_updated": "1773285189",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28wa4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28wa4k"
       },
       "volume": "79"
     },
@@ -1977,7 +1977,7 @@
       "title": "LUCY!!",
       "last_updated": "1773285201",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqx94d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqx94d"
       },
       "volume": "79"
     },
@@ -1985,7 +1985,7 @@
       "title": "Heaven and Earth",
       "last_updated": "1773285205",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738oxng4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738oxng4r"
       },
       "volume": "79"
     },
@@ -1993,7 +1993,7 @@
       "title": "Rubble",
       "last_updated": "1773285203",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q6gq7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q6gq7j"
       },
       "volume": "79"
     },
@@ -2001,7 +2001,7 @@
       "title": "On Hands and Knees",
       "last_updated": "1773285203",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896kd24b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896kd24b"
       },
       "volume": "79"
     },
@@ -2009,7 +2009,7 @@
       "title": "Tiger and Dog",
       "last_updated": "1773285216",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6erd4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6erd4l"
       },
       "volume": "79"
     },
@@ -2017,7 +2017,7 @@
       "title": "Sabo's Adventure",
       "last_updated": "1773285220",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8kb78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8kb78"
       },
       "volume": "79"
     },
@@ -2025,7 +2025,7 @@
       "title": "Suicide",
       "last_updated": "1773285227",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnawp7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnawp7q"
       },
       "volume": "79"
     },
@@ -2033,7 +2033,7 @@
       "title": "Soldier's Conviction",
       "last_updated": "1773285233",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbrb4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbrb4n"
       },
       "volume": "80"
     },
@@ -2041,7 +2041,7 @@
       "title": "Rebecca",
       "last_updated": "1773285235",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36zmmy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36zmmy5"
       },
       "volume": "80"
     },
@@ -2049,7 +2049,7 @@
       "title": "Heart",
       "last_updated": "1773285236",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nm234o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nm234o"
       },
       "volume": "80"
     },
@@ -2057,7 +2057,7 @@
       "title": "Father and Sons",
       "last_updated": "1773285243",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2govkz7l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2govkz7l"
       },
       "volume": "80"
     },
@@ -2065,7 +2065,7 @@
       "title": "Sons' Cups",
       "last_updated": "1773285250",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjqx7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjqx7x"
       },
       "volume": "80"
     },
@@ -2073,7 +2073,7 @@
       "title": "Opening Speech",
       "last_updated": "1773285253",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3wd42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3wd42"
       },
       "volume": "80"
     },
@@ -2081,7 +2081,7 @@
       "title": "Zou",
       "last_updated": "1773285254",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28ka4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28ka4k"
       },
       "volume": "80"
     },
@@ -2089,7 +2089,7 @@
       "title": "Elephant Climbing",
       "last_updated": "1773285256",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqd94d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqd94d"
       },
       "volume": "80"
     },
@@ -2097,7 +2097,7 @@
       "title": "Adventure in the Land Atop the Elephant's Back",
       "last_updated": "1773285265",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5ax4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5ax4x"
       },
       "volume": "80"
     },
@@ -2105,7 +2105,7 @@
       "title": "The Minks",
       "last_updated": "1773285268",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvx57j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvx57j"
       },
       "volume": "80"
     },
@@ -2113,7 +2113,7 @@
       "title": "At Rightflank Fortress",
       "last_updated": "1773285274",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q6nq7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q6nq7j"
       },
       "volume": "80"
     },
@@ -2121,7 +2121,7 @@
       "title": "Ten Days Earlier",
       "last_updated": "1773285278",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nobgn45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nobgn45"
       },
       "volume": "81"
     },
@@ -2129,7 +2129,7 @@
       "title": "Duke Dogstorm",
       "last_updated": "1773285284",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6e5d4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6e5d4l"
       },
       "volume": "81"
     },
@@ -2137,7 +2137,7 @@
       "title": "The Cat Viper",
       "last_updated": "1773285286",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469ob8z4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469ob8z4x"
       },
       "volume": "81"
     },
@@ -2145,7 +2145,7 @@
       "title": "The Twirly Hat Crew Arrives",
       "last_updated": "1773285291",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln85b78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln85b78"
       },
       "volume": "81"
     },
@@ -2153,7 +2153,7 @@
       "title": "Roko",
       "last_updated": "1773285296",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqna6p7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqna6p7q"
       },
       "volume": "81"
     },
@@ -2161,7 +2161,7 @@
       "title": "Capone 'Gang' Bege",
       "last_updated": "1773285300",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kb6b4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kb6b4n"
       },
       "volume": "81"
     },
@@ -2169,7 +2169,7 @@
       "title": "Tea Party Invitation",
       "last_updated": "1773285301",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdrb7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdrb7n"
       },
       "volume": "81"
     },
@@ -2177,7 +2177,7 @@
       "title": "Let's Go See the Cat Viper",
       "last_updated": "1773285306",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36zamy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36zamy5"
       },
       "volume": "81"
     },
@@ -2185,7 +2185,7 @@
       "title": "Take Me With You!!",
       "last_updated": "1773285312",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbrm2yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbrm2yp"
       },
       "volume": "81"
     },
@@ -2193,7 +2193,7 @@
       "title": "Dog vs. Cat",
       "last_updated": "1773285322",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knklj378"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knklj378"
       },
       "volume": "81"
     },
@@ -2201,7 +2201,7 @@
       "title": "Raizo of the Mist",
       "last_updated": "1773285327",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wjnx7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wjnx7x"
       },
       "volume": "82"
     },
@@ -2209,7 +2209,7 @@
       "title": "Inside the Whale",
       "last_updated": "1773285322",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2x3y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2x3y8"
       },
       "volume": "82"
     },
@@ -2217,7 +2217,7 @@
       "title": "Momonosuke, Heir to the Kozuki Clan",
       "last_updated": "1773285328",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28ga4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28ga4k"
       },
       "volume": "82"
     },
@@ -2225,7 +2225,7 @@
       "title": "Cats and Dogs Have a History",
       "last_updated": "1773285338",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738oxmg4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738oxmg4r"
       },
       "volume": "82"
     },
@@ -2233,7 +2233,7 @@
       "title": "Understood",
       "last_updated": "1773285342",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5kx4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5kx4x"
       },
       "volume": "82"
     },
@@ -2241,7 +2241,7 @@
       "title": "Descending the Elephant",
       "last_updated": "1773285344",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezl58myd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezl58myd"
       },
       "volume": "82"
     },
@@ -2249,7 +2249,7 @@
       "title": "The World Is Restless",
       "last_updated": "1773285344",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpvg57j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpvg57j"
       },
       "volume": "82"
     },
@@ -2257,7 +2257,7 @@
       "title": "Playing Pirates",
       "last_updated": "1773285359",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q6aq7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q6aq7j"
       },
       "volume": "82"
     },
@@ -2265,7 +2265,7 @@
       "title": "Comic Strip",
       "last_updated": "1773285357",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45nobwn45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45nobwn45"
       },
       "volume": "82"
     },
@@ -2273,7 +2273,7 @@
       "title": "0 and 4",
       "last_updated": "1773285359",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6ewd4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6ewd4l"
       },
       "volume": "82"
     },
@@ -2281,7 +2281,7 @@
       "title": "Totto Land",
       "last_updated": "1773285365",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469obez4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469obez4x"
       },
       "volume": "82"
     },
@@ -2289,7 +2289,7 @@
       "title": "1 and 2",
       "last_updated": "1773285379",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnaep7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnaep7q"
       },
       "volume": "83"
     },
@@ -2297,7 +2297,7 @@
       "title": "Emperor of the Sea, Charlotte Linlin",
       "last_updated": "1773285375",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kb8b4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kb8b4n"
       },
       "volume": "83"
     },
@@ -2305,7 +2305,7 @@
       "title": "A Man You Can Bet On",
       "last_updated": "1773285375",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zdpb7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zdpb7n"
       },
       "volume": "83"
     },
@@ -2313,7 +2313,7 @@
       "title": "Adventure in the Mysterious Forest",
       "last_updated": "1773285380",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36zemy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36zemy5"
       },
       "volume": "83"
     },
@@ -2321,7 +2321,7 @@
       "title": "Kingdom of Germa",
       "last_updated": "1773285396",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2govwz7l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2govwz7l"
       },
       "volume": "83"
     },
@@ -2329,7 +2329,7 @@
       "title": "Vinsmoke Judge",
       "last_updated": "1773285396",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkl9378"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkl9378"
       },
       "volume": "83"
     },
@@ -2337,7 +2337,7 @@
       "title": "My Dream",
       "last_updated": "1773285398",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6m2r3y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6m2r3y8"
       },
       "volume": "83"
     },
@@ -2345,7 +2345,7 @@
       "title": "Kingdom of Soul",
       "last_updated": "1773285402",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6k3nd42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6k3nd42"
       },
       "volume": "83"
     },
@@ -2353,7 +2353,7 @@
       "title": "Lola's Vivre Card",
       "last_updated": "1773285412",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde28va4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde28va4k"
       },
       "volume": "83"
     },
@@ -2361,7 +2361,7 @@
       "title": "Luffy vs. Cracker the General",
       "last_updated": "1773285411",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nwpxyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nwpxyp"
       },
       "volume": "83"
     },
@@ -2369,7 +2369,7 @@
       "title": "Chobro",
       "last_updated": "1773285414",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eqg94d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eqg94d"
       },
       "volume": "83"
     },
@@ -2377,7 +2377,7 @@
       "title": "I Owe You My Life!",
       "last_updated": "1773285423",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjn5wx4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjn5wx4x"
       },
       "volume": "84"
     },
@@ -2385,7 +2385,7 @@
       "title": "The Iron Mask",
       "last_updated": "1773285427",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8q6oq7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8q6oq7j"
       },
       "volume": "84"
     },
@@ -2393,7 +2393,7 @@
       "title": "To the East Blue",
       "last_updated": "1773285427",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896kb24b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896kb24b"
       },
       "volume": "84"
     },
@@ -2401,7 +2401,7 @@
       "title": "The Power of a Full Stomach",
       "last_updated": "1773285426",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45noban45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45noban45"
       },
       "volume": "84"
     },
@@ -2409,7 +2409,7 @@
       "title": "Vinsmoke Sanji",
       "last_updated": "1773285438",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469obvz4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469obvz4x"
       },
       "volume": "84"
     },
@@ -2417,7 +2417,7 @@
       "title": "Luffy vs. Sanji",
       "last_updated": "1773285441",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvln8mb78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvln8mb78"
       },
       "volume": "84"
     },
@@ -2425,7 +2425,7 @@
       "title": "Forces of Rage",
       "last_updated": "1773285443",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnazp7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnazp7q"
       },
       "volume": "84"
     },
@@ -2433,7 +2433,7 @@
       "title": "Tamago Security",
       "last_updated": "1773285442",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kbob4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kbob4n"
       },
       "volume": "84"
     },
@@ -2441,7 +2441,7 @@
       "title": "Luffy and Big Mom",
       "last_updated": "1773285453",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36z8my5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36z8my5"
       },
       "volume": "84"
     },
@@ -2449,7 +2449,7 @@
       "title": "Goodbye",
       "last_updated": "1773285460",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nmx34o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nmx34o"
       },
       "volume": "84"
     },
@@ -2457,7 +2457,7 @@
       "title": "Chobro in the Land of Mirrors",
       "last_updated": "1773285464",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbr62yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbr62yp"
       },
       "volume": "85"
     },
@@ -2465,7 +2465,7 @@
       "title": "A Ray of Light",
       "last_updated": "1773285459",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkl3378"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkl3378"
       },
       "volume": "85"
     },
@@ -2473,7 +2473,7 @@
       "title": "Dog-End",
       "last_updated": "1773285467",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wbzx7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wbzx7x"
       },
       "volume": "85"
     },
@@ -2481,7 +2481,7 @@
       "title": "Germa's Failure",
       "last_updated": "1773285474",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6mbo3y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6mbo3y8"
       },
       "volume": "85"
     },
@@ -2489,7 +2489,7 @@
       "title": "Not Here",
       "last_updated": "1773285474",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6kogd42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6kogd42"
       },
       "volume": "85"
     },
@@ -2497,7 +2497,7 @@
       "title": "What Are You Doing_",
       "last_updated": "1773285481",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2go6z37l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2go6z37l"
       },
       "volume": "85"
     },
@@ -2505,7 +2505,7 @@
       "title": "Glurrgle!!!",
       "last_updated": "1773285485",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wbz37x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wbz37x"
       },
       "volume": "85"
     },
@@ -2513,7 +2513,7 @@
       "title": "Liar",
       "last_updated": "1773285494",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6kogx42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6kogx42"
       },
       "volume": "85"
     },
@@ -2521,7 +2521,7 @@
       "title": "Rook",
       "last_updated": "1773285492",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde2bl64k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde2bl64k"
       },
       "volume": "85"
     },
@@ -2529,7 +2529,7 @@
       "title": "Meeting",
       "last_updated": "1773285502",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6norlyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6norlyp"
       },
       "volume": "85"
     },
@@ -2537,7 +2537,7 @@
       "title": "Emperor Assassination Plan",
       "last_updated": "1773285508",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eoza4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eoza4d"
       },
       "volume": "86"
     },
@@ -2545,7 +2545,7 @@
       "title": "10_00 Start",
       "last_updated": "1773285506",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738ovko4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738ovko4r"
       },
       "volume": "86"
     },
@@ -2553,7 +2553,7 @@
       "title": "The Actor",
       "last_updated": "1773285509",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjnozq4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjnozq4x"
       },
       "volume": "86"
     },
@@ -2561,7 +2561,7 @@
       "title": "The Thinker",
       "last_updated": "1773285528",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6bxe4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6bxe4l"
       },
       "volume": "86"
     },
@@ -2569,7 +2569,7 @@
       "title": "The Knight",
       "last_updated": "1773285525",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpo6l7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpo6l7j"
       },
       "volume": "86"
     },
@@ -2577,7 +2577,7 @@
       "title": "The Vinsmoke Massacre Plot",
       "last_updated": "1773285525",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8qbvk7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8qbvk7j"
       },
       "volume": "86"
     },
@@ -2585,7 +2585,7 @@
       "title": "Hey, Mother",
       "last_updated": "1773285527",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896jpw4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896jpw4b"
       },
       "volume": "86"
     },
@@ -2593,7 +2593,7 @@
       "title": "Natural Born Destroyer",
       "last_updated": "1773285543",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvlnozk78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvlnozk78"
       },
       "volume": "86"
     },
@@ -2601,7 +2601,7 @@
       "title": "Happy Birthday",
       "last_updated": "1773285543",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnox67q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnox67q"
       },
       "volume": "86"
     },
@@ -2609,7 +2609,7 @@
       "title": "KX Launcher",
       "last_updated": "1773285544",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kqx84n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kqx84n"
       },
       "volume": "86"
     },
@@ -2617,7 +2617,7 @@
       "title": "Castling",
       "last_updated": "1773285547",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zbg57n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zbg57n"
       },
       "volume": "86"
     },
@@ -2625,7 +2625,7 @@
       "title": "Parting",
       "last_updated": "1773285569",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nojj4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nojj4o"
       },
       "volume": "87"
     },
@@ -2633,7 +2633,7 @@
       "title": "You Can Do It, Caesar!!",
       "last_updated": "1773285561",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovboglyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovboglyp"
       },
       "volume": "87"
     },
@@ -2641,7 +2641,7 @@
       "title": "Thick and Fluffy",
       "last_updated": "1773285564",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkbzw78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkbzw78"
       },
       "volume": "87"
     },
@@ -2649,7 +2649,7 @@
       "title": "Recipe for Disaster",
       "last_updated": "1773285563",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2go6p37l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2go6p37l"
       },
       "volume": "87"
     },
@@ -2657,7 +2657,7 @@
       "title": "Be My Servant",
       "last_updated": "1773285578",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6bpe4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6bpe4l"
       },
       "volume": "87"
     },
@@ -2665,7 +2665,7 @@
       "title": "A Woman's Honor",
       "last_updated": "1773285579",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469o2a24x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469o2a24x"
       },
       "volume": "87"
     },
@@ -2673,7 +2673,7 @@
       "title": "Pudding Coincidentally Appears!!",
       "last_updated": "1773285580",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvlnodk78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvlnodk78"
       },
       "volume": "87"
     },
@@ -2681,7 +2681,7 @@
       "title": "Bittersweet",
       "last_updated": "1773285585",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnok67q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnok67q"
       },
       "volume": "87"
     },
@@ -2689,7 +2689,7 @@
       "title": "Commander Pedro of the Mink Guardians",
       "last_updated": "1773285600",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zbe57n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zbe57n"
       },
       "volume": "87"
     },
@@ -2697,7 +2697,7 @@
       "title": "Big Mom's Sweet 3 General, Katakuri",
       "last_updated": "1773285602",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36bpgy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36bpgy5"
       },
       "volume": "87"
     },
@@ -2705,7 +2705,7 @@
       "title": "Zero Escape",
       "last_updated": "1773285605",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6noqj4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6noqj4o"
       },
       "volume": "88"
     },
@@ -2713,7 +2713,7 @@
       "title": "Wave Room",
       "last_updated": "1773285601",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2go6e37l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2go6e37l"
       },
       "volume": "88"
     },
@@ -2721,7 +2721,7 @@
       "title": "Beyond the Emperor's Expectations",
       "last_updated": "1773285615",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6koqx42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6koqx42"
       },
       "volume": "88"
     },
@@ -2729,7 +2729,7 @@
       "title": "Merienda",
       "last_updated": "1773285619",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eona4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eona4d"
       },
       "volume": "88"
     },
@@ -2737,7 +2737,7 @@
       "title": "Who Is That_",
       "last_updated": "1773285620",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738ovpo4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738ovpo4r"
       },
       "volume": "88"
     },
@@ -2745,7 +2745,7 @@
       "title": "I'm Brulee!!!",
       "last_updated": "1773285623",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjnovq4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjnovq4x"
       },
       "volume": "88"
     },
@@ -2753,7 +2753,7 @@
       "title": "Way of Life",
       "last_updated": "1773285635",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezlbvzyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezlbvzyd"
       },
       "volume": "88"
     },
@@ -2761,7 +2761,7 @@
       "title": "Someone Somewhere Is Wishing for Your Happiness",
       "last_updated": "1773285635",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpo3l7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpo3l7j"
       },
       "volume": "88"
     },
@@ -2769,7 +2769,7 @@
       "title": "Lion",
       "last_updated": "1773285637",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8qblk7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8qblk7j"
       },
       "volume": "88"
     },
@@ -2777,7 +2777,7 @@
       "title": "Unfamiliar Mama",
       "last_updated": "1773285641",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896jzw4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896jzw4b"
       },
       "volume": "88"
     },
@@ -2785,7 +2785,7 @@
       "title": "Big Mom on the Ship",
       "last_updated": "1773285663",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45no98v45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45no98v45"
       },
       "volume": "89"
     },
@@ -2793,7 +2793,7 @@
       "title": "They Believe in Me",
       "last_updated": "1773285653",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6bge4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6bge4l"
       },
       "volume": "89"
     },
@@ -2801,7 +2801,7 @@
       "title": "Threat Confirmed",
       "last_updated": "1773285654",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469o2x24x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469o2x24x"
       },
       "volume": "89"
     },
@@ -2809,7 +2809,7 @@
       "title": "Flampe, 36th Daughter of Charlotte",
       "last_updated": "1773285659",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kqa84n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kqa84n"
       },
       "volume": "89"
     },
@@ -2817,7 +2817,7 @@
       "title": "12_05",
       "last_updated": "1773285669",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6nozj4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6nozj4o"
       },
       "volume": "89"
     },
@@ -2825,7 +2825,7 @@
       "title": "Luffy the Pirate vs. General Katakuri",
       "last_updated": "1773285668",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbojlyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbojlyp"
       },
       "volume": "89"
     },
@@ -2833,7 +2833,7 @@
       "title": "One Last Thing",
       "last_updated": "1773285674",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkbww78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkbww78"
       },
       "volume": "89"
     },
@@ -2841,7 +2841,7 @@
       "title": "Pekoms's Cacao Island Escape Plan",
       "last_updated": "1773285680",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2go6l37l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2go6l37l"
       },
       "volume": "89"
     },
@@ -2849,7 +2849,7 @@
       "title": "I Will Return",
       "last_updated": "1773285685",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6mbw9y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6mbw9y8"
       },
       "volume": "89"
     },
@@ -2857,7 +2857,7 @@
       "title": "The Final Fortress",
       "last_updated": "1773285686",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6kodx42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6kodx42"
       },
       "volume": "89"
     },
@@ -2865,7 +2865,7 @@
       "title": "Bad End Musical",
       "last_updated": "1773285695",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde2bp64k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde2bp64k"
       },
       "volume": "89"
     },
@@ -2873,7 +2873,7 @@
       "title": "Don't Let Even Death Stop You!!!",
       "last_updated": "1773285702",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nodlyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nodlyp"
       },
       "volume": "90"
     },
@@ -2881,7 +2881,7 @@
       "title": "End Roll",
       "last_updated": "1773285702",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eo2a4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eo2a4d"
       },
       "volume": "90"
     },
@@ -2889,7 +2889,7 @@
       "title": "Fifth Emperor",
       "last_updated": "1773285708",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjnorq4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjnorq4x"
       },
       "volume": "90"
     },
@@ -2897,7 +2897,7 @@
       "title": "Introducing the Revolutionary Army Captains",
       "last_updated": "1773285714",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezlbpzyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezlbpzyd"
       },
       "volume": "90"
     },
@@ -2905,7 +2905,7 @@
       "title": "What a Beautiful World",
       "last_updated": "1773285720",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8qbrk7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8qbrk7j"
       },
       "volume": "90"
     },
@@ -2913,7 +2913,7 @@
       "title": "Sacred Marijoa",
       "last_updated": "1773285722",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896jlw4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896jlw4b"
       },
       "volume": "90"
     },
@@ -2921,7 +2921,7 @@
       "title": "The Empty Throne",
       "last_updated": "1773285725",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6bke4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6bke4l"
       },
       "volume": "90"
     },
@@ -2929,7 +2929,7 @@
       "title": "The Reverie Begins",
       "last_updated": "1773285731",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469o2g24x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469o2g24x"
       },
       "volume": "90"
     },
@@ -2937,7 +2937,7 @@
       "title": "Seppuku",
       "last_updated": "1773285735",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvlnoek78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvlnoek78"
       },
       "volume": "90"
     },
@@ -2945,7 +2945,7 @@
       "title": "Onward to Wano",
       "last_updated": "1773285739",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnog67q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnog67q"
       },
       "volume": "90"
     },
@@ -2953,7 +2953,7 @@
       "title": "Adventure in the Land of Samurai",
       "last_updated": "1773285746",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zbl57n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zbl57n"
       },
       "volume": "91"
     },
@@ -2961,7 +2961,7 @@
       "title": "Amigasa Village",
       "last_updated": "1773285746",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36bvgy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36bvgy5"
       },
       "volume": "91"
     },
@@ -2969,7 +2969,7 @@
       "title": "The Crane Returns the Favor",
       "last_updated": "1773285748",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovboxlyp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovboxlyp"
       },
       "volume": "91"
     },
@@ -2977,7 +2977,7 @@
       "title": "Okobore Town",
       "last_updated": "1773285754",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkbew78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkbew78"
       },
       "volume": "91"
     },
@@ -2985,7 +2985,7 @@
       "title": "Bakura Town",
       "last_updated": "1773285759",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wbr37x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wbr37x"
       },
       "volume": "91"
     },
@@ -2993,7 +2993,7 @@
       "title": "Wano Sumo",
       "last_updated": "1773285763",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6mbv9y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6mbv9y8"
       },
       "volume": "91"
     },
@@ -3001,7 +3001,7 @@
       "title": "The Food Treasure Ship",
       "last_updated": "1773285762",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6kozx42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6kozx42"
       },
       "volume": "91"
     },
@@ -3009,7 +3009,7 @@
       "title": "Luffytaro Returns the Favor",
       "last_updated": "1773285767",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2go6387l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2go6387l"
       },
       "volume": "91"
     },
@@ -3017,7 +3017,7 @@
       "title": "The Ruins of Oden Castle",
       "last_updated": "1773285771",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wbro7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wbro7x"
       },
       "volume": "91"
     },
@@ -3025,7 +3025,7 @@
       "title": "For Love of Oden",
       "last_updated": "1773285774",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6kozk42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6kozk42"
       },
       "volume": "91"
     },
@@ -3033,7 +3033,7 @@
       "title": "Shutenmaru",
       "last_updated": "1773285783",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde2ban4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde2ban4k"
       },
       "volume": "91"
     },
@@ -3041,7 +3041,7 @@
       "title": "Supreme Commander Kaido of the Animal Kingdom Pirates",
       "last_updated": "1773285786",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezlb6kyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezlb6kyd"
       },
       "volume": "92"
     },
@@ -3049,7 +3049,7 @@
       "title": "Emperor of the Sea Kaido vs. Luffy",
       "last_updated": "1773285786",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8qbxb7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8qbxb7j"
       },
       "volume": "92"
     },
@@ -3057,7 +3057,7 @@
       "title": "Huh",
       "last_updated": "1773285787",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45no9zg45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45no9zg45"
       },
       "volume": "92"
     },
@@ -3065,7 +3065,7 @@
       "title": "Absence",
       "last_updated": "1773285797",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvlnovz78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvlnovz78"
       },
       "volume": "92"
     },
@@ -3073,7 +3073,7 @@
       "title": "Excavation Labor Camp",
       "last_updated": "1773285800",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kqda4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kqda4n"
       },
       "volume": "92"
     },
@@ -3081,7 +3081,7 @@
       "title": "Otoko the Kamuro",
       "last_updated": "1773285798",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zb3l7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zb3l7n"
       },
       "volume": "92"
     },
@@ -3089,7 +3089,7 @@
       "title": "Introducing Komurasaki the Oiran",
       "last_updated": "1773285800",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36b2vy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36b2vy5"
       },
       "volume": "92"
     },
@@ -3097,7 +3097,7 @@
       "title": "Wano Country Shogun_ Kurozumi Orochi",
       "last_updated": "1773285809",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovboe9yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovboe9yp"
       },
       "volume": "92"
     },
@@ -3105,7 +3105,7 @@
       "title": "Ebisu Town",
       "last_updated": "1773285811",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkbdm78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkbdm78"
       },
       "volume": "92"
     },
@@ -3113,7 +3113,7 @@
       "title": "Soba Mask",
       "last_updated": "1773288257",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6koon42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6koon42"
       },
       "volume": "92"
     },
@@ -3121,7 +3121,7 @@
       "title": "Shogun and Oiran",
       "last_updated": "1773285820",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wb3o7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wb3o7x"
       },
       "volume": "93"
     },
@@ -3129,7 +3129,7 @@
       "title": "A Warrior's Mercy",
       "last_updated": "1773285824",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6mbqey8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6mbqey8"
       },
       "volume": "93"
     },
@@ -3137,7 +3137,7 @@
       "title": "Hyogoro the Flower",
       "last_updated": "1773285825",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde2bjn4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde2bjn4k"
       },
       "volume": "93"
     },
@@ -3145,7 +3145,7 @@
       "title": "Queen",
       "last_updated": "1773288251",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6mbbxy8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6mbbxy8"
       },
       "volume": "93"
     },
@@ -3153,7 +3153,7 @@
       "title": "Sumo Inferno",
       "last_updated": "1773285833",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nox6yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nox6yp"
       },
       "volume": "93"
     },
@@ -3161,7 +3161,7 @@
       "title": "Gyukimaru on Bandit's Bridge",
       "last_updated": "1773285835",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eo3j4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eo3j4d"
       },
       "volume": "93"
     },
@@ -3169,7 +3169,7 @@
       "title": "A Woman's Secret",
       "last_updated": "1773285836",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738ovb34r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738ovb34r"
       },
       "volume": "93"
     },
@@ -3177,7 +3177,7 @@
       "title": "The Old Leopard Never Forgets the Way",
       "last_updated": "1773285838",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjnoeb4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjnoeb4x"
       },
       "volume": "93"
     },
@@ -3185,7 +3185,7 @@
       "title": "Sparks of Rebellion",
       "last_updated": "1773285846",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8qb2b7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8qb2b7j"
       },
       "volume": "93"
     },
@@ -3193,7 +3193,7 @@
       "title": "The Star of Ebisu",
       "last_updated": "1773285850",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896jqd4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896jqd4b"
       },
       "volume": "93"
     },
@@ -3201,7 +3201,7 @@
       "title": "Daimyo of Hakumai, Shimotsuki Yasuie",
       "last_updated": "1773285858",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45no92g45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45no92g45"
       },
       "volume": "93"
     },
@@ -3209,7 +3209,7 @@
       "title": "SMILE",
       "last_updated": "1773285860",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6baw4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6baw4l"
       },
       "volume": "94"
     },
@@ -3217,7 +3217,7 @@
       "title": "Partner",
       "last_updated": "1773288252",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2go6697l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2go6697l"
       },
       "volume": "94"
     },
@@ -3225,7 +3225,7 @@
       "title": "Olin",
       "last_updated": "1773288253",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wbbq7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wbbq7x"
       },
       "volume": "94"
     },
@@ -3233,7 +3233,7 @@
       "title": "Queen vs. Olin",
       "last_updated": "1773285863",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvlno2z78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvlno2z78"
       },
       "volume": "94"
     },
@@ -3241,7 +3241,7 @@
       "title": "Queen's Gamble",
       "last_updated": "1773285866",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxqnojk7q"
+        "Official Colored": "/proxy/api/imgchest/chapter/m9yxqnojk7q"
       },
       "volume": "94"
     },
@@ -3249,7 +3249,7 @@
       "title": "Introducing Kawamatsu the Kappa",
       "last_updated": "1773285871",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36b5vy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36b5vy5"
       },
       "volume": "94"
     },
@@ -3257,7 +3257,7 @@
       "title": "Mummy",
       "last_updated": "1773285875",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6novk4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6novk4o"
       },
       "volume": "94"
     },
@@ -3265,7 +3265,7 @@
       "title": "A Soldier's Dream",
       "last_updated": "1773285877",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbo99yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbo99yp"
       },
       "volume": "94"
     },
@@ -3273,7 +3273,7 @@
       "title": "Rampage",
       "last_updated": "1773285881",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkbom78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkbom78"
       },
       "volume": "94"
     },
@@ -3281,7 +3281,7 @@
       "title": "Hiyori and Kawamatsu",
       "last_updated": "1773285887",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2go6d87l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2go6d87l"
       },
       "volume": "94"
     },
@@ -3289,7 +3289,7 @@
       "title": "Once a Fox",
       "last_updated": "1773288275",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7m6eoxn4d"
+        "Official Colored": "/proxy/api/imgchest/chapter/ej7m6eoxn4d"
       },
       "volume": "94"
     },
@@ -3297,7 +3297,7 @@
       "title": "Like a Dragon Given Wings",
       "last_updated": "1773285896",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6kovk42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6kovk42"
       },
       "volume": "95"
     },
@@ -3305,7 +3305,7 @@
       "title": "Enma",
       "last_updated": "1773288267",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wjno3g4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/n87wjno3g4x"
       },
       "volume": "95"
     },
@@ -3313,7 +3313,7 @@
       "title": "Big News",
       "last_updated": "1773288267",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezlbeqyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezlbeqyd"
       },
       "volume": "95"
     },
@@ -3321,7 +3321,7 @@
       "title": "Ultimate",
       "last_updated": "1773285896",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde2bxn4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde2bxn4k"
       },
       "volume": "95"
     },
@@ -3329,7 +3329,7 @@
       "title": "The Promised Port",
       "last_updated": "1773285895",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6nov6yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6nov6yp"
       },
       "volume": "95"
     },
@@ -3337,7 +3337,7 @@
       "title": "Samurai",
       "last_updated": "1773285904",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738ovr34r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738ovr34r"
       },
       "volume": "95"
     },
@@ -3345,7 +3345,7 @@
       "title": "Introducing Kozuki Oden",
       "last_updated": "1773288274",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zrpozd7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qb4zrpozd7j"
       },
       "volume": "95"
     },
@@ -3353,7 +3353,7 @@
       "title": "The Mountain God Incident",
       "last_updated": "1773285911",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8qbeb7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8qbeb7j"
       },
       "volume": "95"
     },
@@ -3361,7 +3361,7 @@
       "title": "Daimyo and Vassals",
       "last_updated": "1773288280",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8qbgj7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8qbgj7j"
       },
       "volume": "95"
     },
@@ -3369,7 +3369,7 @@
       "title": "Becoming Samurai",
       "last_updated": "1773285911",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896j3d4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896j3d4b"
       },
       "volume": "95"
     },
@@ -3377,7 +3377,7 @@
       "title": "Oden's Adventure",
       "last_updated": "1773288289",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896jd54b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896jd54b"
       },
       "volume": "95"
     },
@@ -3385,7 +3385,7 @@
       "title": "The Kurozumi Clan's Plot",
       "last_updated": "1773288294",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6br24l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6br24l"
       },
       "volume": "96"
     },
@@ -3393,7 +3393,7 @@
       "title": "Roger and Whitebeard",
       "last_updated": "1773285913",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45no93g45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45no93g45"
       },
       "volume": "96"
     },
@@ -3401,7 +3401,7 @@
       "title": "Roger's Adventure",
       "last_updated": "1773285921",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24am6b3w4l"
+        "Official Colored": "/proxy/api/imgchest/chapter/o24am6b3w4l"
       },
       "volume": "96"
     },
@@ -3409,7 +3409,7 @@
       "title": "Oden's Return",
       "last_updated": "1773288290",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469o2jo4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469o2jo4x"
       },
       "volume": "96"
     },
@@ -3417,7 +3417,7 @@
       "title": "Fool of a Lord",
       "last_updated": "1773285926",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469o2pv4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469o2pv4x"
       },
       "volume": "96"
     },
@@ -3425,7 +3425,7 @@
       "title": "Oden vs. Kaido",
       "last_updated": "1773285928",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvlnoqz78"
+        "Official Colored": "/proxy/api/imgchest/chapter/agyvlnoqz78"
       },
       "volume": "96"
     },
@@ -3433,7 +3433,7 @@
       "title": "Sentenced to Boil",
       "last_updated": "1773285928",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kqwa4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kqwa4n"
       },
       "volume": "96"
     },
@@ -3441,7 +3441,7 @@
       "title": "I Am Oden, and I Was Born to Boil",
       "last_updated": "1773285937",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36bdvy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36bdvy5"
       },
       "volume": "96"
     },
@@ -3449,7 +3449,7 @@
       "title": "The Kozuki Clan",
       "last_updated": "1773285943",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6noek4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6noek4o"
       },
       "volume": "96"
     },
@@ -3457,7 +3457,7 @@
       "title": "Onward to Onigashima!!",
       "last_updated": "1773285951",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovbow9yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovbow9yp"
       },
       "volume": "96"
     },
@@ -3465,7 +3465,7 @@
       "title": "Kin'emon's Clever Trick",
       "last_updated": "1773285948",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkbmm78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkbmm78"
       },
       "volume": "97"
     },
@@ -3473,7 +3473,7 @@
       "title": "Begging Your Pardon!!!",
       "last_updated": "1773288298",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/92499kqrm4n"
+        "Official Colored": "/proxy/api/imgchest/chapter/92499kqrm4n"
       },
       "volume": "97"
     },
@@ -3481,7 +3481,7 @@
       "title": "The Party's Off!!!",
       "last_updated": "1773288303",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zb9m7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zb9m7n"
       },
       "volume": "97"
     },
@@ -3489,7 +3489,7 @@
       "title": "Introducing the Tobi Roppo",
       "last_updated": "1773288307",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7p6no2p4o"
+        "Official Colored": "/proxy/api/imgchest/chapter/dl7p6no2p4o"
       },
       "volume": "97"
     },
@@ -3497,7 +3497,7 @@
       "title": "Family Problem",
       "last_updated": "1773285955",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wbgo7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wbgo7x"
       },
       "volume": "97"
     },
@@ -3505,7 +3505,7 @@
       "title": "Fighting Music",
       "last_updated": "1773288309",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkb6b78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkb6b78"
       },
       "volume": "97"
     },
@@ -3513,7 +3513,7 @@
       "title": "Joining the Fight",
       "last_updated": "1773285963",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6koxk42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6koxk42"
       },
       "volume": "97"
     },
@@ -3521,7 +3521,7 @@
       "title": "Scoundrel Meets Scoundrel",
       "last_updated": "1773288315",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2go6997l"
+        "Official Colored": "/proxy/api/imgchest/chapter/5xy2go6997l"
       },
       "volume": "97"
     },
@@ -3529,7 +3529,7 @@
       "title": "Thunder",
       "last_updated": "1773285968",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryde2bmn4k"
+        "Official Colored": "/proxy/api/imgchest/chapter/9ryde2bmn4k"
       },
       "volume": "97"
     },
@@ -3537,7 +3537,7 @@
       "title": "My Bible",
       "last_updated": "1773285970",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/6eyr6no96yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/6eyr6no96yp"
       },
       "volume": "97"
     },
@@ -3545,7 +3545,7 @@
       "title": "New Onigashima Project",
       "last_updated": "1773288326",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wbvq7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wbvq7x"
       },
       "volume": "98"
     },
@@ -3553,7 +3553,7 @@
       "title": "My Name",
       "last_updated": "1773285970",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738ovg34r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738ovg34r"
       },
       "volume": "98"
     },
@@ -3561,7 +3561,7 @@
       "title": "Vassals of Glory",
       "last_updated": "1773285977",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezlb2kyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezlb2kyd"
       },
       "volume": "98"
     },
@@ -3569,7 +3569,7 @@
       "title": "Sorry For the Wait",
       "last_updated": "1773285981",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8qbjb7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8qbjb7j"
       },
       "volume": "98"
     },
@@ -3577,7 +3577,7 @@
       "title": "I Can't Imagine Losing",
       "last_updated": "1773288320",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6mbaxy8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6mbaxy8"
       },
       "volume": "98"
     },
@@ -3585,7 +3585,7 @@
       "title": "Army of One",
       "last_updated": "1773285988",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896jvd4b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896jvd4b"
       },
       "volume": "98"
     },
@@ -3593,7 +3593,7 @@
       "title": "Let Us Die!!!",
       "last_updated": "1773285987",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45no9pg45"
+        "Official Colored": "/proxy/api/imgchest/chapter/bp45no9pg45"
       },
       "volume": "98"
     },
@@ -3601,7 +3601,7 @@
       "title": "Remnants",
       "last_updated": "1773288324",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6koln42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6koln42"
       },
       "volume": "98"
     },
@@ -3609,7 +3609,7 @@
       "title": "The Dream of Wano",
       "last_updated": "1773285995",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/a8469o2wv4x"
+        "Official Colored": "/proxy/api/imgchest/chapter/a8469o2wv4x"
       },
       "volume": "98"
     },
@@ -3617,7 +3617,7 @@
       "title": "My Other Name Is Yamato",
       "last_updated": "1773288339",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7l6wbqx7x"
+        "Official Colored": "/proxy/api/imgchest/chapter/wl7l6wbqx7x"
       },
       "volume": "98"
     },
@@ -3625,7 +3625,7 @@
       "title": "Straw Hat Luffy",
       "last_updated": "1773288336",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4j6mbl3y8"
+        "Official Colored": "/proxy/api/imgchest/chapter/vj4j6mbl3y8"
       },
       "volume": "99"
     },
@@ -3633,7 +3633,7 @@
       "title": "Battle of Monsters on Onigashima",
       "last_updated": "1773286001",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9p4n6zbjl7n"
+        "Official Colored": "/proxy/api/imgchest/chapter/9p4n6zbjl7n"
       },
       "volume": "99"
     },
@@ -3641,7 +3641,7 @@
       "title": "Four Emperors vs. New Generation",
       "last_updated": "1773286002",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7b36bkvy5"
+        "Official Colored": "/proxy/api/imgchest/chapter/ne7b36bkvy5"
       },
       "volume": "99"
     },
@@ -3649,7 +3649,7 @@
       "title": "Night on the Board",
       "last_updated": "1773288339",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq6kowd42"
+        "Official Colored": "/proxy/api/imgchest/chapter/ljyq6kowd42"
       },
       "volume": "99"
     },
@@ -3657,7 +3657,7 @@
       "title": "Millet Dumplings",
       "last_updated": "1773288351",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738oveg4r"
+        "Official Colored": "/proxy/api/imgchest/chapter/pg738oveg4r"
       },
       "volume": "99"
     },
@@ -3665,7 +3665,7 @@
       "title": "A Kunoichi's Oath",
       "last_updated": "1773288359",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyezlbxmyd"
+        "Official Colored": "/proxy/api/imgchest/chapter/lqyezlbxmyd"
       },
       "volume": "99"
     },
@@ -3673,7 +3673,7 @@
       "title": "Island of the Strongest",
       "last_updated": "1773286013",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ovboq9yp"
+        "Official Colored": "/proxy/api/imgchest/chapter/md7ovboq9yp"
       },
       "volume": "99"
     },
@@ -3681,7 +3681,7 @@
       "title": "Flames",
       "last_updated": "1773288354",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g8qbnq7j"
+        "Official Colored": "/proxy/api/imgchest/chapter/qe4g8qbnq7j"
       },
       "volume": "99"
     },
@@ -3689,7 +3689,7 @@
       "title": "Ancient Types",
       "last_updated": "1773288353",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny896ja24b"
+        "Official Colored": "/proxy/api/imgchest/chapter/xny896ja24b"
       },
       "volume": "99"
     },
@@ -3697,7 +3697,7 @@
       "title": "The Sake I Brewed to Drink With You",
       "last_updated": "1773286015",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7knkbvm78"
+        "Official Colored": "/proxy/api/imgchest/chapter/na7knkbvm78"
       },
       "volume": "99"
     }
