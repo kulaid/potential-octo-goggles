@@ -1,0 +1,537 @@
+{
+  "title": "Gachiakuta",
+  "description": "Rudo lives in the slums of a floating town, where the poor scrape by under the shadow of the rich who live a sumptuous life, simply casting their garbage off the side, into the abyss. Then one day, he’s falsely accused of murder, and his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and if Rudo wants to have any hope of discovering the truth and seeking vengeance against those who cast him into Hell, he will have to master a new power and join a group known as the Cleaners who battle the hulking trash beasts of the Pit!",
+  "artist": "Kei Urana",
+  "author": "Kei Urana",
+  "cover": "https://mangadex.org/covers/192aa767-2479-42c1-9780-8d65a2efd36a/32d1c699-2acd-4a9d-98d8-9cb5d056d193.jpg",
+  "chapters": {
+    "4": {
+      "title": "THE GROUND",
+      "last_updated": "1773482922",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wjjq5q4x"
+      },
+      "volume": "1"
+    },
+    "2": {
+      "title": "PSEUDO-LIVING THINGS",
+      "last_updated": "1773482927",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4g88p6k7j"
+      },
+      "volume": "1"
+    },
+    "3": {
+      "title": "IMBUED",
+      "last_updated": "1773482931",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zrrmvl7j"
+      },
+      "volume": "1"
+    },
+    "10": {
+      "title": "Imminent",
+      "last_updated": "1773482932",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24ammnee4l"
+      },
+      "volume": "2"
+    },
+    "11": {
+      "title": "Getting Closer",
+      "last_updated": "1773482939",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846996b24x"
+      },
+      "volume": "2"
+    },
+    "12": {
+      "title": "Shadow Of The Underworld",
+      "last_updated": "1773482943",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvllj8k78"
+      },
+      "volume": "2"
+    },
+    "13": {
+      "title": "Vandals",
+      "last_updated": "1773482953",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxqqda67q"
+      },
+      "volume": "2"
+    },
+    "1": {
+      "title": "THE SPHERE",
+      "last_updated": "1773482955",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny8992kw4b"
+      },
+      "volume": "1"
+    },
+    "6": {
+      "title": "The _big_ Fight",
+      "last_updated": "1773482959",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4n66kd57n"
+      },
+      "volume": "2"
+    },
+    "5": {
+      "title": "Interpersonal",
+      "last_updated": "1773482960",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/924999lb84n"
+      },
+      "volume": "2"
+    },
+    "7": {
+      "title": "The Janitor's Headquarters",
+      "last_updated": "1773482966",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7ovv5olyp"
+      },
+      "volume": "2"
+    },
+    "8": {
+      "title": "Workplace Observation",
+      "last_updated": "1773482968",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7knn5bw78"
+      },
+      "volume": "2"
+    },
+    "9": {
+      "title": "Observation Field Trip",
+      "last_updated": "1773482974",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2ggn637l"
+      },
+      "volume": "2"
+    },
+    "14": {
+      "title": "Arrival",
+      "last_updated": "1773482977",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7l665b37x"
+      },
+      "volume": "3"
+    },
+    "15": {
+      "title": "Origin",
+      "last_updated": "1773482980",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyq665ox42"
+      },
+      "volume": "3"
+    },
+    "16": {
+      "title": "A Proper Blow!",
+      "last_updated": "1773482981",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9rydeenb64k"
+      },
+      "volume": "3"
+    },
+    "17": {
+      "title": "Claw Assault",
+      "last_updated": "1773482990",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyr665olyp"
+      },
+      "volume": "3"
+    },
+    "18": {
+      "title": "Irrational",
+      "last_updated": "1773482992",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7m66voa4d"
+      },
+      "volume": "3"
+    },
+    "20": {
+      "title": "Conclusion",
+      "last_updated": "1773482996",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wjjqoq4x"
+      },
+      "volume": "3"
+    },
+    "19": {
+      "title": "A Crooked Team-Up",
+      "last_updated": "1773482997",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73886vo4r"
+      },
+      "volume": "3"
+    },
+    "21": {
+      "title": "Grudges and Gratitude",
+      "last_updated": "1773483005",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyezznbzyd"
+      },
+      "volume": "3"
+    },
+    "24": {
+      "title": "Rudo Jinki P.S. He Went on a Diet",
+      "last_updated": "1773483008",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45nn69v45"
+      },
+      "volume": "4"
+    },
+    "22": {
+      "title": "Moving Forward",
+      "last_updated": "1773483008",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zrrmol7j"
+      },
+      "volume": "3"
+    },
+    "23": {
+      "title": "Fave Grub",
+      "last_updated": "1773483013",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny8992jw4b"
+      },
+      "volume": "4"
+    },
+    "25": {
+      "title": "Before their departure",
+      "last_updated": "1773483015",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24ammnbe4l"
+      },
+      "volume": "4"
+    },
+    "26": {
+      "title": "The City of Graffiti",
+      "last_updated": "1773483018",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846996224x"
+      },
+      "volume": "4"
+    },
+    "27": {
+      "title": "Things worth passing on",
+      "last_updated": "1773483020",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvlljok78"
+      },
+      "volume": "4"
+    },
+    "29": {
+      "title": "The Desert Forbidden Zone, Penta",
+      "last_updated": "1773483029",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4n66kb57n"
+      },
+      "volume": "4"
+    },
+    "28": {
+      "title": "Draw and Pick up",
+      "last_updated": "1773483029",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxqqdo67q"
+      },
+      "volume": "4"
+    },
+    "30": {
+      "title": "Dorurugasun",
+      "last_updated": "1773483033",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7p6652j4o"
+      },
+      "volume": "4"
+    },
+    "31": {
+      "title": "Visitor",
+      "last_updated": "1773483038",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7knn56w78"
+      },
+      "volume": "4"
+    },
+    "33": {
+      "title": "Illusion",
+      "last_updated": "1773483040",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7l665v37x"
+      },
+      "volume": "5"
+    },
+    "34": {
+      "title": "Nostalgic Scent",
+      "last_updated": "1773483043",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4j66na9y8"
+      },
+      "volume": "5"
+    },
+    "32": {
+      "title": "Amo's Hospitality",
+      "last_updated": "1773483044",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2ggn937l"
+      },
+      "volume": "5"
+    },
+    "35": {
+      "title": "Happy Times",
+      "last_updated": "1773483049",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyq665lx42"
+      },
+      "volume": "5"
+    },
+    "36": {
+      "title": "Tamzy Roll",
+      "last_updated": "1773483050",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2ggn987l"
+      },
+      "volume": "5"
+    },
+    "38": {
+      "title": "_Something Like a Curse_",
+      "last_updated": "1773483055",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyr665j6yp"
+      },
+      "volume": "5"
+    },
+    "37": {
+      "title": "I forgot",
+      "last_updated": "1773483060",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9rydeenwn4k"
+      },
+      "volume": "5"
+    },
+    "39": {
+      "title": "What is right",
+      "last_updated": "1773483063",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73886n34r"
+      },
+      "volume": "5"
+    },
+    "40": {
+      "title": "The Rising Abyss",
+      "last_updated": "1773483069",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87wjjq3b4x"
+      },
+      "volume": "5"
+    },
+    "42": {
+      "title": "Alighting Fragments",
+      "last_updated": "1773483072",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4g88pgb7j"
+      },
+      "volume": "6"
+    },
+    "41": {
+      "title": "An Empty Gaze",
+      "last_updated": "1773483073",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zrrmzv7j"
+      },
+      "volume": "6"
+    },
+    "43": {
+      "title": "Gains",
+      "last_updated": "1773483074",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny8992dd4b"
+      },
+      "volume": "6"
+    },
+    "44": {
+      "title": "Be Extra Wary On the Journey Home",
+      "last_updated": "1773483080",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24ammnrw4l"
+      },
+      "volume": "6"
+    },
+    "45": {
+      "title": "Pest Control",
+      "last_updated": "1773483083",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846996jv4x"
+      },
+      "volume": "6"
+    },
+    "47": {
+      "title": "Boss",
+      "last_updated": "1773483085",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxqqd6k7q"
+      },
+      "volume": "6"
+    },
+    "46": {
+      "title": "The Storm Before the Storm",
+      "last_updated": "1773483089",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvllj5z78"
+      },
+      "volume": "6"
+    },
+    "48": {
+      "title": "Clash!",
+      "last_updated": "1773483092",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7b33navy5"
+      },
+      "volume": "6"
+    },
+    "50": {
+      "title": "Glubroachie",
+      "last_updated": "1773483103",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7knn5jm78"
+      },
+      "volume": "7"
+    },
+    "49": {
+      "title": "Ready, Set...",
+      "last_updated": "1773483103",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7ovv5m9yp"
+      },
+      "volume": "6"
+    },
+    "51": {
+      "title": "Hey, For Real",
+      "last_updated": "1773483104",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7l665qo7x"
+      },
+      "volume": "7"
+    },
+    "52": {
+      "title": "Exchange",
+      "last_updated": "1773483107",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyq665wk42"
+      },
+      "volume": "7"
+    },
+    "55": {
+      "title": "The Difference",
+      "last_updated": "1773483113",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zrrmxv7j"
+      },
+      "volume": "7"
+    },
+    "54": {
+      "title": "Gifted And Not",
+      "last_updated": "1773483116",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyezznxkyd"
+      },
+      "volume": "7"
+    },
+    "53": {
+      "title": "Do You Even Have Eyes_",
+      "last_updated": "1773483116",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyr665e6yp"
+      },
+      "volume": "7"
+    },
+    "56": {
+      "title": "The Reason I Fight",
+      "last_updated": "1773483119",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7knn59m78"
+      },
+      "volume": "7"
+    },
+    "57": {
+      "title": "Memories of An Average Joe",
+      "last_updated": "1773483126",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846996ev4x"
+      },
+      "volume": "7"
+    },
+    "58": {
+      "title": "Inferiority of An Average Joe",
+      "last_updated": "1773483138",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7p665xk4o"
+      },
+      "volume": "7"
+    },
+    "60": {
+      "title": "Reality",
+      "last_updated": "1773483151",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyq665nk42"
+      },
+      "volume": "8"
+    },
+    "61": {
+      "title": "Bad Buzz",
+      "last_updated": "1773483156",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9rydeenvn4k"
+      },
+      "volume": "8"
+    },
+    "59": {
+      "title": "Resolution of the Mediocre",
+      "last_updated": "1773483159",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7l665eo7x"
+      },
+      "volume": "8"
+    },
+    "62": {
+      "title": "Close Fisted",
+      "last_updated": "1773483169",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg73886z34r"
+      },
+      "volume": "8"
+    },
+    "63": {
+      "title": "Behind",
+      "last_updated": "1773483183",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4g88pob7j"
+      },
+      "volume": "8"
+    },
+    "64": {
+      "title": "Past",
+      "last_updated": "1773483190",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45nn6ag45"
+      },
+      "volume": "8"
+    },
+    "66": {
+      "title": "Watchman Series",
+      "last_updated": "1773483192",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846996vv4x"
+      },
+      "volume": "8"
+    },
+    "67": {
+      "title": "Seeeriously",
+      "last_updated": "1773483209",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxqqqxk7q"
+      },
+      "volume": "8"
+    }
+  }
+}
