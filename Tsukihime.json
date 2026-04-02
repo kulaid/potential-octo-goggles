@@ -1,0 +1,495 @@
+{
+  "title": "Tsukihime",
+  "description": "The story follows Tohno Shiki, a teenage boy who, after a near-fatal accident in his childhood, gained the mysterious power to perceive lines covering everything around him. When he cuts along these lines, whatever it was immediately falls apart with a clean cut; in other words, killing it. He would have quickly gone insane from living in a world that could fall apart so easily, had it not been for a wandering self-proclaimed magician who gave him a pair of glasses that blocked his unnatural perception when worn. Soon afterwards, he was disinherited from his family and sent to live with some relatives. For eight years he lived a normal life, hiding his special eyes, until one day he receives a letter inviting him to come back home. Shiki suddenly becomes caught up in a strange and life-threatening series of events, ones that are somehow linked to his childhood accident and a forgotten past… Adaptation of the visual novel Tsukihime by Type-Moon.",
+  "artist": "Sasaki Shounen",
+  "author": "TYPE-MOON",
+  "cover": "https://mangadex.org/covers/477800d5-bae8-4adb-b422-23e6cfa7ec87/84a91b1d-9266-4a3e-9880-23b0635b836c.jpg",
+  "chapters": {
+    "0": {
+      "title": "Prologue",
+      "last_updated": "1775111489",
+      "volume": "1",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87w8rk337x"
+      }
+    },
+    "1": {
+      "title": "Chapter 1",
+      "last_updated": "1775111517",
+      "volume": "1",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nqlprw4n"
+      }
+    },
+    "10": {
+      "title": "Chapter 10",
+      "last_updated": "1775111627",
+      "volume": "2",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gzrano7j"
+      }
+    },
+    "11": {
+      "title": "Chapter 11",
+      "last_updated": "1775111637",
+      "volume": "2",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45jdwwxy5"
+      }
+    },
+    "12": {
+      "title": "Chapter 12",
+      "last_updated": "1775111652",
+      "volume": "2",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24adkwwg4l"
+      }
+    },
+    "13": {
+      "title": "Chapter 13",
+      "last_updated": "1775111675",
+      "volume": "2",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846qgeegyx"
+      }
+    },
+    "14": {
+      "title": "Chapter 14",
+      "last_updated": "1775111692",
+      "volume": "2",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvge33wy8"
+      }
+    },
+    "15": {
+      "title": "Chapter 15",
+      "last_updated": "1775111710",
+      "volume": "2",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249mj88v7n"
+      }
+    },
+    "16": {
+      "title": "Chapter 16",
+      "last_updated": "1775111761",
+      "volume": "3",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7llmnn67x"
+      }
+    },
+    "17": {
+      "title": "Chapter 17",
+      "last_updated": "1775111778",
+      "volume": "3",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4j5wxx578"
+      }
+    },
+    "18": {
+      "title": "Chapter 18",
+      "last_updated": "1775111795",
+      "volume": "3",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd3pggd7k"
+      }
+    },
+    "19": {
+      "title": "Chapter 19",
+      "last_updated": "1775111812",
+      "volume": "3",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg732jmmv4r"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "last_updated": "1775111534",
+      "volume": "1",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2xlrkn4l"
+      }
+    },
+    "20": {
+      "title": "Chapter 20",
+      "last_updated": "1775111827",
+      "volume": "3",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87w8rkk37x"
+      }
+    },
+    "21": {
+      "title": "Chapter 21",
+      "last_updated": "1775111844",
+      "volume": "3",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyewp88xyd"
+      }
+    },
+    "22": {
+      "title": "Chapter 22",
+      "last_updated": "1775111867",
+      "volume": "3",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny8rlgbp4b"
+      }
+    },
+    "23": {
+      "title": "Chapter 23",
+      "last_updated": "1775111884",
+      "volume": "3",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24adkwzg4l"
+      }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "last_updated": "1775111549",
+      "volume": "1",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4j5wxl578"
+      }
+    },
+    "33": {
+      "title": "Chapter 33",
+      "last_updated": "1775110758",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7k2w9pm78"
+      }
+    },
+    "34": {
+      "title": "Chapter 34",
+      "last_updated": "1775110769",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2xlr584l"
+      }
+    },
+    "35": {
+      "title": "Chapter 35",
+      "last_updated": "1775110780",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4j5wxpe78"
+      }
+    },
+    "36": {
+      "title": "Chapter 36",
+      "last_updated": "1775110800",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd3pg9n7k"
+      }
+    },
+    "37": {
+      "title": "Chapter 37",
+      "last_updated": "1775110815",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyr3dqk6yp"
+      }
+    },
+    "38": {
+      "title": "Chapter 38",
+      "last_updated": "1775110826",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mj2bpj7d"
+      }
+    },
+    "39": {
+      "title": "Chapter 39",
+      "last_updated": "1775110840",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg732jma34r"
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "last_updated": "1775111564",
+      "volume": "1",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqmdjwe72"
+      }
+    },
+    "40": {
+      "title": "Chapter 40",
+      "last_updated": "1775110854",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87w8rkpb7x"
+      }
+    },
+    "41": {
+      "title": "Chapter 41",
+      "last_updated": "1775110870",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zlkg2v7j"
+      }
+    },
+    "42": {
+      "title": "Chapter 42",
+      "last_updated": "1775110882",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gzra9b7j"
+      }
+    },
+    "43": {
+      "title": "Chapter 43",
+      "last_updated": "1775110891",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny8rlgnd4b"
+      }
+    },
+    "44": {
+      "title": "Chapter 44",
+      "last_updated": "1775110912",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45jdwvgy5"
+      }
+    },
+    "45": {
+      "title": "Chapter 45",
+      "last_updated": "1775110924",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846qgenvyx"
+      }
+    },
+    "46": {
+      "title": "Chapter 46",
+      "last_updated": "1775110943",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249mj8ba7n"
+      }
+    },
+    "47": {
+      "title": "Chapter 47",
+      "last_updated": "1775110960",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nqlpdl4n"
+      }
+    },
+    "48": {
+      "title": "Chapter 48",
+      "last_updated": "1775110972",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7przlmk4o"
+      }
+    },
+    "49": {
+      "title": "Chapter 49",
+      "last_updated": "1775110991",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7odj2r9yp"
+      }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "last_updated": "1775111579",
+      "volume": "1",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyr3dqekyp"
+      }
+    },
+    "50": {
+      "title": "Chapter 50",
+      "last_updated": "1775111003",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7llmnjo7x"
+      }
+    },
+    "51": {
+      "title": "Chapter 51",
+      "last_updated": "1775111012",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4j5wx2e78"
+      }
+    },
+    "52": {
+      "title": "Chapter 52",
+      "last_updated": "1775111029",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqmdj3k72"
+      }
+    },
+    "53": {
+      "title": "Chapter 53",
+      "last_updated": "1775111045",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyr3dqw6yp"
+      }
+    },
+    "54": {
+      "title": "Chapter 54",
+      "last_updated": "1775111056",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mj2bqj7d"
+      }
+    },
+    "55": {
+      "title": "Chapter 55",
+      "last_updated": "1775111080",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg732jmx34r"
+      }
+    },
+    "56": {
+      "title": "Chapter 56",
+      "last_updated": "1775111094",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyewp85kyd"
+      }
+    },
+    "57": {
+      "title": "Chapter 57",
+      "last_updated": "1775111122",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qe4gzra6b7j"
+      }
+    },
+    "58": {
+      "title": "Chapter 58",
+      "last_updated": "1775111136",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45jdwbgy5"
+      }
+    },
+    "59": {
+      "title": "Chapter 59",
+      "last_updated": "1775111155",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24adkwew4l"
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "last_updated": "1775111601",
+      "volume": "1",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mj2bdq7d"
+      }
+    },
+    "60": {
+      "title": "Chapter 60",
+      "last_updated": "1775111166",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvge3ozy8"
+      }
+    },
+    "61": {
+      "title": "Chapter 61",
+      "last_updated": "1775111193",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9249mj8qa7n"
+      }
+    },
+    "62": {
+      "title": "Chapter 62",
+      "last_updated": "1775111204",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9p4nqlpbl4n"
+      }
+    },
+    "63": {
+      "title": "Chapter 63",
+      "last_updated": "1775111223",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7odj2o9yp"
+      }
+    },
+    "64": {
+      "title": "Chapter 64",
+      "last_updated": "1775111246",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/5xy2xlr684l"
+      }
+    },
+    "65": {
+      "title": "Chapter 65",
+      "last_updated": "1775111265",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4j5wxbe78"
+      }
+    },
+    "66": {
+      "title": "Chapter 66",
+      "last_updated": "1775111281",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqmdjok72"
+      }
+    },
+    "67": {
+      "title": "Chapter 67",
+      "last_updated": "1775111299",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9ryd3pgbn7k"
+      }
+    },
+    "68": {
+      "title": "Chapter 68",
+      "last_updated": "1775111317",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/qb4zlkgov7j"
+      }
+    },
+    "69": {
+      "title": "Chapter 69",
+      "last_updated": "1775111333",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvge3kzy8"
+      }
+    },
+    "7": {
+      "title": "Chapter 7",
+      "last_updated": "1775111611",
+      "volume": "1",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyewp8xxyd"
+      }
+    },
+    "70": {
+      "title": "Chapter 70",
+      "last_updated": "1775111349",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ne7brxemvy5"
+      }
+    },
+    "71": {
+      "title": "Chapter 71",
+      "last_updated": "1775111367",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7k2w96m78"
+      }
+    },
+    "71.1": {
+      "title": "Chapter 71.1",
+      "last_updated": "1775111398",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/vj4j5wxae78"
+      }
+    },
+    "71.2": {
+      "title": "Chapter 71.2",
+      "last_updated": "1775111428",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/wl7llmnv67x"
+      }
+    },
+    "71.9": {
+      "title": "Final Alternative",
+      "last_updated": "1775111474",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ljyqmdjle72"
+      }
+    },
+    "8": {
+      "title": "Chapter 8",
+      "last_updated": "1775111728",
+      "volume": "2",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/dl7przll84o"
+      }
+    },
+    "9": {
+      "title": "Chapter 9",
+      "last_updated": "1775111746",
+      "volume": "2",
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7k2w99k78"
+      }
+    }
+  }
+}
