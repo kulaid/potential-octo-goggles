@@ -181,12 +181,220 @@
         "Unknown": "/proxy/api/imgchest/chapter/9p4nq38bb4n"
       }
     },
+    "54": {
+      "title": "Operation Capture Baba Yaga's Castle (Part 9)",
+      "last_updated": "1775281717",
+      "volume": "14",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/ljyqm8aqk72"
+      }
+    },
+    "55": {
+      "title": "Operation Capture Baba Yaga's Castle (Part 10)",
+      "last_updated": "1775281733",
+      "volume": "14",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/6eyr3xa26yp"
+      }
+    },
+    "56": {
+      "title": "Operation Capture Baba Yaga's Castle (Part 11)",
+      "last_updated": "1775281752",
+      "volume": "14",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/ej7mj3anj7d"
+      }
+    },
+    "57": {
+      "title": "Operation Capture Baba Yaga's Castle (Part 12)",
+      "last_updated": "1775281780",
+      "volume": "14",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/n87w8e9vb7x"
+      }
+    },
+    "58": {
+      "title": "Operation Capture Baba Yaga's Castle (Part 13)",
+      "last_updated": "1775281798",
+      "volume": "15",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/xny8rqezd4b"
+      }
+    },
+    "59": {
+      "title": "Operation Capture Baba Yaga's Castle (Part 14)",
+      "last_updated": "1775281817",
+      "volume": "15",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/o24ada2gw4l"
+      }
+    },
     "60": {
       "title": "Operation Capture Baba Yaga's Castle (Part 15)",
       "last_updated": "1775280168",
       "volume": "15",
       "groups": {
         "Unknown": "/proxy/api/imgchest/chapter/na7k2d8b378"
+      }
+    },
+    "61": {
+      "title": "Beginning By Wrapping Things Up",
+      "last_updated": "1775281836",
+      "volume": "15",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/agyvgvxezy8"
+      }
+    },
+    "62": {
+      "title": "Startup",
+      "last_updated": "1775281859",
+      "volume": "15",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/m9yx5m9gk7q"
+      }
+    },
+    "63": {
+      "title": "Gonna Be An Angel",
+      "last_updated": "1775281881",
+      "volume": "16",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/wl7ll3amo7x"
+      }
+    },
+    "64": {
+      "title": "Readiness",
+      "last_updated": "1775281898",
+      "volume": "16",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/vj4j5qewe78"
+      }
+    },
+    "65": {
+      "title": "Black Wings vs. White Wings",
+      "last_updated": "1775281916",
+      "volume": "16",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/9ryd3jqpn7k"
+      }
+    },
+    "66": {
+      "title": "The Witch's Research (Part 1)",
+      "last_updated": "1775281931",
+      "volume": "16",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/pg732bdj34r"
+      }
+    },
+    "67": {
+      "title": "The Witch's Research (Part 2)",
+      "last_updated": "1775281953",
+      "volume": "16",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/lqyewqdpkyd"
+      }
+    },
+    "68": {
+      "title": "The Abyss of Despair, the Uncleanliness, and the Darkness",
+      "last_updated": "1775281975",
+      "volume": "17",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/xny8rqeld4b"
+      }
+    },
+    "69": {
+      "title": "Love Triangle",
+      "last_updated": "1775281996",
+      "volume": "17",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/a846ql3gvyx"
+      }
+    },
+    "70": {
+      "title": "The Business Lunch",
+      "last_updated": "1775282010",
+      "volume": "17",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/agyvgvxwzy8"
+      }
+    },
+    "71": {
+      "title": "The Great Old One",
+      "last_updated": "1775282017",
+      "volume": "17",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/9249md2ga7n"
+      }
+    },
+    "72": {
+      "title": "Salvage (Part 1)",
+      "last_updated": "1775282045",
+      "volume": "17",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/9p4nq3vxl4n"
+      }
+    },
+    "73": {
+      "title": "Salvage (Part 2)",
+      "last_updated": "1775282068",
+      "volume": "18",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/md7odeax9yp"
+      }
+    },
+    "74": {
+      "title": "Salvage (Part 3)",
+      "last_updated": "1775282090",
+      "volume": "18",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/vj4j5qeve78"
+      }
+    },
+    "75": {
+      "title": "Salvage (Part 4)",
+      "last_updated": "1775282108",
+      "volume": "18",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/ej7mj3akj7d"
+      }
+    },
+    "76": {
+      "title": "Salvage (Part 5)",
+      "last_updated": "1775282137",
+      "volume": "18",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/n87w8e9gb7x"
+      }
+    },
+    "77": {
+      "title": "Salvage (Part 6)",
+      "last_updated": "1775282159",
+      "volume": "19",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/lqyewqd6kyd"
+      }
+    },
+    "78": {
+      "title": "Salvage (Part 7)",
+      "last_updated": "1775282176",
+      "volume": "19",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/qb4zlw5jv7j"
+      }
+    },
+    "79": {
+      "title": "Salvage (Part 8)",
+      "last_updated": "1775282193",
+      "volume": "19",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/qe4gz2mxb7j"
+      }
+    },
+    "80": {
+      "title": "Salvage (Part 9)",
+      "last_updated": "1775282210",
+      "volume": "19",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/xny8rqeod4b"
       }
     }
   }
