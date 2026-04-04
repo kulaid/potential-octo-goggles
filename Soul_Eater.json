@@ -37,6 +37,54 @@
         "Unknown": "/proxy/api/imgchest/chapter/ljyqm823d72"
       }
     },
+    "100": {
+      "title": "To the Moon",
+      "last_updated": "1775283216",
+      "volume": "23",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/md7odeaqayp"
+      }
+    },
+    "101": {
+      "title": "War on the Moon II (Part 1)",
+      "last_updated": "1775283231",
+      "volume": "23",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/ljyqm8are72"
+      }
+    },
+    "102": {
+      "title": "War on the Moon II (Part 2)",
+      "last_updated": "1775283252",
+      "volume": "23",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/qb4zlw58g7j"
+      }
+    },
+    "103": {
+      "title": "War on the Moon II (Part 3)",
+      "last_updated": "1775283307",
+      "volume": "24",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/5xy2xbq2n4l"
+      }
+    },
+    "2": {
+      "title": "Remedial Lesson (Part 2)",
+      "last_updated": "1775282815",
+      "volume": "2",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/na7k2daom78"
+      }
+    },
+    "3": {
+      "title": "The 'New Student' and 'Soul Observation",
+      "last_updated": "1775282837",
+      "volume": "2",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/vj4j5qe9578"
+      }
+    },
     "36": {
       "title": "'Brew'-The Tempest (Part 3)",
       "last_updated": "1775279744",
@@ -67,6 +115,14 @@
       "volume": "10",
       "groups": {
         "Unknown": "/proxy/api/imgchest/chapter/o24adajed4l"
+      }
+    },
+    "4": {
+      "title": "Demon Sword (Part 1)",
+      "last_updated": "1775282859",
+      "volume": "2",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/9ryd3jqxd7k"
       }
     },
     "40": {
@@ -147,6 +203,14 @@
       "volume": "13",
       "groups": {
         "Unknown": "/proxy/api/imgchest/chapter/qe4gz2wbq7j"
+      }
+    },
+    "5": {
+      "title": "Demon Sword (Part 2)",
+      "last_updated": "1775282888",
+      "volume": "2",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/ej7mj3a9q7d"
       }
     },
     "50": {
@@ -395,6 +459,158 @@
       "volume": "19",
       "groups": {
         "Unknown": "/proxy/api/imgchest/chapter/xny8rqeod4b"
+      }
+    },
+    "81": {
+      "title": "Salvage (Part 10)",
+      "last_updated": "1775282783",
+      "volume": "19",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/dl7prkavk4o"
+      }
+    },
+    "82": {
+      "title": "The Whereabouts",
+      "last_updated": "1775282909",
+      "volume": "20",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/lqyewqdaxyd"
+      }
+    },
+    "83": {
+      "title": "Mad Blood",
+      "last_updated": "1775282927",
+      "volume": "20",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/qb4zlw5dg7j"
+      }
+    },
+    "84": {
+      "title": "Recovery",
+      "last_updated": "1775282943",
+      "volume": "20",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/xny8rqevp4b"
+      }
+    },
+    "85": {
+      "title": "Pursuit",
+      "last_updated": "1775282953",
+      "volume": "20",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/o24ada2qg4l"
+      }
+    },
+    "86": {
+      "title": "Hellfire",
+      "last_updated": "1775282962",
+      "volume": "20",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/a846ql3wgyx"
+      }
+    },
+    "87": {
+      "title": "Just a Simple Story About Killing People",
+      "last_updated": "1775282987",
+      "volume": "20",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/m9yx5m9rm7q"
+      }
+    },
+    "88": {
+      "title": "Hunt",
+      "last_updated": "1775283006",
+      "volume": "21",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/9p4nq3vww4n"
+      }
+    },
+    "89": {
+      "title": "There Is Someone to Admire",
+      "last_updated": "1775283023",
+      "volume": "21",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/md7odeawayp"
+      }
+    },
+    "90": {
+      "title": "The Moon",
+      "last_updated": "1775283042",
+      "volume": "21",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/5xy2xbqan4l"
+      }
+    },
+    "91": {
+      "title": "The Battle on the Moon (Part 1)",
+      "last_updated": "1775283059",
+      "volume": "21",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/vj4j5qek578"
+      }
+    },
+    "92": {
+      "title": "The Battle on the Moon (Part 2)",
+      "last_updated": "1775283085",
+      "volume": "21",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/6eyr3xa9kyp"
+      }
+    },
+    "93": {
+      "title": "War on the Moon (Part 3)",
+      "last_updated": "1775283103",
+      "volume": "22",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/pg732bdgv4r"
+      }
+    },
+    "94": {
+      "title": "War on the Moon (Part 4)",
+      "last_updated": "1775283120",
+      "volume": "22",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/lqyewqd2xyd"
+      }
+    },
+    "95": {
+      "title": "War on the Moon (Part 5)",
+      "last_updated": "1775283139",
+      "volume": "22",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/bp45j2m5xy5"
+      }
+    },
+    "96": {
+      "title": "War on the Moon (Part 6)",
+      "last_updated": "1775283157",
+      "volume": "22",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/a846ql35gyx"
+      }
+    },
+    "97": {
+      "title": "War on the Moon (Part 7)",
+      "last_updated": "1775283194",
+      "volume": "22",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/9p4nq3vjw4n"
+      }
+    },
+    "98": {
+      "title": "Witch Trial",
+      "last_updated": "1775283272",
+      "volume": "23",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/agyvgvxrwy8"
+      }
+    },
+    "99": {
+      "title": "Roger",
+      "last_updated": "1775283288",
+      "volume": "23",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/dl7prka884o"
       }
     }
   }
