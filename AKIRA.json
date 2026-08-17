@@ -4,20 +4,5 @@
   "artist": "Katsuhiro Otomo",
   "author": "Katsuhiro Otomo",
   "cover": "https://mangadex.org/covers/175cf215-2122-4656-9fac-37ac092438af/822889a6-15b0-47d5-8a95-8dc9f0818cc7.jpg",
-  "chapters": {
-    "1": {
-      "title": "Volume 1",
-      "last_updated": "1764656770",
-      "groups": {
-        "35th Anniversary": "/proxy/api/imgchest/chapter/ljyqkdrvey2"
-      }
-    },
-    "2": {
-      "title": "Volume 2",
-      "last_updated": "1764657572",
-      "groups": {
-        "35th Anniversary": "/proxy/api/imgchest/chapter/qe4gqr55r7j"
-      }
-    }
-  }
+  "chapters": {}
 }
