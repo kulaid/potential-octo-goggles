@@ -1,0 +1,1592 @@
+{
+  "title": "Medaka Box",
+  "description": "Kurokami Medaka, a first year, is elected as Student Council President, and the first thing she does is establish a suggestion box. Since she was just elected as Student Council President, she's holding all the Student Council's responsibilities, and wearing their armbands. So, she asks her childhood friend Hitoyoshi Zenkichi, for help.",
+  "artist": "Akira Akatsuki",
+  "author": "NISIOISIN",
+  "cover": "https://mangadex.org/covers/881fccb1-e60c-4c82-b64c-28f709545174/040e28d9-b590-48ae-b8c6-0a353c14e5d4.jpg",
+  "chapters": {
+    "0": {
+      "title": "",
+      "last_updated": "1787375474",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3jxmy8"
+      }
+    },
+    "1": {
+      "title": "",
+      "last_updated": "1787375527",
+      "volume": "1",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ljyq3nwgk42"
+      }
+    },
+    "10": {
+      "title": "",
+      "last_updated": "1787375684",
+      "volume": "2",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/agyv8m5dz48"
+      }
+    },
+    "100": {
+      "title": "",
+      "last_updated": "1787377855",
+      "volume": "12",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9249bo6lmyn"
+      }
+    },
+    "101": {
+      "title": "",
+      "last_updated": "1787377871",
+      "volume": "12",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9p4nd5rkmyn"
+      }
+    },
+    "102": {
+      "title": "",
+      "last_updated": "1787377887",
+      "volume": "12",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8anj75"
+      }
+    },
+    "103": {
+      "title": "",
+      "last_updated": "1787377902",
+      "volume": "12",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/dl7pmx35p7o"
+      }
+    },
+    "104": {
+      "title": "",
+      "last_updated": "1787377917",
+      "volume": "12",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/md7or6m5r7p"
+      }
+    },
+    "105": {
+      "title": "",
+      "last_updated": "1787377933",
+      "volume": "12",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3j5by8"
+      }
+    },
+    "106": {
+      "title": "",
+      "last_updated": "1787377955",
+      "volume": "12",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/vj4j2rlnx78"
+      }
+    },
+    "107": {
+      "title": "",
+      "last_updated": "1787377979",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/6eyrwpe6g7p"
+      }
+    },
+    "108": {
+      "title": "",
+      "last_updated": "1787377995",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/pg73xze8j7r"
+      }
+    },
+    "109": {
+      "title": "",
+      "last_updated": "1787378009",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59xzqyd"
+      }
+    },
+    "109.5": {
+      "title": "",
+      "last_updated": "1787378012",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qb4zvaxrdyj"
+      }
+    },
+    "11": {
+      "title": "",
+      "last_updated": "1787375699",
+      "volume": "2",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8awv75"
+      }
+    },
+    "110": {
+      "title": "",
+      "last_updated": "1787378027",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6on8jyj"
+      }
+    },
+    "111": {
+      "title": "",
+      "last_updated": "1787378042",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/xny8kba95yb"
+      }
+    },
+    "112": {
+      "title": "",
+      "last_updated": "1787378057",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/bp45bagnq45"
+      }
+    },
+    "113": {
+      "title": "",
+      "last_updated": "1787378075",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/o24aez5m27l"
+      }
+    },
+    "114": {
+      "title": "",
+      "last_updated": "1787378092",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv89oyx"
+      }
+    },
+    "115": {
+      "title": "",
+      "last_updated": "1787378114",
+      "volume": "13",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6qq4q"
+      }
+    },
+    "116": {
+      "title": "",
+      "last_updated": "1787378137",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9p4nd5r6myn"
+      }
+    },
+    "117": {
+      "title": "",
+      "last_updated": "1787378153",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/md7or6mvr7p"
+      }
+    },
+    "118": {
+      "title": "",
+      "last_updated": "1787378168",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3jnby8"
+      }
+    },
+    "119": {
+      "title": "",
+      "last_updated": "1787378183",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/vj4j2rl6x78"
+      }
+    },
+    "12": {
+      "title": "",
+      "last_updated": "1787375717",
+      "volume": "2",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/wl7ljeqxoyx"
+      }
+    },
+    "120": {
+      "title": "",
+      "last_updated": "1787378198",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9ryd8vk3l4k"
+      }
+    },
+    "121": {
+      "title": "",
+      "last_updated": "1787378214",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/pg73xze2j7r"
+      }
+    },
+    "122": {
+      "title": "",
+      "last_updated": "1787378231",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59xwqyd"
+      }
+    },
+    "123": {
+      "title": "",
+      "last_updated": "1787378245",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/bp45bagjq45"
+      }
+    },
+    "124": {
+      "title": "",
+      "last_updated": "1787378261",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/o24aez5d27l"
+      }
+    },
+    "124.5": {
+      "title": "",
+      "last_updated": "1787378289",
+      "volume": "14",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv8qoyx"
+      }
+    },
+    "125": {
+      "title": "",
+      "last_updated": "1787378310",
+      "volume": "15",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz65q4q"
+      }
+    },
+    "126": {
+      "title": "",
+      "last_updated": "1787378324",
+      "volume": "15",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9249bo6mmyn"
+      }
+    },
+    "127": {
+      "title": "",
+      "last_updated": "1787378339",
+      "volume": "15",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8arj75"
+      }
+    },
+    "128": {
+      "title": "",
+      "last_updated": "1787378354",
+      "volume": "15",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/md7or6mdr7p"
+      }
+    },
+    "129": {
+      "title": "",
+      "last_updated": "1787378369",
+      "volume": "15",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3j2by8"
+      }
+    },
+    "13": {
+      "title": "",
+      "last_updated": "1787375733",
+      "volume": "2",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59x3kyd"
+      }
+    },
+    "130": {
+      "title": "",
+      "last_updated": "1787378383",
+      "volume": "15",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/vj4j2rl5x78"
+      }
+    },
+    "131": {
+      "title": "",
+      "last_updated": "1787378410",
+      "volume": "15",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ljyq3nwmn42"
+      }
+    },
+    "132": {
+      "title": "",
+      "last_updated": "1787378739",
+      "volume": "16",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ej7mqgdrnyd"
+      }
+    },
+    "133": {
+      "title": "",
+      "last_updated": "1787378755",
+      "volume": "16",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/5xy2vwkjz7l"
+      }
+    },
+    "134": {
+      "title": "",
+      "last_updated": "1787378771",
+      "volume": "16",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/vj4j2rlz378"
+      }
+    },
+    "135": {
+      "title": "",
+      "last_updated": "1787378787",
+      "volume": "16",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ljyq3nwbd42"
+      }
+    },
+    "136": {
+      "title": "",
+      "last_updated": "1787378803",
+      "volume": "16",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9ryd8vkda4k"
+      }
+    },
+    "137": {
+      "title": "",
+      "last_updated": "1787378818",
+      "volume": "16",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ej7mqgd59yd"
+      }
+    },
+    "138": {
+      "title": "",
+      "last_updated": "1787378834",
+      "volume": "16",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/n87w5wabx7x"
+      }
+    },
+    "139": {
+      "title": "",
+      "last_updated": "1787378848",
+      "volume": "16",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qb4zvaxb5yj"
+      }
+    },
+    "14": {
+      "title": "",
+      "last_updated": "1787375749",
+      "volume": "2",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/agyv8m56z48"
+      }
+    },
+    "140": {
+      "title": "",
+      "last_updated": "1787378869",
+      "volume": "16",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6on3qyj"
+      }
+    },
+    "141": {
+      "title": "",
+      "last_updated": "1787378896",
+      "volume": "17",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/xny8kbaw2yb"
+      }
+    },
+    "142": {
+      "title": "",
+      "last_updated": "1787378911",
+      "volume": "17",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/o24aez5ld7l"
+      }
+    },
+    "143": {
+      "title": "",
+      "last_updated": "1787378926",
+      "volume": "17",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv8mzyx"
+      }
+    },
+    "144": {
+      "title": "",
+      "last_updated": "1787378942",
+      "volume": "17",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6bp4q"
+      }
+    },
+    "145": {
+      "title": "",
+      "last_updated": "1787378959",
+      "volume": "17",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9p4nd5rabyn"
+      }
+    },
+    "146": {
+      "title": "",
+      "last_updated": "1787378974",
+      "volume": "17",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8ajm75"
+      }
+    },
+    "147": {
+      "title": "",
+      "last_updated": "1787378990",
+      "volume": "17",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/md7or6mk27p"
+      }
+    },
+    "148": {
+      "title": "",
+      "last_updated": "1787379005",
+      "volume": "17",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3jg3y8"
+      }
+    },
+    "149": {
+      "title": "",
+      "last_updated": "1787379026",
+      "volume": "17",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/vj4j2rlp378"
+      }
+    },
+    "15": {
+      "title": "",
+      "last_updated": "1787375765",
+      "volume": "2",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/md7or6ml97p"
+      }
+    },
+    "150": {
+      "title": "",
+      "last_updated": "1787379049",
+      "volume": "18",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9ryd8vk9a4k"
+      }
+    },
+    "151": {
+      "title": "",
+      "last_updated": "1787379066",
+      "volume": "18",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/6eyrwpekx7p"
+      }
+    },
+    "152": {
+      "title": "",
+      "last_updated": "1787379082",
+      "volume": "18",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ej7mqgdp9yd"
+      }
+    },
+    "153": {
+      "title": "",
+      "last_updated": "1787379097",
+      "volume": "18",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/pg73xzeag7r"
+      }
+    },
+    "154": {
+      "title": "",
+      "last_updated": "1787379112",
+      "volume": "18",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59xkmyd"
+      }
+    },
+    "155": {
+      "title": "",
+      "last_updated": "1787379127",
+      "volume": "18",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6on9qyj"
+      }
+    },
+    "156": {
+      "title": "",
+      "last_updated": "1787379143",
+      "volume": "18",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/bp45bagvn45"
+      }
+    },
+    "157": {
+      "title": "",
+      "last_updated": "1787379157",
+      "volume": "18",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv8nzyx"
+      }
+    },
+    "158": {
+      "title": "",
+      "last_updated": "1787379178",
+      "volume": "18",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6pp4q"
+      }
+    },
+    "159": {
+      "title": "",
+      "last_updated": "1787379199",
+      "volume": "19",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8a9m75"
+      }
+    },
+    "16": {
+      "title": "",
+      "last_updated": "1787375786",
+      "volume": "2",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/6eyrwpe267p"
+      }
+    },
+    "160": {
+      "title": "",
+      "last_updated": "1787379216",
+      "volume": "19",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3jp3y8"
+      }
+    },
+    "161": {
+      "title": "",
+      "last_updated": "1787379232",
+      "volume": "19",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/wl7ljeqjxyx"
+      }
+    },
+    "162": {
+      "title": "",
+      "last_updated": "1787379246",
+      "volume": "19",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ljyq3nw3d42"
+      }
+    },
+    "163": {
+      "title": "",
+      "last_updated": "1787379260",
+      "volume": "19",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9ryd8vk8a4k"
+      }
+    },
+    "164": {
+      "title": "",
+      "last_updated": "1787379275",
+      "volume": "19",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ej7mqgdq9yd"
+      }
+    },
+    "165": {
+      "title": "",
+      "last_updated": "1787379294",
+      "volume": "19",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/n87w5wa5x7x"
+      }
+    },
+    "166": {
+      "title": "",
+      "last_updated": "1787379309",
+      "volume": "19",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59x5myd"
+      }
+    },
+    "167": {
+      "title": "",
+      "last_updated": "1787379332",
+      "volume": "19",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6on6qyj"
+      }
+    },
+    "168": {
+      "title": "",
+      "last_updated": "1787379353",
+      "volume": "20",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/o24aez5ed7l"
+      }
+    },
+    "169": {
+      "title": "",
+      "last_updated": "1787379370",
+      "volume": "20",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6ap4q"
+      }
+    },
+    "17": {
+      "title": "",
+      "last_updated": "1787375806",
+      "volume": "3",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv8xvyx"
+      }
+    },
+    "170": {
+      "title": "",
+      "last_updated": "1787379385",
+      "volume": "20",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8azm75"
+      }
+    },
+    "171": {
+      "title": "",
+      "last_updated": "1787379400",
+      "volume": "20",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3jl3y8"
+      }
+    },
+    "172": {
+      "title": "",
+      "last_updated": "1787379416",
+      "volume": "20",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/wl7ljeqbxyx"
+      }
+    },
+    "173": {
+      "title": "",
+      "last_updated": "1787379434",
+      "volume": "20",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/vj4j2rlb378"
+      }
+    },
+    "174": {
+      "title": "",
+      "last_updated": "1787379451",
+      "volume": "20",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/6eyrwpeox7p"
+      }
+    },
+    "175": {
+      "title": "",
+      "last_updated": "1787379466",
+      "volume": "20",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/pg73xzevg7r"
+      }
+    },
+    "176": {
+      "title": "",
+      "last_updated": "1787379489",
+      "volume": "20",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qb4zvaxo5yj"
+      }
+    },
+    "177": {
+      "title": "",
+      "last_updated": "1787379509",
+      "volume": "21",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6onbqyj"
+      }
+    },
+    "178": {
+      "title": "",
+      "last_updated": "1787379829",
+      "volume": "21",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv82zyx"
+      }
+    },
+    "179": {
+      "title": "",
+      "last_updated": "1787379843",
+      "volume": "21",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/agyv8m5kk48"
+      }
+    },
+    "18": {
+      "title": "",
+      "last_updated": "1787375822",
+      "volume": "3",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3jwmy8"
+      }
+    },
+    "180": {
+      "title": "",
+      "last_updated": "1787379858",
+      "volume": "21",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6w64q"
+      }
+    },
+    "181": {
+      "title": "",
+      "last_updated": "1787379873",
+      "volume": "21",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9249bo6r8yn"
+      }
+    },
+    "182": {
+      "title": "",
+      "last_updated": "1787379889",
+      "volume": "21",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/dl7pmx33j7o"
+      }
+    },
+    "183": {
+      "title": "",
+      "last_updated": "1787379903",
+      "volume": "21",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3jjwy8"
+      }
+    },
+    "184": {
+      "title": "",
+      "last_updated": "1787379918",
+      "volume": "21",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/wl7ljeqq3yx"
+      }
+    },
+    "185": {
+      "title": "",
+      "last_updated": "1787379940",
+      "volume": "21",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9ryd8vkk64k"
+      }
+    },
+    "186": {
+      "title": "",
+      "last_updated": "1787379962",
+      "volume": "22",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qb4zvaxxlyj"
+      }
+    },
+    "187": {
+      "title": "",
+      "last_updated": "1787379976",
+      "volume": "22",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv882yx"
+      }
+    },
+    "188": {
+      "title": "",
+      "last_updated": "1787379990",
+      "volume": "22",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6664q"
+      }
+    },
+    "189": {
+      "title": "",
+      "last_updated": "1787380004",
+      "volume": "22",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9249bo668yn"
+      }
+    },
+    "19": {
+      "title": "",
+      "last_updated": "1787375836",
+      "volume": "3",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ljyq3nwde42"
+      }
+    },
+    "190": {
+      "title": "",
+      "last_updated": "1787380018",
+      "volume": "22",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/dl7pmx3lj7o"
+      }
+    },
+    "191": {
+      "title": "",
+      "last_updated": "1787380032",
+      "volume": "22",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/5xy2vwkr37l"
+      }
+    },
+    "192": {
+      "title": "",
+      "last_updated": "1787380050",
+      "volume": "22",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/vj4j2rlx978"
+      }
+    },
+    "192.5": {
+      "title": "",
+      "last_updated": "1787380092",
+      "volume": "22",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/6eyrwpeql7p"
+      }
+    },
+    "192.75": {
+      "title": "",
+      "last_updated": "1787380106",
+      "volume": "22",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/n87w5wakq7x"
+      }
+    },
+    "2": {
+      "title": "",
+      "last_updated": "1787375548",
+      "volume": "1",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/6eyrwper67p"
+      }
+    },
+    "20": {
+      "title": "",
+      "last_updated": "1787375852",
+      "volume": "3",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59xpxyd"
+      }
+    },
+    "21": {
+      "title": "",
+      "last_updated": "1787375867",
+      "volume": "3",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv8kgyx"
+      }
+    },
+    "22": {
+      "title": "",
+      "last_updated": "1787375882",
+      "volume": "3",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9p4nd5rxwyn"
+      }
+    },
+    "23": {
+      "title": "",
+      "last_updated": "1787375897",
+      "volume": "3",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8avk75"
+      }
+    },
+    "24": {
+      "title": "",
+      "last_updated": "1787375911",
+      "volume": "3",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/dl7pmx3987o"
+      }
+    },
+    "25": {
+      "title": "",
+      "last_updated": "1787375931",
+      "volume": "3",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/5xy2vwk3n7l"
+      }
+    },
+    "26": {
+      "title": "",
+      "last_updated": "1787375952",
+      "volume": "4",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/vj4j2rlv578"
+      }
+    },
+    "27": {
+      "title": "",
+      "last_updated": "1787375967",
+      "volume": "4",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/o24aez5ag7l"
+      }
+    },
+    "28": {
+      "title": "",
+      "last_updated": "1787375983",
+      "volume": "4",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/agyv8m5vw48"
+      }
+    },
+    "29": {
+      "title": "",
+      "last_updated": "1787375998",
+      "volume": "4",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6mm4q"
+      }
+    },
+    "3": {
+      "title": "",
+      "last_updated": "1787375568",
+      "volume": "1",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ej7mqgdzjyd"
+      }
+    },
+    "30": {
+      "title": "",
+      "last_updated": "1787376015",
+      "volume": "4",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9249bo6dvyn"
+      }
+    },
+    "31": {
+      "title": "",
+      "last_updated": "1787376030",
+      "volume": "4",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8a2k75"
+      }
+    },
+    "32": {
+      "title": "",
+      "last_updated": "1787376046",
+      "volume": "4",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/5xy2vwkbn7l"
+      }
+    },
+    "33": {
+      "title": "",
+      "last_updated": "1787376061",
+      "volume": "4",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ljyq3nw8e42"
+      }
+    },
+    "34": {
+      "title": "",
+      "last_updated": "1787376082",
+      "volume": "4",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/6eyrwpexk7p"
+      }
+    },
+    "35": {
+      "title": "",
+      "last_updated": "1787376105",
+      "volume": "5",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59xqxyd"
+      }
+    },
+    "36": {
+      "title": "",
+      "last_updated": "1787376121",
+      "volume": "5",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/bp45bag3x45"
+      }
+    },
+    "37": {
+      "title": "",
+      "last_updated": "1787376136",
+      "volume": "5",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/o24aez53g7l"
+      }
+    },
+    "38": {
+      "title": "",
+      "last_updated": "1787376151",
+      "volume": "5",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8a5k75"
+      }
+    },
+    "39": {
+      "title": "",
+      "last_updated": "1787376167",
+      "volume": "5",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/wl7ljeq96yx"
+      }
+    },
+    "4": {
+      "title": "",
+      "last_updated": "1787375583",
+      "volume": "1",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/pg73xzek37r"
+      }
+    },
+    "40": {
+      "title": "",
+      "last_updated": "1787376182",
+      "volume": "5",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/6eyrwpevk7p"
+      }
+    },
+    "41": {
+      "title": "",
+      "last_updated": "1787376199",
+      "volume": "5",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qb4zvaxdgyj"
+      }
+    },
+    "42": {
+      "title": "",
+      "last_updated": "1787376218",
+      "volume": "5",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6oneoyj"
+      }
+    },
+    "43": {
+      "title": "",
+      "last_updated": "1787376542",
+      "volume": "5",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv8wgyx"
+      }
+    },
+    "44": {
+      "title": "",
+      "last_updated": "1787376564",
+      "volume": "6",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9ryd8vkmw4k"
+      }
+    },
+    "45": {
+      "title": "",
+      "last_updated": "1787376579",
+      "volume": "6",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ej7mqgdwbyd"
+      }
+    },
+    "46": {
+      "title": "",
+      "last_updated": "1787376595",
+      "volume": "6",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/pg73xzegz7r"
+      }
+    },
+    "47": {
+      "title": "",
+      "last_updated": "1787376612",
+      "volume": "6",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59xg3yd"
+      }
+    },
+    "48": {
+      "title": "",
+      "last_updated": "1787376628",
+      "volume": "6",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qb4zvax83yj"
+      }
+    },
+    "49": {
+      "title": "",
+      "last_updated": "1787376642",
+      "volume": "6",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/bp45bag5245"
+      }
+    },
+    "5": {
+      "title": "",
+      "last_updated": "1787375599",
+      "volume": "1",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/n87w5wazb7x"
+      }
+    },
+    "50": {
+      "title": "",
+      "last_updated": "1787376658",
+      "volume": "6",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8akn75"
+      }
+    },
+    "51": {
+      "title": "",
+      "last_updated": "1787376674",
+      "volume": "6",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3jvqy8"
+      }
+    },
+    "52": {
+      "title": "",
+      "last_updated": "1787376697",
+      "volume": "6",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/5xy2vwk8j7l"
+      }
+    },
+    "53": {
+      "title": "",
+      "last_updated": "1787376721",
+      "volume": "7",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/wl7ljeq2pyx"
+      }
+    },
+    "54": {
+      "title": "",
+      "last_updated": "1787376736",
+      "volume": "7",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/vj4j2rlg278"
+      }
+    },
+    "55": {
+      "title": "",
+      "last_updated": "1787376751",
+      "volume": "7",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ljyq3nwro42"
+      }
+    },
+    "56": {
+      "title": "",
+      "last_updated": "1787376769",
+      "volume": "7",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ej7mqgdlbyd"
+      }
+    },
+    "57": {
+      "title": "",
+      "last_updated": "1787376784",
+      "volume": "7",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/pg73xze5z7r"
+      }
+    },
+    "58": {
+      "title": "",
+      "last_updated": "1787376801",
+      "volume": "7",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/n87w5wamz7x"
+      }
+    },
+    "59": {
+      "title": "",
+      "last_updated": "1787376817",
+      "volume": "7",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59xm3yd"
+      }
+    },
+    "6": {
+      "title": "",
+      "last_updated": "1787375615",
+      "volume": "1",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6onvbyj"
+      }
+    },
+    "60": {
+      "title": "",
+      "last_updated": "1787376833",
+      "volume": "7",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6onwryj"
+      }
+    },
+    "61": {
+      "title": "",
+      "last_updated": "1787376853",
+      "volume": "7",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/bp45bagq245"
+      }
+    },
+    "62": {
+      "title": "",
+      "last_updated": "1787376875",
+      "volume": "8",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv8dwyx"
+      }
+    },
+    "63": {
+      "title": "",
+      "last_updated": "1787376890",
+      "volume": "8",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/agyv8m5r948"
+      }
+    },
+    "64": {
+      "title": "",
+      "last_updated": "1787376907",
+      "volume": "8",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6334q"
+      }
+    },
+    "65": {
+      "title": "",
+      "last_updated": "1787376925",
+      "volume": "8",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9249bo632yn"
+      }
+    },
+    "66": {
+      "title": "",
+      "last_updated": "1787376940",
+      "volume": "8",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8aqn75"
+      }
+    },
+    "67": {
+      "title": "",
+      "last_updated": "1787376956",
+      "volume": "8",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/dl7pmx3867o"
+      }
+    },
+    "68": {
+      "title": "",
+      "last_updated": "1787376973",
+      "volume": "8",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/na7kl3j8qy8"
+      }
+    },
+    "69": {
+      "title": "",
+      "last_updated": "1787376989",
+      "volume": "8",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/5xy2vwk2j7l"
+      }
+    },
+    "7": {
+      "title": "",
+      "last_updated": "1787375634",
+      "volume": "1",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/bp45bagkg45"
+      }
+    },
+    "70": {
+      "title": "",
+      "last_updated": "1787377016",
+      "volume": "8",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/wl7ljeqopyx"
+      }
+    },
+    "71": {
+      "title": "",
+      "last_updated": "1787377039",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ljyq3nw2o42"
+      }
+    },
+    "72": {
+      "title": "",
+      "last_updated": "1787377053",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9ryd8vkrw4k"
+      }
+    },
+    "73": {
+      "title": "",
+      "last_updated": "1787377068",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/6eyrwpele7p"
+      }
+    },
+    "74": {
+      "title": "",
+      "last_updated": "1787377084",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ej7mqgd8byd"
+      }
+    },
+    "75": {
+      "title": "",
+      "last_updated": "1787377102",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/n87w5wa9z7x"
+      }
+    },
+    "76": {
+      "title": "",
+      "last_updated": "1787377117",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59xd3yd"
+      }
+    },
+    "77": {
+      "title": "",
+      "last_updated": "1787377134",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qb4zvax53yj"
+      }
+    },
+    "78": {
+      "title": "",
+      "last_updated": "1787377149",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6onmryj"
+      }
+    },
+    "79": {
+      "title": "",
+      "last_updated": "1787377167",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/xny8kbaeoyb"
+      }
+    },
+    "79.5": {
+      "title": "",
+      "last_updated": "1787377175",
+      "volume": "9",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/bp45bagm245"
+      }
+    },
+    "8": {
+      "title": "",
+      "last_updated": "1787375655",
+      "volume": "2",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/o24aez5xw7l"
+      }
+    },
+    "80": {
+      "title": "",
+      "last_updated": "1787377199",
+      "volume": "10",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/o24aez5237l"
+      }
+    },
+    "81": {
+      "title": "",
+      "last_updated": "1787377214",
+      "volume": "10",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/agyv8m5x948"
+      }
+    },
+    "82": {
+      "title": "",
+      "last_updated": "1787377232",
+      "volume": "10",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6934q"
+      }
+    },
+    "83": {
+      "title": "",
+      "last_updated": "1787377249",
+      "volume": "10",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9249bo622yn"
+      }
+    },
+    "84": {
+      "title": "",
+      "last_updated": "1787377267",
+      "volume": "10",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9p4nd5rvzyn"
+      }
+    },
+    "85": {
+      "title": "",
+      "last_updated": "1787377282",
+      "volume": "10",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/5xy2vwkqj7l"
+      }
+    },
+    "86": {
+      "title": "",
+      "last_updated": "1787377298",
+      "volume": "10",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/xny8kba6oyb"
+      }
+    },
+    "87": {
+      "title": "",
+      "last_updated": "1787377313",
+      "volume": "10",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9249bo6k2yn"
+      }
+    },
+    "88": {
+      "title": "",
+      "last_updated": "1787377641",
+      "volume": "10",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ne7bz8a6n75"
+      }
+    },
+    "89": {
+      "title": "",
+      "last_updated": "1787377667",
+      "volume": "11",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ljyq3nwkn42"
+      }
+    },
+    "9": {
+      "title": "",
+      "last_updated": "1787375670",
+      "volume": "2",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv8rvyx"
+      }
+    },
+    "90": {
+      "title": "",
+      "last_updated": "1787377682",
+      "volume": "11",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/9ryd8vknl4k"
+      }
+    },
+    "91": {
+      "title": "",
+      "last_updated": "1787377697",
+      "volume": "11",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/ej7mqgdvnyd"
+      }
+    },
+    "92": {
+      "title": "",
+      "last_updated": "1787377712",
+      "volume": "11",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/n87w5waqg7x"
+      }
+    },
+    "93": {
+      "title": "",
+      "last_updated": "1787377728",
+      "volume": "11",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/lqye59xnqyd"
+      }
+    },
+    "94": {
+      "title": "",
+      "last_updated": "1787377743",
+      "volume": "11",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qb4zvaxmdyj"
+      }
+    },
+    "95": {
+      "title": "",
+      "last_updated": "1787377759",
+      "volume": "11",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/qe4g6onpjyj"
+      }
+    },
+    "96": {
+      "title": "",
+      "last_updated": "1787377774",
+      "volume": "11",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/bp45bag6q45"
+      }
+    },
+    "97": {
+      "title": "",
+      "last_updated": "1787377796",
+      "volume": "11",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/o24aez5n27l"
+      }
+    },
+    "98": {
+      "title": "",
+      "last_updated": "1787377824",
+      "volume": "12",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/a846bv86oyx"
+      }
+    },
+    "99": {
+      "title": "",
+      "last_updated": "1787377840",
+      "volume": "12",
+      "groups": {
+        "CXC Scans": "/proxy/api/imgchest/chapter/m9yxaz6dq4q"
+      }
+    }
+  }
+}
