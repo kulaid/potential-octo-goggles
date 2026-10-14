@@ -1,0 +1,785 @@
+{
+  "title": "Chainsaw Man Official Colored",
+  "description": "Broke young man + chainsaw demon = Chainsaw Man! Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil-dog Pochita and becomes something new and dangerous—Chainsaw Man!",
+  "artist": "Tatsuki Fujimoto",
+  "author": "Tatsuki Fujimoto",
+  "cover": "https://mangadex.org/covers/e896c48c-3150-437d-ba57-d8567eb399ae/fa06e4e4-ef2a-477b-bfb6-a2a88793620b.jpg",
+  "chapters": {
+    "1": {
+      "title": "Dog & Chainsaw",
+      "last_updated": "1761309865",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/a84633rw24x"
+      },
+      "volume": "1"
+    },
+    "2": {
+      "title": "The Place Where Pochita Is",
+      "last_updated": "1761309883",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/5xy2qqz83yl"
+      },
+      "volume": "1"
+    },
+    "3": {
+      "title": "Arrival in Tokyo",
+      "last_updated": "1761309901",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/wl7laaz23yx"
+      },
+      "volume": "1"
+    },
+    "4": {
+      "title": "Power",
+      "last_updated": "1761309915",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/vj4jeeog978"
+      },
+      "volume": "1"
+    },
+    "5": {
+      "title": "A Way to Touch Some Boobs",
+      "last_updated": "1761309929",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/vj4jeeoge78"
+      },
+      "volume": "1"
+    },
+    "6": {
+      "title": "Service",
+      "last_updated": "1761309943",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/9rydqql6n4k"
+      },
+      "volume": "1"
+    },
+    "7": {
+      "title": "Meowy's Whereabouts",
+      "last_updated": "1761309962",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/6eyraarm64p"
+      },
+      "volume": "1"
+    },
+    "80": {
+      "title": "A Dog's Feeling",
+      "last_updated": "1761309983",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/lqyeddjgk7d"
+      },
+      "volume": "10"
+    },
+    "81": {
+      "title": "Give Paw",
+      "last_updated": "1761309998",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/qe4gmmv5b4j"
+      },
+      "volume": "10"
+    },
+    "82": {
+      "title": "Always Eat a Hearty Breakfast",
+      "last_updated": "1761310010",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/xny8eep5dyb"
+      },
+      "volume": "10"
+    },
+    "83": {
+      "title": "Death, Resurrection, Chainsaw",
+      "last_updated": "1761310024",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/bp45mmk5gy5"
+      },
+      "volume": "10"
+    },
+    "84": {
+      "title": "Hero of Hell",
+      "last_updated": "1761310037",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/a84633r5v4x"
+      },
+      "volume": "10"
+    },
+    "85": {
+      "title": "Bloody Good Gut Feeling",
+      "last_updated": "1761310054",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/m9yx99x3kyq"
+      },
+      "volume": "10"
+    },
+    "86": {
+      "title": "Date Chainsaw",
+      "last_updated": "1761310068",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/9p4nvvg8lyn"
+      },
+      "volume": "10"
+    },
+    "87": {
+      "title": "Chainsaw Man vs. the Horrifying Weapon Humans",
+      "last_updated": "1761310080",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/dl7paag8k7o"
+      },
+      "volume": "10"
+    },
+    "88": {
+      "title": "Star Chainsaw",
+      "last_updated": "1761310100",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/md7oaaz89yp"
+      },
+      "volume": "10"
+    },
+    "89": {
+      "title": "Go Get 'Em, Chainsaw Man",
+      "last_updated": "1761310119",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/na7kaax8m48"
+      },
+      "volume": "11"
+    },
+    "90": {
+      "title": "Super Power",
+      "last_updated": "1761310135",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/wl7laazooyx"
+      },
+      "volume": "11"
+    },
+    "91": {
+      "title": "Power, Power, Power",
+      "last_updated": "1761310152",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ljyqaag2k72"
+      },
+      "volume": "11"
+    },
+    "92": {
+      "title": "Zombie, Blood, Chainsaw",
+      "last_updated": "1761310165",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/9rydqqlrn4k"
+      },
+      "volume": "11"
+    },
+    "93": {
+      "title": "You & Crappy Movies",
+      "last_updated": "1761310177",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/6eyraarl64p"
+      },
+      "volume": "11"
+    },
+    "94": {
+      "title": "Chainsaw Man vs. the Weapon Humans",
+      "last_updated": "1761310191",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ej7maaz8j7d"
+      },
+      "volume": "11"
+    },
+    "95": {
+      "title": "Chainsaw Man vs. Control Devil",
+      "last_updated": "1761310206",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/qb4z556nv4j"
+      },
+      "volume": "11"
+    },
+    "96": {
+      "title": "This Kind of Taste",
+      "last_updated": "1761310219",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/xny8eepmdyb"
+      },
+      "volume": "11"
+    },
+    "97": {
+      "title": "I, Love, Chainsaw",
+      "last_updated": "1761310238",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/o24a22xjw7l"
+      },
+      "volume": "11"
+    },
+    "10": {
+      "title": "Kon",
+      "last_updated": "1761310251",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/m9yx99x9kyq"
+      },
+      "volume": "2"
+    },
+    "11": {
+      "title": "Compromise",
+      "last_updated": "1761310264",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ne7bllglvy5"
+      },
+      "volume": "2"
+    },
+    "12": {
+      "title": "Squeeze",
+      "last_updated": "1761310276",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/md7oaaza9yp"
+      },
+      "volume": "2"
+    },
+    "13": {
+      "title": "Gun Devil",
+      "last_updated": "1761310290",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/5xy2qqzq8yl"
+      },
+      "volume": "2"
+    },
+    "14": {
+      "title": "French Kiss",
+      "last_updated": "1761310303",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/vj4jeeoee78"
+      },
+      "volume": "2"
+    },
+    "15": {
+      "title": "Endless 8th Floor",
+      "last_updated": "1761310319",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ljyqaagak72"
+      },
+      "volume": "2"
+    },
+    "16": {
+      "title": "First Taste",
+      "last_updated": "1761310339",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/6eyraara64p"
+      },
+      "volume": "2"
+    },
+    "8": {
+      "title": "Chainsaw vs. Bat",
+      "last_updated": "1761310357",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ej7maazaj7d"
+      },
+      "volume": "2"
+    },
+    "9": {
+      "title": "Rescue",
+      "last_updated": "1761310372",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/n87w99z9byx"
+      },
+      "volume": "2"
+    },
+    "17": {
+      "title": "Kill Denji",
+      "last_updated": "1761310390",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/lqyeddjdk7d"
+      },
+      "volume": "3"
+    },
+    "18": {
+      "title": "Chainsaw vs. Eternity",
+      "last_updated": "1761310404",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/qe4gmmvmb4j"
+      },
+      "volume": "3"
+    },
+    "19": {
+      "title": "Nobel Prize",
+      "last_updated": "1761310418",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/xny8eepedyb"
+      },
+      "volume": "3"
+    },
+    "20": {
+      "title": "Drinking",
+      "last_updated": "1761310431",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/bp45mmkmgy5"
+      },
+      "volume": "3"
+    },
+    "21": {
+      "title": "Taste of a Kiss",
+      "last_updated": "1761310444",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/m9yx99xnkyq"
+      },
+      "volume": "3"
+    },
+    "22": {
+      "title": "Cola-Flavor Chupa Chups",
+      "last_updated": "1761310457",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/924922xkayn"
+      },
+      "volume": "3"
+    },
+    "23": {
+      "title": "Gunfire",
+      "last_updated": "1761310470",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/9p4nvvgzlyn"
+      },
+      "volume": "3"
+    },
+    "24": {
+      "title": "Curse",
+      "last_updated": "1761310484",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ne7bllg6vy5"
+      },
+      "volume": "3"
+    },
+    "25": {
+      "title": "Ghost, Snake, Chainsaw",
+      "last_updated": "1761310505",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/na7kaaxkm48"
+      },
+      "volume": "3"
+    },
+    "26": {
+      "title": "The Gun is Mightier",
+      "last_updated": "1761310525",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/wl7laazwoyx"
+      },
+      "volume": "4"
+    },
+    "27": {
+      "title": "From Kyoto",
+      "last_updated": "1761310538",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/vj4jeeome78"
+      },
+      "volume": "4"
+    },
+    "28": {
+      "title": "Secrets & Lies",
+      "last_updated": "1761310552",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ljyqaagkk72"
+      },
+      "volume": "4"
+    },
+    "29": {
+      "title": "Perfect Score",
+      "last_updated": "1761310568",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/6eyraarn64p"
+      },
+      "volume": "4"
+    },
+    "30": {
+      "title": "Bruised & Battered",
+      "last_updated": "1761310582",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/pg73ddko3yr"
+      },
+      "volume": "4"
+    },
+    "31": {
+      "title": "The Future Rules",
+      "last_updated": "1761310595",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/lqyeddjlk7d"
+      },
+      "volume": "4"
+    },
+    "32": {
+      "title": "Over and Over Again",
+      "last_updated": "1761310609",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/qb4z556pv4j"
+      },
+      "volume": "4"
+    },
+    "33": {
+      "title": "Mission Start",
+      "last_updated": "1761310626",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/xny8eep6dyb"
+      },
+      "volume": "4"
+    },
+    "34": {
+      "title": "Full Team",
+      "last_updated": "1761310646",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/o24a22x6w7l"
+      },
+      "volume": "4"
+    },
+    "35": {
+      "title": "Minor",
+      "last_updated": "1761310664",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/m9yx99xdkyq"
+      },
+      "volume": "5"
+    },
+    "36": {
+      "title": "Katana vs. Chainsaw",
+      "last_updated": "1761310677",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/9p4nvvgklyn"
+      },
+      "volume": "5"
+    },
+    "37": {
+      "title": "Train, Head, Chainsaw",
+      "last_updated": "1761310690",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/md7oaaz59yp"
+      },
+      "volume": "5"
+    },
+    "38": {
+      "title": "Easy Revenge!",
+      "last_updated": "1761310710",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/na7kaax5m48"
+      },
+      "volume": "5"
+    },
+    "39": {
+      "title": "Tearjerker",
+      "last_updated": "1761310723",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/wl7laaz5oyx"
+      },
+      "volume": "5"
+    },
+    "40": {
+      "title": "Love, Flower, Chainsaw",
+      "last_updated": "1761310736",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/vj4jeeone78"
+      },
+      "volume": "5"
+    },
+    "41": {
+      "title": "Before the Storm",
+      "last_updated": "1761310752",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/5xy2qqznnyl"
+      },
+      "volume": "5"
+    },
+    "42": {
+      "title": "Teach Me How to Swim",
+      "last_updated": "1761310766",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/9rydqqlnd4k"
+      },
+      "volume": "5"
+    },
+    "43": {
+      "title": "Jane Fell Asleep in the Church",
+      "last_updated": "1761310792",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/n87w99zq3yx"
+      },
+      "volume": "5"
+    },
+    "44": {
+      "title": "BOOM BOOM BOOM",
+      "last_updated": "1761310812",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/bp45mmknxy5"
+      },
+      "volume": "6"
+    },
+    "45": {
+      "title": "A Fine Day for Explosions",
+      "last_updated": "1761310826",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/a84633r9g4x"
+      },
+      "volume": "6"
+    },
+    "46": {
+      "title": "Massacre Melody",
+      "last_updated": "1761310843",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/m9yx99xqmyq"
+      },
+      "volume": "6"
+    },
+    "47": {
+      "title": "Luck with Women",
+      "last_updated": "1761310855",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ne7bllg3ky5"
+      },
+      "volume": "6"
+    },
+    "48": {
+      "title": "KABOOM KABOOM KABOOM",
+      "last_updated": "1761310867",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/md7oaazvayp"
+      },
+      "volume": "6"
+    },
+    "49": {
+      "title": "Shark Hurricane",
+      "last_updated": "1761310885",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/5xy2qqzgnyl"
+      },
+      "volume": "6"
+    },
+    "50": {
+      "title": "Sharknado",
+      "last_updated": "1761310899",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/vj4jeeo6578"
+      },
+      "volume": "6"
+    },
+    "51": {
+      "title": "Dark Diving",
+      "last_updated": "1761310913",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/9rydqqled4k"
+      },
+      "volume": "6"
+    },
+    "52": {
+      "title": "Lost Love, Flower, Chainsaw",
+      "last_updated": "1761310932",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ej7maaz6q7d"
+      },
+      "volume": "6"
+    },
+    "53": {
+      "title": "In a Dream",
+      "last_updated": "1761310952",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/n87w99zj3yx"
+      },
+      "volume": "7"
+    },
+    "54": {
+      "title": "To Go to Enoshima",
+      "last_updated": "1761310965",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/bp45mmkjxy5"
+      },
+      "volume": "7"
+    },
+    "55": {
+      "title": "Let's Go",
+      "last_updated": "1761310979",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/o24a22xdg7l"
+      },
+      "volume": "7"
+    },
+    "56": {
+      "title": "A Curse and a First",
+      "last_updated": "1761310993",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/agyvxxzgw78"
+      },
+      "volume": "7"
+    },
+    "57": {
+      "title": "Suddenly",
+      "last_updated": "1761311007",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/924922xmvyn"
+      },
+      "volume": "7"
+    },
+    "58": {
+      "title": "Yutaro Kurose",
+      "last_updated": "1761311022",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ne7bllgrky5"
+      },
+      "volume": "7"
+    },
+    "59": {
+      "title": "Mess",
+      "last_updated": "1761311040",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/md7oaazdayp"
+      },
+      "volume": "7"
+    },
+    "60": {
+      "title": "Quanxi and the Fiends' 49-Person Massacre",
+      "last_updated": "1761311058",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/5xy2qqzxnyl"
+      },
+      "volume": "7"
+    },
+    "61": {
+      "title": "News Reporter",
+      "last_updated": "1761311081",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/wl7laazl6yx"
+      },
+      "volume": "7"
+    },
+    "62": {
+      "title": "Super Mess",
+      "last_updated": "1761311100",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/9rydqql3d4k"
+      },
+      "volume": "8"
+    },
+    "63": {
+      "title": "Trip to Hell",
+      "last_updated": "1761311113",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/ej7maazjq7d"
+      },
+      "volume": "8"
+    },
+    "64": {
+      "title": "Welcome to Hell",
+      "last_updated": "1761311128",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/n87w99z83yx"
+      },
+      "volume": "8"
+    },
+    "65": {
+      "title": "The Darkness Devil",
+      "last_updated": "1761311141",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/xny8eep8pyb"
+      },
+      "volume": "8"
+    },
+    "66": {
+      "title": "Woof!",
+      "last_updated": "1761311155",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/bp45mmkexy5"
+      },
+      "volume": "8"
+    },
+    "67": {
+      "title": "The First Devil Hunter",
+      "last_updated": "1761311172",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/o24a22xog7l"
+      },
+      "volume": "8"
+    },
+    "68": {
+      "title": "Dark Power",
+      "last_updated": "1761311190",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/agyvxxzaw78"
+      },
+      "volume": "8"
+    },
+    "69": {
+      "title": "Shining Power",
+      "last_updated": "1761311204",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/m9yx99xlmyq"
+      },
+      "volume": "8"
+    },
+    "70": {
+      "title": "Pinch",
+      "last_updated": "1761311224",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/924922x5vyn"
+      },
+      "volume": "8"
+    },
+    "71": {
+      "title": "Bath",
+      "last_updated": "1761311246",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/dl7paagw87o"
+      },
+      "volume": "9"
+    },
+    "72": {
+      "title": "All Together",
+      "last_updated": "1761311259",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/md7oaaz3ayp"
+      },
+      "volume": "9"
+    },
+    "73": {
+      "title": "Everyday Life No More",
+      "last_updated": "1761311275",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/5xy2qqzmnyl"
+      },
+      "volume": "9"
+    },
+    "74": {
+      "title": "What the Waves Say",
+      "last_updated": "1761311290",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/xny8eepwpyb"
+      },
+      "volume": "9"
+    },
+    "75": {
+      "title": "9,12",
+      "last_updated": "1761311304",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/o24a22xlg7l"
+      },
+      "volume": "9"
+    },
+    "76": {
+      "title": "Don't Open It",
+      "last_updated": "1761311317",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/a84633rmg4x"
+      },
+      "volume": "9"
+    },
+    "77": {
+      "title": "Ring Ring Ring",
+      "last_updated": "1761311331",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/agyvxxzbw78"
+      },
+      "volume": "9"
+    },
+    "78": {
+      "title": "Snowball Fight",
+      "last_updated": "1761311344",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/9p4nvvgawyn"
+      },
+      "volume": "9"
+    },
+    "79": {
+      "title": "Play Catch",
+      "last_updated": "1761311364",
+      "groups": {
+        "Colored Manga": "/proxy/api/imgchest/chapter/md7oaazkayp"
+      },
+      "volume": "9"
+    }
+  }
+}
