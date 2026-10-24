@@ -5,78 +5,6 @@
   "author": "Yuuki Tabata",
   "cover": "https://mangadex.org/covers/e7eabe96-aa17-476f-b431-2497d5e9d060/4e184bfe-62d4-408d-a3fb-459420dc3714.jpg",
   "chapters": {
-    "1": {
-      "title": "The Boy's Vow",
-      "last_updated": "1761169945",
-      "volume": "1",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedm6ok7d"
-      }
-    },
-    "10": {
-      "title": "What Happened One Day in the Castle Town",
-      "last_updated": "1761171504",
-      "volume": "2",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nv83lmyn"
-      }
-    },
-    "100": {
-      "title": "The Red Thread of Fate",
-      "last_updated": "1761170191",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqra9d4k"
-      }
-    },
-    "101": {
-      "title": "I'm Home",
-      "last_updated": "1761170322",
-      "volume": "12",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7ma8kqq7d"
-      }
-    },
-    "103": {
-      "title": "A Fun Festival Double Date",
-      "last_updated": "1761170347",
-      "volume": "12",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmwx6o4j"
-      }
-    },
-    "104": {
-      "title": "The Briar Maiden's Melancholy",
-      "last_updated": "1761170360",
-      "volume": "12",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a8463dk2g4x"
-      }
-    },
-    "106": {
-      "title": "We Got This Far",
-      "last_updated": "1761170385",
-      "volume": "12",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa8xoayp"
-      }
-    },
-    "108": {
-      "title": "The Uncrowned, Undefeated Lioness",
-      "last_updated": "1761170409",
-      "volume": "12",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8vb578"
-      }
-    },
-    "109": {
-      "title": "The Yultim Volcano Trail",
-      "last_updated": "1761170421",
-      "volume": "12",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrabd4k"
-      }
-    },
     "11": {
       "title": "Dungeon",
       "last_updated": "1761171521",
@@ -101,60 +29,12 @@
         "Official": "/proxy/api/imgchest/chapter/wl7laorv6yx"
       }
     },
-    "117": {
-      "title": "The Two Spatial Magic Users",
-      "last_updated": "1761170536",
-      "volume": "13",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyral8jk4p"
-      }
-    },
-    "118": {
-      "title": "Mage X",
-      "last_updated": "1761170549",
-      "volume": "13",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7ma8kxq7d"
-      }
-    },
-    "119": {
-      "title": "More",
-      "last_updated": "1761170560",
-      "volume": "13",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5njzg4j"
-      }
-    },
-    "12": {
-      "title": "Reunion",
-      "last_updated": "1761171539",
-      "volume": "2",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa8ejryp"
-      }
-    },
-    "120": {
-      "title": "Bad Blood",
-      "last_updated": "1761170576",
-      "volume": "13",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emoapyb"
-      }
-    },
     "121": {
       "title": "Thrash Him",
       "last_updated": "1761170596",
       "volume": "14",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/agyvxrw5w78"
-      }
-    },
-    "122": {
-      "title": "My Way",
-      "last_updated": "1761170608",
-      "volume": "14",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa89387o"
       }
     },
     "123": {
@@ -173,76 +53,12 @@
         "Official": "/proxy/api/imgchest/chapter/wl7laorq6yx"
       }
     },
-    "125": {
-      "title": "It Was Beautiful",
-      "last_updated": "1761170647",
-      "volume": "14",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa2zwe72"
-      }
-    },
-    "127": {
-      "title": "Gold and Black Sparks",
-      "last_updated": "1761170675",
-      "volume": "14",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa2zwo72"
-      }
-    },
-    "128": {
-      "title": "The One Who Wins Till the End...",
-      "last_updated": "1761170688",
-      "volume": "14",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyral8ee4p"
-      }
-    },
-    "129": {
-      "title": "The Life of a Certain Man",
-      "last_updated": "1761170701",
-      "volume": "14",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlwezyr"
-      }
-    },
     "13": {
       "title": "The Diamond Mage",
       "last_updated": "1761171558",
       "volume": "2",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/5xy2q2bl9yl"
-      }
-    },
-    "130": {
-      "title": "Burn It into You",
-      "last_updated": "1761170714",
-      "volume": "14",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmwxar4j"
-      }
-    },
-    "131": {
-      "title": "Going On Ahead",
-      "last_updated": "1761170734",
-      "volume": "15",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emogoyb"
-      }
-    },
-    "132": {
-      "title": "The Victors",
-      "last_updated": "1761170746",
-      "volume": "15",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a8463dkew4x"
-      }
-    },
-    "133": {
-      "title": "Formation of the Royal Knights",
-      "last_updated": "1761170759",
-      "volume": "15",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrw3978"
       }
     },
     "134": {
@@ -253,30 +69,6 @@
         "Official": "/proxy/api/imgchest/chapter/ne7blqveny5"
       }
     },
-    "135": {
-      "title": "Storming the Eye of the Midnight Sun's Hideout!!!",
-      "last_updated": "1761170783",
-      "volume": "15",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa89l67o"
-      }
-    },
-    "136": {
-      "title": "A Surging Advance",
-      "last_updated": "1761170796",
-      "volume": "15",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa8x2dyp"
-      }
-    },
-    "137": {
-      "title": "Mereoleona vs. Raia the Disloyal",
-      "last_updated": "1761170807",
-      "volume": "15",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q23rjyl"
-      }
-    },
     "138": {
       "title": "Assault",
       "last_updated": "1761170822",
@@ -285,92 +77,12 @@
         "Official": "/proxy/api/imgchest/chapter/wl7laornpyx"
       }
     },
-    "14": {
-      "title": "Friends",
-      "last_updated": "1761171575",
-      "volume": "2",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa28dn72"
-      }
-    },
-    "140": {
-      "title": "You Probably Don't Know, But...",
-      "last_updated": "1761170853",
-      "volume": "15",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9mgwzyx"
-      }
-    },
-    "141": {
-      "title": "Crazy Magic Battle",
-      "last_updated": "1761170873",
-      "volume": "16",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmwxor4j"
-      }
-    },
-    "142": {
-      "title": "Twilight",
-      "last_updated": "1761170886",
-      "volume": "16",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jvz37l"
-      }
-    },
-    "143": {
-      "title": "The Wizard King Vs. The Leader of the Eye of the Midnight Sun",
-      "last_updated": "1761170899",
-      "volume": "16",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrwm978"
-      }
-    },
-    "147": {
-      "title": "An End and a Beginning",
-      "last_updated": "1761170954",
-      "volume": "16",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7laorepyx"
-      }
-    },
-    "148": {
-      "title": "Until Now",
-      "last_updated": "1761170967",
-      "volume": "16",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa2zno72"
-      }
-    },
     "149": {
       "title": "Reincarnation",
       "last_updated": "1761170979",
       "volume": "16",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/6eyral8pe4p"
-      }
-    },
-    "15": {
-      "title": "Three",
-      "last_updated": "1761171594",
-      "volume": "2",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7ma83kn7d"
-      }
-    },
-    "150": {
-      "title": "Collapse",
-      "last_updated": "1761170992",
-      "volume": "16",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9mezzyx"
-      }
-    },
-    "151": {
-      "title": "Overwhelming Disadvantage",
-      "last_updated": "1761171019",
-      "volume": "17",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmqj37d"
       }
     },
     "152": {
@@ -389,116 +101,12 @@
         "Official": "/proxy/api/imgchest/chapter/ne7blq2gny5"
       }
     },
-    "154": {
-      "title": "Golden Wind",
-      "last_updated": "1761171066",
-      "volume": "17",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8dxq48"
-      }
-    },
-    "155": {
-      "title": "We Won't Lose to You",
-      "last_updated": "1761171076",
-      "volume": "17",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8qo278"
-      }
-    },
-    "156": {
-      "title": "True Form, True Power",
-      "last_updated": "1761171087",
-      "volume": "17",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrjlw4k"
-      }
-    },
-    "157": {
-      "title": "Fall, or Save the Kingdom",
-      "last_updated": "1761171101",
-      "volume": "17",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyralxre4p"
-      }
-    },
-    "158": {
-      "title": "The Lives of the Village in the Sticks",
-      "last_updated": "1761171112",
-      "volume": "17",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlbkzyr"
-      }
-    },
-    "159": {
-      "title": "Release from Misfortune",
-      "last_updated": "1761171126",
-      "volume": "17",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5nw934j"
-      }
-    },
-    "16": {
-      "title": "Mortal Combat",
-      "last_updated": "1761171621",
-      "volume": "2",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmq6q7d"
-      }
-    },
-    "162": {
-      "title": "Lightning of Rage vs. Friends",
-      "last_updated": "1761171173",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrvd978"
-      }
-    },
-    "163": {
-      "title": "Smiles, Tears",
-      "last_updated": "1761171184",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/924923dz2yn"
-      }
-    },
-    "164": {
-      "title": "The Good-For-Nothings Rise Up!!",
-      "last_updated": "1761171195",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa8egdyp"
-      }
-    },
-    "165": {
-      "title": "The Black Bulls Charge",
-      "last_updated": "1761171209",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8dzq48"
-      }
-    },
     "166": {
       "title": "The Resurrected Avenger",
       "last_updated": "1761171221",
       "volume": "18",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/ljyqa289o72"
-      }
-    },
-    "167": {
-      "title": "Path of Revenge, Path of Atonement",
-      "last_updated": "1761171231",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2bp9yl"
-      }
-    },
-    "168": {
-      "title": "A Fight Between Those Who Swore Loyalty to the Same Man",
-      "last_updated": "1761171241",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8qdx78"
       }
     },
     "169": {
@@ -509,68 +117,12 @@
         "Official": "/proxy/api/imgchest/chapter/pg73dlbpjyr"
       }
     },
-    "17": {
-      "title": "Destroyer",
-      "last_updated": "1761173271",
-      "volume": "3",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45mq2jgy5"
-      }
-    },
-    "170": {
-      "title": "The Fallen Make Their Move",
-      "last_updated": "1761171265",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmqvq7d"
-      }
-    },
-    "171": {
-      "title": "The Sleeping Lion",
-      "last_updated": "1761171282",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5nw3d4j"
-      }
-    },
-    "172": {
-      "title": "Rebirth",
-      "last_updated": "1761171302",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emqz5yb"
-      }
-    },
     "174": {
       "title": "Flying In",
       "last_updated": "1761171343",
       "volume": "19",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/9p4nv832myn"
-      }
-    },
-    "175": {
-      "title": "The Silvas' Battle",
-      "last_updated": "1761171360",
-      "volume": "19",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa8elryp"
-      }
-    },
-    "176": {
-      "title": "Siblings",
-      "last_updated": "1761171375",
-      "volume": "19",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8q3x78"
-      }
-    },
-    "177": {
-      "title": "Battlefield Dancer",
-      "last_updated": "1761171387",
-      "volume": "19",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrjpl4k"
       }
     },
     "178": {
@@ -581,30 +133,6 @@
         "Official": "/proxy/api/imgchest/chapter/6eyralxdg4p"
       }
     },
-    "179": {
-      "title": "Battle for the Royal Chamber",
-      "last_updated": "1761171419",
-      "volume": "19",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9mergyx"
-      }
-    },
-    "180": {
-      "title": "Sharpened Blades",
-      "last_updated": "1761171437",
-      "volume": "19",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmqpq7d"
-      }
-    },
-    "181": {
-      "title": "Spatial Mage Brothers",
-      "last_updated": "1761171454",
-      "volume": "19",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emql5yb"
-      }
-    },
     "182": {
       "title": "The Apostles of Sephira",
       "last_updated": "1761171469",
@@ -613,84 +141,12 @@
         "Official": "/proxy/api/imgchest/chapter/a8463dlgo4x"
       }
     },
-    "183": {
-      "title": "The Raging Bull Joins the Showdown!!",
-      "last_updated": "1761171488",
-      "volume": "19",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrvej78"
-      }
-    },
-    "184": {
-      "title": "Dream World",
-      "last_updated": "1761171699",
-      "volume": "20",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a8463dlko4x"
-      }
-    },
-    "185": {
-      "title": "Dream Encounter",
-      "last_updated": "1761171715",
-      "volume": "20",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/924923dgmyn"
-      }
-    },
-    "186": {
-      "title": "The Eyes in the Mirror",
-      "last_updated": "1761171729",
-      "volume": "20",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa8k9p7o"
-      }
-    },
-    "187": {
-      "title": "Battle in the Space Between Heaven and Earth",
-      "last_updated": "1761171742",
-      "volume": "20",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa8exryp"
-      }
-    },
-    "188": {
-      "title": "Why I Lived This Long",
-      "last_updated": "1761171757",
-      "volume": "20",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2b39yl"
-      }
-    },
-    "189": {
-      "title": "Humans Who Can Be Trusted",
-      "last_updated": "1761171774",
-      "volume": "20",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8qvx78"
-      }
-    },
     "19": {
       "title": "Memories of You",
       "last_updated": "1761173304",
       "volume": "3",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/9p4nv83mlyn"
-      }
-    },
-    "190": {
-      "title": "Go!!!!",
-      "last_updated": "1761171790",
-      "volume": "20",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrjjl4k"
-      }
-    },
-    "191": {
-      "title": "Storming the Shadow Palace",
-      "last_updated": "1761171803",
-      "volume": "20",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyralxxg4p"
       }
     },
     "192": {
@@ -709,28 +165,12 @@
         "Official": "/proxy/api/imgchest/chapter/n87w9meegyx"
       }
     },
-    "194": {
-      "title": "Outrage",
-      "last_updated": "1761171849",
-      "volume": "20",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5nwwd4j"
-      }
-    },
     "197": {
       "title": "False Hope",
       "last_updated": "1761171903",
       "volume": "21",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/9p4nv833myn"
-      }
-    },
-    "198": {
-      "title": "The Five-Leaf Grimoire",
-      "last_updated": "1761171918",
-      "volume": "21",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa8kkp7o"
       }
     },
     "199": {
@@ -741,84 +181,12 @@
         "Official": "/proxy/api/imgchest/chapter/na7ka8ddb48"
       }
     },
-    "2": {
-      "title": "The Magic Knights Entrance Exam",
-      "last_updated": "1761169964",
-      "volume": "1",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45mqzegy5"
-      }
-    },
     "201": {
       "title": "The Top Level of the Shadow Palace",
       "last_updated": "1761171961",
       "volume": "21",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/5xy2q2bdzyl"
-      }
-    },
-    "202": {
-      "title": "From Another World",
-      "last_updated": "1761171977",
-      "volume": "21",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7lao39xyx"
-      }
-    },
-    "203": {
-      "title": "Breaking the Seal",
-      "last_updated": "1761171992",
-      "volume": "21",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrjxa4k"
-      }
-    },
-    "204": {
-      "title": "Last Wish",
-      "last_updated": "1761172007",
-      "volume": "21",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyralxvx4p"
-      }
-    },
-    "205": {
-      "title": "The Truth of 500 Years",
-      "last_updated": "1761172028",
-      "volume": "21",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmqam7d"
-      }
-    },
-    "206": {
-      "title": "A Reunion Across Time and Space",
-      "last_updated": "1761172052",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emq32yb"
-      }
-    },
-    "207": {
-      "title": "Ultimate Magic",
-      "last_updated": "1761172066",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a8463dlpz4x"
-      }
-    },
-    "208": {
-      "title": "Swords",
-      "last_updated": "1761172080",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yx93mjpyq"
-      }
-    },
-    "209": {
-      "title": "Wish",
-      "last_updated": "1761172093",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ne7blq25my5"
       }
     },
     "21": {
@@ -829,68 +197,12 @@
         "Official": "/proxy/api/imgchest/chapter/wl7lao3doyx"
       }
     },
-    "210": {
-      "title": "On the Brink",
-      "last_updated": "1761172110",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa8kv37o"
-      }
-    },
     "211": {
       "title": "The Final Attack",
       "last_updated": "1761172132",
       "volume": "22",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/vj4je8qk378"
-      }
-    },
-    "212": {
-      "title": "Destiny's End",
-      "last_updated": "1761172148",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrjma4k"
-      }
-    },
-    "213": {
-      "title": "The Great Soul Tree",
-      "last_updated": "1761172162",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlbggyr"
-      }
-    },
-    "214": {
-      "title": "Dawn",
-      "last_updated": "1761172178",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmq2m7d"
-      }
-    },
-    "215": {
-      "title": "Three Problems",
-      "last_updated": "1761172188",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emqv2yb"
-      }
-    },
-    "216": {
-      "title": "Power Balance",
-      "last_updated": "1761172203",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jaqd7l"
-      }
-    },
-    "217": {
-      "title": "The Scales of Justice",
-      "last_updated": "1761172228",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrvqb78"
       }
     },
     "219": {
@@ -901,228 +213,12 @@
         "Official": "/proxy/api/imgchest/chapter/5xy2q2b8zyl"
       }
     },
-    "22": {
-      "title": "Assembly at the Royal Capital",
-      "last_updated": "1761173345",
-      "volume": "3",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa28ek72"
-      }
-    },
-    "220": {
-      "title": "Visits",
-      "last_updated": "1761172270",
-      "volume": "23",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7lao32xyx"
-      }
-    },
     "221": {
       "title": "The Blue Rose's Confession",
       "last_updated": "1761172279",
       "volume": "23",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/9rydqrj6a4k"
-      }
-    },
-    "223": {
-      "title": "The Agrippa Family",
-      "last_updated": "1761172302",
-      "volume": "23",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9mexxyx"
-      }
-    },
-    "224": {
-      "title": "You Are Cursed",
-      "last_updated": "1761172313",
-      "volume": "23",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmw25q4j"
-      }
-    },
-    "225": {
-      "title": "The Heart Kingdom",
-      "last_updated": "1761172323",
-      "volume": "23",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45mq25ny5"
-      }
-    },
-    "226": {
-      "title": "The Spirit Guardian's Magic",
-      "last_updated": "1761172333",
-      "volume": "23",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a8463dl5z4x"
-      }
-    },
-    "227": {
-      "title": "The All-Knowing Priestess",
-      "last_updated": "1761172344",
-      "volume": "23",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrv9b78"
-      }
-    },
-    "228": {
-      "title": "Arcane Stage Mages",
-      "last_updated": "1761172361",
-      "volume": "23",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nv83jbyn"
-      }
-    },
-    "229": {
-      "title": "The Beginning of Hope and Despair",
-      "last_updated": "1761172386",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8dv348"
-      }
-    },
-    "23": {
-      "title": "The Distinguished Service Ceremony",
-      "last_updated": "1761173359",
-      "volume": "3",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlb33yr"
-      }
-    },
-    "230": {
-      "title": "I'll Crush You",
-      "last_updated": "1761172400",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7lao3oxyx"
-      }
-    },
-    "231": {
-      "title": "The Dark Triad",
-      "last_updated": "1761172414",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrjra4k"
-      }
-    },
-    "233": {
-      "title": "Fate Begins to Move",
-      "last_updated": "1761172437",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlblgyr"
-      }
-    },
-    "234": {
-      "title": "The Messenger from the Spade Kingdom",
-      "last_updated": "1761172453",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmqmm7d"
-      }
-    },
-    "235": {
-      "title": "Dark Disciples",
-      "last_updated": "1761172467",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmw2wq4j"
-      }
-    },
-    "236": {
-      "title": "There's No Way We're The Same",
-      "last_updated": "1761172481",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jajd7l"
-      }
-    },
-    "238": {
-      "title": "Zenon's Power",
-      "last_updated": "1761172509",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nv838byn"
-      }
-    },
-    "239": {
-      "title": "Budding of Yggdrasil",
-      "last_updated": "1761172525",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ne7blq2qmy5"
-      }
-    },
-    "240": {
-      "title": "The Great War Breaks Out",
-      "last_updated": "1761172549",
-      "volume": "25",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8d8348"
-      }
-    },
-    "241": {
-      "title": "Super Midair Battle",
-      "last_updated": "1761172562",
-      "volume": "25",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8qe378"
-      }
-    },
-    "242": {
-      "title": "Humans and Evil",
-      "last_updated": "1761172580",
-      "volume": "25",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2bq3yl"
-      }
-    },
-    "243": {
-      "title": "Devil Host vs. Devil Host",
-      "last_updated": "1761172595",
-      "volume": "25",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8qe978"
-      }
-    },
-    "245": {
-      "title": "Dante vs. the Captain of the Black Bulls",
-      "last_updated": "1761172624",
-      "volume": "25",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9me9qyx"
-      }
-    },
-    "246": {
-      "title": "The Tree of Qliphoth",
-      "last_updated": "1761172640",
-      "volume": "25",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmqdz7d"
-      }
-    },
-    "248": {
-      "title": "Luck vs. Svenkin",
-      "last_updated": "1761172665",
-      "volume": "25",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emqewyb"
-      }
-    },
-    "249": {
-      "title": "Leopold vs. Sivoir",
-      "last_updated": "1761172682",
-      "volume": "25",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a8463dl324x"
-      }
-    },
-    "25": {
-      "title": "March of the Dead",
-      "last_updated": "1761173397",
-      "volume": "3",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5nwqv4j"
       }
     },
     "250": {
@@ -1141,156 +237,12 @@
         "Official": "/proxy/api/imgchest/chapter/924923d28yn"
       }
     },
-    "253": {
-      "title": "Bloodshed",
-      "last_updated": "1761172750",
-      "volume": "26",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7lao3w3yx"
-      }
-    },
-    "254": {
-      "title": "Power Differential",
-      "last_updated": "1761172761",
-      "volume": "26",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa28kx72"
-      }
-    },
-    "255": {
-      "title": "Exploding Life",
-      "last_updated": "1761172773",
-      "volume": "26",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyralxnl4p"
-      }
-    },
-    "257": {
-      "title": "Rise to Action",
-      "last_updated": "1761172792",
-      "volume": "26",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9menqyx"
-      }
-    },
-    "258": {
-      "title": "Black Oath",
-      "last_updated": "1761172803",
-      "volume": "26",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmw2qk4j"
-      }
-    },
-    "259": {
-      "title": "Raging Bull Unison",
-      "last_updated": "1761172812",
-      "volume": "26",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emq6wyb"
-      }
-    },
-    "26": {
-      "title": "Wild Magic Dance",
-      "last_updated": "1761174439",
-      "volume": "4",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7lao3epyx"
-      }
-    },
-    "260": {
-      "title": "Dark Out",
-      "last_updated": "1761172822",
-      "volume": "26",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45mq2ovy5"
-      }
-    },
-    "261": {
-      "title": "Shadows of Night",
-      "last_updated": "1761172838",
-      "volume": "26",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrvnk78"
-      }
-    },
-    "262": {
-      "title": "A Turbulent Conference",
-      "last_updated": "1761172854",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa8k5j7o"
-      }
-    },
-    "263": {
-      "title": "Shadow Intel",
-      "last_updated": "1761172867",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8d5w48"
-      }
-    },
-    "264": {
-      "title": "Stirrings of the Strongest",
-      "last_updated": "1761172878",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2bn3yl"
-      }
-    },
-    "266": {
-      "title": "Dark Garden Invitation",
-      "last_updated": "1761172895",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa285x72"
-      }
-    },
     "267": {
       "title": "The Devil - Binding Ritual",
       "last_updated": "1761172906",
       "volume": "27",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/9rydqrjn64k"
-      }
-    },
-    "268": {
-      "title": "Devil",
-      "last_updated": "1761172918",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlb6oyr"
-      }
-    },
-    "269": {
-      "title": "The One Who Can't Use Magic",
-      "last_updated": "1761172929",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5nwml4j"
-      }
-    },
-    "27": {
-      "title": "We Can Get Stronger",
-      "last_updated": "1761174452",
-      "volume": "4",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7ma83gb7d"
-      }
-    },
-    "270": {
-      "title": "Together",
-      "last_updated": "1761172939",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmw2pk4j"
-      }
-    },
-    "271": {
-      "title": "Union",
-      "last_updated": "1761172949",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jane7l"
       }
     },
     "272": {
@@ -1309,76 +261,12 @@
         "Official": "/proxy/api/imgchest/chapter/924923dl8yn"
       }
     },
-    "274": {
-      "title": "The Battle Begins",
-      "last_updated": "1761172990",
-      "volume": "28",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa8k6j7o"
-      }
-    },
-    "276": {
-      "title": "Boreas",
-      "last_updated": "1761173012",
-      "volume": "28",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2bg3yl"
-      }
-    },
-    "277": {
-      "title": "Queen of Briars",
-      "last_updated": "1761173025",
-      "volume": "28",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7lao363yx"
-      }
-    },
-    "278": {
-      "title": "The Mantis's Ax",
-      "last_updated": "1761173039",
-      "volume": "28",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrje64k"
-      }
-    },
     "279": {
       "title": "The Door To Hell",
       "last_updated": "1761173054",
       "volume": "28",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/ej7ma836a7d"
-      }
-    },
-    "28": {
-      "title": "Blackout",
-      "last_updated": "1761174463",
-      "volume": "4",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9mlzzyx"
-      }
-    },
-    "283": {
-      "title": "A Huge Melee",
-      "last_updated": "1761173112",
-      "volume": "29",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nv8365yn"
-      }
-    },
-    "284": {
-      "title": "Ultimate Magic",
-      "last_updated": "1761173116",
-      "volume": "29",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa8edlyp"
-      }
-    },
-    "285": {
-      "title": "A Hellish Game of Tag",
-      "last_updated": "1761173140",
-      "volume": "29",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8d2w48"
       }
     },
     "286": {
@@ -1389,140 +277,12 @@
         "Official": "/proxy/api/imgchest/chapter/wl7lao3l3yx"
       }
     },
-    "287": {
-      "title": "Day of Atonement",
-      "last_updated": "1761173171",
-      "volume": "29",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8q5978"
-      }
-    },
     "288": {
       "title": "Manifest",
       "last_updated": "1761173184",
       "volume": "29",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/5xy2q2bx8yl"
-      }
-    },
-    "29": {
-      "title": "Bad Loser",
-      "last_updated": "1761174477",
-      "volume": "4",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmwevr4j"
-      }
-    },
-    "291": {
-      "title": "A Duel With A Distant Inferior",
-      "last_updated": "1761173223",
-      "volume": "29",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlb23yr"
-      }
-    },
-    "293": {
-      "title": "Smash Injustice",
-      "last_updated": "1761173418",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmw2kb4j"
-      }
-    },
-    "294": {
-      "title": "As Promised",
-      "last_updated": "1761173430",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jaow7l"
-      }
-    },
-    "295": {
-      "title": "Rematch",
-      "last_updated": "1761173445",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yx93mbkyq"
-      }
-    },
-    "296": {
-      "title": "The Sacred Valkyrie",
-      "last_updated": "1761173456",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/924923deayn"
-      }
-    },
-    "297": {
-      "title": "The Descent",
-      "last_updated": "1761173467",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa8kbk7o"
-      }
-    },
-    "298": {
-      "title": "Transient Life",
-      "last_updated": "1761173476",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8dgm48"
-      }
-    },
-    "30": {
-      "title": "A New Rival",
-      "last_updated": "1761174490",
-      "volume": "4",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxr2z978"
-      }
-    },
-    "301": {
-      "title": "Those Feelings",
-      "last_updated": "1761173508",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa28bk72"
-      }
-    },
-    "304": {
-      "title": "Reality and Magic",
-      "last_updated": "1761173554",
-      "volume": "31",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmqrk7d"
-      }
-    },
-    "305": {
-      "title": "The Vice Captain of the Golden Dawn",
-      "last_updated": "1761173565",
-      "volume": "31",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emqwdyb"
-      }
-    },
-    "307": {
-      "title": "A Devil's Heart",
-      "last_updated": "1761173589",
-      "volume": "31",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yx93mpkyq"
-      }
-    },
-    "309": {
-      "title": "Blink",
-      "last_updated": "1761173614",
-      "volume": "31",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nv83olyn"
-      }
-    },
-    "31": {
-      "title": "The Crimson Lion King",
-      "last_updated": "1761174503",
-      "volume": "4",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/924923vx2yn"
       }
     },
     "310": {
@@ -1533,204 +293,12 @@
         "Official": "/proxy/api/imgchest/chapter/md7oa8ep9yp"
       }
     },
-    "311": {
-      "title": "Make it Home Alive",
-      "last_updated": "1761173633",
-      "volume": "31",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8dpm48"
-      }
-    },
-    "312": {
-      "title": "Before the Door of Hell",
-      "last_updated": "1761173643",
-      "volume": "31",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2b58yl"
-      }
-    },
-    "313": {
-      "title": "The Captain of the Black Bulls",
-      "last_updated": "1761173652",
-      "volume": "31",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa28pk72"
-      }
-    },
-    "314": {
-      "title": "The Mass",
-      "last_updated": "1761173664",
-      "volume": "31",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrj9n4k"
-      }
-    },
-    "315": {
-      "title": "Ultra Giant Showdown",
-      "last_updated": "1761173686",
-      "volume": "32",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmqkk7d"
-      }
-    },
-    "317": {
-      "title": "Change",
-      "last_updated": "1761173709",
-      "volume": "32",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a8463dlnv4x"
-      }
-    },
-    "318": {
-      "title": "In the Presence of the Devil King",
-      "last_updated": "1761173721",
-      "volume": "32",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrv8z78"
-      }
-    },
-    "319": {
-      "title": "Great Magic Knights VS. King of Devils",
-      "last_updated": "1761173732",
-      "volume": "32",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nv83dlyn"
-      }
-    },
-    "323": {
-      "title": "Partners",
-      "last_updated": "1761173783",
-      "volume": "32",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7lao3joyx"
-      }
-    },
-    "324": {
-      "title": "Kids'  Playground",
-      "last_updated": "1761173795",
-      "volume": "32",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa283k72"
-      }
-    },
-    "326": {
-      "title": "Brothers",
-      "last_updated": "1761173826",
-      "volume": "33",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyralxwk4p"
-      }
-    },
-    "328": {
-      "title": "Always",
-      "last_updated": "1761173845",
-      "volume": "33",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmq5x7d"
-      }
-    },
-    "329": {
-      "title": "The King of Devils and the Boys with No Magic",
-      "last_updated": "1761173857",
-      "volume": "33",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmw26o4j"
-      }
-    },
-    "33": {
-      "title": "Adversity",
-      "last_updated": "1761174531",
-      "volume": "4",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je89o278"
-      }
-    },
-    "331": {
-      "title": "And The Time Stars to Move",
-      "last_updated": "1761173880",
-      "volume": "33",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jabg7l"
-      }
-    },
-    "332": {
-      "title": "Final Declaration",
-      "last_updated": "1761173897",
-      "volume": "33",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yx93momyq"
-      }
-    },
-    "333": {
-      "title": "Page 333_ The World's Savior and Its Flaw",
-      "last_updated": "1761173912",
-      "volume": "33",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ne7blq2bky5"
-      }
-    },
-    "334": {
-      "title": "Fragile Soul",
-      "last_updated": "1761173926",
-      "volume": "33",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8qb578"
-      }
-    },
     "335": {
       "title": "Severance",
       "last_updated": "1761173938",
       "volume": "33",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/ljyqa28oe72"
-      }
-    },
-    "336": {
-      "title": "The Final Enemy",
-      "last_updated": "1761173959",
-      "volume": "33",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7ma83oq7d"
-      }
-    },
-    "337": {
-      "title": "Whereabouts",
-      "last_updated": "1761173978",
-      "volume": "34",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5nwog4j"
-      }
-    },
-    "338": {
-      "title": "Trouble on a Foreign Road",
-      "last_updated": "1761173991",
-      "volume": "34",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jarg7l"
-      }
-    },
-    "339": {
-      "title": "Zetten",
-      "last_updated": "1761174005",
-      "volume": "34",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nv839wyn"
-      }
-    },
-    "34": {
-      "title": "Wounded Beasts",
-      "last_updated": "1761174546",
-      "volume": "4",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrxlw4k"
-      }
-    },
-    "340": {
-      "title": "An Opening",
-      "last_updated": "1761174022",
-      "volume": "34",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa8k287o"
       }
     },
     "341": {
@@ -1741,100 +309,12 @@
         "Official": "/proxy/api/imgchest/chapter/na7ka8d6k48"
       }
     },
-    "342": {
-      "title": "Watch the Night",
-      "last_updated": "1761174055",
-      "volume": "34",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7lao3v6yx"
-      }
-    },
     "343": {
       "title": "Black Clash",
       "last_updated": "1761174074",
       "volume": "34",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/ljyqa28le72"
-      }
-    },
-    "344": {
-      "title": "Writhing Sacred Pulse",
-      "last_updated": "1761174086",
-      "volume": "34",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmqex7d"
-      }
-    },
-    "345": {
-      "title": "Unprepared",
-      "last_updated": "1761174101",
-      "volume": "34",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45mq2gxy5"
-      }
-    },
-    "346": {
-      "title": "Five Zetten",
-      "last_updated": "1761174115",
-      "volume": "34",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrv5w78"
-      }
-    },
-    "347": {
-      "title": "Truth in the Lie",
-      "last_updated": "1761174133",
-      "volume": "34",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nv83rwyn"
-      }
-    },
-    "348": {
-      "title": "Determined",
-      "last_updated": "1761174153",
-      "volume": "35",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ne7blq2aky5"
-      }
-    },
-    "349": {
-      "title": "Asta VS Sister Lily",
-      "last_updated": "1761174167",
-      "volume": "35",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2bknyl"
-      }
-    },
-    "35": {
-      "title": "The Strongest Guy",
-      "last_updated": "1761174567",
-      "volume": "5",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyralvre4p"
-      }
-    },
-    "350": {
-      "title": "The Holy Woman's Confession",
-      "last_updated": "1761174177",
-      "volume": "35",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8ql578"
-      }
-    },
-    "351": {
-      "title": "With the Shogun of the land of the Sun",
-      "last_updated": "1761174190",
-      "volume": "35",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7ma83dq7d"
-      }
-    },
-    "352": {
-      "title": "Well done",
-      "last_updated": "1761174202",
-      "volume": "35",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9mea3yx"
       }
     },
     "353": {
@@ -1845,52 +325,12 @@
         "Official": "/proxy/api/imgchest/chapter/xny8emqgpyb"
       }
     },
-    "354": {
-      "title": "Judgment Day",
-      "last_updated": "1761174229",
-      "volume": "35",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jawg7l"
-      }
-    },
-    "356": {
-      "title": "Neverland",
-      "last_updated": "1761174255",
-      "volume": "35",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ne7blq2eky5"
-      }
-    },
-    "357": {
-      "title": "The Final Slash",
-      "last_updated": "1761174267",
-      "volume": "35",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa8e2ayp"
-      }
-    },
     "358": {
       "title": "Flame Burial",
       "last_updated": "1761174282",
       "volume": "35",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/5xy2q2brnyl"
-      }
-    },
-    "359": {
-      "title": "The Dancing Princess of the Battlefield, Once More",
-      "last_updated": "1761174301",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8qx578"
-      }
-    },
-    "36": {
-      "title": "Light",
-      "last_updated": "1761174580",
-      "volume": "5",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlrkzyr"
       }
     },
     "360": {
@@ -1901,164 +341,12 @@
         "Official": "/proxy/api/imgchest/chapter/wl7lao3npyx"
       }
     },
-    "362": {
-      "title": "Transmission",
-      "last_updated": "1761174337",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqrjgw4k"
-      }
-    },
-    "363": {
-      "title": "Standing in the Way",
-      "last_updated": "1761174345",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlbmzyr"
-      }
-    },
-    "364": {
-      "title": "Ready for Death",
-      "last_updated": "1761174355",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9mewzyx"
-      }
-    },
-    "365": {
-      "title": "500 Years of Isolation",
-      "last_updated": "1761174367",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45mq2a2y5"
-      }
-    },
-    "366": {
-      "title": "The Leading Man",
-      "last_updated": "1761174377",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrvm978"
-      }
-    },
-    "367": {
-      "title": "Black Bonds",
-      "last_updated": "1761174386",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yx93mz3yq"
-      }
-    },
     "369": {
       "title": "A united front",
       "last_updated": "1761174418",
       "volume": "36",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/md7oa8e6dyp"
-      }
-    },
-    "37": {
-      "title": "Next Time We Meet",
-      "last_updated": "1761174592",
-      "volume": "5",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedma337d"
-      }
-    },
-    "38": {
-      "title": "The One I've Set My Heart On",
-      "last_updated": "1761174604",
-      "volume": "5",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmwedr4j"
-      }
-    },
-    "39": {
-      "title": "The Mirror Mage",
-      "last_updated": "1761174614",
-      "volume": "5",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45mq3x2y5"
-      }
-    },
-    "4": {
-      "title": "The Black Bulls",
-      "last_updated": "1761169995",
-      "volume": "1",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ne7blqvjvy5"
-      }
-    },
-    "43": {
-      "title": "Explosion of Malice",
-      "last_updated": "1761174667",
-      "volume": "5",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ne7blq5wny5"
-      }
-    },
-    "45": {
-      "title": "To Help Somebody Someday",
-      "last_updated": "1761174715",
-      "volume": "6",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je89d278"
-      }
-    },
-    "48": {
-      "title": "Ki",
-      "last_updated": "1761174773",
-      "volume": "6",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedmav37d"
-      }
-    },
-    "49": {
-      "title": "Sin for Sin",
-      "last_updated": "1761174811",
-      "volume": "6",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gmwelr4j"
-      }
-    },
-    "5": {
-      "title": "The Other New Member",
-      "last_updated": "1761170008",
-      "volume": "1",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7laor8oyx"
-      }
-    },
-    "51": {
-      "title": "Three Eyes",
-      "last_updated": "1761174829",
-      "volume": "6",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45mq382y5"
-      }
-    },
-    "52": {
-      "title": "The One with No Magic",
-      "last_updated": "1761174846",
-      "volume": "6",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a8463dpxw4x"
-      }
-    },
-    "53": {
-      "title": "They're Not Yours",
-      "last_updated": "1761174873",
-      "volume": "6",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yx93jv3yq"
-      }
-    },
-    "54": {
-      "title": "The Magic Knight Captains Conference",
-      "last_updated": "1761174897",
-      "volume": "7",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa8vq67o"
       }
     },
     "55": {
@@ -2069,158 +357,6 @@
         "Official": "/proxy/api/imgchest/chapter/5xy2q2dejyl"
       }
     },
-    "56": {
-      "title": "Three-Leaf Salute",
-      "last_updated": "1761174926",
-      "volume": "7",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je893278"
-      }
-    },
-    "57": {
-      "title": "A Black Beach Story",
-      "last_updated": "1761174942",
-      "volume": "7",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2de9yl"
-      }
-    },
-    "58": {
-      "title": "The Water Girl Grows Up",
-      "last_updated": "1761174958",
-      "volume": "7",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je893x78"
-      }
-    },
-    "59": {
-      "title": "The Underwater Temple",
-      "last_updated": "1761174971",
-      "volume": "7",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyralvdg4p"
-      }
-    },
-    "6": {
-      "title": "Go! Go! First Mission",
-      "last_updated": "1761170022",
-      "volume": "1",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8vze78"
-      }
-    },
-    "60": {
-      "title": "The High Priest's Game",
-      "last_updated": "1761174987",
-      "volume": "7",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlrjjyr"
-      }
-    },
-    "62": {
-      "title": "Rule of the Strong",
-      "last_updated": "1761175019",
-      "volume": "7",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8em3l5yb"
-      }
-    },
-    "63": {
-      "title": "A Game with Lives at Stake",
-      "last_updated": "1761175039",
-      "volume": "8",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2j3k27l"
-      }
-    },
-    "64": {
-      "title": "The Pointlessly Direct Fireball and the Wild Lightning",
-      "last_updated": "1761175052",
-      "volume": "8",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yx93jgqyq"
-      }
-    },
-    "65": {
-      "title": "The Guy Who Doesn't Know When to Quit",
-      "last_updated": "1761175064",
-      "volume": "8",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/924923vjmyn"
-      }
-    },
-    "67": {
-      "title": "Bonds",
-      "last_updated": "1761175090",
-      "volume": "8",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa89jryp"
-      }
-    },
-    "68": {
-      "title": "Awakening",
-      "last_updated": "1761175104",
-      "volume": "8",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8owb48"
-      }
-    },
-    "7": {
-      "title": "Beast",
-      "last_updated": "1761170038",
-      "volume": "1",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyral8b64p"
-      }
-    },
-    "70": {
-      "title": "Despair vs. Hope",
-      "last_updated": "1761175131",
-      "volume": "8",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa2vdn72"
-      }
-    },
-    "72": {
-      "title": "Beyond Limits",
-      "last_updated": "1761175166",
-      "volume": "9",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7ma89kn7d"
-      }
-    },
-    "73": {
-      "title": "End of the Battle, End of Despair",
-      "last_updated": "1761175181",
-      "volume": "9",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedma6q7d"
-      }
-    },
-    "74": {
-      "title": "Proof of Rightness",
-      "last_updated": "1761175196",
-      "volume": "9",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8em3o5yb"
-      }
-    },
-    "75": {
-      "title": "The Kiten War",
-      "last_updated": "1761175212",
-      "volume": "9",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a8463dpko4x"
-      }
-    },
-    "77": {
-      "title": "Whoever's Strongest Wins",
-      "last_updated": "1761175244",
-      "volume": "9",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2d39yl"
-      }
-    },
     "78": {
       "title": "The Underdog's Declaration",
       "last_updated": "1761175262",
@@ -2229,180 +365,12 @@
         "Official": "/proxy/api/imgchest/chapter/vj4je89vx78"
       }
     },
-    "79": {
-      "title": "Behind the Mask",
-      "last_updated": "1761175279",
-      "volume": "9",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7ma893n7d"
-      }
-    },
-    "8": {
-      "title": "Those Who Protect",
-      "last_updated": "1761171657",
-      "volume": "2",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emqo5yb"
-      }
-    },
-    "80": {
-      "title": "Never Again",
-      "last_updated": "1761175300",
-      "volume": "9",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w9mlegyx"
-      }
-    },
-    "81": {
-      "title": "Because He's Like That",
-      "last_updated": "1761170057",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlwq3yr"
-      }
-    },
-    "82": {
-      "title": "The Forest of Witches",
-      "last_updated": "1761170070",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5njbv4j"
-      }
-    },
-    "83": {
-      "title": "Infiltration",
-      "last_updated": "1761170082",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emowdyb"
-      }
-    },
     "84": {
       "title": "Battlefield Decision",
       "last_updated": "1761170095",
       "volume": "10",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/o24a2jvlw7l"
-      }
-    },
-    "85": {
-      "title": "The Raging Bulls Charge",
-      "last_updated": "1761170110",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrwpz78"
-      }
-    },
-    "86": {
-      "title": "Flames of Hatred",
-      "last_updated": "1761170122",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/924923gnayn"
-      }
-    },
-    "87": {
-      "title": "Not A Failure",
-      "last_updated": "1761170134",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ne7blqv9vy5"
-      }
-    },
-    "88": {
-      "title": "Devastating Thrust",
-      "last_updated": "1761170145",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa8xp9yp"
-      }
-    },
-    "89": {
-      "title": "Defectors' Atonement",
-      "last_updated": "1761170159",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2358yl"
-      }
-    },
-    "9": {
-      "title": "The Boy's Vow 2",
-      "last_updated": "1761171675",
-      "volume": "2",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jav27l"
-      }
-    },
-    "90": {
-      "title": "Students",
-      "last_updated": "1761170177",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa2zpk72"
-      }
-    },
-    "91": {
-      "title": "Explosive Enthusiasm",
-      "last_updated": "1761170208",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyral8kk4p"
-      }
-    },
-    "92": {
-      "title": "Won't Let You Die",
-      "last_updated": "1761170220",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyedm6kx7d"
-      }
-    },
-    "93": {
-      "title": "The Promised World",
-      "last_updated": "1761170231",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5nj2g4j"
-      }
-    },
-    "94": {
-      "title": "The Tables Turn",
-      "last_updated": "1761170242",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8emokpyb"
-      }
-    },
-    "95": {
-      "title": "Those Who Boost Each Other Up",
-      "last_updated": "1761170253",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jveg7l"
-      }
-    },
-    "96": {
-      "title": "Transformation",
-      "last_updated": "1761170265",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvxrw8w78"
-      }
-    },
-    "97": {
-      "title": "It's Nothing",
-      "last_updated": "1761170277",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ne7blqvzky5"
-      }
-    },
-    "99": {
-      "title": "Family",
-      "last_updated": "1761170304",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqra8d4k"
       }
     }
   }
