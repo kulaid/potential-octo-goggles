@@ -21,14 +21,6 @@
         "Official": "/proxy/api/imgchest/chapter/9p4nv83lmyn"
       }
     },
-    "100": {
-      "title": "The Red Thread of Fate",
-      "last_updated": "1761170191",
-      "volume": "11",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydqra9d4k"
-      }
-    },
     "101": {
       "title": "I'm Home",
       "last_updated": "1761170322",
@@ -197,36 +189,12 @@
         "Official": "/proxy/api/imgchest/chapter/wl7laorq6yx"
       }
     },
-    "125": {
-      "title": "It Was Beautiful",
-      "last_updated": "1761170647",
-      "volume": "14",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa2zwe72"
-      }
-    },
     "126": {
       "title": "Special Little Brother vs. Failed Big Brother",
       "last_updated": "1761170660",
       "volume": "14",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/vj4je8vl278"
-      }
-    },
-    "127": {
-      "title": "Gold and Black Sparks",
-      "last_updated": "1761170675",
-      "volume": "14",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa2zwo72"
-      }
-    },
-    "13": {
-      "title": "The Diamond Mage",
-      "last_updated": "1761171558",
-      "volume": "2",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2bl9yl"
       }
     },
     "131": {
@@ -349,14 +317,6 @@
         "Official": "/proxy/api/imgchest/chapter/6eyral8pe4p"
       }
     },
-    "15": {
-      "title": "Three",
-      "last_updated": "1761171594",
-      "volume": "2",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7ma83kn7d"
-      }
-    },
     "150": {
       "title": "Collapse",
       "last_updated": "1761170992",
@@ -469,14 +429,6 @@
         "Official": "/proxy/api/imgchest/chapter/md7oa8egdyp"
       }
     },
-    "165": {
-      "title": "The Black Bulls Charge",
-      "last_updated": "1761171209",
-      "volume": "18",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8dzq48"
-      }
-    },
     "167": {
       "title": "Path of Revenge, Path of Atonement",
       "last_updated": "1761171231",
@@ -547,14 +499,6 @@
       "volume": "19",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/vj4je8q3x78"
-      }
-    },
-    "178": {
-      "title": "Human Magic",
-      "last_updated": "1761171405",
-      "volume": "19",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyralxdg4p"
       }
     },
     "18": {
@@ -685,14 +629,6 @@
         "Official": "/proxy/api/imgchest/chapter/wl7lao39xyx"
       }
     },
-    "204": {
-      "title": "Last Wish",
-      "last_updated": "1761172007",
-      "volume": "21",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyralxvx4p"
-      }
-    },
     "205": {
       "title": "The Truth of 500 Years",
       "last_updated": "1761172028",
@@ -757,14 +693,6 @@
         "Official": "/proxy/api/imgchest/chapter/9rydqrjma4k"
       }
     },
-    "213": {
-      "title": "The Great Soul Tree",
-      "last_updated": "1761172162",
-      "volume": "22",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlbggyr"
-      }
-    },
     "214": {
       "title": "Dawn",
       "last_updated": "1761172178",
@@ -787,14 +715,6 @@
       "volume": "23",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/ne7blq2dmy5"
-      }
-    },
-    "22": {
-      "title": "Assembly at the Royal Capital",
-      "last_updated": "1761173345",
-      "volume": "3",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqa28ek72"
       }
     },
     "220": {
@@ -877,14 +797,6 @@
         "Official": "/proxy/api/imgchest/chapter/qe4gmw2wq4j"
       }
     },
-    "236": {
-      "title": "There's No Way We're The Same",
-      "last_updated": "1761172481",
-      "volume": "24",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jajd7l"
-      }
-    },
     "238": {
       "title": "Zenon's Power",
       "last_updated": "1761172509",
@@ -963,14 +875,6 @@
       "volume": "25",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/a8463dl324x"
-      }
-    },
-    "25": {
-      "title": "March of the Dead",
-      "last_updated": "1761173397",
-      "volume": "3",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5nwqv4j"
       }
     },
     "251": {
@@ -1053,28 +957,12 @@
         "Official": "/proxy/api/imgchest/chapter/pg73dlb6oyr"
       }
     },
-    "269": {
-      "title": "The One Who Can't Use Magic",
-      "last_updated": "1761172929",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4z5nwml4j"
-      }
-    },
     "27": {
       "title": "We Can Get Stronger",
       "last_updated": "1761174452",
       "volume": "4",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/ej7ma83gb7d"
-      }
-    },
-    "271": {
-      "title": "Union",
-      "last_updated": "1761172949",
-      "volume": "27",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jane7l"
       }
     },
     "272": {
@@ -1133,22 +1021,6 @@
         "Official": "/proxy/api/imgchest/chapter/wl7lao3l3yx"
       }
     },
-    "287": {
-      "title": "Day of Atonement",
-      "last_updated": "1761173171",
-      "volume": "29",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8q5978"
-      }
-    },
-    "288": {
-      "title": "Manifest",
-      "last_updated": "1761173184",
-      "volume": "29",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2q2bx8yl"
-      }
-    },
     "29": {
       "title": "Bad Loser",
       "last_updated": "1761174477",
@@ -1181,36 +1053,12 @@
         "Official": "/proxy/api/imgchest/chapter/qb4z5nwlv4j"
       }
     },
-    "294": {
-      "title": "As Promised",
-      "last_updated": "1761173430",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24a2jaow7l"
-      }
-    },
     "295": {
       "title": "Rematch",
       "last_updated": "1761173445",
       "volume": "30",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/m9yx93mbkyq"
-      }
-    },
-    "297": {
-      "title": "The Descent",
-      "last_updated": "1761173467",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pa8kbk7o"
-      }
-    },
-    "298": {
-      "title": "Transient Life",
-      "last_updated": "1761173476",
-      "volume": "30",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7ka8dgm48"
       }
     },
     "299": {
@@ -1605,14 +1453,6 @@
         "Official": "/proxy/api/imgchest/chapter/5xy2q2brnyl"
       }
     },
-    "359": {
-      "title": "The Dancing Princess of the Battlefield, Once More",
-      "last_updated": "1761174301",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4je8qx578"
-      }
-    },
     "36": {
       "title": "Light",
       "last_updated": "1761174580",
@@ -1621,28 +1461,12 @@
         "Official": "/proxy/api/imgchest/chapter/pg73dlrkzyr"
       }
     },
-    "360": {
-      "title": "The Unseen World",
-      "last_updated": "1761174315",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7lao3npyx"
-      }
-    },
     "361": {
       "title": "Doomsday Army",
       "last_updated": "1761174326",
       "volume": "36",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/vj4je8qx278"
-      }
-    },
-    "365": {
-      "title": "500 Years of Isolation",
-      "last_updated": "1761174367",
-      "volume": "36",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45mq2a2y5"
       }
     },
     "368": {
@@ -1699,14 +1523,6 @@
       "volume": "5",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/a8463dpaw4x"
-      }
-    },
-    "41": {
-      "title": "Flash",
-      "last_updated": "1761174639",
-      "volume": "5",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yx93jk3yq"
       }
     },
     "43": {
@@ -1813,14 +1629,6 @@
         "Official": "/proxy/api/imgchest/chapter/vj4je8vze78"
       }
     },
-    "60": {
-      "title": "The High Priest's Game",
-      "last_updated": "1761174987",
-      "volume": "7",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg73dlrjjyr"
-      }
-    },
     "61": {
       "title": "Temple Battle Royale",
       "last_updated": "1761175000",
@@ -1851,14 +1659,6 @@
       "volume": "8",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/924923vjmyn"
-      }
-    },
-    "67": {
-      "title": "Bonds",
-      "last_updated": "1761175090",
-      "volume": "8",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/md7oa89jryp"
       }
     },
     "68": {
@@ -1899,14 +1699,6 @@
       "volume": "9",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/ej7ma89kn7d"
-      }
-    },
-    "74": {
-      "title": "Proof of Rightness",
-      "last_updated": "1761175196",
-      "volume": "9",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny8em3o5yb"
       }
     },
     "75": {
@@ -1995,14 +1787,6 @@
       "volume": "10",
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/agyvxrwpz78"
-      }
-    },
-    "86": {
-      "title": "Flames of Hatred",
-      "last_updated": "1761170122",
-      "volume": "10",
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/924923gnayn"
       }
     },
     "87": {
