@@ -1,0 +1,304 @@
+{
+  "titles": [
+    {
+      "number": 0,
+      "title": "Prologue"
+    },
+    {
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "number": 14,
+      "title": "Episode 14"
+    },
+    {
+      "number": 15,
+      "title": "Episode 15"
+    },
+    {
+      "number": 16,
+      "title": "Episode 16"
+    },
+    {
+      "number": 17,
+      "title": "Episode 17"
+    },
+    {
+      "number": 18,
+      "title": "Episode 18"
+    },
+    {
+      "number": 19,
+      "title": "Episode 19"
+    },
+    {
+      "number": 20,
+      "title": "Episode 20"
+    },
+    {
+      "number": 21,
+      "title": "Episode 21"
+    },
+    {
+      "number": 22,
+      "title": "Episode 22"
+    },
+    {
+      "number": 23,
+      "title": "Episode 23"
+    },
+    {
+      "number": 24,
+      "title": "Episode 24"
+    },
+    {
+      "number": 25,
+      "title": "Episode 25"
+    },
+    {
+      "number": 26,
+      "title": "Episode 26"
+    },
+    {
+      "number": 27,
+      "title": "Episode 27"
+    },
+    {
+      "number": 28,
+      "title": "Episode 28"
+    },
+    {
+      "number": 29,
+      "title": "Episode 29"
+    },
+    {
+      "number": 30,
+      "title": "Episode 30"
+    },
+    {
+      "number": 31,
+      "title": "Episode 31"
+    },
+    {
+      "number": 32,
+      "title": "Episode 32"
+    },
+    {
+      "number": 33,
+      "title": "Episode 33"
+    },
+    {
+      "number": 34,
+      "title": "Episode 34"
+    },
+    {
+      "number": 35,
+      "title": "Episode 35"
+    },
+    {
+      "number": 36,
+      "title": "Episode 36"
+    },
+    {
+      "number": 37,
+      "title": "Episode 37"
+    },
+    {
+      "number": 38,
+      "title": "Episode 38"
+    },
+    {
+      "number": 39,
+      "title": "Episode 39"
+    },
+    {
+      "number": 40,
+      "title": "Episode 40"
+    },
+    {
+      "number": 41,
+      "title": "Episode 41"
+    },
+    {
+      "number": 42,
+      "title": "Episode 42"
+    },
+    {
+      "number": 43,
+      "title": "Episode 43"
+    },
+    {
+      "number": 44,
+      "title": "Episode 44"
+    },
+    {
+      "number": 45,
+      "title": "Episode 45"
+    },
+    {
+      "number": 46,
+      "title": "Episode 46"
+    },
+    {
+      "number": 47,
+      "title": "Episode 47"
+    },
+    {
+      "number": 48,
+      "title": "Episode 48"
+    },
+    {
+      "number": 49,
+      "title": "Episode 49"
+    },
+    {
+      "number": 50,
+      "title": "Episode 50"
+    },
+    {
+      "number": 51,
+      "title": "Episode 51"
+    },
+    {
+      "number": 52,
+      "title": "Episode 52"
+    },
+    {
+      "number": 53,
+      "title": "Episode 53"
+    },
+    {
+      "number": 54,
+      "title": "Episode 54"
+    },
+    {
+      "number": 55,
+      "title": "Episode 55"
+    },
+    {
+      "number": 56,
+      "title": "Episode 56"
+    },
+    {
+      "number": 57,
+      "title": "Episode 57"
+    },
+    {
+      "number": 58,
+      "title": "Episode 58"
+    },
+    {
+      "number": 59,
+      "title": "Episode 59"
+    },
+    {
+      "number": 60,
+      "title": "Episode 60"
+    },
+    {
+      "number": 61,
+      "title": "Episode 61"
+    },
+    {
+      "number": 62,
+      "title": "Episode 62"
+    },
+    {
+      "number": 63,
+      "title": "Episode 63"
+    },
+    {
+      "number": 64,
+      "title": "Episode 64"
+    },
+    {
+      "number": 65,
+      "title": "Episode 65"
+    },
+    {
+      "number": 66,
+      "title": "Episode 66"
+    },
+    {
+      "number": 67,
+      "title": "Episode 67"
+    },
+    {
+      "number": 68,
+      "title": "Episode 68"
+    },
+    {
+      "number": 69,
+      "title": "Episode 69"
+    },
+    {
+      "number": 70,
+      "title": "Episode 70"
+    },
+    {
+      "number": 71,
+      "title": "Episode 71"
+    },
+    {
+      "number": 72,
+      "title": "Episode 72"
+    },
+    {
+      "number": 73,
+      "title": "Episode 73"
+    },
+    {
+      "number": 74,
+      "title": "Final Alternative"
+    }
+  ]
+}
