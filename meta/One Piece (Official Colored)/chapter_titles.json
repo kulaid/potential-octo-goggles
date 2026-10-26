@@ -1,0 +1,4312 @@
+{
+  "titles": [
+    {
+      "number": 1,
+      "title": "Romance Dawn"
+    },
+    {
+      "number": 2,
+      "title": "They Call Him 'Straw Hat Luffy'"
+    },
+    {
+      "number": 3,
+      "title": "Enter Zoro: Pirate Hunter"
+    },
+    {
+      "number": 4,
+      "title": "The Great Captain Morgan"
+    },
+    {
+      "number": 5,
+      "title": "The King of the Pirates and the Master Swordsman"
+    },
+    {
+      "number": 6,
+      "title": "Number One"
+    },
+    {
+      "number": 7,
+      "title": "Friends"
+    },
+    {
+      "number": 8,
+      "title": "Nami"
+    },
+    {
+      "number": 9,
+      "title": "Femme Fatale"
+    },
+    {
+      "number": 10,
+      "title": "Incident at the Tavern"
+    },
+    {
+      "number": 11,
+      "title": "Flight"
+    },
+    {
+      "number": 12,
+      "title": "Dog"
+    },
+    {
+      "number": 13,
+      "title": "Treasure"
+    },
+    {
+      "number": 14,
+      "title": "Reckless"
+    },
+    {
+      "number": 15,
+      "title": "Gong"
+    },
+    {
+      "number": 16,
+      "title": "Versus Buggy's Crew"
+    },
+    {
+      "number": 17,
+      "title": "High Level, Low Level"
+    },
+    {
+      "number": 18,
+      "title": "The Pirate Buggy the Clown"
+    },
+    {
+      "number": 19,
+      "title": "Devil Fruit"
+    },
+    {
+      "number": 20,
+      "title": "The Way of the Thief"
+    },
+    {
+      "number": 21,
+      "title": "Townies"
+    },
+    {
+      "number": 22,
+      "title": "Strange Creatures"
+    },
+    {
+      "number": 23,
+      "title": "The Dread Captain Usopp"
+    },
+    {
+      "number": 24,
+      "title": "The Lie Rejecter"
+    },
+    {
+      "number": 25,
+      "title": "Lies"
+    },
+    {
+      "number": 26,
+      "title": "Captain Kuro's Plan"
+    },
+    {
+      "number": 27,
+      "title": "True Lies"
+    },
+    {
+      "number": 28,
+      "title": "Crescent Moon"
+    },
+    {
+      "number": 29,
+      "title": "Uphill Battle"
+    },
+    {
+      "number": 30,
+      "title": "Backfire"
+    },
+    {
+      "number": 31,
+      "title": "Truth"
+    },
+    {
+      "number": 32,
+      "title": "Cruel Fortune"
+    },
+    {
+      "number": 33,
+      "title": "The Creeping Cat"
+    },
+    {
+      "number": 34,
+      "title": "A Humble Servant"
+    },
+    {
+      "number": 35,
+      "title": "The Steep Slope"
+    },
+    {
+      "number": 36,
+      "title": "After Them!!"
+    },
+    {
+      "number": 37,
+      "title": "Captain Kuro, of the Thousand Plans"
+    },
+    {
+      "number": 38,
+      "title": "Pirate Crew"
+    },
+    {
+      "number": 39,
+      "title": "For Whom the Bell Tolls"
+    },
+    {
+      "number": 40,
+      "title": "Usopp's Pirate Crew"
+    },
+    {
+      "number": 41,
+      "title": "To the Sea"
+    },
+    {
+      "number": 42,
+      "title": "Yosaku and Johnny"
+    },
+    {
+      "number": 43,
+      "title": "Sanji"
+    },
+    {
+      "number": 44,
+      "title": "Three Tough Cooks"
+    },
+    {
+      "number": 45,
+      "title": "Before the Storm"
+    },
+    {
+      "number": 46,
+      "title": "An Uninvited Guest"
+    },
+    {
+      "number": 47,
+      "title": "The Don's Offer"
+    },
+    {
+      "number": 48,
+      "title": "Steer Clear"
+    },
+    {
+      "number": 49,
+      "title": "Storm"
+    },
+    {
+      "number": 50,
+      "title": "A Parting of Ways"
+    },
+    {
+      "number": 51,
+      "title": "Zoro Overboard"
+    },
+    {
+      "number": 52,
+      "title": "The Oath"
+    },
+    {
+      "number": 53,
+      "title": "Mackerel Head"
+    },
+    {
+      "number": 54,
+      "title": "Pearl"
+    },
+    {
+      "number": 55,
+      "title": "Jungle Blood"
+    },
+    {
+      "number": 56,
+      "title": "I Refuse"
+    },
+    {
+      "number": 57,
+      "title": "If You Have a Dream"
+    },
+    {
+      "number": 58,
+      "title": "The Crap-Geezer"
+    },
+    {
+      "number": 59,
+      "title": "Sanji's Debt"
+    },
+    {
+      "number": 60,
+      "title": "Resolution"
+    },
+    {
+      "number": 61,
+      "title": "The Demon"
+    },
+    {
+      "number": 62,
+      "title": "MH5"
+    },
+    {
+      "number": 63,
+      "title": "I Won't Die"
+    },
+    {
+      "number": 64,
+      "title": "The Mighty Battle Spear"
+    },
+    {
+      "number": 65,
+      "title": "Prepared"
+    },
+    {
+      "number": 66,
+      "title": "The Chewed-up Spear"
+    },
+    {
+      "number": 67,
+      "title": "The Soup (Soup)"
+    },
+    {
+      "number": 68,
+      "title": "The Fourth Person"
+    },
+    {
+      "number": 69,
+      "title": "Arlong Park"
+    },
+    {
+      "number": 70,
+      "title": "The Great Adventure of Usopp the Man"
+    },
+    {
+      "number": 71,
+      "title": "Lords of All Creation"
+    },
+    {
+      "number": 72,
+      "title": "Proper Living"
+    },
+    {
+      "number": 73,
+      "title": "Monsters of the Grand Line"
+    },
+    {
+      "number": 74,
+      "title": "Business"
+    },
+    {
+      "number": 75,
+      "title": "Of Maps and Fish-Men"
+    },
+    {
+      "number": 76,
+      "title": "Sleep"
+    },
+    {
+      "number": 77,
+      "title": "The First Step Toward a Dream"
+    },
+    {
+      "number": 78,
+      "title": "Belle-Mère"
+    },
+    {
+      "number": 79,
+      "title": "To Live"
+    },
+    {
+      "number": 80,
+      "title": "A Thief Is a Thief"
+    },
+    {
+      "number": 81,
+      "title": "Tears"
+    },
+    {
+      "number": 82,
+      "title": "OK, Let's STAND UP!"
+    },
+    {
+      "number": 83,
+      "title": "Luffy in Black"
+    },
+    {
+      "number": 84,
+      "title": "Zombie"
+    },
+    {
+      "number": 85,
+      "title": "Three Swords vs. Six"
+    },
+    {
+      "number": 86,
+      "title": "Heroism vs. Fish-Man Cruelty"
+    },
+    {
+      "number": 87,
+      "title": "It's All Over!!"
+    },
+    {
+      "number": 88,
+      "title": "Die!!!"
+    },
+    {
+      "number": 89,
+      "title": "Trade-off"
+    },
+    {
+      "number": 90,
+      "title": "What Can You Do?"
+    },
+    {
+      "number": 91,
+      "title": "Darts"
+    },
+    {
+      "number": 92,
+      "title": "Happiness"
+    },
+    {
+      "number": 93,
+      "title": "Going Down"
+    },
+    {
+      "number": 94,
+      "title": "The Other Villain"
+    },
+    {
+      "number": 95,
+      "title": "Spin, Pinwheel"
+    },
+    {
+      "number": 96,
+      "title": "The Meanest Man in the East"
+    },
+    {
+      "number": 97,
+      "title": "Kitetsu III"
+    },
+    {
+      "number": 98,
+      "title": "Dark Clouds"
+    },
+    {
+      "number": 99,
+      "title": "Luffy Died"
+    },
+    {
+      "number": 100,
+      "title": "The Legend Begins"
+    },
+    {
+      "number": 101,
+      "title": "Reverse Mountain"
+    },
+    {
+      "number": 102,
+      "title": "And Now, the Grand Line"
+    },
+    {
+      "number": 103,
+      "title": "The Whale"
+    },
+    {
+      "number": 104,
+      "title": "Cape Promise"
+    },
+    {
+      "number": 105,
+      "title": "Log Pose"
+    },
+    {
+      "number": 106,
+      "title": "The Town of Welcome"
+    },
+    {
+      "number": 107,
+      "title": "Moonlight and Tombstones"
+    },
+    {
+      "number": 108,
+      "title": "100 Bounty Hunters"
+    },
+    {
+      "number": 109,
+      "title": "A Question of Duty"
+    },
+    {
+      "number": 110,
+      "title": "The Night Isn't Over"
+    },
+    {
+      "number": 111,
+      "title": "The Secret Criminal Organization"
+    },
+    {
+      "number": 112,
+      "title": "Luffy vs. Zoro"
+    },
+    {
+      "number": 113,
+      "title": "It's All Right"
+    },
+    {
+      "number": 114,
+      "title": "The Course"
+    },
+    {
+      "number": 115,
+      "title": "Little Garden of Adventure"
+    },
+    {
+      "number": 116,
+      "title": "Big"
+    },
+    {
+      "number": 117,
+      "title": "Dorry and Broggy"
+    },
+    {
+      "number": 118,
+      "title": "Someone's Out There"
+    },
+    {
+      "number": 119,
+      "title": "Deadly Improvisation"
+    },
+    {
+      "number": 120,
+      "title": "The Red Ogre Weeps"
+    },
+    {
+      "number": 121,
+      "title": "I Knew"
+    },
+    {
+      "number": 122,
+      "title": "A Dead Body Is Useless"
+    },
+    {
+      "number": 123,
+      "title": "Luffy vs. Mr. 3"
+    },
+    {
+      "number": 124,
+      "title": "The Tea Is Good"
+    },
+    {
+      "number": 125,
+      "title": "Candle Champion"
+    },
+    {
+      "number": 126,
+      "title": "Instinct"
+    },
+    {
+      "number": 127,
+      "title": "Snail-o-phone"
+    },
+    {
+      "number": 128,
+      "title": "Pirate Pride"
+    },
+    {
+      "number": 129,
+      "title": "Straight Ahead!!!"
+    },
+    {
+      "number": 130,
+      "title": "Maximum Speed"
+    },
+    {
+      "number": 131,
+      "title": "Wapol of Tin"
+    },
+    {
+      "number": 132,
+      "title": "See?"
+    },
+    {
+      "number": 133,
+      "title": "Adventure in a Nameless Country"
+    },
+    {
+      "number": 134,
+      "title": "Dr. Kureha"
+    },
+    {
+      "number": 135,
+      "title": "Lapins"
+    },
+    {
+      "number": 136,
+      "title": "A Man Named Dalton"
+    },
+    {
+      "number": 137,
+      "title": "Avalanche"
+    },
+    {
+      "number": 138,
+      "title": "The Summit"
+    },
+    {
+      "number": 139,
+      "title": "Enter Tony Tony Chopper"
+    },
+    {
+      "number": 140,
+      "title": "The Castle of Snow"
+    },
+    {
+      "number": 141,
+      "title": "Quack Doctor"
+    },
+    {
+      "number": 142,
+      "title": "Skull \u0026 Cherry Blossoms"
+    },
+    {
+      "number": 143,
+      "title": "Clumsy"
+    },
+    {
+      "number": 144,
+      "title": "Snowy Tale"
+    },
+    {
+      "number": 145,
+      "title": "Carrying on His Will"
+    },
+    {
+      "number": 146,
+      "title": "Battle to Defend the Kingdom"
+    },
+    {
+      "number": 147,
+      "title": "Frauds"
+    },
+    {
+      "number": 148,
+      "title": "Unbreakable"
+    },
+    {
+      "number": 149,
+      "title": "Rumble (Rumble!!)"
+    },
+    {
+      "number": 150,
+      "title": "Royal Drum Crown 7-Shot Tin Tyrant Cannon"
+    },
+    {
+      "number": 151,
+      "title": "The Skies of Drum"
+    },
+    {
+      "number": 152,
+      "title": "Full Moon"
+    },
+    {
+      "number": 153,
+      "title": "Hiruluk's Cherry Blossoms"
+    },
+    {
+      "number": 154,
+      "title": "On to Alabasta"
+    },
+    {
+      "number": 155,
+      "title": "Sir Crocodile, the Pirate"
+    },
+    {
+      "number": 156,
+      "title": "Oh Come My Way Days"
+    },
+    {
+      "number": 157,
+      "title": "Ace Arrives"
+    },
+    {
+      "number": 158,
+      "title": "Landing in Alabasta"
+    },
+    {
+      "number": 159,
+      "title": "Come On"
+    },
+    {
+      "number": 160,
+      "title": "Spiders Café at Eight O'Clock"
+    },
+    {
+      "number": 161,
+      "title": "The Green City Erumalu"
+    },
+    {
+      "number": 162,
+      "title": "Adventure in the Kingdom of Sand"
+    },
+    {
+      "number": 163,
+      "title": "Yuba, the Town of Rebels"
+    },
+    {
+      "number": 164,
+      "title": "I Love My Country"
+    },
+    {
+      "number": 165,
+      "title": "Operation Utopia"
+    },
+    {
+      "number": 166,
+      "title": "Luffy vs. Vivi"
+    },
+    {
+      "number": 167,
+      "title": "Battlefront"
+    },
+    {
+      "number": 168,
+      "title": "Rainbase, the City of Dreams"
+    },
+    {
+      "number": 169,
+      "title": "The Kingdom's Strongest Warrior"
+    },
+    {
+      "number": 170,
+      "title": "Beginning"
+    },
+    {
+      "number": 171,
+      "title": "Koza, Leader of the Rebels"
+    },
+    {
+      "number": 172,
+      "title": "Rebellion"
+    },
+    {
+      "number": 173,
+      "title": "Bananagator"
+    },
+    {
+      "number": 174,
+      "title": "Mr. Prince"
+    },
+    {
+      "number": 175,
+      "title": "Release"
+    },
+    {
+      "number": 176,
+      "title": "Rush!!"
+    },
+    {
+      "number": 177,
+      "title": "30 Million vs. 81 Million"
+    },
+    {
+      "number": 178,
+      "title": "Grand Line Level"
+    },
+    {
+      "number": 179,
+      "title": "Showdown at Alubarna"
+    },
+    {
+      "number": 180,
+      "title": "Alabasta Animal Land"
+    },
+    {
+      "number": 181,
+      "title": "Supersonic Duck Quiz"
+    },
+    {
+      "number": 182,
+      "title": "Roar"
+    },
+    {
+      "number": 183,
+      "title": "Squadron Leader Karoo"
+    },
+    {
+      "number": 184,
+      "title": "Moletown Block Four"
+    },
+    {
+      "number": 185,
+      "title": "Oh... Is That So?"
+    },
+    {
+      "number": 186,
+      "title": "4"
+    },
+    {
+      "number": 187,
+      "title": "Stalemate"
+    },
+    {
+      "number": 188,
+      "title": "Oh Come My Way Karate"
+    },
+    {
+      "number": 189,
+      "title": "2"
+    },
+    {
+      "number": 190,
+      "title": "Climate Baton"
+    },
+    {
+      "number": 191,
+      "title": "She Who Controls the Weather"
+    },
+    {
+      "number": 192,
+      "title": "Tornado Warning"
+    },
+    {
+      "number": 193,
+      "title": "Utopia"
+    },
+    {
+      "number": 194,
+      "title": "Cutting Steel"
+    },
+    {
+      "number": 195,
+      "title": "Mr. Bushido"
+    },
+    {
+      "number": 196,
+      "title": "1"
+    },
+    {
+      "number": 197,
+      "title": "The Leaders"
+    },
+    {
+      "number": 198,
+      "title": "4:15 P.M."
+    },
+    {
+      "number": 199,
+      "title": "Hope!!"
+    },
+    {
+      "number": 200,
+      "title": "Water Luffy"
+    },
+    {
+      "number": 201,
+      "title": "Nico Robin"
+    },
+    {
+      "number": 202,
+      "title": "The Royal Mausoleum"
+    },
+    {
+      "number": 203,
+      "title": "Crocodile-ish"
+    },
+    {
+      "number": 204,
+      "title": "Red"
+    },
+    {
+      "number": 205,
+      "title": "The Sand-Sand Band's Secret Fort"
+    },
+    {
+      "number": 206,
+      "title": "Ignition"
+    },
+    {
+      "number": 207,
+      "title": "Nightmare"
+    },
+    {
+      "number": 208,
+      "title": "Guardian Spirit"
+    },
+    {
+      "number": 209,
+      "title": "I Will Defeat You"
+    },
+    {
+      "number": 210,
+      "title": "Zero\" (\"0\")"
+    },
+    {
+      "number": 211,
+      "title": "King"
+    },
+    {
+      "number": 212,
+      "title": "Some Justice"
+    },
+    {
+      "number": 213,
+      "title": "V.I.P.\" (\"VIP\")"
+    },
+    {
+      "number": 214,
+      "title": "Strategy to Escape the Sand Kingdom"
+    },
+    {
+      "number": 215,
+      "title": "Last Waltz"
+    },
+    {
+      "number": 216,
+      "title": "Vivi's Adventure"
+    },
+    {
+      "number": 217,
+      "title": "Stowaway"
+    },
+    {
+      "number": 218,
+      "title": "Why the Log Pose Is Dome-Shaped"
+    },
+    {
+      "number": 219,
+      "title": "Masira the Salvage King"
+    },
+    {
+      "number": 220,
+      "title": "A Walk on the Seafloor"
+    },
+    {
+      "number": 221,
+      "title": "Monsters"
+    },
+    {
+      "number": 222,
+      "title": "The Giant Novice"
+    },
+    {
+      "number": 223,
+      "title": "I Promise Never to Fight in This Town"
+    },
+    {
+      "number": 224,
+      "title": "Do Not Dream"
+    },
+    {
+      "number": 225,
+      "title": "People's Dreams"
+    },
+    {
+      "number": 226,
+      "title": "Shoujou, the Salvage King of the Seafloor"
+    },
+    {
+      "number": 227,
+      "title": "Noland the Liar"
+    },
+    {
+      "number": 228,
+      "title": "Mont Blanc Cricket, the Last Boss of the Monkey Mountain Allied Force"
+    },
+    {
+      "number": 229,
+      "title": "Let's Eat"
+    },
+    {
+      "number": 230,
+      "title": "Pursue the South Bird!"
+    },
+    {
+      "number": 231,
+      "title": "Bellamy the Hyena"
+    },
+    {
+      "number": 232,
+      "title": "The 100 Million Berry Man"
+    },
+    {
+      "number": 233,
+      "title": "The World's Greatest Power"
+    },
+    {
+      "number": 234,
+      "title": "Please Remember"
+    },
+    {
+      "number": 235,
+      "title": "The Knock Up Stream"
+    },
+    {
+      "number": 236,
+      "title": "The Ship Sails to the Sky"
+    },
+    {
+      "number": 237,
+      "title": "High in the Sky"
+    },
+    {
+      "number": 238,
+      "title": "Heaven's Gate"
+    },
+    {
+      "number": 239,
+      "title": "Angel Beach"
+    },
+    {
+      "number": 240,
+      "title": "Dial Power"
+    },
+    {
+      "number": 241,
+      "title": "Heaven's Judgment"
+    },
+    {
+      "number": 242,
+      "title": "Class-2 Criminals"
+    },
+    {
+      "number": 243,
+      "title": "Trial"
+    },
+    {
+      "number": 244,
+      "title": "S.O.S. (SOS)"
+    },
+    {
+      "number": 245,
+      "title": "Adventure on Kami's Island"
+    },
+    {
+      "number": 246,
+      "title": "Satori, Vassal of the Forest of No Return"
+    },
+    {
+      "number": 247,
+      "title": "Ball Challenge"
+    },
+    {
+      "number": 248,
+      "title": "Former Kami vs. Vassal"
+    },
+    {
+      "number": 249,
+      "title": "The Village Hidden in the Cloud"
+    },
+    {
+      "number": 250,
+      "title": "Ball Dragon"
+    },
+    {
+      "number": 251,
+      "title": "Overture"
+    },
+    {
+      "number": 252,
+      "title": "Junction"
+    },
+    {
+      "number": 253,
+      "title": "Varse"
+    },
+    {
+      "number": 254,
+      "title": "Aubade"
+    },
+    {
+      "number": 255,
+      "title": "The Anaconda and the Search Team"
+    },
+    {
+      "number": 256,
+      "title": "Wyper the Berserker"
+    },
+    {
+      "number": 257,
+      "title": "Dial Battle"
+    },
+    {
+      "number": 258,
+      "title": "The Many Souths"
+    },
+    {
+      "number": 259,
+      "title": "Pirate Zoro vs. Warrior Braham"
+    },
+    {
+      "number": 260,
+      "title": "Pirate Luffy vs. Berserker Wyper"
+    },
+    {
+      "number": 261,
+      "title": "Warrior Genbo vs. Heavenly Warriors Commander Yama"
+    },
+    {
+      "number": 262,
+      "title": "Pirate Chopper vs. Vassal Gedatsu"
+    },
+    {
+      "number": 263,
+      "title": "Pirate Nami and the Weird Knight vs. Heavenly Warriors Subcommanders Hotori and Kotori"
+    },
+    {
+      "number": 264,
+      "title": "Warrior Kamakiri vs. Kami Eneru"
+    },
+    {
+      "number": 265,
+      "title": "Pirate Robin vs. Heavenly Warriors Commander Yama"
+    },
+    {
+      "number": 266,
+      "title": "Pirate Chopper vs. Vassal Ohm"
+    },
+    {
+      "number": 267,
+      "title": "March"
+    },
+    {
+      "number": 268,
+      "title": "Suite"
+    },
+    {
+      "number": 269,
+      "title": "Concerto"
+    },
+    {
+      "number": 270,
+      "title": "Serenade"
+    },
+    {
+      "number": 271,
+      "title": "Pirate Zoro vs. Vassal Ohm"
+    },
+    {
+      "number": 272,
+      "title": "Play"
+    },
+    {
+      "number": 273,
+      "title": "Quintet"
+    },
+    {
+      "number": 274,
+      "title": "Oratorio"
+    },
+    {
+      "number": 275,
+      "title": "Divina Commedia"
+    },
+    {
+      "number": 276,
+      "title": "Shandian Rhythm\" (\"Shandia Rhythm\")"
+    },
+    {
+      "number": 277,
+      "title": "Maxim"
+    },
+    {
+      "number": 278,
+      "title": "Conis"
+    },
+    {
+      "number": 279,
+      "title": "Pirate Luffy vs. Kami Eneru"
+    },
+    {
+      "number": 280,
+      "title": "Floating"
+    },
+    {
+      "number": 281,
+      "title": "Deathpiea"
+    },
+    {
+      "number": 282,
+      "title": "Desire"
+    },
+    {
+      "number": 283,
+      "title": "On the Front Line of Rescuing Love"
+    },
+    {
+      "number": 284,
+      "title": "Sorry"
+    },
+    {
+      "number": 285,
+      "title": "Capriccio"
+    },
+    {
+      "number": 286,
+      "title": "The Shandoran Demon"
+    },
+    {
+      "number": 287,
+      "title": "Kami Killing"
+    },
+    {
+      "number": 288,
+      "title": "Curse"
+    },
+    {
+      "number": 289,
+      "title": "Full Moon"
+    },
+    {
+      "number": 290,
+      "title": "The Light of Shandora"
+    },
+    {
+      "number": 291,
+      "title": "We'll Be Here"
+    },
+    {
+      "number": 292,
+      "title": "To Meet, like the Half-Moon Hidden by Clouds"
+    },
+    {
+      "number": 293,
+      "title": "Bolero"
+    },
+    {
+      "number": 294,
+      "title": "Kingdom Come"
+    },
+    {
+      "number": 295,
+      "title": "Giant Jack"
+    },
+    {
+      "number": 296,
+      "title": "Ultimate Sky Situation"
+    },
+    {
+      "number": 297,
+      "title": "Praise of the Earth"
+    },
+    {
+      "number": 298,
+      "title": "Love Song"
+    },
+    {
+      "number": 299,
+      "title": "Fantasia"
+    },
+    {
+      "number": 300,
+      "title": "Symphony"
+    },
+    {
+      "number": 301,
+      "title": "I Hereby Guide..."
+    },
+    {
+      "number": 302,
+      "title": "Finale"
+    },
+    {
+      "number": 303,
+      "title": "The Wealthy Pirate Gang"
+    },
+    {
+      "number": 303.5,
+      "title": "Concert on the Sea"
+    },
+    {
+      "number": 304,
+      "title": "Long Island Adventure"
+    },
+    {
+      "number": 305,
+      "title": "Foxy the Silver Fox"
+    },
+    {
+      "number": 306,
+      "title": "Donut Race!"
+    },
+    {
+      "number": 307,
+      "title": "Ready, Set, Donut!"
+    },
+    {
+      "number": 308,
+      "title": "Obstructive Tactics"
+    },
+    {
+      "number": 309,
+      "title": "Groggy Monsters"
+    },
+    {
+      "number": 310,
+      "title": "Groggy Ring!!"
+    },
+    {
+      "number": 311,
+      "title": "Rough Game"
+    },
+    {
+      "number": 312,
+      "title": "Goal!!"
+    },
+    {
+      "number": 313,
+      "title": "Main Event"
+    },
+    {
+      "number": 314,
+      "title": "Combat!!"
+    },
+    {
+      "number": 315,
+      "title": "Secret Room"
+    },
+    {
+      "number": 316,
+      "title": "Brother Soul"
+    },
+    {
+      "number": 317,
+      "title": "K.O."
+    },
+    {
+      "number": 318,
+      "title": "Closure"
+    },
+    {
+      "number": 319,
+      "title": "Admiral Aokiji of the Navy Headquarters"
+    },
+    {
+      "number": 320,
+      "title": "Ultimate Military Force"
+    },
+    {
+      "number": 321,
+      "title": "One-on-One"
+    },
+    {
+      "number": 322,
+      "title": "Puffing Tom"
+    },
+    {
+      "number": 323,
+      "title": "The City of Water, Water Seven"
+    },
+    {
+      "number": 324,
+      "title": "Adventures in the City on the Water"
+    },
+    {
+      "number": 325,
+      "title": "The Franky Family"
+    },
+    {
+      "number": 326,
+      "title": "Mr. Iceberg"
+    },
+    {
+      "number": 327,
+      "title": "Shipbuilding Island, Repair Dock No. 1"
+    },
+    {
+      "number": 328,
+      "title": "The Pirate Abduction Incident"
+    },
+    {
+      "number": 329,
+      "title": "My Name Is Franky"
+    },
+    {
+      "number": 330,
+      "title": "It's Decided"
+    },
+    {
+      "number": 331,
+      "title": "The Big Argument"
+    },
+    {
+      "number": 332,
+      "title": "Luffy vs. Usopp"
+    },
+    {
+      "number": 333,
+      "title": "Captain"
+    },
+    {
+      "number": 334,
+      "title": "Big Trouble in the Secret Room"
+    },
+    {
+      "number": 335,
+      "title": "Warning"
+    },
+    {
+      "number": 336,
+      "title": "Luffy vs. Franky"
+    },
+    {
+      "number": 337,
+      "title": "Protectors of the City of Water"
+    },
+    {
+      "number": 338,
+      "title": "Coup de Vent"
+    },
+    {
+      "number": 339,
+      "title": "Rumors"
+    },
+    {
+      "number": 340,
+      "title": "The Woman Who Brings Darkness"
+    },
+    {
+      "number": 341,
+      "title": "Demon"
+    },
+    {
+      "number": 342,
+      "title": "The Messenger of Darkness"
+    },
+    {
+      "number": 343,
+      "title": "Cipher Pol No. 9"
+    },
+    {
+      "number": 344,
+      "title": "Opposing Force"
+    },
+    {
+      "number": 345,
+      "title": "Sleepers"
+    },
+    {
+      "number": 346,
+      "title": "The Ninth Justice"
+    },
+    {
+      "number": 347,
+      "title": "Six Powers"
+    },
+    {
+      "number": 348,
+      "title": "Fighting Power"
+    },
+    {
+      "number": 349,
+      "title": "Ordinary Citizens"
+    },
+    {
+      "number": 350,
+      "title": "The Warehouse Under the Bridge"
+    },
+    {
+      "number": 351,
+      "title": "Klabautermann"
+    },
+    {
+      "number": 352,
+      "title": "Tom's Workers"
+    },
+    {
+      "number": 353,
+      "title": "The Legendary Shipwright"
+    },
+    {
+      "number": 354,
+      "title": "Sea Train"
+    },
+    {
+      "number": 355,
+      "title": "Spandam"
+    },
+    {
+      "number": 356,
+      "title": "Mr. Tom"
+    },
+    {
+      "number": 357,
+      "title": "Cutty Flam"
+    },
+    {
+      "number": 358,
+      "title": "Reactivation"
+    },
+    {
+      "number": 359,
+      "title": "Bingo"
+    },
+    {
+      "number": 360,
+      "title": "Departing Soon"
+    },
+    {
+      "number": 361,
+      "title": "P.S."
+    },
+    {
+      "number": 362,
+      "title": "Ebb Tide"
+    },
+    {
+      "number": 363,
+      "title": "Aqua Laguna"
+    },
+    {
+      "number": 364,
+      "title": "Kokoro"
+    },
+    {
+      "number": 365,
+      "title": "Rocketman!!"
+    },
+    {
+      "number": 366,
+      "title": "Sortie!"
+    },
+    {
+      "number": 367,
+      "title": "Sniper King"
+    },
+    {
+      "number": 368,
+      "title": "Sea Train Battle Game"
+    },
+    {
+      "number": 369,
+      "title": "Ramen Kung Fu"
+    },
+    {
+      "number": 370,
+      "title": "You're Not Alone"
+    },
+    {
+      "number": 371,
+      "title": "The Honorable Captain T-Bone"
+    },
+    {
+      "number": 372,
+      "title": "Plastic Surgery"
+    },
+    {
+      "number": 373,
+      "title": "Necessary Evil"
+    },
+    {
+      "number": 374,
+      "title": "Scramble"
+    },
+    {
+      "number": 375,
+      "title": "The Supermen of Enies Lobby"
+    },
+    {
+      "number": 376,
+      "title": "I Got It!!"
+    },
+    {
+      "number": 377,
+      "title": "The Big Showdown on the Judicial Island"
+    },
+    {
+      "number": 378,
+      "title": "Casualties"
+    },
+    {
+      "number": 379,
+      "title": "Power Level"
+    },
+    {
+      "number": 380,
+      "title": "Enies Lobby Main Island Express"
+    },
+    {
+      "number": 381,
+      "title": "Fired"
+    },
+    {
+      "number": 382,
+      "title": "Demon Lair"
+    },
+    {
+      "number": 383,
+      "title": "Luffy vs. Blueno"
+    },
+    {
+      "number": 384,
+      "title": "Signal the Counterattack"
+    },
+    {
+      "number": 385,
+      "title": "There Is a Way"
+    },
+    {
+      "number": 386,
+      "title": "Unprecedented"
+    },
+    {
+      "number": 387,
+      "title": "Gear"
+    },
+    {
+      "number": 388,
+      "title": "Gear Two"
+    },
+    {
+      "number": 389,
+      "title": "Response"
+    },
+    {
+      "number": 390,
+      "title": "Accepting the Challenge"
+    },
+    {
+      "number": 391,
+      "title": "The Girl They Called a Demon"
+    },
+    {
+      "number": 392,
+      "title": "Dereshi"
+    },
+    {
+      "number": 393,
+      "title": "Olvia"
+    },
+    {
+      "number": 394,
+      "title": "The Demons of Ohara"
+    },
+    {
+      "number": 395,
+      "title": "Ohara vs. the World Government"
+    },
+    {
+      "number": 396,
+      "title": "Saul"
+    },
+    {
+      "number": 397,
+      "title": "In Hopes of Reaching the Future"
+    },
+    {
+      "number": 398,
+      "title": "Declaration of War"
+    },
+    {
+      "number": 399,
+      "title": "Jump Toward the Waterfall!!"
+    },
+    {
+      "number": 400,
+      "title": "The Key to Freedom"
+    },
+    {
+      "number": 401,
+      "title": "Pirates vs. CP9"
+    },
+    {
+      "number": 402,
+      "title": "Handcuffs No. 2"
+    },
+    {
+      "number": 403,
+      "title": "Mr. Chivalry"
+    },
+    {
+      "number": 404,
+      "title": "Franky vs. Fukurô"
+    },
+    {
+      "number": 405,
+      "title": "Power"
+    },
+    {
+      "number": 406,
+      "title": "Life Return"
+    },
+    {
+      "number": 407,
+      "title": "Monster"
+    },
+    {
+      "number": 408,
+      "title": "Monster vs. Kumadori"
+    },
+    {
+      "number": 409,
+      "title": "The Terrifying Broadcast"
+    },
+    {
+      "number": 410,
+      "title": "Super-Size Nami"
+    },
+    {
+      "number": 411,
+      "title": "Nami vs. Kalifa"
+    },
+    {
+      "number": 412,
+      "title": "You Missed Your Chance"
+    },
+    {
+      "number": 413,
+      "title": "Hunter"
+    },
+    {
+      "number": 414,
+      "title": "Sanji vs. Jabra"
+    },
+    {
+      "number": 415,
+      "title": "Heat Up"
+    },
+    {
+      "number": 416,
+      "title": "Zoro vs. Kaku"
+    },
+    {
+      "number": 417,
+      "title": "Asura"
+    },
+    {
+      "number": 418,
+      "title": "Luffy vs. Rob Lucci"
+    },
+    {
+      "number": 419,
+      "title": "Legend of a Hero"
+    },
+    {
+      "number": 420,
+      "title": "Buster Call"
+    },
+    {
+      "number": 421,
+      "title": "Gear Three"
+    },
+    {
+      "number": 422,
+      "title": "Rob Lucci"
+    },
+    {
+      "number": 423,
+      "title": "Mermaid Legend"
+    },
+    {
+      "number": 424,
+      "title": "Escape Ship"
+    },
+    {
+      "number": 425,
+      "title": "Bridge of Mortal Combat"
+    },
+    {
+      "number": 426,
+      "title": "A Ship Waiting for Wind"
+    },
+    {
+      "number": 427,
+      "title": "This Isn't the Afterlife"
+    },
+    {
+      "number": 428,
+      "title": "Let's Go Back"
+    },
+    {
+      "number": 429,
+      "title": "Utter Defeat"
+    },
+    {
+      "number": 430,
+      "title": "A Light Snow of Reminiscence Falls"
+    },
+    {
+      "number": 431,
+      "title": "Fist of Love"
+    },
+    {
+      "number": 432,
+      "title": "Jack-in-the-Box"
+    },
+    {
+      "number": 433,
+      "title": "The Name of That Sea"
+    },
+    {
+      "number": 434,
+      "title": "Whitebeard and Red-Hair"
+    },
+    {
+      "number": 435,
+      "title": "You Have My Sympathies"
+    },
+    {
+      "number": 436,
+      "title": "Trunks from Franky House\" (\"Pants from Frankyhouse\")"
+    },
+    {
+      "number": 437,
+      "title": "Naked Mania"
+    },
+    {
+      "number": 438,
+      "title": "Pride"
+    },
+    {
+      "number": 439,
+      "title": "Third and Seventh"
+    },
+    {
+      "number": 440,
+      "title": "Fire Fist vs. Blackbeard"
+    },
+    {
+      "number": 441,
+      "title": "Duel on Banaro Island"
+    },
+    {
+      "number": 442,
+      "title": "Adventure in the Demonic Sea"
+    },
+    {
+      "number": 443,
+      "title": "Thriller Bark"
+    },
+    {
+      "number": 444,
+      "title": "Adventure on Ghost Island"
+    },
+    {
+      "number": 445,
+      "title": "Zombies\" (\"The Zombie\")"
+    },
+    {
+      "number": 446,
+      "title": "Doctor Hogback"
+    },
+    {
+      "number": 447,
+      "title": "Zombie-in-the-Box"
+    },
+    {
+      "number": 448,
+      "title": "Moria"
+    },
+    {
+      "number": 449,
+      "title": "The Four Monsters of Thriller Bark"
+    },
+    {
+      "number": 450,
+      "title": "Night of the Zombie Generals"
+    },
+    {
+      "number": 451,
+      "title": "Perona's Wonder Garden"
+    },
+    {
+      "number": 452,
+      "title": "Jigoro of the Wind"
+    },
+    {
+      "number": 453,
+      "title": "Cloudy, Partly Bony"
+    },
+    {
+      "number": 454,
+      "title": "The Humming Swordsman"
+    },
+    {
+      "number": 455,
+      "title": "Gecko Moria of the Seven Warlords of the Sea"
+    },
+    {
+      "number": 456,
+      "title": "Demon from the Land of Ice"
+    },
+    {
+      "number": 457,
+      "title": "Meat!!!"
+    },
+    {
+      "number": 458,
+      "title": "Anything but My Afro"
+    },
+    {
+      "number": 459,
+      "title": "I Can't Just Die Hoping to be Forgiven"
+    },
+    {
+      "number": 460,
+      "title": "Conquest Before Dawn!"
+    },
+    {
+      "number": 461,
+      "title": "Ghost Buster"
+    },
+    {
+      "number": 462,
+      "title": "Adventures of Oars"
+    },
+    {
+      "number": 463,
+      "title": "Pirate Sanji vs. Mystery Man Absalom"
+    },
+    {
+      "number": 464,
+      "title": "Sanji's Dream"
+    },
+    {
+      "number": 465,
+      "title": "Pirate Usopp vs. Mystery Woman Perona"
+    },
+    {
+      "number": 466,
+      "title": "Conclusion"
+    },
+    {
+      "number": 467,
+      "title": "Pirate Zoro vs. Samurai Ryuma"
+    },
+    {
+      "number": 468,
+      "title": "Pirate Chopper vs. Mystery Man Hogback"
+    },
+    {
+      "number": 469,
+      "title": "Come Out Here, Straw Hat Pirates!"
+    },
+    {
+      "number": 470,
+      "title": "Oars vs. Straw Hat Pirates"
+    },
+    {
+      "number": 471,
+      "title": "My Friend"
+    },
+    {
+      "number": 472,
+      "title": "Down"
+    },
+    {
+      "number": 473,
+      "title": "Warlord Bartholomew Kuma Appears"
+    },
+    {
+      "number": 474,
+      "title": "We Have to Do It!"
+    },
+    {
+      "number": 475,
+      "title": "Pirates of the Forest"
+    },
+    {
+      "number": 476,
+      "title": "Nightmare Luffy"
+    },
+    {
+      "number": 477,
+      "title": "3"
+    },
+    {
+      "number": 478,
+      "title": "Luffy vs. Luffy"
+    },
+    {
+      "number": 479,
+      "title": "Warrior of Hope"
+    },
+    {
+      "number": 480,
+      "title": "Interception"
+    },
+    {
+      "number": 481,
+      "title": "Shadows Asgard"
+    },
+    {
+      "number": 482,
+      "title": "Morning Is Coming"
+    },
+    {
+      "number": 483,
+      "title": "The End of the Dream"
+    },
+    {
+      "number": 484,
+      "title": "Squish"
+    },
+    {
+      "number": 485,
+      "title": "Straw Hat Pirates—Pirate Hunter Zoro"
+    },
+    {
+      "number": 486,
+      "title": "Piano"
+    },
+    {
+      "number": 487,
+      "title": "That Song"
+    },
+    {
+      "number": 488,
+      "title": "Song of Life"
+    },
+    {
+      "number": 489,
+      "title": "Eighth Person"
+    },
+    {
+      "number": 490,
+      "title": "Arriving Again"
+    },
+    {
+      "number": 491,
+      "title": "Flying Fish Riders"
+    },
+    {
+      "number": 492,
+      "title": "Iron Mask Duval"
+    },
+    {
+      "number": 493,
+      "title": "You Know Me"
+    },
+    {
+      "number": 494,
+      "title": "Duval's Tragedy"
+    },
+    {
+      "number": 495,
+      "title": "Gaon Cannon"
+    },
+    {
+      "number": 496,
+      "title": "Yarukiman Mangrove"
+    },
+    {
+      "number": 497,
+      "title": "Adventure on the Archipelago of Dancing Soap Bubbles"
+    },
+    {
+      "number": 498,
+      "title": "The Eleven Supernovas"
+    },
+    {
+      "number": 499,
+      "title": "Sabaody Park"
+    },
+    {
+      "number": 500,
+      "title": "The Embers of History"
+    },
+    {
+      "number": 501,
+      "title": "The World Begins to Swell"
+    },
+    {
+      "number": 502,
+      "title": "The Incident of the Celestial Dragons"
+    },
+    {
+      "number": 503,
+      "title": "Aggravated Island"
+    },
+    {
+      "number": 504,
+      "title": "Pirate Front Line on the Move!!"
+    },
+    {
+      "number": 505,
+      "title": "Kuma"
+    },
+    {
+      "number": 506,
+      "title": "Roger and Rayleigh"
+    },
+    {
+      "number": 507,
+      "title": "Kizaru Arrives"
+    },
+    {
+      "number": 508,
+      "title": "Island of Carnage"
+    },
+    {
+      "number": 509,
+      "title": "Kizaru vs. Four Captains"
+    },
+    {
+      "number": 510,
+      "title": "Straw Hat Pirates vs. War Machine"
+    },
+    {
+      "number": 511,
+      "title": "Axe-Carrying Sentomaru"
+    },
+    {
+      "number": 512,
+      "title": "Zoro, Gone"
+    },
+    {
+      "number": 513,
+      "title": "Beyond Rescue!!!"
+    },
+    {
+      "number": 514,
+      "title": "Body Parasite Mushrooms"
+    },
+    {
+      "number": 515,
+      "title": "Adventure on the Island of Women"
+    },
+    {
+      "number": 516,
+      "title": "Pirate Empress Boa Hancock"
+    },
+    {
+      "number": 517,
+      "title": "Bath Time"
+    },
+    {
+      "number": 518,
+      "title": "Coliseum"
+    },
+    {
+      "number": 519,
+      "title": "Natural Born King"
+    },
+    {
+      "number": 520,
+      "title": "Eye of the Gorgon"
+    },
+    {
+      "number": 521,
+      "title": "Hoof of the Celestial Dragon"
+    },
+    {
+      "number": 522,
+      "title": "Fatal Illness"
+    },
+    {
+      "number": 523,
+      "title": "Hell"
+    },
+    {
+      "number": 524,
+      "title": "Unstoppable"
+    },
+    {
+      "number": 525,
+      "title": "The Underwater Prison Impel Down"
+    },
+    {
+      "number": 526,
+      "title": "Adventure in the Great Prison"
+    },
+    {
+      "number": 527,
+      "title": "Level 1: Crimson Hell"
+    },
+    {
+      "number": 528,
+      "title": "Jimbei, First Son of the Sea"
+    },
+    {
+      "number": 529,
+      "title": "Level 2: Beast Hell"
+    },
+    {
+      "number": 530,
+      "title": "From One Hell to Another"
+    },
+    {
+      "number": 531,
+      "title": "Level 3: Starvation Hell"
+    },
+    {
+      "number": 532,
+      "title": "Jailer Beast Minotaur"
+    },
+    {
+      "number": 533,
+      "title": "Level 4: Inferno Hell"
+    },
+    {
+      "number": 534,
+      "title": "Warden Magellan vs. Pirate Luffy"
+    },
+    {
+      "number": 535,
+      "title": "Friend"
+    },
+    {
+      "number": 536,
+      "title": "Level 5: Frozen Hell"
+    },
+    {
+      "number": 537,
+      "title": "A Ray of Hope"
+    },
+    {
+      "number": 538,
+      "title": "Level 5.5: New Kama Land"
+    },
+    {
+      "number": 539,
+      "title": "Emporio Energy Hormone"
+    },
+    {
+      "number": 540,
+      "title": "Level 6: Infinite Hell"
+    },
+    {
+      "number": 541,
+      "title": "The Greatest Ever"
+    },
+    {
+      "number": 542,
+      "title": "Yet Another Epic Incident"
+    },
+    {
+      "number": 543,
+      "title": "Straw Hat and Blackbeard"
+    },
+    {
+      "number": 544,
+      "title": "The Lid to the Cauldron of Hell Opens"
+    },
+    {
+      "number": 545,
+      "title": "To Sunshine and Freedom"
+    },
+    {
+      "number": 546,
+      "title": "Fish-man Pirate Captain Jimbei, Warlord of the Sea"
+    },
+    {
+      "number": 547,
+      "title": "Island Ripper"
+    },
+    {
+      "number": 548,
+      "title": "Thank You"
+    },
+    {
+      "number": 549,
+      "title": "Battleship"
+    },
+    {
+      "number": 550,
+      "title": "Navy Headquarters"
+    },
+    {
+      "number": 551,
+      "title": "Whitebeard of the Four Emperors"
+    },
+    {
+      "number": 552,
+      "title": "Ace and Whitebeard"
+    },
+    {
+      "number": 553,
+      "title": "Paramount War"
+    },
+    {
+      "number": 554,
+      "title": "Admiral Akainu"
+    },
+    {
+      "number": 555,
+      "title": "Oars and the Hat"
+    },
+    {
+      "number": 556,
+      "title": "Justice Will Prevail"
+    },
+    {
+      "number": 557,
+      "title": "Luffy and Whitebeard"
+    },
+    {
+      "number": 558,
+      "title": "Little Brother"
+    },
+    {
+      "number": 559,
+      "title": "Destiny"
+    },
+    {
+      "number": 560,
+      "title": "Prisoners of Impel Down"
+    },
+    {
+      "number": 561,
+      "title": "Luffy vs. Mihawk"
+    },
+    {
+      "number": 562,
+      "title": "Whirl Spider Squard"
+    },
+    {
+      "number": 563,
+      "title": "One Man, One Heart"
+    },
+    {
+      "number": 564,
+      "title": "The Man Who Shook the World"
+    },
+    {
+      "number": 565,
+      "title": "Oars's Path"
+    },
+    {
+      "number": 566,
+      "title": "Raid"
+    },
+    {
+      "number": 567,
+      "title": "Marineford Navy Headquarters—Oris Plaza"
+    },
+    {
+      "number": 568,
+      "title": "Have It Your Way!"
+    },
+    {
+      "number": 569,
+      "title": "White Monster"
+    },
+    {
+      "number": 570,
+      "title": "The Bridge of Life"
+    },
+    {
+      "number": 571,
+      "title": "The Execution Platform"
+    },
+    {
+      "number": 572,
+      "title": "The Times They Are A-Changin'"
+    },
+    {
+      "number": 573,
+      "title": "The Name of This Era Is 'Whitebeard'"
+    },
+    {
+      "number": 574,
+      "title": "The Death of Portgas D. Ace"
+    },
+    {
+      "number": 575,
+      "title": "Voiceless Rage"
+    },
+    {
+      "number": 576,
+      "title": "The Great Pirate Edward Newgate"
+    },
+    {
+      "number": 577,
+      "title": "Outrageous Events One After Another"
+    },
+    {
+      "number": 578,
+      "title": "A Gift for the New Era"
+    },
+    {
+      "number": 579,
+      "title": "A Few Seconds of Courage"
+    },
+    {
+      "number": 580,
+      "title": "The War's Conclusion"
+    },
+    {
+      "number": 581,
+      "title": "Creeping Future"
+    },
+    {
+      "number": 582,
+      "title": "Luffy and Ace"
+    },
+    {
+      "number": 583,
+      "title": "Gray Terminal"
+    },
+    {
+      "number": 584,
+      "title": "Incident with Porchemy"
+    },
+    {
+      "number": 585,
+      "title": "Brotherly Pact"
+    },
+    {
+      "number": 586,
+      "title": "City of Stench"
+    },
+    {
+      "number": 587,
+      "title": "I Will Never Run Away"
+    },
+    {
+      "number": 588,
+      "title": "Sabo's Ocean"
+    },
+    {
+      "number": 589,
+      "title": "Will of the Winds"
+    },
+    {
+      "number": 590,
+      "title": "My Little Brother"
+    },
+    {
+      "number": 591,
+      "title": "Are You Sure About That?"
+    },
+    {
+      "number": 592,
+      "title": "Cheer"
+    },
+    {
+      "number": 593,
+      "title": "NEWS"
+    },
+    {
+      "number": 594,
+      "title": "Message"
+    },
+    {
+      "number": 595,
+      "title": "The Pledge"
+    },
+    {
+      "number": 596,
+      "title": "Spectrum"
+    },
+    {
+      "number": 597,
+      "title": "3D 2Y"
+    },
+    {
+      "number": 598,
+      "title": "Two Years Later"
+    },
+    {
+      "number": 599,
+      "title": "Nine Pirates"
+    },
+    {
+      "number": 600,
+      "title": "Island of New Beginnings"
+    },
+    {
+      "number": 601,
+      "title": "Romance Dawn for the New World"
+    },
+    {
+      "number": 602,
+      "title": "Downward Ho!"
+    },
+    {
+      "number": 603,
+      "title": "Keep That in Mind"
+    },
+    {
+      "number": 604,
+      "title": "To the Deep Sea"
+    },
+    {
+      "number": 605,
+      "title": "The Kraken and the Pirates"
+    },
+    {
+      "number": 606,
+      "title": "Deep Sea Adventure"
+    },
+    {
+      "number": 607,
+      "title": "30,000 Feet Under the Sea"
+    },
+    {
+      "number": 608,
+      "title": "Underwater Paradise"
+    },
+    {
+      "number": 609,
+      "title": "Adventure on Fish-Man Island"
+    },
+    {
+      "number": 610,
+      "title": "Madam Sharley, Fortune-Teller"
+    },
+    {
+      "number": 611,
+      "title": "Hody Jones"
+    },
+    {
+      "number": 612,
+      "title": "Taken by the Shark They Saved"
+    },
+    {
+      "number": 613,
+      "title": "Mermaid Princess of Shell Tower"
+    },
+    {
+      "number": 614,
+      "title": "Too Late Now"
+    },
+    {
+      "number": 615,
+      "title": "Mark-Mark Curse"
+    },
+    {
+      "number": 616,
+      "title": "Anniversary for Revenge"
+    },
+    {
+      "number": 617,
+      "title": "Incident at Coral Hill"
+    },
+    {
+      "number": 618,
+      "title": "Proposal"
+    },
+    {
+      "number": 619,
+      "title": "At the Forest of the Sea"
+    },
+    {
+      "number": 620,
+      "title": "The Wonderful Amusement Park"
+    },
+    {
+      "number": 621,
+      "title": "Otohime and Tiger"
+    },
+    {
+      "number": 622,
+      "title": "The Sun Pirates"
+    },
+    {
+      "number": 623,
+      "title": "Fisher Tiger the Pirate"
+    },
+    {
+      "number": 624,
+      "title": "Queen Otohime"
+    },
+    {
+      "number": 625,
+      "title": "Uninherited Will"
+    },
+    {
+      "number": 626,
+      "title": "Neptune Brothers"
+    },
+    {
+      "number": 627,
+      "title": "Thank You"
+    },
+    {
+      "number": 628,
+      "title": "Spring Cleaning"
+    },
+    {
+      "number": 629,
+      "title": "Former Warlord in the Way"
+    },
+    {
+      "number": 630,
+      "title": "Getting Violent"
+    },
+    {
+      "number": 631,
+      "title": "Conchcorde Plaza"
+    },
+    {
+      "number": 632,
+      "title": "I Knew"
+    },
+    {
+      "number": 633,
+      "title": "Friend or Foe"
+    },
+    {
+      "number": 634,
+      "title": "100,000 vs. 10"
+    },
+    {
+      "number": 635,
+      "title": "So Scary I Ran Up to the Sky"
+    },
+    {
+      "number": 636,
+      "title": "General from Future Land"
+    },
+    {
+      "number": 637,
+      "title": "The Ancient Ark"
+    },
+    {
+      "number": 638,
+      "title": "Escape-Hoshi"
+    },
+    {
+      "number": 639,
+      "title": "Protect Everything"
+    },
+    {
+      "number": 640,
+      "title": "Above Fishman Island"
+    },
+    {
+      "number": 641,
+      "title": "What Are You?"
+    },
+    {
+      "number": 642,
+      "title": "Lost All Face"
+    },
+    {
+      "number": 643,
+      "title": "Phantom"
+    },
+    {
+      "number": 644,
+      "title": "To Nothing"
+    },
+    {
+      "number": 645,
+      "title": "Death Is Another Form of Revenge"
+    },
+    {
+      "number": 646,
+      "title": "Frog"
+    },
+    {
+      "number": 647,
+      "title": "Stop, Noah"
+    },
+    {
+      "number": 648,
+      "title": "The Road Toward the Sun"
+    },
+    {
+      "number": 649,
+      "title": "The Dance of Breams and Plaices"
+    },
+    {
+      "number": 650,
+      "title": "Two Changes to Be Aware Of"
+    },
+    {
+      "number": 651,
+      "title": "A Voice from the New World"
+    },
+    {
+      "number": 652,
+      "title": "A Premonition of Stormy Seas"
+    },
+    {
+      "number": 653,
+      "title": "The Hero Hat"
+    },
+    {
+      "number": 654,
+      "title": "A Gam of Whales"
+    },
+    {
+      "number": 655,
+      "title": "Punk Hazard"
+    },
+    {
+      "number": 656,
+      "title": "Adventure on the Burning Island"
+    },
+    {
+      "number": 657,
+      "title": "Severed Head"
+    },
+    {
+      "number": 658,
+      "title": "The Biscuits Room"
+    },
+    {
+      "number": 659,
+      "title": "About My Torso"
+    },
+    {
+      "number": 660,
+      "title": "Trafalgar Law, Warlord of the Sea"
+    },
+    {
+      "number": 661,
+      "title": "Lakeside Bandits"
+    },
+    {
+      "number": 662,
+      "title": "Warlord Law vs. Vice Admiral Smoker"
+    },
+    {
+      "number": 663,
+      "title": "CC"
+    },
+    {
+      "number": 664,
+      "title": "Master Caesar Clown"
+    },
+    {
+      "number": 665,
+      "title": "Candy"
+    },
+    {
+      "number": 666,
+      "title": "Yeti Cool Brothers"
+    },
+    {
+      "number": 667,
+      "title": "Cool Fight"
+    },
+    {
+      "number": 668,
+      "title": "Pirate Alliance"
+    },
+    {
+      "number": 669,
+      "title": "Commence Operation"
+    },
+    {
+      "number": 670,
+      "title": "Blizzard with a Chance of Slime"
+    },
+    {
+      "number": 671,
+      "title": "Gas-Gas Fruit"
+    },
+    {
+      "number": 672,
+      "title": "My Name is Kin'emon!!"
+    },
+    {
+      "number": 673,
+      "title": "Vergo and Joker"
+    },
+    {
+      "number": 674,
+      "title": "The Observers"
+    },
+    {
+      "number": 675,
+      "title": "I Call It Land of the Dead"
+    },
+    {
+      "number": 676,
+      "title": "The Perfect Weapon of Mass Murder"
+    },
+    {
+      "number": 677,
+      "title": "Counter Hazard!!"
+    },
+    {
+      "number": 678,
+      "title": "Lobby of Laboratory Building A"
+    },
+    {
+      "number": 679,
+      "title": "The G-5 Spirit"
+    },
+    {
+      "number": 680,
+      "title": "G-5 Commander Vergo the Bamboo Demon"
+    },
+    {
+      "number": 681,
+      "title": "Luffy vs. Master"
+    },
+    {
+      "number": 682,
+      "title": "Puppet Master"
+    },
+    {
+      "number": 683,
+      "title": "An Icy Woman"
+    },
+    {
+      "number": 684,
+      "title": "Don't Do It, Vegapunk"
+    },
+    {
+      "number": 685,
+      "title": "My Name Is Momonosuke"
+    },
+    {
+      "number": 686,
+      "title": "The Snow-Woman in the Biscuits Room"
+    },
+    {
+      "number": 687,
+      "title": "Wild Beast"
+    },
+    {
+      "number": 688,
+      "title": "Mocha"
+    },
+    {
+      "number": 689,
+      "title": "The Island That's There but Isn't There"
+    },
+    {
+      "number": 690,
+      "title": "S.A.D.\" (SAD)"
+    },
+    {
+      "number": 691,
+      "title": "King of the Land of the Dead"
+    },
+    {
+      "number": 692,
+      "title": "Assassins from Dressrosa"
+    },
+    {
+      "number": 693,
+      "title": "Die for Me"
+    },
+    {
+      "number": 694,
+      "title": "The Most Dangerous Man"
+    },
+    {
+      "number": 695,
+      "title": "Leave It to Us!!!"
+    },
+    {
+      "number": 696,
+      "title": "Alignment of Interests"
+    },
+    {
+      "number": 697,
+      "title": "A Deal"
+    },
+    {
+      "number": 698,
+      "title": "Enter Doflamingo"
+    },
+    {
+      "number": 699,
+      "title": "Morning Edition"
+    },
+    {
+      "number": 700,
+      "title": "His Momentum"
+    },
+    {
+      "number": 701,
+      "title": "Adventure in the Land of Love, Passion and Toys"
+    },
+    {
+      "number": 702,
+      "title": "Corrida Coliseum"
+    },
+    {
+      "number": 703,
+      "title": "Waiting Room"
+    },
+    {
+      "number": 704,
+      "title": "Lucy and the Statue of Kyros"
+    },
+    {
+      "number": 705,
+      "title": "Maynard the Pursuer"
+    },
+    {
+      "number": 706,
+      "title": "I Ain't Gonna Laugh at Ya"
+    },
+    {
+      "number": 707,
+      "title": "Block B"
+    },
+    {
+      "number": 708,
+      "title": "Coliseum of Scoundrels"
+    },
+    {
+      "number": 709,
+      "title": "King Punch!!"
+    },
+    {
+      "number": 710,
+      "title": "To Greenbit"
+    },
+    {
+      "number": 711,
+      "title": "Adventure in the Land of the Little People"
+    },
+    {
+      "number": 712,
+      "title": "Violet"
+    },
+    {
+      "number": 713,
+      "title": "Usoland"
+    },
+    {
+      "number": 714,
+      "title": "Lucy and Moocy"
+    },
+    {
+      "number": 715,
+      "title": "The Battleground of Block C"
+    },
+    {
+      "number": 716,
+      "title": "Don Chin Jao"
+    },
+    {
+      "number": 717,
+      "title": "Dressrosa's Forgotten"
+    },
+    {
+      "number": 718,
+      "title": "Riku Army at the Flower Field"
+    },
+    {
+      "number": 719,
+      "title": "Open, Chin Jao"
+    },
+    {
+      "number": 720,
+      "title": "Prisoner-Gladiators"
+    },
+    {
+      "number": 721,
+      "title": "Rebecca and the Soldier"
+    },
+    {
+      "number": 722,
+      "title": "Royal Bloodlines"
+    },
+    {
+      "number": 723,
+      "title": "Change of Plans"
+    },
+    {
+      "number": 724,
+      "title": "Law's Plan"
+    },
+    {
+      "number": 725,
+      "title": "The Undefeated Woman"
+    },
+    {
+      "number": 726,
+      "title": "The Riku Family"
+    },
+    {
+      "number": 727,
+      "title": "The Hero's Ambush"
+    },
+    {
+      "number": 728,
+      "title": "The Number of Tragedies"
+    },
+    {
+      "number": 729,
+      "title": "Warlord Doflamingo vs. Warlord Law"
+    },
+    {
+      "number": 730,
+      "title": "Three Cards"
+    },
+    {
+      "number": 731,
+      "title": "Operation Dressrosa S.O.P."
+    },
+    {
+      "number": 732,
+      "title": "An Underground World"
+    },
+    {
+      "number": 733,
+      "title": "What the Soldier Wants"
+    },
+    {
+      "number": 734,
+      "title": "The Slicing Winds of Rommel"
+    },
+    {
+      "number": 735,
+      "title": "Fujitora's Plan"
+    },
+    {
+      "number": 736,
+      "title": "Supreme Officer Diamante"
+    },
+    {
+      "number": 737,
+      "title": "Officer's Tower"
+    },
+    {
+      "number": 738,
+      "title": "Trebol Army, Special Officer Sugar"
+    },
+    {
+      "number": 739,
+      "title": "Captain"
+    },
+    {
+      "number": 740,
+      "title": "It's in Your Hands!!!"
+    },
+    {
+      "number": 741,
+      "title": "Usoland the Liar"
+    },
+    {
+      "number": 742,
+      "title": "Ever at Your Side"
+    },
+    {
+      "number": 743,
+      "title": "Dressrosa Trembles"
+    },
+    {
+      "number": 744,
+      "title": "Revolutionary Army Chief of Staff"
+    },
+    {
+      "number": 745,
+      "title": "The Birdcage"
+    },
+    {
+      "number": 746,
+      "title": "Stars"
+    },
+    {
+      "number": 747,
+      "title": "Supreme Officer Pica"
+    },
+    {
+      "number": 748,
+      "title": "Repaying the Debt"
+    },
+    {
+      "number": 749,
+      "title": "Onward, Gallery of Rogues!!"
+    },
+    {
+      "number": 750,
+      "title": "Flash Points"
+    },
+    {
+      "number": 751,
+      "title": "Sabo vs. Admiral Fujitora"
+    },
+    {
+      "number": 752,
+      "title": "Palm"
+    },
+    {
+      "number": 753,
+      "title": "Battle"
+    },
+    {
+      "number": 754,
+      "title": "Making Acquaintance"
+    },
+    {
+      "number": 755,
+      "title": "A Man's World"
+    },
+    {
+      "number": 756,
+      "title": "The Fourth Step"
+    },
+    {
+      "number": 757,
+      "title": "Trump Card"
+    },
+    {
+      "number": 758,
+      "title": "Just Keep Going"
+    },
+    {
+      "number": 759,
+      "title": "Secret Plan"
+    },
+    {
+      "number": 760,
+      "title": "The Same Bet"
+    },
+    {
+      "number": 761,
+      "title": "The Op-Op Fruit"
+    },
+    {
+      "number": 762,
+      "title": "The White Town"
+    },
+    {
+      "number": 763,
+      "title": "Declaration of Humanity"
+    },
+    {
+      "number": 764,
+      "title": "White Monster"
+    },
+    {
+      "number": 765,
+      "title": "Minion, the Isle of Fate"
+    },
+    {
+      "number": 766,
+      "title": "Smile"
+    },
+    {
+      "number": 767,
+      "title": "Cora"
+    },
+    {
+      "number": 768,
+      "title": "The Trigger That Day"
+    },
+    {
+      "number": 769,
+      "title": "Bellamy the Pirate"
+    },
+    {
+      "number": 770,
+      "title": "The Spear of Elbaph"
+    },
+    {
+      "number": 771,
+      "title": "Sai, Don of the Happosui Army"
+    },
+    {
+      "number": 772,
+      "title": "Cabbage and Lomeo"
+    },
+    {
+      "number": 773,
+      "title": "Half 'n Half"
+    },
+    {
+      "number": 774,
+      "title": "Leo, Captain of the Tontatta Warriors"
+    },
+    {
+      "number": 775,
+      "title": "To Russian With Love"
+    },
+    {
+      "number": 776,
+      "title": "Hero of the Coliseum"
+    },
+    {
+      "number": 777,
+      "title": "Zoro vs. Pica"
+    },
+    {
+      "number": 778,
+      "title": "Tactics No. 5"
+    },
+    {
+      "number": 779,
+      "title": "His Final Battle"
+    },
+    {
+      "number": 780,
+      "title": "The Heart Curse"
+    },
+    {
+      "number": 781,
+      "title": "Desire"
+    },
+    {
+      "number": 782,
+      "title": "Champion of Evil"
+    },
+    {
+      "number": 783,
+      "title": "In My Way"
+    },
+    {
+      "number": 784,
+      "title": "Gear Four"
+    },
+    {
+      "number": 785,
+      "title": "On Broken Legs"
+    },
+    {
+      "number": 786,
+      "title": "Gyats"
+    },
+    {
+      "number": 787,
+      "title": "Four Minutes Before"
+    },
+    {
+      "number": 788,
+      "title": "My Battle"
+    },
+    {
+      "number": 789,
+      "title": "Lucy!!"
+    },
+    {
+      "number": 790,
+      "title": "Heaven and Earth"
+    },
+    {
+      "number": 791,
+      "title": "Rubble"
+    },
+    {
+      "number": 792,
+      "title": "On Hands and Knees"
+    },
+    {
+      "number": 793,
+      "title": "Tiger and Dog"
+    },
+    {
+      "number": 794,
+      "title": "Sabo's Adventure"
+    },
+    {
+      "number": 795,
+      "title": "Suicide"
+    },
+    {
+      "number": 796,
+      "title": "Soldier's Conviction"
+    },
+    {
+      "number": 797,
+      "title": "Rebecca"
+    },
+    {
+      "number": 798,
+      "title": "Heart"
+    },
+    {
+      "number": 799,
+      "title": "Father and Sons"
+    },
+    {
+      "number": 800,
+      "title": "Sons' Cups"
+    },
+    {
+      "number": 801,
+      "title": "Opening Speech"
+    },
+    {
+      "number": 802,
+      "title": "Zou"
+    },
+    {
+      "number": 803,
+      "title": "Elephant Climbing"
+    },
+    {
+      "number": 804,
+      "title": "Adventure in the Land Atop the Elephant's Back"
+    },
+    {
+      "number": 805,
+      "title": "The Minks"
+    },
+    {
+      "number": 806,
+      "title": "At Rightflank Fortress"
+    },
+    {
+      "number": 807,
+      "title": "Ten Days Earlier"
+    },
+    {
+      "number": 808,
+      "title": "Duke Dogstorm"
+    },
+    {
+      "number": 809,
+      "title": "The Cat Viper"
+    },
+    {
+      "number": 810,
+      "title": "The Twirly Hat Crew Arrives"
+    },
+    {
+      "number": 811,
+      "title": "ROKO"
+    },
+    {
+      "number": 812,
+      "title": "Capone 'Gang' Bege"
+    },
+    {
+      "number": 813,
+      "title": "Tea Party Invitation"
+    },
+    {
+      "number": 814,
+      "title": "Let's Go See the Cat Viper"
+    },
+    {
+      "number": 815,
+      "title": "Take Me With You!!"
+    },
+    {
+      "number": 816,
+      "title": "Dog vs. Cat"
+    },
+    {
+      "number": 817,
+      "title": "Raizo of the Mist"
+    },
+    {
+      "number": 818,
+      "title": "Inside the Whale"
+    },
+    {
+      "number": 819,
+      "title": "Momonosuke, Heir to the Kozuki Clan"
+    },
+    {
+      "number": 820,
+      "title": "Cats and Dogs Have a History"
+    },
+    {
+      "number": 821,
+      "title": "Understood"
+    },
+    {
+      "number": 822,
+      "title": "Descending the Elephant"
+    },
+    {
+      "number": 823,
+      "title": "The World Is Restless"
+    },
+    {
+      "number": 824,
+      "title": "Playing Pirates"
+    },
+    {
+      "number": 825,
+      "title": "Comic Strip"
+    },
+    {
+      "number": 826,
+      "title": "0 and 4"
+    },
+    {
+      "number": 827,
+      "title": "Totto Land"
+    },
+    {
+      "number": 828,
+      "title": "1 and 2"
+    },
+    {
+      "number": 829,
+      "title": "Emperor of the Sea, Charlotte Linlin"
+    },
+    {
+      "number": 830,
+      "title": "A Man You Can Bet On"
+    },
+    {
+      "number": 831,
+      "title": "Adventure in the Mysterious Forest"
+    },
+    {
+      "number": 832,
+      "title": "Kingdom of Germa"
+    },
+    {
+      "number": 833,
+      "title": "Vinsmoke Judge"
+    },
+    {
+      "number": 834,
+      "title": "My Dream"
+    },
+    {
+      "number": 835,
+      "title": "Kingdom of Soul"
+    },
+    {
+      "number": 836,
+      "title": "Lola's Vivre Card"
+    },
+    {
+      "number": 837,
+      "title": "Luffy vs. Cracker the General"
+    },
+    {
+      "number": 838,
+      "title": "ChoBro"
+    },
+    {
+      "number": 839,
+      "title": "I Owe You My Life!"
+    },
+    {
+      "number": 840,
+      "title": "The Iron Mask"
+    },
+    {
+      "number": 841,
+      "title": "To the East Blue"
+    },
+    {
+      "number": 842,
+      "title": "The Power of a Full Stomach"
+    },
+    {
+      "number": 843,
+      "title": "Vinsmoke Sanji"
+    },
+    {
+      "number": 844,
+      "title": "Luffy vs. Sanji"
+    },
+    {
+      "number": 845,
+      "title": "Forces of Rage"
+    },
+    {
+      "number": 846,
+      "title": "Tamago Security"
+    },
+    {
+      "number": 847,
+      "title": "Luffy and Big Mom"
+    },
+    {
+      "number": 848,
+      "title": "Goodbye"
+    },
+    {
+      "number": 849,
+      "title": "ChoBro in the Land of Mirrors"
+    },
+    {
+      "number": 850,
+      "title": "A Ray of Light"
+    },
+    {
+      "number": 851,
+      "title": "Dog-End"
+    },
+    {
+      "number": 852,
+      "title": "Germa's Failure"
+    },
+    {
+      "number": 853,
+      "title": "Not Here"
+    },
+    {
+      "number": 854,
+      "title": "What Are You Doing?"
+    },
+    {
+      "number": 855,
+      "title": "Glurrgle!!!"
+    },
+    {
+      "number": 856,
+      "title": "Liar"
+    },
+    {
+      "number": 857,
+      "title": "Rook"
+    },
+    {
+      "number": 858,
+      "title": "Meeting"
+    },
+    {
+      "number": 859,
+      "title": "Emperor Assassination Plan"
+    },
+    {
+      "number": 860,
+      "title": "10:00 Start"
+    },
+    {
+      "number": 861,
+      "title": "The Actor"
+    },
+    {
+      "number": 862,
+      "title": "The Thinker"
+    },
+    {
+      "number": 863,
+      "title": "The Knight"
+    },
+    {
+      "number": 864,
+      "title": "The Vinsmoke Massacre Plot"
+    },
+    {
+      "number": 865,
+      "title": "Hey, Mother"
+    },
+    {
+      "number": 866,
+      "title": "Natural Born Destroyer"
+    },
+    {
+      "number": 867,
+      "title": "Happy Birthday"
+    },
+    {
+      "number": 868,
+      "title": "KX Launcher"
+    },
+    {
+      "number": 869,
+      "title": "Castling"
+    },
+    {
+      "number": 870,
+      "title": "Parting"
+    },
+    {
+      "number": 871,
+      "title": "You Can Do It, Caesar!!"
+    },
+    {
+      "number": 872,
+      "title": "Thick and Fluffy"
+    },
+    {
+      "number": 873,
+      "title": "Recipe for Disaster"
+    },
+    {
+      "number": 874,
+      "title": "Be My Servant"
+    },
+    {
+      "number": 875,
+      "title": "A Woman's Honor"
+    },
+    {
+      "number": 876,
+      "title": "Pudding Coincidentally Appears!!"
+    },
+    {
+      "number": 877,
+      "title": "Bittersweet"
+    },
+    {
+      "number": 878,
+      "title": "Commander Pedro of the Mink Guardians"
+    },
+    {
+      "number": 879,
+      "title": "Big Mom's Sweet 3 General, Katakuri"
+    },
+    {
+      "number": 880,
+      "title": "Zero Escape"
+    },
+    {
+      "number": 881,
+      "title": "Wave Room"
+    },
+    {
+      "number": 882,
+      "title": "Beyond the Emperor's Expectations"
+    },
+    {
+      "number": 883,
+      "title": "Merienda"
+    },
+    {
+      "number": 884,
+      "title": "Who Is That?"
+    },
+    {
+      "number": 885,
+      "title": "I'm Brulee!!!"
+    },
+    {
+      "number": 886,
+      "title": "Way of Life"
+    },
+    {
+      "number": 887,
+      "title": "Someone Somewhere Is Wishing for Your Happiness"
+    },
+    {
+      "number": 888,
+      "title": "Lion"
+    },
+    {
+      "number": 889,
+      "title": "Unfamiliar Mama"
+    },
+    {
+      "number": 890,
+      "title": "Big Mom on the Ship"
+    },
+    {
+      "number": 891,
+      "title": "They Believe in Me"
+    },
+    {
+      "number": 892,
+      "title": "Threat Confirmed"
+    },
+    {
+      "number": 893,
+      "title": "Flampe, 36th Daughter of Charlotte"
+    },
+    {
+      "number": 894,
+      "title": "12:05"
+    },
+    {
+      "number": 895,
+      "title": "Luffy the Pirate vs. General Katakuri"
+    },
+    {
+      "number": 896,
+      "title": "One Last Thing"
+    },
+    {
+      "number": 897,
+      "title": "Pekoms's Cacao Island Escape Plan"
+    },
+    {
+      "number": 898,
+      "title": "I Will Return"
+    },
+    {
+      "number": 899,
+      "title": "The Final Fortress"
+    },
+    {
+      "number": 900,
+      "title": "Bad End Musical\" (BADEND MUSICAL)"
+    },
+    {
+      "number": 901,
+      "title": "Don't Let Even Death Stop You!!!"
+    },
+    {
+      "number": 902,
+      "title": "End Roll"
+    },
+    {
+      "number": 903,
+      "title": "Fifth Emperor"
+    },
+    {
+      "number": 904,
+      "title": "Introducing the Revolutionary Army Captains"
+    },
+    {
+      "number": 905,
+      "title": "What a Beautiful World"
+    },
+    {
+      "number": 906,
+      "title": "Sacred Marijoa"
+    },
+    {
+      "number": 907,
+      "title": "The Empty Throne"
+    },
+    {
+      "number": 908,
+      "title": "The Reverie Begins"
+    },
+    {
+      "number": 909,
+      "title": "Seppuku"
+    },
+    {
+      "number": 910,
+      "title": "Onward to Wano"
+    },
+    {
+      "number": 911,
+      "title": "Adventure in the Land of Samurai"
+    },
+    {
+      "number": 912,
+      "title": "Amigasa Village"
+    },
+    {
+      "number": 913,
+      "title": "The Crane Returns the Favor"
+    },
+    {
+      "number": 914,
+      "title": "Okobore Town"
+    },
+    {
+      "number": 915,
+      "title": "Bakura Town"
+    },
+    {
+      "number": 916,
+      "title": "Wano Sumo"
+    },
+    {
+      "number": 917,
+      "title": "Food Treasure Barge"
+    },
+    {
+      "number": 918,
+      "title": "Luffytaro Returns the Favor"
+    },
+    {
+      "number": 919,
+      "title": "The Ruins of Oden Castle"
+    },
+    {
+      "number": 920,
+      "title": "For Love of Oden"
+    },
+    {
+      "number": 921,
+      "title": "Shutenmaru"
+    },
+    {
+      "number": 922,
+      "title": "Supreme Commander Kaido of the Animal Kingdom Pirates"
+    },
+    {
+      "number": 923,
+      "title": "Emperor of the Sea Kaido vs. Luffy"
+    },
+    {
+      "number": 924,
+      "title": "Huh"
+    },
+    {
+      "number": 925,
+      "title": "Absence"
+    },
+    {
+      "number": 926,
+      "title": "Excavation Labor Camp"
+    },
+    {
+      "number": 927,
+      "title": "Otoko the Kamuro"
+    },
+    {
+      "number": 928,
+      "title": "Introducing Komurasaki the Oiran"
+    },
+    {
+      "number": 929,
+      "title": "Shogun of Wano, Kurozumi Orochi"
+    },
+    {
+      "number": 930,
+      "title": "Ebisu Town"
+    },
+    {
+      "number": 931,
+      "title": "Soba Mask"
+    },
+    {
+      "number": 932,
+      "title": "Shogun and Oiran"
+    },
+    {
+      "number": 933,
+      "title": "A Warrior's Mercy"
+    },
+    {
+      "number": 934,
+      "title": "Hyogoro the Flower"
+    },
+    {
+      "number": 935,
+      "title": "Queen"
+    },
+    {
+      "number": 936,
+      "title": "Sumo Inferno"
+    },
+    {
+      "number": 937,
+      "title": "Gyukimaru on Bandit's Bridge"
+    },
+    {
+      "number": 938,
+      "title": "A Woman's Secret"
+    },
+    {
+      "number": 939,
+      "title": "The Old Leopard Never Forgets the Way"
+    },
+    {
+      "number": 940,
+      "title": "Sparks of Rebellion"
+    },
+    {
+      "number": 941,
+      "title": "The Star of Ebisu"
+    },
+    {
+      "number": 942,
+      "title": "Daimyo of Hakumai, Shimotsuki Yasuie"
+    },
+    {
+      "number": 943,
+      "title": "Smile"
+    },
+    {
+      "number": 944,
+      "title": "Partner"
+    },
+    {
+      "number": 945,
+      "title": "Olin"
+    },
+    {
+      "number": 946,
+      "title": "Queen vs. Olin"
+    },
+    {
+      "number": 947,
+      "title": "Queen's Gamble"
+    },
+    {
+      "number": 948,
+      "title": "Introducing Kawamatsu the Kappa"
+    },
+    {
+      "number": 949,
+      "title": "Mummy"
+    },
+    {
+      "number": 950,
+      "title": "A Soldier's Dream"
+    },
+    {
+      "number": 951,
+      "title": "Rampage"
+    },
+    {
+      "number": 952,
+      "title": "Hiyori and Kawamatsu"
+    },
+    {
+      "number": 953,
+      "title": "Once a Fox"
+    },
+    {
+      "number": 954,
+      "title": "Like a Dragon Given Wings"
+    },
+    {
+      "number": 955,
+      "title": "Enma"
+    },
+    {
+      "number": 956,
+      "title": "Big News"
+    },
+    {
+      "number": 957,
+      "title": "Ultimate"
+    },
+    {
+      "number": 958,
+      "title": "The Promised Port"
+    },
+    {
+      "number": 959,
+      "title": "Samurai"
+    },
+    {
+      "number": 960,
+      "title": "Introducing Kozuki Oden"
+    },
+    {
+      "number": 961,
+      "title": "The Mountain God Incident"
+    },
+    {
+      "number": 962,
+      "title": "Daimyo and Vassals"
+    },
+    {
+      "number": 963,
+      "title": "Becoming Samurai"
+    },
+    {
+      "number": 964,
+      "title": "Oden's Adventure"
+    },
+    {
+      "number": 965,
+      "title": "The Kurozumi Clan's Plot"
+    },
+    {
+      "number": 966,
+      "title": "Roger and Whitebeard"
+    },
+    {
+      "number": 967,
+      "title": "Roger's Adventure"
+    },
+    {
+      "number": 968,
+      "title": "Oden's Return"
+    },
+    {
+      "number": 969,
+      "title": "Fool of a Lord"
+    },
+    {
+      "number": 970,
+      "title": "Oden vs. Kaido"
+    },
+    {
+      "number": 971,
+      "title": "Sentenced to Boil"
+    },
+    {
+      "number": 972,
+      "title": "I Am Oden, and I Was Born to Boil"
+    },
+    {
+      "number": 973,
+      "title": "The Kozuki Clan"
+    },
+    {
+      "number": 974,
+      "title": "Onward to Onigashima!!"
+    },
+    {
+      "number": 975,
+      "title": "Kin'emon's Clever Trick"
+    },
+    {
+      "number": 976,
+      "title": "Begging Your Pardon!!!"
+    },
+    {
+      "number": 977,
+      "title": "The Party's Off!!!"
+    },
+    {
+      "number": 978,
+      "title": "Introducing the Tobi Roppo"
+    },
+    {
+      "number": 979,
+      "title": "Family Problem"
+    },
+    {
+      "number": 980,
+      "title": "Fighting Music"
+    },
+    {
+      "number": 981,
+      "title": "Joining the Fight"
+    },
+    {
+      "number": 982,
+      "title": "Scoundrel Meets Scoundrel"
+    },
+    {
+      "number": 983,
+      "title": "Thunder"
+    },
+    {
+      "number": 984,
+      "title": "My Bible"
+    },
+    {
+      "number": 985,
+      "title": "New Onigashima Project"
+    },
+    {
+      "number": 986,
+      "title": "My Name"
+    },
+    {
+      "number": 987,
+      "title": "Vassals of Glory"
+    },
+    {
+      "number": 988,
+      "title": "Sorry for the Wait"
+    },
+    {
+      "number": 989,
+      "title": "I Can't Imagine Losing"
+    },
+    {
+      "number": 990,
+      "title": "Army of One"
+    },
+    {
+      "number": 991,
+      "title": "Let Us Die!!!"
+    },
+    {
+      "number": 992,
+      "title": "Remnants"
+    },
+    {
+      "number": 993,
+      "title": "The Dream of Wano"
+    },
+    {
+      "number": 994,
+      "title": "My Other Name Is Yamato"
+    },
+    {
+      "number": 995,
+      "title": "A Kunoichi's Oath"
+    },
+    {
+      "number": 996,
+      "title": "Island of the Strongest"
+    },
+    {
+      "number": 997,
+      "title": "Flame Clouds"
+    },
+    {
+      "number": 998,
+      "title": "Ancient Types"
+    },
+    {
+      "number": 999,
+      "title": "The Sake I Brewed to Drink With You"
+    },
+    {
+      "number": 1000,
+      "title": "Straw Hat Luffy"
+    },
+    {
+      "number": 1001,
+      "title": "Battle of Monsters on Onigashima"
+    },
+    {
+      "number": 1002,
+      "title": "Four Emperors vs. New Generation"
+    },
+    {
+      "number": 1003,
+      "title": "Night on the Board"
+    },
+    {
+      "number": 1004,
+      "title": "Millet Dumplings"
+    },
+    {
+      "number": 1005,
+      "title": "Demon Child"
+    },
+    {
+      "number": 1006,
+      "title": "The Honorable Hyogoro the Flower"
+    },
+    {
+      "number": 1007,
+      "title": "Mr. Raccoon Dog"
+    },
+    {
+      "number": 1008,
+      "title": "Leader of the Atamayama Thieves Brigade, Ashura Doji"
+    },
+    {
+      "number": 1009,
+      "title": "Naraku"
+    },
+    {
+      "number": 1010,
+      "title": "Color of the Supreme King"
+    },
+    {
+      "number": 1011,
+      "title": "The Code of Sweet Beans"
+    },
+    {
+      "number": 1012,
+      "title": "Itch"
+    },
+    {
+      "number": 1013,
+      "title": "Anarchy in the B.M. (Big Mom)"
+    },
+    {
+      "number": 1014,
+      "title": "The Ham"
+    },
+    {
+      "number": 1015,
+      "title": "Chains"
+    },
+    {
+      "number": 1016,
+      "title": "It's Me, Otama!!"
+    },
+    {
+      "number": 1017,
+      "title": "The Order"
+    },
+    {
+      "number": 1018,
+      "title": "Jimbei vs. Who's-Who"
+    },
+    {
+      "number": 1019,
+      "title": "Heliceratops"
+    },
+    {
+      "number": 1020,
+      "title": "Robin vs. Black Maria"
+    },
+    {
+      "number": 1021,
+      "title": "Demonio"
+    },
+    {
+      "number": 1022,
+      "title": "The Stars Take the Stage"
+    },
+    {
+      "number": 1023,
+      "title": "Spitting Image"
+    },
+    {
+      "number": 1024,
+      "title": "So-and-So"
+    },
+    {
+      "number": 1025,
+      "title": "Twin Dragons"
+    },
+    {
+      "number": 1026,
+      "title": "The Pivotal Clash"
+    },
+    {
+      "number": 1027,
+      "title": "Danger Beyond Imagining"
+    },
+    {
+      "number": 1028,
+      "title": "Brachiosnakeus"
+    },
+    {
+      "number": 1029,
+      "title": "The Tower"
+    },
+    {
+      "number": 1030,
+      "title": "Echoing the Impermanence of All Things"
+    },
+    {
+      "number": 1031,
+      "title": "Warrior of Science"
+    },
+    {
+      "number": 1032,
+      "title": "Oden's Beloved Blade"
+    },
+    {
+      "number": 1033,
+      "title": "Shimotsuki Kozaburo"
+    },
+    {
+      "number": 1034,
+      "title": "Sanji vs. Queen"
+    },
+    {
+      "number": 1035,
+      "title": "Zoro vs. King"
+    },
+    {
+      "number": 1036,
+      "title": "Bushido Is the Way of Death"
+    },
+    {
+      "number": 1037,
+      "title": "Drunken Dragon Bagua"
+    },
+    {
+      "number": 1038,
+      "title": "Kid \u0026 Law vs. Big Mom"
+    },
+    {
+      "number": 1039,
+      "title": "Top Billing"
+    },
+    {
+      "number": 1040,
+      "title": "Wasted Words on Young Ears"
+    },
+    {
+      "number": 1041,
+      "title": "Komurasaki"
+    },
+    {
+      "number": 1042,
+      "title": "The Victor Needs No Epithet"
+    },
+    {
+      "number": 1043,
+      "title": "Let's Face Death Together!!!"
+    },
+    {
+      "number": 1044,
+      "title": "Warrior of Liberation"
+    },
+    {
+      "number": 1045,
+      "title": "Next Level"
+    },
+    {
+      "number": 1046,
+      "title": "Raizo"
+    },
+    {
+      "number": 1047,
+      "title": "The Sky over the Capital"
+    },
+    {
+      "number": 1048,
+      "title": "Twenty Years"
+    },
+    {
+      "number": 1049,
+      "title": "The World That Should Be"
+    },
+    {
+      "number": 1050,
+      "title": "Honor"
+    },
+    {
+      "number": 1051,
+      "title": "Shogun of Wano, Kozuki Momonosuke"
+    },
+    {
+      "number": 1052,
+      "title": "A New Morning"
+    },
+    {
+      "number": 1053,
+      "title": "New Emperors"
+    },
+    {
+      "number": 1054,
+      "title": "Flame Emperor"
+    },
+    {
+      "number": 1055,
+      "title": "The New Era"
+    },
+    {
+      "number": 1056,
+      "title": "Cross Guild"
+    },
+    {
+      "number": 1057,
+      "title": "The End"
+    },
+    {
+      "number": 1058,
+      "title": "New Emperors"
+    },
+    {
+      "number": 1059,
+      "title": "The Matter Involving Captain Koby"
+    },
+    {
+      "number": 1060,
+      "title": "Luffy's Dream"
+    },
+    {
+      "number": 1061,
+      "title": "Future Island Egghead"
+    },
+    {
+      "number": 1062,
+      "title": "Adventure in the Land of Science"
+    },
+    {
+      "number": 1063,
+      "title": "My Only Family"
+    },
+    {
+      "number": 1064,
+      "title": "Egghead Labophase"
+    },
+    {
+      "number": 1065,
+      "title": "Six Vegapunks"
+    },
+    {
+      "number": 1066,
+      "title": "The Will of Ohara"
+    },
+    {
+      "number": 1067,
+      "title": "Punk Records"
+    },
+    {
+      "number": 1068,
+      "title": "A Genius's Dream"
+    },
+    {
+      "number": 1069,
+      "title": "All Things Are Brought Into This World With Hope"
+    },
+    {
+      "number": 1070,
+      "title": "The Strongest Form of Humanity"
+    },
+    {
+      "number": 1071,
+      "title": "The Hero Deploys"
+    },
+    {
+      "number": 1072,
+      "title": "The Weight of Memory"
+    },
+    {
+      "number": 1073,
+      "title": "Miss Buckingham Stussy"
+    },
+    {
+      "number": 1074,
+      "title": "Mk. III"
+    },
+    {
+      "number": 1075,
+      "title": "Labophase Death Game"
+    },
+    {
+      "number": 1076,
+      "title": "Old Friends"
+    }
+  ]
+}
