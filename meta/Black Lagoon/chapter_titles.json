@@ -1,0 +1,416 @@
+{
+  "titles": [
+    {
+      "number": 1,
+      "title": "Ring-Ding Ship Chase"
+    },
+    {
+      "number": 2,
+      "title": "Rasta Blasta – Part 1"
+    },
+    {
+      "number": 3,
+      "title": "Rasta Blasta – Part 2"
+    },
+    {
+      "number": 4,
+      "title": "Rasta Blasta – Part 3"
+    },
+    {
+      "number": 4.5,
+      "title": "Omake"
+    },
+    {
+      "number": 5,
+      "title": "Das Wieder Erstehen Des Adlers/Die Rückkehr des Adlers – Part 1\" [a.k.a. The Recapture/Return of the Eagle]"
+    },
+    {
+      "number": 6,
+      "title": "Das Wieder Erstehen Des Adlers/Die Rückkehr des Adlers – Part 2\" [a.k.a. The Recapture/Return of the Eagle]"
+    },
+    {
+      "number": 7,
+      "title": "Das Wieder Erstehen Des Adlers/Die Rückkehr des Adlers – Part 3\" [a.k.a. The Recapture/Return of the Eagle]"
+    },
+    {
+      "number": 8,
+      "title": "Das Wieder Erstehen Des Adlers/Die Rückkehr des Adlers – Part 4\" [a.k.a. The Recapture/Return of the Eagle]"
+    },
+    {
+      "number": 9,
+      "title": "Calm Down, Two Men – Part 1"
+    },
+    {
+      "number": 10,
+      "title": "Calm Down, Two Men – Part 2"
+    },
+    {
+      "number": 11,
+      "title": "Bloodsport Fairy Tale – Part 1"
+    },
+    {
+      "number": 12,
+      "title": "Bloodsport Fairy Tale – Part 2"
+    },
+    {
+      "number": 12.5,
+      "title": "Omake"
+    },
+    {
+      "number": 13,
+      "title": "Bloodsport Fairy Tale – Part 3"
+    },
+    {
+      "number": 14,
+      "title": "Bloodsport Fairy Tale – Part 4"
+    },
+    {
+      "number": 15,
+      "title": "Bloodsport Fairy Tale – Part 5"
+    },
+    {
+      "number": 16,
+      "title": "Goat, Jihad, Rock'n Roll – Part 1"
+    },
+    {
+      "number": 17,
+      "title": "Goat, Jihad, Rock'n Roll – Part 2"
+    },
+    {
+      "number": 18,
+      "title": "Goat, Jihad, Rock'n Roll – Part 3"
+    },
+    {
+      "number": 19,
+      "title": "Goat, Jihad, Rock'n Roll – Part 4"
+    },
+    {
+      "number": 20,
+      "title": "Goat, Jihad, Rock'n Roll – Part 5"
+    },
+    {
+      "number": 20.5,
+      "title": "Omake"
+    },
+    {
+      "number": 21,
+      "title": "Goat, Jihad, Rock'n Roll – Part 6"
+    },
+    {
+      "number": 22,
+      "title": "Fujiyama Gangsta Paradise – Part 1"
+    },
+    {
+      "number": 23,
+      "title": "Fujiyama Gangsta Paradise – Part 2"
+    },
+    {
+      "number": 24,
+      "title": "Fujiyama Gangsta Paradise – Part 3"
+    },
+    {
+      "number": 25,
+      "title": "Fujiyama Gangsta Paradise – Part 4"
+    },
+    {
+      "number": 26,
+      "title": "Fujiyama Gangsta Paradise – Part 5"
+    },
+    {
+      "number": 27,
+      "title": "Fujiyama Gangsta Paradise – Part 6"
+    },
+    {
+      "number": 28,
+      "title": "Fujiyama Gangsta Paradise – Part 7"
+    },
+    {
+      "number": 29,
+      "title": "Fujiyama Gangsta Paradise – Part 8"
+    },
+    {
+      "number": 29.5,
+      "title": "Omake"
+    },
+    {
+      "number": 30,
+      "title": "Fujiyama Gangsta Paradise – Part 9"
+    },
+    {
+      "number": 31,
+      "title": "Fujiyama Gangsta Paradise – Part 10"
+    },
+    {
+      "number": 32,
+      "title": "Fujiyama Gangsta Paradise – Part 11"
+    },
+    {
+      "number": 33,
+      "title": "Fujiyama Gangsta Paradise – Part 12"
+    },
+    {
+      "number": 34,
+      "title": "Fujiyama Gangsta Paradise – Part 13"
+    },
+    {
+      "number": 35,
+      "title": "Fujiyama Gangsta Paradise – Part 14"
+    },
+    {
+      "number": 36,
+      "title": "Fujiyama Gangsta Paradise – Part 15"
+    },
+    {
+      "number": 37,
+      "title": "Fujiyama Gangsta Paradise – Part 16"
+    },
+    {
+      "number": 37.5,
+      "title": "Omake"
+    },
+    {
+      "number": 38,
+      "title": "Greenback Jane – Part 1"
+    },
+    {
+      "number": 39,
+      "title": "Greenback Jane – Part 2"
+    },
+    {
+      "number": 40,
+      "title": "Greenback Jane – Part 3"
+    },
+    {
+      "number": 41,
+      "title": "Greenback Jane – Part 4"
+    },
+    {
+      "number": 42,
+      "title": "Greenback Jane – Part 5"
+    },
+    {
+      "number": 43,
+      "title": "Greenback Jane – Part 6"
+    },
+    {
+      "number": 44,
+      "title": "El Baile de la Muerte – Part 1\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 45,
+      "title": "El Baile de la Muerte – Part 2\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 46,
+      "title": "El Baile de la Muerte – Part 3\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 47,
+      "title": "El Baile de la Muerte – Part 4\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 48,
+      "title": "El Baile de la Muerte – Part 5\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 49,
+      "title": "El Baile de la Muerte – Part 6\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 50,
+      "title": "El Baile de la Muerte – Part 7\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 51,
+      "title": "El Baile de la Muerte – Part 8\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 52,
+      "title": "El Baile de la Muerte – Part 9\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 53,
+      "title": "El Baile de la Muerte – Part 10\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 54,
+      "title": "El Baile de la Muerte – Part 11\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 55,
+      "title": "El Baile de la Muerte – Part 12\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 56,
+      "title": "El Baile de la Muerte – Part 13\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 57,
+      "title": "El Baile de la Muerte – Part 14\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 58,
+      "title": "El Baile de la Muerte – Part 15\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 59,
+      "title": "El Baile de la Muerte – Part 16\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 60,
+      "title": "El Baile de la Muerte – Part 17\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 61,
+      "title": "El Baile de la Muerte – Part 18\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 62,
+      "title": "El Baile de la Muerte – Part 19\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 63,
+      "title": "El Baile de la Muerte – Part 20\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 64,
+      "title": "El Baile de la Muerte – Part 21\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 65,
+      "title": "El Baile de la Muerte – Part 22\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 66,
+      "title": "El Baile de la Muerte – Part 23\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 67,
+      "title": "El Baile de la Muerte – Part 24\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 68,
+      "title": "El Baile de la Muerte – Part 25\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 69,
+      "title": "El Baile de la Muerte – Part 26\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 70,
+      "title": "El Baile de la Muerte – Part 27\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 71,
+      "title": "El Baile de la Muerte – Part 28\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 72,
+      "title": "El Baile de la Muerte – Part 29\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 73,
+      "title": "El Baile de la Muerte – Part 30\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 74,
+      "title": "El Baile de la Muerte – Part 31\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 75,
+      "title": "El Baile de la Muerte – Part 32\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 76,
+      "title": "El Baile de la Muerte – Part 33\" [a.k.a. The Dance of Death]"
+    },
+    {
+      "number": 77,
+      "title": "The Wired Red Wild Card – Part 1"
+    },
+    {
+      "number": 78,
+      "title": "The Wired Red Wild Card – Part 2"
+    },
+    {
+      "number": 79,
+      "title": "The Wired Red Wild Card – Part 3"
+    },
+    {
+      "number": 80,
+      "title": "The Wired Red Wild Card – Part 4"
+    },
+    {
+      "number": 81,
+      "title": "The Wired Red Wild Card – Part 5"
+    },
+    {
+      "number": 82,
+      "title": "The Wired Red Wild Card – Part 6"
+    },
+    {
+      "number": 83,
+      "title": "The Wired Red Wild Card – Part 7"
+    },
+    {
+      "number": 84,
+      "title": "The Wired Red Wild Card – Part 8"
+    },
+    {
+      "number": 85,
+      "title": "The Wired Red Wild Card – Part 9"
+    },
+    {
+      "number": 86,
+      "title": "The Wired Red Wild Card – Part 10"
+    },
+    {
+      "number": 87,
+      "title": "The Wired Red Wild Card – Part 11"
+    },
+    {
+      "number": 88,
+      "title": "The Wired Red Wild Card – Part 12"
+    },
+    {
+      "number": 89,
+      "title": "The Wired Red Wild Card – Part 13"
+    },
+    {
+      "number": 90,
+      "title": "The Wired Red Wild Card – Part 14"
+    },
+    {
+      "number": 91,
+      "title": "The Wired Red Wild Card – Part 15"
+    },
+    {
+      "number": 112,
+      "title": "L'homme sombre – Part 11\" [a.k.a. The Dark Man]"
+    },
+    {
+      "number": 113,
+      "title": "L'homme sombre – Part 12\" [a.k.a. The Dark Man]"
+    },
+    {
+      "number": 114,
+      "title": "New Girl in the Hood – Part 1"
+    },
+    {
+      "number": 115,
+      "title": "New Girl in the Hood – Part 2"
+    },
+    {
+      "number": 116,
+      "title": "Where the Chips Fall"
+    },
+    {
+      "number": 117,
+      "title": "Chapter 117"
+    },
+    {
+      "number": 118,
+      "title": "Chapter 118"
+    }
+  ]
+}
