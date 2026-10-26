@@ -1,0 +1,3 @@
+# Manga Upload Record
+# Format: folder_name|album_url|timestamp|image_count|post_id
+
