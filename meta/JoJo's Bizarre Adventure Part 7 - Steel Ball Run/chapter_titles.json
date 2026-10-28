@@ -1,0 +1,392 @@
+{
+  "titles": [
+    {
+      "number": 1,
+      "title": "Steel Ball Run: The Press Conference"
+    },
+    {
+      "number": 2,
+      "title": "Gyro Zeppeli"
+    },
+    {
+      "number": 3,
+      "title": "Johnny Joestar"
+    },
+    {
+      "number": 4,
+      "title": "September 25, 1890: Three Hours Before the Start"
+    },
+    {
+      "number": 5,
+      "title": "First Stage: 15,000 Meters"
+    },
+    {
+      "number": 6,
+      "title": "The Arroyo and Diego Brando"
+    },
+    {
+      "number": 7,
+      "title": "Pocoloco and Sandman"
+    },
+    {
+      "number": 8,
+      "title": "Into the Grove"
+    },
+    {
+      "number": 9,
+      "title": "The Long, Long Road Down"
+    },
+    {
+      "number": 10,
+      "title": "The Final Stretch: 2,000 Meters to Go"
+    },
+    {
+      "number": 11,
+      "title": "The Final Stretch: 1,000 Meters to Go"
+    },
+    {
+      "number": 12,
+      "title": "First Stage: Disqualified Victory"
+    },
+    {
+      "number": 13,
+      "title": "The Sheriff's Request to Mountain Tim"
+    },
+    {
+      "number": 14,
+      "title": "Arizona Desert Crossing: The Shortest Route"
+    },
+    {
+      "number": 15,
+      "title": "The Desert-Born Outlaws (1)"
+    },
+    {
+      "number": 16,
+      "title": "The Desert-Born Outlaws (2)"
+    },
+    {
+      "number": 17,
+      "title": "The Desert-Born Outlaws (3)"
+    },
+    {
+      "number": 18,
+      "title": "The Devil's Palm (1)"
+    },
+    {
+      "number": 19,
+      "title": "The Devil's Palm (2)"
+    },
+    {
+      "number": 20,
+      "title": "Gyro Zeppeli's Destiny (1)"
+    },
+    {
+      "number": 21,
+      "title": "Gyro Zeppeli's Destiny (2)"
+    },
+    {
+      "number": 22,
+      "title": "The Terrorist from a Faraway Country (1)"
+    },
+    {
+      "number": 23,
+      "title": "The Terrorist from a Faraway Country (2)"
+    },
+    {
+      "number": 24,
+      "title": "Interlude"
+    },
+    {
+      "number": 25,
+      "title": "Tusk (1)"
+    },
+    {
+      "number": 26,
+      "title": "Tusk (2)"
+    },
+    {
+      "number": 27,
+      "title": "Tusk (3)"
+    },
+    {
+      "number": 28,
+      "title": "Scary Monsters (1)"
+    },
+    {
+      "number": 29,
+      "title": "Scary Monsters (2)"
+    },
+    {
+      "number": 30,
+      "title": "Scary Monsters (3)"
+    },
+    {
+      "number": 31,
+      "title": "Scary Monsters (4)"
+    },
+    {
+      "number": 32,
+      "title": "Third Stage Finish Line: Cañon City"
+    },
+    {
+      "number": 33,
+      "title": "A Man's World (1)"
+    },
+    {
+      "number": 33.5,
+      "title": "Chapter 33.5"
+    },
+    {
+      "number": 34,
+      "title": "A Man's World (2)"
+    },
+    {
+      "number": 35,
+      "title": "A Man's World (3)"
+    },
+    {
+      "number": 36,
+      "title": "The Green Gravestone (1)"
+    },
+    {
+      "number": 37,
+      "title": "The Green Gravestone (2)"
+    },
+    {
+      "number": 38,
+      "title": "Catch the Rainbow (One Stormy Night...) (1)"
+    },
+    {
+      "number": 39,
+      "title": "Catch the Rainbow (One Stormy Night...) (2)"
+    },
+    {
+      "number": 40,
+      "title": "Silent Way (1)"
+    },
+    {
+      "number": 41,
+      "title": "Silent Way (2)"
+    },
+    {
+      "number": 42,
+      "title": "Silent Way (3)"
+    },
+    {
+      "number": 42.5,
+      "title": "Extra"
+    },
+    {
+      "number": 43,
+      "title": "Silent Way (4)"
+    },
+    {
+      "number": 44,
+      "title": "Silent Way (5)"
+    },
+    {
+      "number": 45,
+      "title": "The Promised Land: Sugar Mountain (1)"
+    },
+    {
+      "number": 46,
+      "title": "The Promised Land: Sugar Mountain (2)"
+    },
+    {
+      "number": 47,
+      "title": "The Promised Land: Sugar Mountain (3)"
+    },
+    {
+      "number": 48,
+      "title": "Tubular Bells (1)"
+    },
+    {
+      "number": 49,
+      "title": "Tubular Bells (2)"
+    },
+    {
+      "number": 50,
+      "title": "Tubular Bells (3)"
+    },
+    {
+      "number": 51,
+      "title": "Steel Balls Breaking: Wrecking Ball (1)"
+    },
+    {
+      "number": 52,
+      "title": "Steel Balls Breaking: Wrecking Ball (2)"
+    },
+    {
+      "number": 53,
+      "title": "Steel Balls Breaking: Wrecking Ball (3)"
+    },
+    {
+      "number": 54,
+      "title": "Steel Balls Breaking: Wrecking Ball (4)"
+    },
+    {
+      "number": 55,
+      "title": "What It Takes to Be a Winner"
+    },
+    {
+      "number": 56,
+      "title": "Civil War (1)"
+    },
+    {
+      "number": 57,
+      "title": "Civil War (2)"
+    },
+    {
+      "number": 58,
+      "title": "Civil War (3)"
+    },
+    {
+      "number": 59,
+      "title": "A Dream of Gettysburg"
+    },
+    {
+      "number": 60,
+      "title": "Both Sides Now (1)"
+    },
+    {
+      "number": 61,
+      "title": "Both Sides Now (2)"
+    },
+    {
+      "number": 62,
+      "title": "Dirty Deeds Done Dirt Cheap"
+    },
+    {
+      "number": 63,
+      "title": "Seven Days in a Week"
+    },
+    {
+      "number": 64,
+      "title": "Chocolate Disco (1)"
+    },
+    {
+      "number": 65,
+      "title": "Chocolate Disco (2)"
+    },
+    {
+      "number": 66,
+      "title": "D4C (1)"
+    },
+    {
+      "number": 67,
+      "title": "D4C (2)"
+    },
+    {
+      "number": 68,
+      "title": "D4C (3)"
+    },
+    {
+      "number": 69,
+      "title": "D4C (4)"
+    },
+    {
+      "number": 70,
+      "title": "D4C (5)"
+    },
+    {
+      "number": 71,
+      "title": "Ticket to Ride (1)"
+    },
+    {
+      "number": 72,
+      "title": "Ticket to Ride (2)"
+    },
+    {
+      "number": 73,
+      "title": "D4C (6)"
+    },
+    {
+      "number": 74,
+      "title": "D4C (7)"
+    },
+    {
+      "number": 75,
+      "title": "D4C (8)"
+    },
+    {
+      "number": 76,
+      "title": "D4C (9)"
+    },
+    {
+      "number": 77,
+      "title": "D4C (10)"
+    },
+    {
+      "number": 78,
+      "title": "D4C Love Train (11)"
+    },
+    {
+      "number": 79,
+      "title": "D4C Love Train (12)"
+    },
+    {
+      "number": 80,
+      "title": "D4C Love Train (13)"
+    },
+    {
+      "number": 81,
+      "title": "D4C Love Train (14)"
+    },
+    {
+      "number": 82,
+      "title": "D4C Love Train (15)"
+    },
+    {
+      "number": 83,
+      "title": "Ball Breaker (1)"
+    },
+    {
+      "number": 84,
+      "title": "Ball Breaker (2)"
+    },
+    {
+      "number": 85,
+      "title": "Ball Breaker (3)"
+    },
+    {
+      "number": 86,
+      "title": "Ball Breaker (4)"
+    },
+    {
+      "number": 87,
+      "title": "Ball Breaker (5)"
+    },
+    {
+      "number": 88,
+      "title": "Break My Heart, Break Your Heart (1)"
+    },
+    {
+      "number": 89,
+      "title": "Break My Heart, Break Your Heart (2)"
+    },
+    {
+      "number": 90,
+      "title": "High Voltage (1)"
+    },
+    {
+      "number": 91,
+      "title": "High Voltage (2)"
+    },
+    {
+      "number": 92,
+      "title": "High Voltage (3)"
+    },
+    {
+      "number": 93,
+      "title": "High Voltage (4)"
+    },
+    {
+      "number": 94,
+      "title": "The World of Stars and Stripes"
+    },
+    {
+      "number": 95,
+      "title": "The World of Stars and Stripes - Outro"
+    }
+  ]
+}
