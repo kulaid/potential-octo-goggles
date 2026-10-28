@@ -27,6 +27,2470 @@
     {
       "number": 7,
       "title": "Kakashi's Decision"
+    },
+    {
+      "number": 8,
+      "title": "You Failed!"
+    },
+    {
+      "number": 9,
+      "title": "The Worst Client"
+    },
+    {
+      "number": 10,
+      "title": "Target #2"
+    },
+    {
+      "number": 11,
+      "title": "Going Ashore"
+    },
+    {
+      "number": 12,
+      "title": "Game Over!!!"
+    },
+    {
+      "number": 13,
+      "title": "Ninja!!"
+    },
+    {
+      "number": 14,
+      "title": "The Secret Plan...!!!"
+    },
+    {
+      "number": 15,
+      "title": "Return of the Sharingan"
+    },
+    {
+      "number": 16,
+      "title": "Who Are You?!"
+    },
+    {
+      "number": 17,
+      "title": "Preparations for Battle"
+    },
+    {
+      "number": 18,
+      "title": "Training Day"
+    },
+    {
+      "number": 19,
+      "title": "The Emblem of Courage"
+    },
+    {
+      "number": 20,
+      "title": "The Land That Had a Hero...!!"
+    },
+    {
+      "number": 21,
+      "title": "A Meeting in the Forest...!!"
+    },
+    {
+      "number": 22,
+      "title": "The Enemies Return"
+    },
+    {
+      "number": 23,
+      "title": "Ambush Times Two!"
+    },
+    {
+      "number": 24,
+      "title": "Speed!!"
+    },
+    {
+      "number": 25,
+      "title": "For Your Dreams...!!"
+    },
+    {
+      "number": 26,
+      "title": "Sharingan Devastation!!"
+    },
+    {
+      "number": 27,
+      "title": "Awakenings"
+    },
+    {
+      "number": 28,
+      "title": "Nine Tails...!!"
+    },
+    {
+      "number": 29,
+      "title": "Someone Precious to You"
+    },
+    {
+      "number": 30,
+      "title": "Your Future Is...!!"
+    },
+    {
+      "number": 31,
+      "title": "To Each His Own Struggle..."
+    },
+    {
+      "number": 32,
+      "title": "The Tools Called Shinobi"
+    },
+    {
+      "number": 33,
+      "title": "The Bridge of the Hero!!"
+    },
+    {
+      "number": 34,
+      "title": "Intruders?"
+    },
+    {
+      "number": 35,
+      "title": "Iruka vs. Kakashi"
+    },
+    {
+      "number": 36,
+      "title": "Sakura's Depression"
+    },
+    {
+      "number": 37,
+      "title": "A Total Mismatch!!!"
+    },
+    {
+      "number": 38,
+      "title": "On Your Mark"
+    },
+    {
+      "number": 39,
+      "title": "The Challengers!!"
+    },
+    {
+      "number": 40,
+      "title": "The First Test"
+    },
+    {
+      "number": 41,
+      "title": "The Whisper of Demons"
+    },
+    {
+      "number": 42,
+      "title": "To Each His Own"
+    },
+    {
+      "number": 43,
+      "title": "The Tenth Question"
+    },
+    {
+      "number": 44,
+      "title": "The Talents We Test For"
+    },
+    {
+      "number": 45,
+      "title": "The Second Exam"
+    },
+    {
+      "number": 46,
+      "title": "The Password Is..."
+    },
+    {
+      "number": 47,
+      "title": "Predator!!"
+    },
+    {
+      "number": 48,
+      "title": "The Target Is...!!"
+    },
+    {
+      "number": 49,
+      "title": "Coward...!!"
+    },
+    {
+      "number": 50,
+      "title": "I've Got To...!!"
+    },
+    {
+      "number": 51,
+      "title": "Beauty Is the Beast!!"
+    },
+    {
+      "number": 52,
+      "title": "The Principles of Use!!"
+    },
+    {
+      "number": 53,
+      "title": "Sakura's Decision!!"
+    },
+    {
+      "number": 54,
+      "title": "Sakura and Ino"
+    },
+    {
+      "number": 82,
+      "title": "Lee's Secret!!"
+    },
+    {
+      "number": 83,
+      "title": "The Ultimate Defense... Crumbles?!"
+    },
+    {
+      "number": 84,
+      "title": "The Genius of Hard Work...!!"
+    },
+    {
+      "number": 85,
+      "title": "Now, of All Times...!!"
+    },
+    {
+      "number": 86,
+      "title": "A Splendid Ninja...!!"
+    },
+    {
+      "number": 87,
+      "title": "The Preliminaries... Completed!!"
+    },
+    {
+      "number": 88,
+      "title": "What About Sasuke...?!"
+    },
+    {
+      "number": 89,
+      "title": "Naruto's Wish...!!"
+    },
+    {
+      "number": 90,
+      "title": "What About My Training?!"
+    },
+    {
+      "number": 91,
+      "title": "Make Me Your Disciple?!"
+    },
+    {
+      "number": 92,
+      "title": "Konoha. vs. Sound vs. Sand"
+    },
+    {
+      "number": 93,
+      "title": "Impassioned Efforts... Each and Every One!!"
+    },
+    {
+      "number": 94,
+      "title": "The Key...!!"
+    },
+    {
+      "number": 95,
+      "title": "A Chance Encounter...!!"
+    },
+    {
+      "number": 96,
+      "title": "The Unexpected Visitor!!"
+    },
+    {
+      "number": 97,
+      "title": "My Reason for Living...!!"
+    },
+    {
+      "number": 98,
+      "title": "The Proud Failure!!"
+    },
+    {
+      "number": 99,
+      "title": "The Finals Commence...!!"
+    },
+    {
+      "number": 100,
+      "title": "Prepared to Lose...!!"
+    },
+    {
+      "number": 101,
+      "title": "The Other...!!"
+    },
+    {
+      "number": 102,
+      "title": "The Caged Bird...!!"
+    },
+    {
+      "number": 103,
+      "title": "The Failure!!"
+    },
+    {
+      "number": 104,
+      "title": "The Power to Change...!!"
+    },
+    {
+      "number": 105,
+      "title": "The Great Flight!!"
+    },
+    {
+      "number": 106,
+      "title": "Sasuke Forfeits...?!"
+    },
+    {
+      "number": 107,
+      "title": "The Boy with No Fighting Spirit!!"
+    },
+    {
+      "number": 108,
+      "title": "A Plot Within a Plot...?!"
+    },
+    {
+      "number": 109,
+      "title": "Tree Leaves, Dancing...!!"
+    },
+    {
+      "number": 110,
+      "title": "At Long Last...!!"
+    },
+    {
+      "number": 111,
+      "title": "Sasuke vs. Gaara!!"
+    },
+    {
+      "number": 112,
+      "title": "Sasuke's Taijutsu...!!"
+    },
+    {
+      "number": 113,
+      "title": "The Reason He Was Late...!!"
+    },
+    {
+      "number": 114,
+      "title": "Violent Assault...!!"
+    },
+    {
+      "number": 115,
+      "title": "The Chûnin Exam, Concluded...!!"
+    },
+    {
+      "number": 116,
+      "title": "Operation Destroy Konoha...!!"
+    },
+    {
+      "number": 117,
+      "title": "The Imparted Mission...!!"
+    },
+    {
+      "number": 118,
+      "title": "Detainment...!!"
+    },
+    {
+      "number": 119,
+      "title": "The Life I Wanted...!!"
+    },
+    {
+      "number": 120,
+      "title": "Hokage vs. Hokage!!"
+    },
+    {
+      "number": 121,
+      "title": "The Terrible Experiment...!!"
+    },
+    {
+      "number": 122,
+      "title": "The Bestowed Will!!"
+    },
+    {
+      "number": 123,
+      "title": "The Final Seal"
+    },
+    {
+      "number": 124,
+      "title": "The Eternal Battle...!!"
+    },
+    {
+      "number": 125,
+      "title": "The Time of Awakening...!!"
+    },
+    {
+      "number": 126,
+      "title": "Off Guard...!!"
+    },
+    {
+      "number": 127,
+      "title": "To Feel Alive...!!"
+    },
+    {
+      "number": 128,
+      "title": "Exceeding One's Limits...!!"
+    },
+    {
+      "number": 129,
+      "title": "To Hurt...!!!"
+    },
+    {
+      "number": 130,
+      "title": "Love...!!"
+    },
+    {
+      "number": 131,
+      "title": "The Name Gaara...!!"
+    },
+    {
+      "number": 132,
+      "title": "The Two... Darkness and Light"
+    },
+    {
+      "number": 133,
+      "title": "Those Who Are Strong...!!"
+    },
+    {
+      "number": 134,
+      "title": "Naruto's Ninja Handbook!"
+    },
+    {
+      "number": 135,
+      "title": "The Gale-Like Battle...!!"
+    },
+    {
+      "number": 136,
+      "title": "The Last Blow...!!"
+    },
+    {
+      "number": 137,
+      "title": "The Shinobi of Konoha...!!"
+    },
+    {
+      "number": 138,
+      "title": "Operation Destroy Konoha, Terminated!!"
+    },
+    {
+      "number": 139,
+      "title": "Eulogy...!!"
+    },
+    {
+      "number": 140,
+      "title": "Contact...!!"
+    },
+    {
+      "number": 141,
+      "title": "Uchiha Itachi!!"
+    },
+    {
+      "number": 142,
+      "title": "Kakashi vs. Itachi"
+    },
+    {
+      "number": 143,
+      "title": "The Fourth Hokage's Legacy!!"
+    },
+    {
+      "number": 144,
+      "title": "The Pursuers"
+    },
+    {
+      "number": 145,
+      "title": "Memories of Despair"
+    },
+    {
+      "number": 146,
+      "title": "Along with Hatred...!!"
+    },
+    {
+      "number": 147,
+      "title": "It's My Fight!!"
+    },
+    {
+      "number": 148,
+      "title": "Itachi's Power!!"
+    },
+    {
+      "number": 149,
+      "title": "The Legendary...!!"
+    },
+    {
+      "number": 150,
+      "title": "Training Begins...?!"
+    },
+    {
+      "number": 151,
+      "title": "The Hook...!!"
+    },
+    {
+      "number": 152,
+      "title": "The Second State"
+    },
+    {
+      "number": 153,
+      "title": "The Searchers!!"
+    },
+    {
+      "number": 154,
+      "title": "Convergence...!!"
+    },
+    {
+      "number": 155,
+      "title": "The Third State"
+    },
+    {
+      "number": 156,
+      "title": "The Offer"
+    },
+    {
+      "number": 157,
+      "title": "Tsunade's Answer...?!"
+    },
+    {
+      "number": 158,
+      "title": "No Forgiveness...!!"
+    },
+    {
+      "number": 159,
+      "title": "The Wager...!!"
+    },
+    {
+      "number": 160,
+      "title": "The Necklace of Death...!!"
+    },
+    {
+      "number": 161,
+      "title": "Tsunade's Choice!!"
+    },
+    {
+      "number": 162,
+      "title": "A Vulnerable Heart...!!"
+    },
+    {
+      "number": 163,
+      "title": "Undecayed...!!"
+    },
+    {
+      "number": 164,
+      "title": "Medical Specialists!!"
+    },
+    {
+      "number": 165,
+      "title": "Naruto Attacks!!"
+    },
+    {
+      "number": 166,
+      "title": "Shinobi Skills...!!"
+    },
+    {
+      "number": 167,
+      "title": "As Promised...!!"
+    },
+    {
+      "number": 168,
+      "title": "Once More"
+    },
+    {
+      "number": 169,
+      "title": "Risking Everything...!!"
+    },
+    {
+      "number": 170,
+      "title": "Deadlock!!!"
+    },
+    {
+      "number": 171,
+      "title": "Successor"
+    },
+    {
+      "number": 172,
+      "title": "The Return"
+    },
+    {
+      "number": 173,
+      "title": "Anguish"
+    },
+    {
+      "number": 174,
+      "title": "Feelings...!"
+    },
+    {
+      "number": 175,
+      "title": "Naruto vs. Sasuke!!"
+    },
+    {
+      "number": 176,
+      "title": "Rivals"
+    },
+    {
+      "number": 177,
+      "title": "The Sound Ninja Four"
+    },
+    {
+      "number": 178,
+      "title": "Invitation...!!"
+    },
+    {
+      "number": 179,
+      "title": "Never Forget...!!"
+    },
+    {
+      "number": 180,
+      "title": "A Promise!!"
+    },
+    {
+      "number": 181,
+      "title": "The Battle Begins...!!"
+    },
+    {
+      "number": 182,
+      "title": "Assemble!!"
+    },
+    {
+      "number": 183,
+      "title": "The Promise"
+    },
+    {
+      "number": 184,
+      "title": "Sound vs. Leaf!!"
+    },
+    {
+      "number": 185,
+      "title": "Pursuit...!!"
+    },
+    {
+      "number": 186,
+      "title": "Failure...?!"
+    },
+    {
+      "number": 187,
+      "title": "The Plea...!!"
+    },
+    {
+      "number": 188,
+      "title": "The Shinobi of Konohagakure...!!"
+    },
+    {
+      "number": 189,
+      "title": "Faith...!!"
+    },
+    {
+      "number": 190,
+      "title": "Unforgivable!!"
+    },
+    {
+      "number": 191,
+      "title": "Comrades...!!"
+    },
+    {
+      "number": 192,
+      "title": "The Plan...!!"
+    },
+    {
+      "number": 193,
+      "title": "Game Over"
+    },
+    {
+      "number": 194,
+      "title": "Taking Stock"
+    },
+    {
+      "number": 195,
+      "title": "Capture...!!"
+    },
+    {
+      "number": 196,
+      "title": "The Strongest Enemy!!"
+    },
+    {
+      "number": 197,
+      "title": "Prepared to Die!!"
+    },
+    {
+      "number": 198,
+      "title": "Transference...!!"
+    },
+    {
+      "number": 199,
+      "title": "The Wish...!!"
+    },
+    {
+      "number": 200,
+      "title": "According to Plan...!!"
+    },
+    {
+      "number": 201,
+      "title": "Miscalculation...!!"
+    },
+    {
+      "number": 202,
+      "title": "Three Wishes!!"
+    },
+    {
+      "number": 203,
+      "title": "Sakon's Secret"
+    },
+    {
+      "number": 204,
+      "title": "Ukon's Prowess"
+    },
+    {
+      "number": 205,
+      "title": "Kiba's Decision!!"
+    },
+    {
+      "number": 206,
+      "title": "Predicament...!!"
+    },
+    {
+      "number": 207,
+      "title": "Deadlocked"
+    },
+    {
+      "number": 208,
+      "title": "Fake-Out!!"
+    },
+    {
+      "number": 209,
+      "title": "Help Arrives!!"
+    },
+    {
+      "number": 210,
+      "title": "Lee's Secret!!"
+    },
+    {
+      "number": 211,
+      "title": "Unorthodox...!!"
+    },
+    {
+      "number": 212,
+      "title": "Danger Danger Danger!!"
+    },
+    {
+      "number": 213,
+      "title": "Debt...!!"
+    },
+    {
+      "number": 214,
+      "title": "Retreat...!!"
+    },
+    {
+      "number": 215,
+      "title": "Gaara of the Sand"
+    },
+    {
+      "number": 216,
+      "title": "Halberd and Shield...!!"
+    },
+    {
+      "number": 217,
+      "title": "For the Most Precious"
+    },
+    {
+      "number": 218,
+      "title": "Konohagakure Comrades!!"
+    },
+    {
+      "number": 219,
+      "title": "Future and Past"
+    },
+    {
+      "number": 220,
+      "title": "Brothers"
+    },
+    {
+      "number": 221,
+      "title": "Out of Reach"
+    },
+    {
+      "number": 222,
+      "title": "Itachi Accused"
+    },
+    {
+      "number": 223,
+      "title": "Father and Son"
+    },
+    {
+      "number": 224,
+      "title": "That Day...!!"
+    },
+    {
+      "number": 225,
+      "title": "In Darkness...!!"
+    },
+    {
+      "number": 226,
+      "title": "For a Friend...!!"
+    },
+    {
+      "number": 227,
+      "title": "Chidori vs. Rasengan!!"
+    },
+    {
+      "number": 228,
+      "title": "Kakashi's Premonition"
+    },
+    {
+      "number": 229,
+      "title": "The Bond...!!"
+    },
+    {
+      "number": 230,
+      "title": "Awakening!!"
+    },
+    {
+      "number": 231,
+      "title": "The Final Valley"
+    },
+    {
+      "number": 232,
+      "title": "The Worst Ending...!!"
+    },
+    {
+      "number": 233,
+      "title": "Parting Ways...!!"
+    },
+    {
+      "number": 234,
+      "title": "Mission Failed...!!"
+    },
+    {
+      "number": 235,
+      "title": "Mission Failed…!!"
+    },
+    {
+      "number": 236,
+      "title": "A Broken Promise"
+    },
+    {
+      "number": 237,
+      "title": "Fool...!!"
+    },
+    {
+      "number": 238,
+      "title": "Departure!!"
+    },
+    {
+      "number": 239,
+      "title": "Chronicle 1: The Mission Begins...!!"
+    },
+    {
+      "number": 240,
+      "title": "Chronicle 2: Teamwork!!"
+    },
+    {
+      "number": 241,
+      "title": "Chronicle 3: A True Hero"
+    },
+    {
+      "number": 242,
+      "title": "Chronicle 4: The Crybaby Ninja"
+    },
+    {
+      "number": 243,
+      "title": "Chronicle 5: A Gift"
+    },
+    {
+      "number": 244,
+      "title": "Chronicle 6: Sharingan Hero"
+    },
+    {
+      "number": 245,
+      "title": "Homecoming!!"
+    },
+    {
+      "number": 246,
+      "title": "My, How They've Grown!!"
+    },
+    {
+      "number": 247,
+      "title": "Intruders in the Sand"
+    },
+    {
+      "number": 248,
+      "title": "The Sand Strike Back...!!"
+    },
+    {
+      "number": 249,
+      "title": "The Kazekage Stands Tall...!!"
+    },
+    {
+      "number": 250,
+      "title": "New Squad, First Mission!!"
+    },
+    {
+      "number": 251,
+      "title": "To the Sand...!!"
+    },
+    {
+      "number": 252,
+      "title": "Feelings Run Wild...!!"
+    },
+    {
+      "number": 253,
+      "title": "Reinforcements...!!"
+    },
+    {
+      "number": 254,
+      "title": "Siblings...!!"
+    },
+    {
+      "number": 255,
+      "title": "Approach...!!"
+    },
+    {
+      "number": 256,
+      "title": "Enemies!!"
+    },
+    {
+      "number": 257,
+      "title": "Kakashi Comes Through"
+    },
+    {
+      "number": 258,
+      "title": "Guy vs. Kisame!!"
+    },
+    {
+      "number": 259,
+      "title": "The Power of Itachi...!!"
+    },
+    {
+      "number": 260,
+      "title": "Kakashi vs. Itachi!!"
+    },
+    {
+      "number": 261,
+      "title": "Jinchûriki Host...!!"
+    },
+    {
+      "number": 262,
+      "title": "Naruto Charges On...!!"
+    },
+    {
+      "number": 263,
+      "title": "Rage...!!"
+    },
+    {
+      "number": 264,
+      "title": "Sasori's Masterpiece...!!"
+    },
+    {
+      "number": 265,
+      "title": "Granny Chiyo \u0026 Sakura"
+    },
+    {
+      "number": 266,
+      "title": "Sasori Revealed...!!"
+    },
+    {
+      "number": 267,
+      "title": "Fierce Determination...!!"
+    },
+    {
+      "number": 268,
+      "title": "Puppet Masters!!"
+    },
+    {
+      "number": 269,
+      "title": "What Can I Do...?!"
+    },
+    {
+      "number": 270,
+      "title": "Miscalculation...!!"
+    },
+    {
+      "number": 271,
+      "title": "Unknown Power...!!"
+    },
+    {
+      "number": 272,
+      "title": "Granny Chiyo vs. Sasori...!!"
+    },
+    {
+      "number": 273,
+      "title": "Final Battle...!!"
+    },
+    {
+      "number": 274,
+      "title": "Impossible Dream"
+    },
+    {
+      "number": 275,
+      "title": "Reward...!!"
+    },
+    {
+      "number": 276,
+      "title": "New Sharingan!!"
+    },
+    {
+      "number": 277,
+      "title": "The Ultimate Art...!!"
+    },
+    {
+      "number": 278,
+      "title": "The Death of Gaara"
+    },
+    {
+      "number": 279,
+      "title": "Power \u0026 Miracles...!!"
+    },
+    {
+      "number": 280,
+      "title": "Trust!!"
+    },
+    {
+      "number": 281,
+      "title": "The Search for Sasuke!!"
+    },
+    {
+      "number": 282,
+      "title": "Team Kakashi Returns"
+    },
+    {
+      "number": 283,
+      "title": "Team Members Wanted!!"
+    },
+    {
+      "number": 284,
+      "title": "The New Cell...!!"
+    },
+    {
+      "number": 285,
+      "title": "The Foundation"
+    },
+    {
+      "number": 286,
+      "title": "Naruto, Sasuke \u0026 Sakura"
+    },
+    {
+      "number": 287,
+      "title": "Untitled"
+    },
+    {
+      "number": 288,
+      "title": "Feelings...?"
+    },
+    {
+      "number": 289,
+      "title": "The Akatsuki Spy!!"
+    },
+    {
+      "number": 290,
+      "title": "Consequences!!"
+    },
+    {
+      "number": 291,
+      "title": "Rage Trigger!!"
+    },
+    {
+      "number": 292,
+      "title": "The Third Tail...!!"
+    },
+    {
+      "number": 293,
+      "title": "Rampage...!!"
+    },
+    {
+      "number": 294,
+      "title": "The Fourth Tail...!!"
+    },
+    {
+      "number": 295,
+      "title": "Toward Nine Tails...!!"
+    },
+    {
+      "number": 296,
+      "title": "The Sad Conclusion"
+    },
+    {
+      "number": 297,
+      "title": "Sai's Mission!!"
+    },
+    {
+      "number": 298,
+      "title": "The Secret Mission...!!"
+    },
+    {
+      "number": 299,
+      "title": "The Source of Strength...!!"
+    },
+    {
+      "number": 300,
+      "title": "Sai's Picture Book!!"
+    },
+    {
+      "number": 301,
+      "title": "Sai \u0026 Sasuke!!"
+    },
+    {
+      "number": 302,
+      "title": "Infiltration...!!"
+    },
+    {
+      "number": 303,
+      "title": "Sai's Betrayal!!"
+    },
+    {
+      "number": 304,
+      "title": "Behind the Betrayal!!"
+    },
+    {
+      "number": 305,
+      "title": "Our Bond"
+    },
+    {
+      "number": 306,
+      "title": "The Reunion...!!"
+    },
+    {
+      "number": 307,
+      "title": "On a Whim...!!"
+    },
+    {
+      "number": 308,
+      "title": "Sasuke's Strength!!"
+    },
+    {
+      "number": 309,
+      "title": "A Conversation with Nine Tails!!"
+    },
+    {
+      "number": 310,
+      "title": "The Title"
+    },
+    {
+      "number": 311,
+      "title": "Nicknames"
+    },
+    {
+      "number": 312,
+      "title": "The Impending Menace!!"
+    },
+    {
+      "number": 313,
+      "title": "The New Two!!"
+    },
+    {
+      "number": 314,
+      "title": "The Akatsuki Strikes...!!"
+    },
+    {
+      "number": 315,
+      "title": "Let the Training Begin!!"
+    },
+    {
+      "number": 316,
+      "title": "Nightmares!!"
+    },
+    {
+      "number": 317,
+      "title": "Smooth Training"
+    },
+    {
+      "number": 318,
+      "title": "Driving Force"
+    },
+    {
+      "number": 319,
+      "title": "Driving Forces"
+    },
+    {
+      "number": 320,
+      "title": "Bounties...!!"
+    },
+    {
+      "number": 321,
+      "title": "Honey-Tongued...!!"
+    },
+    {
+      "number": 322,
+      "title": "Unkillable"
+    },
+    {
+      "number": 323,
+      "title": "Judgment!!"
+    },
+    {
+      "number": 324,
+      "title": "Shikamaru's Analysis!!"
+    },
+    {
+      "number": 325,
+      "title": "There Won't Be a Later...!"
+    },
+    {
+      "number": 326,
+      "title": "The Pain You Desire...!!"
+    },
+    {
+      "number": 327,
+      "title": "Amidst Despair..."
+    },
+    {
+      "number": 328,
+      "title": "Cell Number 10"
+    },
+    {
+      "number": 329,
+      "title": "The Ultimate Goal...!!"
+    },
+    {
+      "number": 330,
+      "title": "The Heartbreaking Notice...!!"
+    },
+    {
+      "number": 331,
+      "title": "Cell Number 10 Sets Out...!!"
+    },
+    {
+      "number": 332,
+      "title": "Shikamaru's Battle!!"
+    },
+    {
+      "number": 333,
+      "title": "Affinities...!!"
+    },
+    {
+      "number": 334,
+      "title": "The Black Metamorphoses...!!"
+    },
+    {
+      "number": 335,
+      "title": "The Fearsome Secret!!"
+    },
+    {
+      "number": 336,
+      "title": "Turnabout Dilemma...!!"
+    },
+    {
+      "number": 337,
+      "title": "Shikamaru's Genius!!"
+    },
+    {
+      "number": 338,
+      "title": "Payback..."
+    },
+    {
+      "number": 339,
+      "title": "The New Jutsu...!!"
+    },
+    {
+      "number": 340,
+      "title": "The Perilous Bridge"
+    },
+    {
+      "number": 341,
+      "title": "Practice Makes Perfect...!!"
+    },
+    {
+      "number": 342,
+      "title": "The Black King...!!"
+    },
+    {
+      "number": 343,
+      "title": "Merciless..."
+    },
+    {
+      "number": 344,
+      "title": "The Snake..."
+    },
+    {
+      "number": 345,
+      "title": "The Ritual...!!"
+    },
+    {
+      "number": 346,
+      "title": "The Secret of the New Jutsu!!"
+    },
+    {
+      "number": 347,
+      "title": "A Detour!!"
+    },
+    {
+      "number": 348,
+      "title": "And One Makes Three!!"
+    },
+    {
+      "number": 349,
+      "title": "The Northern Hideout"
+    },
+    {
+      "number": 350,
+      "title": "News of the Clash...!!"
+    },
+    {
+      "number": 351,
+      "title": "The Man-to-Man Talk!!"
+    },
+    {
+      "number": 352,
+      "title": "His Plan...!!"
+    },
+    {
+      "number": 353,
+      "title": "The Akatsuki Assembles...!!"
+    },
+    {
+      "number": 354,
+      "title": "On the Move"
+    },
+    {
+      "number": 355,
+      "title": "Where to...?!"
+    },
+    {
+      "number": 356,
+      "title": "Collision...!!"
+    },
+    {
+      "number": 357,
+      "title": "Deidara vs. Sasuke!!"
+    },
+    {
+      "number": 358,
+      "title": "Chasing C2!!"
+    },
+    {
+      "number": 359,
+      "title": "Those Eyes...!!"
+    },
+    {
+      "number": 360,
+      "title": "The C4 Karura"
+    },
+    {
+      "number": 361,
+      "title": "Achilles' Heel...!!"
+    },
+    {
+      "number": 362,
+      "title": "The Ultimate Art!!"
+    },
+    {
+      "number": 363,
+      "title": "Sasuke's Death...!!"
+    },
+    {
+      "number": 364,
+      "title": "The Target...!!"
+    },
+    {
+      "number": 365,
+      "title": "Pursue Itachi!"
+    },
+    {
+      "number": 366,
+      "title": "Brothers"
+    },
+    {
+      "number": 367,
+      "title": "Itachi and Sasuke"
+    },
+    {
+      "number": 368,
+      "title": "Intel"
+    },
+    {
+      "number": 369,
+      "title": "Regarding Pain"
+    },
+    {
+      "number": 370,
+      "title": "Unease"
+    },
+    {
+      "number": 371,
+      "title": "Old Acquaintances!!"
+    },
+    {
+      "number": 372,
+      "title": "The Weeping Land!!"
+    },
+    {
+      "number": 373,
+      "title": "Back in the Day...!!"
+    },
+    {
+      "number": 374,
+      "title": "Advancement!!"
+    },
+    {
+      "number": 375,
+      "title": "Two Great Sages...!!"
+    },
+    {
+      "number": 376,
+      "title": "Child of Prophecy!!"
+    },
+    {
+      "number": 377,
+      "title": "Honored Sage Mode!!"
+    },
+    {
+      "number": 378,
+      "title": "One to One...!!"
+    },
+    {
+      "number": 379,
+      "title": "Jiraiya's Decision!!"
+    },
+    {
+      "number": 380,
+      "title": "Faces...!!"
+    },
+    {
+      "number": 381,
+      "title": "True Identities...!!"
+    },
+    {
+      "number": 382,
+      "title": "The True Choice!!"
+    },
+    {
+      "number": 383,
+      "title": "The Final Chapter, and...!!"
+    },
+    {
+      "number": 384,
+      "title": "Two Paths..."
+    },
+    {
+      "number": 385,
+      "title": "The Secret of the Mangekyo...!!"
+    },
+    {
+      "number": 386,
+      "title": "New Light...!!"
+    },
+    {
+      "number": 387,
+      "title": "Reality...!!"
+    },
+    {
+      "number": 388,
+      "title": "Variance of Strength...!!"
+    },
+    {
+      "number": 389,
+      "title": "Sasuke's Flow!!"
+    },
+    {
+      "number": 390,
+      "title": "The Final Jutsu...!!"
+    },
+    {
+      "number": 391,
+      "title": "Thunderclap...!!"
+    },
+    {
+      "number": 392,
+      "title": "Susano'o...!!"
+    },
+    {
+      "number": 393,
+      "title": "My Eyes...!!"
+    },
+    {
+      "number": 394,
+      "title": "Sasuke's Victory"
+    },
+    {
+      "number": 395,
+      "title": "The Mystery of Tobi"
+    },
+    {
+      "number": 396,
+      "title": "Self-Intro"
+    },
+    {
+      "number": 397,
+      "title": "The Man with the Truth"
+    },
+    {
+      "number": 398,
+      "title": "The Origin of Konoha"
+    },
+    {
+      "number": 399,
+      "title": "How It All Begins!!"
+    },
+    {
+      "number": 400,
+      "title": "Living a Nightmare"
+    },
+    {
+      "number": 401,
+      "title": "Illusions"
+    },
+    {
+      "number": 402,
+      "title": "Final Words"
+    },
+    {
+      "number": 403,
+      "title": "Tears"
+    },
+    {
+      "number": 404,
+      "title": "Taka \u0026 Akatsuki"
+    },
+    {
+      "number": 405,
+      "title": "Inheritance"
+    },
+    {
+      "number": 406,
+      "title": "The Key to the Future"
+    },
+    {
+      "number": 407,
+      "title": "Addressee: Naruto"
+    },
+    {
+      "number": 408,
+      "title": "Fukasaku's Proposition"
+    },
+    {
+      "number": 409,
+      "title": "Senjutsu Heir...!!"
+    },
+    {
+      "number": 410,
+      "title": "The Battle at Storm Cloud Ravine!!"
+    },
+    {
+      "number": 411,
+      "title": "Eight Tails vs. Sasuke!!"
+    },
+    {
+      "number": 412,
+      "title": "Quivers of Anticipation"
+    },
+    {
+      "number": 413,
+      "title": "Crumbling"
+    },
+    {
+      "number": 414,
+      "title": "Raging Bull"
+    },
+    {
+      "number": 415,
+      "title": "New Powers!!"
+    },
+    {
+      "number": 416,
+      "title": "Tales of a Gutsy Shinobi"
+    },
+    {
+      "number": 417,
+      "title": "Raikage on the Move!!"
+    },
+    {
+      "number": 418,
+      "title": "Sage Naruto!!"
+    },
+    {
+      "number": 419,
+      "title": "Raid!!"
+    },
+    {
+      "number": 420,
+      "title": "Battlefield, Konoha!!"
+    },
+    {
+      "number": 421,
+      "title": "Recall Naruto!!"
+    },
+    {
+      "number": 422,
+      "title": "Kakashi vs. Pain!!"
+    },
+    {
+      "number": 423,
+      "title": "Tendo's Ability!!"
+    },
+    {
+      "number": 424,
+      "title": "Determination!!"
+    },
+    {
+      "number": 425,
+      "title": "Hatake Kakashi"
+    },
+    {
+      "number": 426,
+      "title": "Naruto \u0026 Konoha!!"
+    },
+    {
+      "number": 427,
+      "title": "Reunion"
+    },
+    {
+      "number": 428,
+      "title": "Discourse"
+    },
+    {
+      "number": 429,
+      "title": "Know Pain"
+    },
+    {
+      "number": 430,
+      "title": "Naruto Returns!!"
+    },
+    {
+      "number": 431,
+      "title": "Naruto's Magnificent Explosion!!"
+    },
+    {
+      "number": 432,
+      "title": "Return of the Rasen-Shuriken!!"
+    },
+    {
+      "number": 433,
+      "title": "Sage Jutsu, a Mistake...?!"
+    },
+    {
+      "number": 434,
+      "title": "Naruto vs. Tendo!!"
+    },
+    {
+      "number": 435,
+      "title": "Banshoten'in! Universal Pull!!"
+    },
+    {
+      "number": 436,
+      "title": "Peace"
+    },
+    {
+      "number": 437,
+      "title": "Confessions"
+    },
+    {
+      "number": 438,
+      "title": "The Seal Destroyed!!"
+    },
+    {
+      "number": 439,
+      "title": "Catastrophic Planetary Construction"
+    },
+    {
+      "number": 440,
+      "title": "The Conversation with Lord Fourth!!"
+    },
+    {
+      "number": 441,
+      "title": "Rasen-Shuriken vs. Almighty Push!!"
+    },
+    {
+      "number": 442,
+      "title": "The Final Gamble!!"
+    },
+    {
+      "number": 443,
+      "title": "The Interview!!"
+    },
+    {
+      "number": 444,
+      "title": "The Response"
+    },
+    {
+      "number": 445,
+      "title": "Top of the World"
+    },
+    {
+      "number": 446,
+      "title": "I Just Want to Protect Them"
+    },
+    {
+      "number": 447,
+      "title": "I Believe"
+    },
+    {
+      "number": 448,
+      "title": "Heirloom...!!"
+    },
+    {
+      "number": 449,
+      "title": "The Blossom of Hope"
+    },
+    {
+      "number": 450,
+      "title": "The Cheering Village!!"
+    },
+    {
+      "number": 451,
+      "title": "Sasuke's Disposal!!"
+    },
+    {
+      "number": 452,
+      "title": "Pressured by Danzo!!"
+    },
+    {
+      "number": 453,
+      "title": "Gokage Summit's Eve"
+    },
+    {
+      "number": 454,
+      "title": "Enter the Gokage...!!"
+    },
+    {
+      "number": 455,
+      "title": "Links...!!"
+    },
+    {
+      "number": 456,
+      "title": "Naruto Heads Out...!!"
+    },
+    {
+      "number": 457,
+      "title": "The Gokage Summit Commences!!"
+    },
+    {
+      "number": 458,
+      "title": "The Great Gokage Debate...!!"
+    },
+    {
+      "number": 459,
+      "title": "Sakura's Resolve!!"
+    },
+    {
+      "number": 460,
+      "title": "Trapping Sasuke...!!"
+    },
+    {
+      "number": 461,
+      "title": "Kumogakure vs. Taka!!"
+    },
+    {
+      "number": 462,
+      "title": "Sasuke's Shinobi Way...!!"
+    },
+    {
+      "number": 463,
+      "title": "Sasuke vs. Raikage!!"
+    },
+    {
+      "number": 464,
+      "title": "The Power of Darkness...!!"
+    },
+    {
+      "number": 465,
+      "title": "The Summit Hall Attacked!"
+    },
+    {
+      "number": 466,
+      "title": "The Great Battle in the Sealed Room!!"
+    },
+    {
+      "number": 467,
+      "title": "Declaration of War"
+    },
+    {
+      "number": 468,
+      "title": "Eight Tails and Nine Tails"
+    },
+    {
+      "number": 469,
+      "title": "The Confession!!"
+    },
+    {
+      "number": 470,
+      "title": "Killer Bee vs. Kisame!!"
+    },
+    {
+      "number": 471,
+      "title": "Eight Tails Version 2!!"
+    },
+    {
+      "number": 472,
+      "title": "Water Prison Death Match!!"
+    },
+    {
+      "number": 473,
+      "title": "Bro"
+    },
+    {
+      "number": 474,
+      "title": "A Hokage's Decision...!!"
+    },
+    {
+      "number": 475,
+      "title": "Madara's True Worth!!"
+    },
+    {
+      "number": 476,
+      "title": "Sasuke vs. Danzo...!!"
+    },
+    {
+      "number": 477,
+      "title": "Do Not Speak of Itachi"
+    },
+    {
+      "number": 478,
+      "title": "Sasuke's Susano'o!!"
+    },
+    {
+      "number": 479,
+      "title": "The Izanagi"
+    },
+    {
+      "number": 480,
+      "title": "Sacrifice"
+    },
+    {
+      "number": 481,
+      "title": "The Death of Danzo!!"
+    },
+    {
+      "number": 482,
+      "title": "Just One More Time..."
+    },
+    {
+      "number": 483,
+      "title": "Master and Student Reunited!!"
+    },
+    {
+      "number": 484,
+      "title": "Cell Seven Reunion!!"
+    },
+    {
+      "number": 485,
+      "title": "Near Yet Far"
+    },
+    {
+      "number": 486,
+      "title": "Fists"
+    },
+    {
+      "number": 487,
+      "title": "The Battle Begins...!!"
+    },
+    {
+      "number": 488,
+      "title": "Every Shinobi Village"
+    },
+    {
+      "number": 489,
+      "title": "Facing A Great Ninja War...!!"
+    },
+    {
+      "number": 490,
+      "title": "The Truth About Nine-Tails!!"
+    },
+    {
+      "number": 491,
+      "title": "The Jinchūriki, Detained!!"
+    },
+    {
+      "number": 492,
+      "title": "Salutations"
+    },
+    {
+      "number": 493,
+      "title": "Dark Naruto!!"
+    },
+    {
+      "number": 494,
+      "title": "Killer Bee and Motoi"
+    },
+    {
+      "number": 495,
+      "title": "Dark Naruto, Defeated!!"
+    },
+    {
+      "number": 496,
+      "title": "Reunion with Nine Tails!!"
+    },
+    {
+      "number": 497,
+      "title": "Nine Tails vs. Naruto!!"
+    },
+    {
+      "number": 498,
+      "title": "My Ma's Red Hair"
+    },
+    {
+      "number": 499,
+      "title": "A New Seal!!"
+    },
+    {
+      "number": 500,
+      "title": "The Birth of Naruto"
+    },
+    {
+      "number": 501,
+      "title": "Nine-Tails Attacks!!"
+    },
+    {
+      "number": 502,
+      "title": "The Fourth Lord's Death Match!!"
+    },
+    {
+      "number": 503,
+      "title": "Minato's Reaper Death Seal!!"
+    },
+    {
+      "number": 504,
+      "title": "Thank You"
+    },
+    {
+      "number": 505,
+      "title": "Nine-Tails Chakra, Opened!!"
+    },
+    {
+      "number": 506,
+      "title": "Guy vs. Kisame!!"
+    },
+    {
+      "number": 507,
+      "title": "A False Existence...!!"
+    },
+    {
+      "number": 508,
+      "title": "Shinobi Death Style"
+    },
+    {
+      "number": 509,
+      "title": "Viaduct to Peace"
+    },
+    {
+      "number": 510,
+      "title": "Forbidden Jutsu Shock!!"
+    },
+    {
+      "number": 511,
+      "title": "We Shall Return"
+    },
+    {
+      "number": 512,
+      "title": "The Truth About Zetsu!!"
+    },
+    {
+      "number": 513,
+      "title": "Kabuto vs. Tsuchikage!!"
+    },
+    {
+      "number": 514,
+      "title": "Kabuto's Plan!!"
+    },
+    {
+      "number": 515,
+      "title": "The Great War Begins!"
+    },
+    {
+      "number": 516,
+      "title": "Gaara's Speech"
+    },
+    {
+      "number": 517,
+      "title": "Omoi's War!!"
+    },
+    {
+      "number": 518,
+      "title": "Battle of the Commando Units!!"
+    },
+    {
+      "number": 519,
+      "title": "The Biju Bomb"
+    },
+    {
+      "number": 520,
+      "title": "Secrets of the Edotensei"
+    },
+    {
+      "number": 521,
+      "title": "The Main Regiment in Battle!!"
+    },
+    {
+      "number": 522,
+      "title": "We Died."
+    },
+    {
+      "number": 523,
+      "title": "The Legendary Seven Swordsmen of the Mist!!"
+    },
+    {
+      "number": 524,
+      "title": "That Which Ought to be Protected"
+    },
+    {
+      "number": 525,
+      "title": "The Kage Resurrected!!"
+    },
+    {
+      "number": 526,
+      "title": "D Unit's Battle Challenge!!"
+    },
+    {
+      "number": 527,
+      "title": "Forbidden Words"
+    },
+    {
+      "number": 528,
+      "title": "Transcendent Drab"
+    },
+    {
+      "number": 529,
+      "title": "Golden Bonds"
+    },
+    {
+      "number": 530,
+      "title": "Choji's Decision"
+    },
+    {
+      "number": 531,
+      "title": "Team Asuma Reunited!"
+    },
+    {
+      "number": 532,
+      "title": "Mifune vs. Hanzo, Decided!!"
+    },
+    {
+      "number": 533,
+      "title": "A Time of Oaths"
+    },
+    {
+      "number": 534,
+      "title": "Farewell, Ino-Shika-Cho!!"
+    },
+    {
+      "number": 535,
+      "title": "Iruka's Impact"
+    },
+    {
+      "number": 536,
+      "title": "Battle...!!"
+    },
+    {
+      "number": 537,
+      "title": "Toward Nightfall...!!"
+    },
+    {
+      "number": 538,
+      "title": "Cross-Examination"
+    },
+    {
+      "number": 539,
+      "title": "Blood Night...!!"
+    },
+    {
+      "number": 540,
+      "title": "Madara's Scheme!!"
+    },
+    {
+      "number": 541,
+      "title": "Raikage vs. Naruto!?"
+    },
+    {
+      "number": 542,
+      "title": "The Secret Origin of the Ultimate Tag Team!!"
+    },
+    {
+      "number": 543,
+      "title": "Truer Words"
+    },
+    {
+      "number": 544,
+      "title": "Two Suns!!"
+    },
+    {
+      "number": 545,
+      "title": "The Immortal Corps"
+    },
+    {
+      "number": 546,
+      "title": "Kage Showdown!!"
+    },
+    {
+      "number": 547,
+      "title": "Valued Trasures!!"
+    },
+    {
+      "number": 548,
+      "title": "Naruto vs. Itachi!!"
+    },
+    {
+      "number": 549,
+      "title": "Itachi's Question!!"
+    },
+    {
+      "number": 550,
+      "title": "Koto'Amatsukami"
+    },
+    {
+      "number": 551,
+      "title": "Stop Nagato!!"
+    },
+    {
+      "number": 552,
+      "title": "To Be a Hokage...!!"
+    },
+    {
+      "number": 553,
+      "title": "The Battlefield!!"
+    },
+    {
+      "number": 554,
+      "title": "The Rasen-Shuriken Limit...!!"
+    },
+    {
+      "number": 555,
+      "title": "Paradox"
+    },
+    {
+      "number": 556,
+      "title": "Gaara vs. Mizukage!!"
+    },
+    {
+      "number": 557,
+      "title": "Steam Imp!!"
+    },
+    {
+      "number": 558,
+      "title": "Kabuto's Trump Card...!!"
+    },
+    {
+      "number": 559,
+      "title": "Reinforcements...!!"
+    },
+    {
+      "number": 560,
+      "title": "Uchiha Madara"
+    },
+    {
+      "number": 561,
+      "title": "Power of a Name"
+    },
+    {
+      "number": 562,
+      "title": "Reclamation"
+    },
+    {
+      "number": 563,
+      "title": "The Five Kage...!!"
+    },
+    {
+      "number": 564,
+      "title": "Nobody"
+    },
+    {
+      "number": 565,
+      "title": "Jinchūriki vs. Jinchūriki!!"
+    },
+    {
+      "number": 566,
+      "title": "Eyes and Beasts"
+    },
+    {
+      "number": 567,
+      "title": "Jinchūriki of Konoha"
+    },
+    {
+      "number": 568,
+      "title": "Four-Tails, the King of Sage Monkeys"
+    },
+    {
+      "number": 569,
+      "title": "Proof of Will!"
+    },
+    {
+      "number": 570,
+      "title": "Kurama!!"
+    },
+    {
+      "number": 571,
+      "title": "Biju Mode!!"
+    },
+    {
+      "number": 572,
+      "title": "Nine Names"
+    },
+    {
+      "number": 573,
+      "title": "The Path to Light"
+    },
+    {
+      "number": 574,
+      "title": "Eyes That See In The Dark"
+    },
+    {
+      "number": 575,
+      "title": "A Will of Stone"
+    },
+    {
+      "number": 576,
+      "title": "Signposts"
+    },
+    {
+      "number": 577,
+      "title": "Hate Blade"
+    },
+    {
+      "number": 578,
+      "title": "The Weak Point of Despair"
+    },
+    {
+      "number": 579,
+      "title": "Uchiha Brothers United Front"
+    },
+    {
+      "number": 580,
+      "title": "Brother Time"
+    },
+    {
+      "number": 581,
+      "title": "To Each Their Own Konoha"
+    },
+    {
+      "number": 582,
+      "title": "Nothing"
+    },
+    {
+      "number": 583,
+      "title": "Who Are You?"
+    },
+    {
+      "number": 584,
+      "title": "Yakushi Kabuto"
+    },
+    {
+      "number": 585,
+      "title": "I am Me"
+    },
+    {
+      "number": 586,
+      "title": "The Izanami Activated"
+    },
+    {
+      "number": 587,
+      "title": "Nine O'clock"
+    },
+    {
+      "number": 588,
+      "title": "Burden of a Kage"
+    },
+    {
+      "number": 589,
+      "title": "Edotensei Jutsu, Release!"
+    },
+    {
+      "number": 590,
+      "title": "I Will Love You Always"
+    },
+    {
+      "number": 591,
+      "title": "Risk"
+    },
+    {
+      "number": 592,
+      "title": "A Third Force"
+    },
+    {
+      "number": 593,
+      "title": "Orochimaru's Return"
+    },
+    {
+      "number": 594,
+      "title": "The Progenitor"
+    },
+    {
+      "number": 595,
+      "title": "The Crack"
+    },
+    {
+      "number": 596,
+      "title": "One Single Jutsu"
+    },
+    {
+      "number": 597,
+      "title": "The Secret of Teleportation Ninjutsu"
+    },
+    {
+      "number": 598,
+      "title": "Demolition!!"
+    },
+    {
+      "number": 599,
+      "title": "Uchiha Obito"
+    },
+    {
+      "number": 600,
+      "title": "Why Not Sooner?"
+    },
+    {
+      "number": 601,
+      "title": "Obito and Madara"
+    },
+    {
+      "number": 602,
+      "title": "Alive"
+    },
+    {
+      "number": 603,
+      "title": "Rehab"
+    },
+    {
+      "number": 604,
+      "title": "Reunion, and then..."
+    },
+    {
+      "number": 605,
+      "title": "Hell"
+    },
+    {
+      "number": 606,
+      "title": "World of Dreams"
+    },
+    {
+      "number": 607,
+      "title": "It Doesn't Matter to Me"
+    },
+    {
+      "number": 608,
+      "title": "Kakashi's Resolve"
+    },
+    {
+      "number": 609,
+      "title": "The End"
+    },
+    {
+      "number": 610,
+      "title": "Ten Tails"
+    },
+    {
+      "number": 611,
+      "title": "The Arrival"
+    },
+    {
+      "number": 612,
+      "title": "The Allied Shinobi Forces Jutsu!!"
+    },
+    {
+      "number": 613,
+      "title": "The Brains"
+    },
+    {
+      "number": 614,
+      "title": "Because of You"
+    },
+    {
+      "number": 615,
+      "title": "The Ties That Bind"
+    },
+    {
+      "number": 616,
+      "title": "Those Who Dance in the Shadows"
+    },
+    {
+      "number": 617,
+      "title": "Those Who Dance in the Shadows, Part 2"
+    },
+    {
+      "number": 618,
+      "title": "The All-Knowing"
+    },
+    {
+      "number": 619,
+      "title": "A Clan Possessed by Evil"
+    },
+    {
+      "number": 620,
+      "title": "Senju Hashirama"
+    },
+    {
+      "number": 621,
+      "title": "Hashirama and Madara"
+    },
+    {
+      "number": 622,
+      "title": "It Reached"
+    },
+    {
+      "number": 623,
+      "title": "View"
+    },
+    {
+      "number": 624,
+      "title": "Even"
+    },
+    {
+      "number": 625,
+      "title": "My True Dream"
+    },
+    {
+      "number": 626,
+      "title": "Hashirama and Madara, Part 2"
+    },
+    {
+      "number": 627,
+      "title": "Sasuke's Answer"
+    },
+    {
+      "number": 628,
+      "title": "Here and Now, and Hereafter"
+    },
+    {
+      "number": 629,
+      "title": "Hole"
+    },
+    {
+      "number": 630,
+      "title": "Something to Fill the Hole"
+    },
+    {
+      "number": 631,
+      "title": "Cell Number 7"
+    },
+    {
+      "number": 632,
+      "title": "A United Front"
+    },
+    {
+      "number": 633,
+      "title": "Onward"
+    },
+    {
+      "number": 634,
+      "title": "The New Three"
+    },
+    {
+      "number": 635,
+      "title": "A New Wind"
+    },
+    {
+      "number": 636,
+      "title": "The Current Obito"
+    },
+    {
+      "number": 637,
+      "title": "The Ten Tails' Jinchuriki"
+    },
+    {
+      "number": 638,
+      "title": "The Ten Tails' Jinchuriki, Obito"
+    },
+    {
+      "number": 639,
+      "title": "Assault"
+    },
+    {
+      "number": 640,
+      "title": "Finally"
+    },
+    {
+      "number": 641,
+      "title": "You Two Are the Main Act!!"
+    },
+    {
+      "number": 642,
+      "title": "An Opening"
+    },
+    {
+      "number": 643,
+      "title": "Fist Bump"
+    },
+    {
+      "number": 644,
+      "title": "I Know"
+    },
+    {
+      "number": 645,
+      "title": "Two Powers"
+    },
+    {
+      "number": 646,
+      "title": "Divine Tree"
+    },
+    {
+      "number": 647,
+      "title": "Regret"
+    },
+    {
+      "number": 648,
+      "title": "A Shinobi's Dream!!"
+    },
+    {
+      "number": 649,
+      "title": "A Shinobi's Will"
+    },
+    {
+      "number": 650,
+      "title": "Those Who Shall Sleep"
     }
   ]
 }
