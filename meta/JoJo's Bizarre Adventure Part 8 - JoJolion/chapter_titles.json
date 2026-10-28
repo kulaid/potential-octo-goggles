@@ -1,0 +1,444 @@
+{
+  "titles": [
+    {
+      "number": 1,
+      "title": "Welcome to Morioh Town"
+    },
+    {
+      "number": 2,
+      "title": "Soft \u0026 Wet (1)"
+    },
+    {
+      "number": 3,
+      "title": "Soft \u0026 Wet (2)"
+    },
+    {
+      "number": 4,
+      "title": "Soft \u0026 Wet (3)"
+    },
+    {
+      "number": 5,
+      "title": "Soft \u0026 Wet (4)"
+    },
+    {
+      "number": 6,
+      "title": "Soft \u0026 Wet (5)"
+    },
+    {
+      "number": 7,
+      "title": "Josuke, Go to the Higashikata Family"
+    },
+    {
+      "number": 8,
+      "title": "California King Bed (1)"
+    },
+    {
+      "number": 9,
+      "title": "California King Bed (2)"
+    },
+    {
+      "number": 10,
+      "title": "California King Bed (3)"
+    },
+    {
+      "number": 11,
+      "title": "The Family Tree"
+    },
+    {
+      "number": 12,
+      "title": "Paisley Park' and 'Born This Way' (1)"
+    },
+    {
+      "number": 13,
+      "title": "Paisley Park' and 'Born This Way' (2)"
+    },
+    {
+      "number": 14,
+      "title": "Paisley Park' \u0026 'Born This Way' (3)"
+    },
+    {
+      "number": 15,
+      "title": "Paisley Park' \u0026 'Born This Way' (4)"
+    },
+    {
+      "number": 16,
+      "title": "Paisley Park' \u0026 'Born This Way' (5)"
+    },
+    {
+      "number": 17,
+      "title": "The Lemon and the Tangerine"
+    },
+    {
+      "number": 18,
+      "title": "Trouble with the Curve"
+    },
+    {
+      "number": 19,
+      "title": "Shakedown Road' (2)"
+    },
+    {
+      "number": 20,
+      "title": "Shakedown Road' (3)"
+    },
+    {
+      "number": 21,
+      "title": "Shakedown Road' (4)"
+    },
+    {
+      "number": 22,
+      "title": "Morioh Town: 1901"
+    },
+    {
+      "number": 23,
+      "title": "Paper Moon Deception (1)"
+    },
+    {
+      "number": 24,
+      "title": "Paper Moon Deception (2)"
+    },
+    {
+      "number": 25,
+      "title": "Paper Moon Deception (3)"
+    },
+    {
+      "number": 26,
+      "title": "Tsurugi Higashikata's Goal, and the Architect"
+    },
+    {
+      "number": 27,
+      "title": "Norisuke Higashikata, Tsurugi Higashikata, and Yotsuyu Yagiyama (1)"
+    },
+    {
+      "number": 28,
+      "title": "Norisuke Higashikata, Tsurugi Higashikata, and Yotsuyu Yagiyama (2)"
+    },
+    {
+      "number": 29,
+      "title": "Norisuke Higashikata, Tsurugi Higashikata, and Yotsuyu Yagiyama (3)"
+    },
+    {
+      "number": 30,
+      "title": "King Nothing"
+    },
+    {
+      "number": 31,
+      "title": "I Am a Rock' (1)"
+    },
+    {
+      "number": 32,
+      "title": "I Am a Rock' (2)"
+    },
+    {
+      "number": 33,
+      "title": "Josuke! Go to the Higashikata Fruit Parlor"
+    },
+    {
+      "number": 34,
+      "title": "Every Day Is a Summer Vacation (1)"
+    },
+    {
+      "number": 35,
+      "title": "Every Day Is a Summer Vacation (2)"
+    },
+    {
+      "number": 36,
+      "title": "Every Day Is a Summer Vacation (3)"
+    },
+    {
+      "number": 37,
+      "title": "Every Day Is a Summer Vacation (4)"
+    },
+    {
+      "number": 38,
+      "title": "Jobin Higashikata Is a Stand User"
+    },
+    {
+      "number": 39,
+      "title": "Doobie Wah (1)"
+    },
+    {
+      "number": 40,
+      "title": "Doobie Wah (2)"
+    },
+    {
+      "number": 41,
+      "title": "Doobie Wah (3)"
+    },
+    {
+      "number": 42,
+      "title": "Doobie Wah (4)"
+    },
+    {
+      "number": 43,
+      "title": "Love Love Deluxe (1)"
+    },
+    {
+      "number": 44,
+      "title": "Love Love Deluxe (2)"
+    },
+    {
+      "number": 45,
+      "title": "Love Love Deluxe (3)"
+    },
+    {
+      "number": 46,
+      "title": "Love Love Deluxe (4)"
+    },
+    {
+      "number": 47,
+      "title": "Hato Brought Her Boyfriend Home (1)"
+    },
+    {
+      "number": 48,
+      "title": "Hato Brought Her Boyfriend Home (2)"
+    },
+    {
+      "number": 49,
+      "title": "Hato Brought Her Boyfriend Home (3)"
+    },
+    {
+      "number": 50,
+      "title": "Vitamin C and Killer Queen (1)"
+    },
+    {
+      "number": 51,
+      "title": "Vitamin C and Killer Queen (2)"
+    },
+    {
+      "number": 52,
+      "title": "Vitamin C and Killer Queen (3)"
+    },
+    {
+      "number": 53,
+      "title": "Vitamin C and Killer Queen (4)"
+    },
+    {
+      "number": 54,
+      "title": "Walking Heart"
+    },
+    {
+      "number": 55,
+      "title": "Walking Heart, Breaking Heart"
+    },
+    {
+      "number": 56,
+      "title": "Milagro Man (1)"
+    },
+    {
+      "number": 57,
+      "title": "Milagro Man (2)"
+    },
+    {
+      "number": 58,
+      "title": "Dawn of the Higashikata Household"
+    },
+    {
+      "number": 59,
+      "title": "Dolomite's Blue Lagoon (1)"
+    },
+    {
+      "number": 60,
+      "title": "Dolomite's Blue Lagoon (2)"
+    },
+    {
+      "number": 61,
+      "title": "Dolomite's Blue Lagoon (3)"
+    },
+    {
+      "number": 62,
+      "title": "Dolomite's Blue Lagoon (4)"
+    },
+    {
+      "number": 63,
+      "title": "Dolomite's Blue Lagoon (5)"
+    },
+    {
+      "number": 64,
+      "title": "Mother and Child"
+    },
+    {
+      "number": 65,
+      "title": "The Plant Appraiser – Rai Mamezuku (Age 31) (1)"
+    },
+    {
+      "number": 66,
+      "title": "The Plant Appraiser – Rai Mamezuku (Age 31) (2)"
+    },
+    {
+      "number": 67,
+      "title": "The Plant Appraiser – Rai Mamezuku (Age 31) (3)"
+    },
+    {
+      "number": 68,
+      "title": "Urban Guerrilla and Doremifasolati Do (1)"
+    },
+    {
+      "number": 69,
+      "title": "Urban Guerrilla and Doremifasolati Do (2)"
+    },
+    {
+      "number": 70,
+      "title": "Urban Guerrilla and Doremifasolati Do (3)"
+    },
+    {
+      "number": 71,
+      "title": "The Qing Dynasty Hair Clip"
+    },
+    {
+      "number": 72,
+      "title": "North of the Higashikata Household. The Orchard"
+    },
+    {
+      "number": 73,
+      "title": "Ozon Baby's Pressure (1)"
+    },
+    {
+      "number": 74,
+      "title": "Ozon Baby's Pressure (2)"
+    },
+    {
+      "number": 75,
+      "title": "Ozon Baby's Pressure (3)"
+    },
+    {
+      "number": 76,
+      "title": "Ozon Baby's Pressure (4)"
+    },
+    {
+      "number": 77,
+      "title": "Go to TG University Hospital"
+    },
+    {
+      "number": 78,
+      "title": "Orthopedic Surgeon – Dr. Wu Tomoki"
+    },
+    {
+      "number": 79,
+      "title": "Doctor Wu and Awaking 3 Leaves (1)"
+    },
+    {
+      "number": 80,
+      "title": "Doctor Wu and Awaking 3 Leaves (2)"
+    },
+    {
+      "number": 81,
+      "title": "Doctor Wu and Awaking 3 Leaves (3)"
+    },
+    {
+      "number": 82,
+      "title": "Doctor Wu and Awaking 3 Leaves (4)"
+    },
+    {
+      "number": 83,
+      "title": "The New Locacaca"
+    },
+    {
+      "number": 84,
+      "title": "The Wonder of You (1)"
+    },
+    {
+      "number": 85,
+      "title": "The Wonder of You (2)"
+    },
+    {
+      "number": 86,
+      "title": "The Wonder of You (3)"
+    },
+    {
+      "number": 87,
+      "title": "The Wonder of You (4)"
+    },
+    {
+      "number": 88,
+      "title": "The Wonder of You (5)"
+    },
+    {
+      "number": 89,
+      "title": "The Wonder of You (6)"
+    },
+    {
+      "number": 90,
+      "title": "The Wonder of You (7)"
+    },
+    {
+      "number": 91,
+      "title": "The Wonder of You (8)"
+    },
+    {
+      "number": 92,
+      "title": "The Wonder of You (9)"
+    },
+    {
+      "number": 93,
+      "title": "The Wonder of You (10)"
+    },
+    {
+      "number": 94,
+      "title": "The Wonder of You (11)"
+    },
+    {
+      "number": 95,
+      "title": "The Wonder of You (12)"
+    },
+    {
+      "number": 96,
+      "title": "Just Don't Move"
+    },
+    {
+      "number": 97,
+      "title": "The Wonder of You (14)"
+    },
+    {
+      "number": 98,
+      "title": "The Wonder of You (15)"
+    },
+    {
+      "number": 99,
+      "title": "The Wonder of You (16)"
+    },
+    {
+      "number": 100,
+      "title": "The Wonder of You (17)"
+    },
+    {
+      "number": 101,
+      "title": "The Wonder of You (18)"
+    },
+    {
+      "number": 102,
+      "title": "The Wonder of You (19)"
+    },
+    {
+      "number": 103,
+      "title": "The Wonder of You (20)"
+    },
+    {
+      "number": 104,
+      "title": "The Wonder of You (21)"
+    },
+    {
+      "number": 105,
+      "title": "Safety First"
+    },
+    {
+      "number": 106,
+      "title": "Go Beyond"
+    },
+    {
+      "number": 107,
+      "title": "When All Curses Are Broken"
+    },
+    {
+      "number": 108,
+      "title": "Go Beyond (2)"
+    },
+    {
+      "number": 109,
+      "title": "The Radio Gaga Incident: 1941"
+    },
+    {
+      "number": 110,
+      "title": "Higashikata Fruit Parlor"
+    }
+  ]
+}
