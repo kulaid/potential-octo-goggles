@@ -1,0 +1,496 @@
+{
+  "titles": [
+    {
+      "number": 1,
+      "title": "Mission"
+    },
+    {
+      "number": 2,
+      "title": "Heaps"
+    },
+    {
+      "number": 3,
+      "title": "Witness"
+    },
+    {
+      "number": 4,
+      "title": "Sorcery and the Enchanted Blade"
+    },
+    {
+      "number": 5,
+      "title": "A Good Meal"
+    },
+    {
+      "number": 6,
+      "title": "Peace"
+    },
+    {
+      "number": 7,
+      "title": "Smoke Signal"
+    },
+    {
+      "number": 8,
+      "title": "Norisaku Madoka: I Will Change"
+    },
+    {
+      "number": 8.5,
+      "title": "Chapter 8.5"
+    },
+    {
+      "number": 9,
+      "title": "Enten vs. Cloud Gouger"
+    },
+    {
+      "number": 10,
+      "title": "Swift"
+    },
+    {
+      "number": 11,
+      "title": "Awaken"
+    },
+    {
+      "number": 12,
+      "title": "Preparations"
+    },
+    {
+      "number": 13,
+      "title": "Elite"
+    },
+    {
+      "number": 14,
+      "title": "True Realm"
+    },
+    {
+      "number": 15,
+      "title": "Food"
+    },
+    {
+      "number": 16,
+      "title": "Silence"
+    },
+    {
+      "number": 17,
+      "title": "Tea"
+    },
+    {
+      "number": 18,
+      "title": "Roar"
+    },
+    {
+      "number": 19,
+      "title": "Knight of Darkness"
+    },
+    {
+      "number": 20,
+      "title": "The Kamunabi's Weapon"
+    },
+    {
+      "number": 21,
+      "title": "Lukewarm"
+    },
+    {
+      "number": 22,
+      "title": "Deadlock"
+    },
+    {
+      "number": 23,
+      "title": "Storehouse"
+    },
+    {
+      "number": 24,
+      "title": "Hunters"
+    },
+    {
+      "number": 25,
+      "title": "Deal"
+    },
+    {
+      "number": 26,
+      "title": "Confidence"
+    },
+    {
+      "number": 27,
+      "title": "Mr. Inazuma"
+    },
+    {
+      "number": 28,
+      "title": "Breach"
+    },
+    {
+      "number": 29,
+      "title": "Selection"
+    },
+    {
+      "number": 30,
+      "title": "Intruders"
+    },
+    {
+      "number": 31,
+      "title": "Greeting"
+    },
+    {
+      "number": 32,
+      "title": "Wall"
+    },
+    {
+      "number": 33,
+      "title": "Defend to the Death"
+    },
+    {
+      "number": 34,
+      "title": "Duty"
+    },
+    {
+      "number": 35,
+      "title": "Cage"
+    },
+    {
+      "number": 36,
+      "title": "Geniuses"
+    },
+    {
+      "number": 37,
+      "title": "Equal"
+    },
+    {
+      "number": 38,
+      "title": "Race"
+    },
+    {
+      "number": 39,
+      "title": "Surpass!"
+    },
+    {
+      "number": 40,
+      "title": "The Tip"
+    },
+    {
+      "number": 41,
+      "title": "Fervent"
+    },
+    {
+      "number": 42,
+      "title": "Everything"
+    },
+    {
+      "number": 43,
+      "title": "Fulfill"
+    },
+    {
+      "number": 44,
+      "title": "The Curtain Falls"
+    },
+    {
+      "number": 45,
+      "title": "What Comes Next"
+    },
+    {
+      "number": 46,
+      "title": "Unruly Punk"
+    },
+    {
+      "number": 47,
+      "title": "Uruha"
+    },
+    {
+      "number": 48,
+      "title": "The Kokugoku Steam Squad"
+    },
+    {
+      "number": 49,
+      "title": "Deadlock"
+    },
+    {
+      "number": 50,
+      "title": "Interception"
+    },
+    {
+      "number": 51,
+      "title": "Samura"
+    },
+    {
+      "number": 52,
+      "title": "Just the Two of Us"
+    },
+    {
+      "number": 53,
+      "title": "Darkness"
+    },
+    {
+      "number": 54,
+      "title": "Friendship"
+    },
+    {
+      "number": 55,
+      "title": "Fight Alongside"
+    },
+    {
+      "number": 56,
+      "title": "Daybreak"
+    },
+    {
+      "number": 57,
+      "title": "Collapse"
+    },
+    {
+      "number": 58,
+      "title": "Reunion"
+    },
+    {
+      "number": 59,
+      "title": "Blackout"
+    },
+    {
+      "number": 60,
+      "title": "Resurrection"
+    },
+    {
+      "number": 61,
+      "title": "Night Battle"
+    },
+    {
+      "number": 62,
+      "title": "Iori"
+    },
+    {
+      "number": 63,
+      "title": "Car Chase"
+    },
+    {
+      "number": 64,
+      "title": "Become the Samurai"
+    },
+    {
+      "number": 65,
+      "title": "Imitate"
+    },
+    {
+      "number": 66,
+      "title": "Truth"
+    },
+    {
+      "number": 67,
+      "title": "Kyoto Bloodshed Hotel"
+    },
+    {
+      "number": 68,
+      "title": "Metamorphosis"
+    },
+    {
+      "number": 69,
+      "title": "The Guy with the Scar"
+    },
+    {
+      "number": 70,
+      "title": "Iai White Purity Style"
+    },
+    {
+      "number": 71,
+      "title": "Contest"
+    },
+    {
+      "number": 72,
+      "title": "Future"
+    },
+    {
+      "number": 73,
+      "title": "Daybreak"
+    },
+    {
+      "number": 74,
+      "title": "Dawn"
+    },
+    {
+      "number": 75,
+      "title": "Illusion"
+    },
+    {
+      "number": 76,
+      "title": "Banquet"
+    },
+    {
+      "number": 77,
+      "title": "No Longer Relevant"
+    },
+    {
+      "number": 78,
+      "title": "Switch"
+    },
+    {
+      "number": 79,
+      "title": "Threat!!"
+    },
+    {
+      "number": 80,
+      "title": "Secret Room"
+    },
+    {
+      "number": 81,
+      "title": "Core"
+    },
+    {
+      "number": 82,
+      "title": "Enten Vs. Tobimune"
+    },
+    {
+      "number": 83,
+      "title": "The Enten"
+    },
+    {
+      "number": 84,
+      "title": "The Wounded"
+    },
+    {
+      "number": 85,
+      "title": "Open"
+    },
+    {
+      "number": 86,
+      "title": "Quickening"
+    },
+    {
+      "number": 87,
+      "title": "Phantoms"
+    },
+    {
+      "number": 88,
+      "title": "The First Step"
+    },
+    {
+      "number": 89,
+      "title": "Battle Chaos"
+    },
+    {
+      "number": 90,
+      "title": "Kiri"
+    },
+    {
+      "number": 91,
+      "title": "Natsuki"
+    },
+    {
+      "number": 92,
+      "title": "The Swordsmen"
+    },
+    {
+      "number": 92.1,
+      "title": "Chapter 92.1"
+    },
+    {
+      "number": 93,
+      "title": "Finishing Touches"
+    },
+    {
+      "number": 94,
+      "title": "The Second Arrow"
+    },
+    {
+      "number": 95,
+      "title": "Flood"
+    },
+    {
+      "number": 96,
+      "title": "Urgency"
+    },
+    {
+      "number": 97,
+      "title": "Vessel"
+    },
+    {
+      "number": 98,
+      "title": "Ikuto Hagiwara, Worthless Commander"
+    },
+    {
+      "number": 99,
+      "title": "\"Strongest\""
+    },
+    {
+      "number": 100,
+      "title": "\"Sword Master\""
+    },
+    {
+      "number": 101,
+      "title": "Safe Zone"
+    },
+    {
+      "number": 102,
+      "title": "What You Need to See"
+    },
+    {
+      "number": 103,
+      "title": "Healing"
+    },
+    {
+      "number": 104,
+      "title": "\"Heroes\""
+    },
+    {
+      "number": 105,
+      "title": "Transformation"
+    },
+    {
+      "number": 106,
+      "title": "Karma"
+    },
+    {
+      "number": 107,
+      "title": "This Moment"
+    },
+    {
+      "number": 108,
+      "title": "Enten vs. Magatsumi"
+    },
+    {
+      "number": 109,
+      "title": "Tobimune vs. Magatsumi"
+    },
+    {
+      "number": 110,
+      "title": "As a Swordsman"
+    },
+    {
+      "number": 111,
+      "title": "Apex"
+    },
+    {
+      "number": 112,
+      "title": "Future"
+    },
+    {
+      "number": 112.1,
+      "title": "Chapter 112.1"
+    },
+    {
+      "number": 113,
+      "title": "Rock"
+    },
+    {
+      "number": 114,
+      "title": "Kunishige Rokuhira"
+    },
+    {
+      "number": 115,
+      "title": "Swordsmith"
+    },
+    {
+      "number": 116,
+      "title": "Princess"
+    },
+    {
+      "number": 117,
+      "title": "The Irishima Talks"
+    },
+    {
+      "number": 118,
+      "title": "The Irishima Talks, Part 2"
+    },
+    {
+      "number": 119,
+      "title": "The Irishima Talks, Part 3"
+    },
+    {
+      "number": 120,
+      "title": "The Irishima Talks, Part 4"
+    }
+  ]
+}
