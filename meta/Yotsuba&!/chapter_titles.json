@@ -1,0 +1,456 @@
+{
+  "titles": [
+    {
+      "number": 1,
+      "title": "Yotsuba \u0026 Moving"
+    },
+    {
+      "number": 2,
+      "title": "Yotsuba \u0026 Manners"
+    },
+    {
+      "number": 3,
+      "title": "Yotsuba \u0026 Global Warming"
+    },
+    {
+      "number": 4,
+      "title": "Yotsuba \u0026 TV"
+    },
+    {
+      "number": 5,
+      "title": "Yotsuba \u0026 Shopping"
+    },
+    {
+      "number": 6,
+      "title": "Yotsuba \u0026 Cicadas"
+    },
+    {
+      "number": 7,
+      "title": "Yotsuba \u0026 Rain"
+    },
+    {
+      "number": 8,
+      "title": "Yotsuba \u0026 Drawing"
+    },
+    {
+      "number": 9,
+      "title": "Yotsuba \u0026 Revenge"
+    },
+    {
+      "number": 10,
+      "title": "Yotsuba \u0026 Cake"
+    },
+    {
+      "number": 11,
+      "title": "Yotsuba \u0026 \"No Bother\""
+    },
+    {
+      "number": 12,
+      "title": "Yotsuba \u0026 Pools"
+    },
+    {
+      "number": 13,
+      "title": "Yotsuba \u0026 the Frog"
+    },
+    {
+      "number": 14,
+      "title": "Asagi's Souvenirs"
+    },
+    {
+      "number": 15,
+      "title": "Yotsuba \u0026 Souvenirs"
+    },
+    {
+      "number": 16,
+      "title": "Yotsuba \u0026 Asagi"
+    },
+    {
+      "number": 17,
+      "title": "Yotsuba \u0026 Flowers"
+    },
+    {
+      "number": 18,
+      "title": "Yotsuba \u0026 The Bon Festival"
+    },
+    {
+      "number": 19,
+      "title": "Yotsuba \u0026 the Elephant"
+    },
+    {
+      "number": 20,
+      "title": "Yotsuba \u0026 the Fireworks Show?"
+    },
+    {
+      "number": 21,
+      "title": "Yotsuba \u0026 the Fireworks Show!"
+    },
+    {
+      "number": 22,
+      "title": "Yotsuba \u0026 Challenges"
+    },
+    {
+      "number": 23,
+      "title": "Yotsuba \u0026 Fishing"
+    },
+    {
+      "number": 24,
+      "title": "Yotsuba \u0026 Dinner"
+    },
+    {
+      "number": 24.5,
+      "title": "Chapter 24.5"
+    },
+    {
+      "number": 25,
+      "title": "Yotsuba \u0026 the Bloom of Youth"
+    },
+    {
+      "number": 26,
+      "title": "Yotsuba \u0026 Newspapers"
+    },
+    {
+      "number": 27,
+      "title": "Yotsuba \u0026 Tsukutsukuboshi"
+    },
+    {
+      "number": 28,
+      "title": "Yotsuba \u0026 Cardbo"
+    },
+    {
+      "number": 29,
+      "title": "Yotsuba \u0026 Helping"
+    },
+    {
+      "number": 30,
+      "title": "Yotsuba \u0026 Yanda"
+    },
+    {
+      "number": 31,
+      "title": "Yotsuba \u0026 Stars"
+    },
+    {
+      "number": 32,
+      "title": "Yotsuba \u0026 Rain"
+    },
+    {
+      "number": 33,
+      "title": "Yotsuba \u0026 Sunny Skies"
+    },
+    {
+      "number": 34,
+      "title": "Yotsuba \u0026 the Beach"
+    },
+    {
+      "number": 35,
+      "title": "Yotsuba \u0026 Recycling"
+    },
+    {
+      "number": 36,
+      "title": "Yotsuba \u0026 Bicycles"
+    },
+    {
+      "number": 37,
+      "title": "Yotsuba \u0026 Pottering Around"
+    },
+    {
+      "number": 38,
+      "title": "Yotsuba \u0026 Friday"
+    },
+    {
+      "number": 39,
+      "title": "Yotsuba \u0026 Milk"
+    },
+    {
+      "number": 40,
+      "title": "Yotsuba \u0026 Delivering"
+    },
+    {
+      "number": 41,
+      "title": "Yotsuba \u0026 the Bookshelf"
+    },
+    {
+      "number": 42,
+      "title": "Yotsuba \u0026 Telephones"
+    },
+    {
+      "number": 43,
+      "title": "Yotsuba \u0026 Respect for the Aged Day"
+    },
+    {
+      "number": 44,
+      "title": "Yotsuba \u0026 Fever"
+    },
+    {
+      "number": 45,
+      "title": "Yotsuba \u0026 the Pâtissier"
+    },
+    {
+      "number": 46,
+      "title": "Yotsuba \u0026 Errands"
+    },
+    {
+      "number": 47,
+      "title": "Yotsuba \u0026 Taking Off"
+    },
+    {
+      "number": 48,
+      "title": "Yotsuba \u0026 the Ranch"
+    },
+    {
+      "number": 49,
+      "title": "Yotsuba \u0026 Opposites"
+    },
+    {
+      "number": 50,
+      "title": "Yotsuba \u0026 the Restaurant"
+    },
+    {
+      "number": 51,
+      "title": "Yotsuba \u0026 the Cultural Festival"
+    },
+    {
+      "number": 52,
+      "title": "Yotsuba \u0026 the Typhoon"
+    },
+    {
+      "number": 53,
+      "title": "Yotsuba \u0026 Watching the House"
+    },
+    {
+      "number": 54,
+      "title": "Yotsuba \u0026 the Festival"
+    },
+    {
+      "number": 55,
+      "title": "Yotsuba \u0026 Acorns"
+    },
+    {
+      "number": 56,
+      "title": "Yotsuba \u0026 Schedules"
+    },
+    {
+      "number": 57,
+      "title": "Yotsuba \u0026 Juralumin"
+    },
+    {
+      "number": 58,
+      "title": "Yotsuba \u0026 Coffee"
+    },
+    {
+      "number": 59,
+      "title": "Yotsuba \u0026 Yakiniku"
+    },
+    {
+      "number": 60,
+      "title": "Yotsuba \u0026 the Visitor"
+    },
+    {
+      "number": 61,
+      "title": "Yotsuba \u0026 Hot Air Balloons"
+    },
+    {
+      "number": 62,
+      "title": "Yotsuba \u0026 the Sky"
+    },
+    {
+      "number": 63,
+      "title": "Yotsuba \u0026 Playtime"
+    },
+    {
+      "number": 64,
+      "title": "Yotsuba \u0026 Pancakes"
+    },
+    {
+      "number": 65,
+      "title": "Yotsuba \u0026 Jumbo"
+    },
+    {
+      "number": 66,
+      "title": "Yotsuba \u0026 the Electronics Store"
+    },
+    {
+      "number": 67,
+      "title": "Yotsuba \u0026 Home Appliances"
+    },
+    {
+      "number": 68,
+      "title": "Yotsuba \u0026 Lies"
+    },
+    {
+      "number": 69,
+      "title": "Yotsuba \u0026 the Re-encounter"
+    },
+    {
+      "number": 70,
+      "title": "Yotsuba \u0026 Udon"
+    },
+    {
+      "number": 71,
+      "title": "Yotsuba \u0026 Pizza"
+    },
+    {
+      "number": 72,
+      "title": "Yotsuba \u0026 Soap Bubbles"
+    },
+    {
+      "number": 73,
+      "title": "Yotsuba \u0026 Harvest of Chestnuts"
+    },
+    {
+      "number": 74,
+      "title": "Yotsuba \u0026 Cameras"
+    },
+    {
+      "number": 75,
+      "title": "Yotsuba \u0026 Friends"
+    },
+    {
+      "number": 76,
+      "title": "Yotsuba \u0026..."
+    },
+    {
+      "number": 77,
+      "title": "Yotsuba \u0026 Torako"
+    },
+    {
+      "number": 78,
+      "title": "Yotsuba \u0026 Blue"
+    },
+    {
+      "number": 79,
+      "title": "Yotsuba \u0026 Helmet"
+    },
+    {
+      "number": 80,
+      "title": "Yotsuba \u0026 Halloween"
+    },
+    {
+      "number": 81,
+      "title": "Yotsuba \u0026 Camping (1)"
+    },
+    {
+      "number": 82,
+      "title": "Yotsuba \u0026 Camping (2)"
+    },
+    {
+      "number": 83,
+      "title": "Yotsuba \u0026 Sticks and Stuff"
+    },
+    {
+      "number": 84,
+      "title": "Yotsuba \u0026 Sandbox"
+    },
+    {
+      "number": 85,
+      "title": "Yotsuba \u0026 Night"
+    },
+    {
+      "number": 86,
+      "title": "Yotsuba \u0026 Souvenirs"
+    },
+    {
+      "number": 87,
+      "title": "Yotsuba \u0026 Cleaning"
+    },
+    {
+      "number": 88,
+      "title": "Yotsuba \u0026 Grandma"
+    },
+    {
+      "number": 89,
+      "title": "Yotsuba \u0026 The Black Ghost"
+    },
+    {
+      "number": 90,
+      "title": "Yotsuba \u0026 All Day Long"
+    },
+    {
+      "number": 91,
+      "title": "Yotsuba \u0026 Work"
+    },
+    {
+      "number": 92,
+      "title": "Yotsuba \u0026 Yoga"
+    },
+    {
+      "number": 93,
+      "title": "Yotsuba \u0026 Princess"
+    },
+    {
+      "number": 94,
+      "title": "Yotsuba \u0026 The Day Before"
+    },
+    {
+      "number": 95,
+      "title": "Yotsuba \u0026 Harajuku"
+    },
+    {
+      "number": 96,
+      "title": "Yotsuba \u0026 Yoyogi Park"
+    },
+    {
+      "number": 97,
+      "title": "Yotsuba \u0026 Lunch"
+    },
+    {
+      "number": 98,
+      "title": "Yotsuba \u0026 Socks"
+    },
+    {
+      "number": 99,
+      "title": "Yotsuba \u0026 Banana Juice"
+    },
+    {
+      "number": 100,
+      "title": "Yotsuba \u0026 Rocks"
+    },
+    {
+      "number": 101,
+      "title": "Yotsuba \u0026 Cramming"
+    },
+    {
+      "number": 102,
+      "title": "Yotsuba \u0026 Paints"
+    },
+    {
+      "number": 103,
+      "title": "Yotsuba \u0026 Books"
+    },
+    {
+      "number": 104,
+      "title": "Yotsuba \u0026 Backpack"
+    },
+    {
+      "number": 105,
+      "title": "Yotsuba \u0026 Christmas Tree"
+    },
+    {
+      "number": 106,
+      "title": "Yotsuba \u0026 The Cafeteria"
+    },
+    {
+      "number": 107,
+      "title": "Yotsuba \u0026 Getting Along"
+    },
+    {
+      "number": 108,
+      "title": "Yotsuba \u0026 Mt. Takao"
+    },
+    {
+      "number": 109,
+      "title": "Yotsuba \u0026 The Mountain and the River"
+    },
+    {
+      "number": 110,
+      "title": "Yotsuba \u0026 The Summit"
+    },
+    {
+      "number": 111,
+      "title": "Yotsuba \u0026 Hobbies"
+    },
+    {
+      "number": 112,
+      "title": "Yotsuba \u0026 Teacher"
+    }
+  ]
+}
