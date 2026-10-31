@@ -1,0 +1,660 @@
+{
+  "titles": [
+    {
+      "number": 1,
+      "title": "Let Me Remind You"
+    },
+    {
+      "number": 2,
+      "title": "Town Guardian Spirits"
+    },
+    {
+      "number": 3,
+      "title": "Goodbye Morioh Town–The Golden Heart"
+    },
+    {
+      "number": 4,
+      "title": "Gold Experience (1)"
+    },
+    {
+      "number": 5,
+      "title": "Gold Experience (2)"
+    },
+    {
+      "number": 6,
+      "title": "Gold Experience (3)"
+    },
+    {
+      "number": 7,
+      "title": "Bucciarati Appears (1)"
+    },
+    {
+      "number": 8,
+      "title": "Bucciarati Appears (2)"
+    },
+    {
+      "number": 9,
+      "title": "Bucciarati Appears (3)"
+    },
+    {
+      "number": 10,
+      "title": "Bucciarati Appears (4)"
+    },
+    {
+      "number": 11,
+      "title": "Bucciarati Appears (5)"
+    },
+    {
+      "number": 12,
+      "title": "Meet the Mafioso Behind the Wall (1)"
+    },
+    {
+      "number": 13,
+      "title": "Meet the Mafioso Behind the Wall (2)"
+    },
+    {
+      "number": 14,
+      "title": "Joining the Famiglia (1)"
+    },
+    {
+      "number": 15,
+      "title": "Joining the Famiglia (2)"
+    },
+    {
+      "number": 15.5,
+      "title": "Chapter 15.5"
+    },
+    {
+      "number": 16,
+      "title": "Joining the Famiglia (3)"
+    },
+    {
+      "number": 17,
+      "title": "Joining the Famiglia (4)"
+    },
+    {
+      "number": 18,
+      "title": "Joining the Famiglia (5)"
+    },
+    {
+      "number": 19,
+      "title": "Joining the Famiglia (6)"
+    },
+    {
+      "number": 20,
+      "title": "Five Plus One"
+    },
+    {
+      "number": 21,
+      "title": "Find Polpo's Fortune!"
+    },
+    {
+      "number": 22,
+      "title": "The Secret of Soft Machine (1)"
+    },
+    {
+      "number": 23,
+      "title": "The Secret of Soft Machine (2)"
+    },
+    {
+      "number": 24,
+      "title": "Moody Blues's Counterattack (1)"
+    },
+    {
+      "number": 25,
+      "title": "Moody Blues's Counterattack (2)"
+    },
+    {
+      "number": 26,
+      "title": "Sex Pistols Appears (1)"
+    },
+    {
+      "number": 27,
+      "title": "Sex Pistols Appears (2)"
+    },
+    {
+      "number": 28,
+      "title": "Sex Pistols Appears (3)"
+    },
+    {
+      "number": 29,
+      "title": "Sex Pistols Appears (4)"
+    },
+    {
+      "number": 30,
+      "title": "Sex Pistols Appears (5)"
+    },
+    {
+      "number": 31,
+      "title": "Sex Pistols Appears (6)"
+    },
+    {
+      "number": 32,
+      "title": "The 600 Million Yen Stash"
+    },
+    {
+      "number": 33,
+      "title": "Bucciarati Capo: The First Order from the Boss"
+    },
+    {
+      "number": 33.5,
+      "title": "Chapter 33.5"
+    },
+    {
+      "number": 34,
+      "title": "Narancia's Aerosmith (1)"
+    },
+    {
+      "number": 35,
+      "title": "Narancia's Aerosmith (2)"
+    },
+    {
+      "number": 36,
+      "title": "Narancia's Aerosmith (3)"
+    },
+    {
+      "number": 37,
+      "title": "Narancia's Aerosmith (4)"
+    },
+    {
+      "number": 38,
+      "title": "Narancia's Aerosmith (5)"
+    },
+    {
+      "number": 39,
+      "title": "Narancia's Aerosmith (6)"
+    },
+    {
+      "number": 40,
+      "title": "Narancia's Aerosmith (7)"
+    },
+    {
+      "number": 41,
+      "title": "Narancia's Aerosmith (8)"
+    },
+    {
+      "number": 42,
+      "title": "The Second Mission from the Boss"
+    },
+    {
+      "number": 43,
+      "title": "Man in the Mirror and Purple Haze (1)"
+    },
+    {
+      "number": 44,
+      "title": "Man in the Mirror and Purple Haze (2)"
+    },
+    {
+      "number": 45,
+      "title": "Man in the Mirror and Purple Haze (3)"
+    },
+    {
+      "number": 46,
+      "title": "Man in the Mirror and Purple Haze (4)"
+    },
+    {
+      "number": 47,
+      "title": "Man in the Mirror and Purple Haze (5)"
+    },
+    {
+      "number": 48,
+      "title": "Man in the Mirror and Purple Haze (6)"
+    },
+    {
+      "number": 49,
+      "title": "Man in the Mirror and Purple Haze (7)"
+    },
+    {
+      "number": 50,
+      "title": "Il Treno Espresso per Firenze (1)"
+    },
+    {
+      "number": 51,
+      "title": "Il Treno Espresso per Firenze (2)"
+    },
+    {
+      "number": 51.5,
+      "title": "Chapter 51.5"
+    },
+    {
+      "number": 52,
+      "title": "The Grateful Dead (1)"
+    },
+    {
+      "number": 53,
+      "title": "The Grateful Dead (2)"
+    },
+    {
+      "number": 54,
+      "title": "The Grateful Dead (3)"
+    },
+    {
+      "number": 55,
+      "title": "The Grateful Dead (4)"
+    },
+    {
+      "number": 56,
+      "title": "The Grateful Dead (5)"
+    },
+    {
+      "number": 57,
+      "title": "The Grateful Dead (6)"
+    },
+    {
+      "number": 58,
+      "title": "The Grateful Dead (7)"
+    },
+    {
+      "number": 59,
+      "title": "The Grateful Dead (8)"
+    },
+    {
+      "number": 60,
+      "title": "The Grateful Dead (9)"
+    },
+    {
+      "number": 61,
+      "title": "The Grateful Dead (10)"
+    },
+    {
+      "number": 62,
+      "title": "The Grateful Dead (11)"
+    },
+    {
+      "number": 63,
+      "title": "The Grateful Dead (12)"
+    },
+    {
+      "number": 64,
+      "title": "Baby Face (1)"
+    },
+    {
+      "number": 65,
+      "title": "Baby Face (2)"
+    },
+    {
+      "number": 66,
+      "title": "Baby Face (3)"
+    },
+    {
+      "number": 67,
+      "title": "Baby Face (4)"
+    },
+    {
+      "number": 68,
+      "title": "Baby Face (5)"
+    },
+    {
+      "number": 69,
+      "title": "Baby Face (6)"
+    },
+    {
+      "number": 69.5,
+      "title": "Chapter 69.5"
+    },
+    {
+      "number": 70,
+      "title": "Baby Face (7)"
+    },
+    {
+      "number": 71,
+      "title": "Verso Venezia!"
+    },
+    {
+      "number": 72,
+      "title": "Retrieve the OA-Disc at Santa Lucia Station!"
+    },
+    {
+      "number": 73,
+      "title": "White Album (1)"
+    },
+    {
+      "number": 74,
+      "title": "White Album (2)"
+    },
+    {
+      "number": 75,
+      "title": "White Album (3)"
+    },
+    {
+      "number": 76,
+      "title": "White Album (4)"
+    },
+    {
+      "number": 77,
+      "title": "White Album (5)"
+    },
+    {
+      "number": 78,
+      "title": "White Album (6)"
+    },
+    {
+      "number": 79,
+      "title": "White Album (7)"
+    },
+    {
+      "number": 80,
+      "title": "The Final Orders from the Boss"
+    },
+    {
+      "number": 81,
+      "title": "Bruno Bucciarati's Childhood"
+    },
+    {
+      "number": 82,
+      "title": "The Mystery of King Crimson (1)"
+    },
+    {
+      "number": 83,
+      "title": "The Mystery of King Crimson (2)"
+    },
+    {
+      "number": 84,
+      "title": "The Mystery of King Crimson (3)"
+    },
+    {
+      "number": 85,
+      "title": "The Mystery of King Crimson (4)"
+    },
+    {
+      "number": 86,
+      "title": "The Mystery of King Crimson (5)"
+    },
+    {
+      "number": 87,
+      "title": "The Mystery of King Crimson (6)"
+    },
+    {
+      "number": 87.5,
+      "title": "Chapter 87.5"
+    },
+    {
+      "number": 88,
+      "title": "The 'G' in Gozzo"
+    },
+    {
+      "number": 89,
+      "title": "Clash and Talking Head (1)"
+    },
+    {
+      "number": 90,
+      "title": "Clash and Talking Head (2)"
+    },
+    {
+      "number": 91,
+      "title": "Clash and Talking Head (3)"
+    },
+    {
+      "number": 92,
+      "title": "Clash and Talking Head (4)"
+    },
+    {
+      "number": 93,
+      "title": "Clash and Talking Head (5)"
+    },
+    {
+      "number": 94,
+      "title": "Clash and Talking Head (6)"
+    },
+    {
+      "number": 95,
+      "title": "Clash and Talking Head (7)"
+    },
+    {
+      "number": 96,
+      "title": "Unscheduled Departure for Sardinia"
+    },
+    {
+      "number": 97,
+      "title": "Notorious B.I.G (1)"
+    },
+    {
+      "number": 98,
+      "title": "Notorious B.I.G (2)"
+    },
+    {
+      "number": 99,
+      "title": "Notorious B.I.G (3)"
+    },
+    {
+      "number": 100,
+      "title": "Notorious B.I.G (4)"
+    },
+    {
+      "number": 101,
+      "title": "Notorious B.I.G (5)"
+    },
+    {
+      "number": 102,
+      "title": "Notorious B.I.G (6)"
+    },
+    {
+      "number": 103,
+      "title": "Spice Girl (1)"
+    },
+    {
+      "number": 104,
+      "title": "Spice Girl (2)"
+    },
+    {
+      "number": 105,
+      "title": "A Storm Warning in Sardinia"
+    },
+    {
+      "number": 105.5,
+      "title": "Chapter 105.5"
+    },
+    {
+      "number": 106,
+      "title": "My Name Is Doppio (1)"
+    },
+    {
+      "number": 107,
+      "title": "My Name Is Doppio (2)"
+    },
+    {
+      "number": 108,
+      "title": "King Crimson vs. Metallica (1)"
+    },
+    {
+      "number": 109,
+      "title": "King Crimson vs. Metallica (2)"
+    },
+    {
+      "number": 110,
+      "title": "King Crimson vs. Metallica (3)"
+    },
+    {
+      "number": 111,
+      "title": "King Crimson vs. Metallica (4)"
+    },
+    {
+      "number": 112,
+      "title": "King Crimson vs. Metallica (5)"
+    },
+    {
+      "number": 113,
+      "title": "King Crimson vs. Metallica (6)"
+    },
+    {
+      "number": 114,
+      "title": "Under a Sky That Could Come Falling Any Minute"
+    },
+    {
+      "number": 115,
+      "title": "Pronto! On the Phone (1)"
+    },
+    {
+      "number": 116,
+      "title": "Pronto! On the Phone (2)"
+    },
+    {
+      "number": 117,
+      "title": "Get to the Colosseum in Rome!"
+    },
+    {
+      "number": 118,
+      "title": "Green Day and Oasis (1)"
+    },
+    {
+      "number": 119,
+      "title": "Green Day and Oasis (2)"
+    },
+    {
+      "number": 120,
+      "title": "Green Day and Oasis (3)"
+    },
+    {
+      "number": 121,
+      "title": "Green Day and Oasis (4)"
+    },
+    {
+      "number": 122,
+      "title": "Green Day and Oasis (5)"
+    },
+    {
+      "number": 123,
+      "title": "Green Day and Oasis (6)"
+    },
+    {
+      "number": 123.5,
+      "title": "Chapter 123.5"
+    },
+    {
+      "number": 124,
+      "title": "Green Day and Oasis (7)"
+    },
+    {
+      "number": 125,
+      "title": "Green Day and Oasis (8)"
+    },
+    {
+      "number": 126,
+      "title": "Green Day and Oasis (9)"
+    },
+    {
+      "number": 127,
+      "title": "Green Day and Oasis (10)"
+    },
+    {
+      "number": 128,
+      "title": "Green Day and Oasis (11)"
+    },
+    {
+      "number": 129,
+      "title": "Green Day and Oasis (12)"
+    },
+    {
+      "number": 130,
+      "title": "Green Day and Oasis (13)"
+    },
+    {
+      "number": 131,
+      "title": "Green Day and Oasis (14)"
+    },
+    {
+      "number": 132,
+      "title": "His Name Is Diavolo (1)"
+    },
+    {
+      "number": 133,
+      "title": "A Little Story from the Past"
+    },
+    {
+      "number": 134,
+      "title": "His Name Is Diavolo (2)"
+    },
+    {
+      "number": 135,
+      "title": "Beyond the Arrow"
+    },
+    {
+      "number": 136,
+      "title": "The Requiem Quietly Plays (1)"
+    },
+    {
+      "number": 137,
+      "title": "The Requiem Quietly Plays (2)"
+    },
+    {
+      "number": 138,
+      "title": "The Requiem Quietly Plays (3)"
+    },
+    {
+      "number": 139,
+      "title": "The Requiem Quietly Plays (4)"
+    },
+    {
+      "number": 140,
+      "title": "The Requiem Quietly Plays (5)"
+    },
+    {
+      "number": 140.5,
+      "title": "Chapter 140.5"
+    },
+    {
+      "number": 141,
+      "title": "The Requiem Quietly Plays (6)"
+    },
+    {
+      "number": 142,
+      "title": "The Requiem Quietly Plays (7)"
+    },
+    {
+      "number": 143,
+      "title": "The Requiem Quietly Plays (8)"
+    },
+    {
+      "number": 144,
+      "title": "Diavolo Surfaces (1)"
+    },
+    {
+      "number": 145,
+      "title": "Diavolo Surfaces (2)"
+    },
+    {
+      "number": 146,
+      "title": "Diavolo Surfaces (3)"
+    },
+    {
+      "number": 147,
+      "title": "Diavolo Surfaces (4)"
+    },
+    {
+      "number": 148,
+      "title": "Diavolo Surfaces (5)"
+    },
+    {
+      "number": 149,
+      "title": "King of Kings"
+    },
+    {
+      "number": 150,
+      "title": "Gold Experience Requiem (1)"
+    },
+    {
+      "number": 151,
+      "title": "Gold Experience Requiem (2)"
+    },
+    {
+      "number": 152,
+      "title": "Gold Experience Requiem (3)"
+    },
+    {
+      "number": 153,
+      "title": "Gold Experience Requiem (4)"
+    },
+    {
+      "number": 154,
+      "title": "Epilogue, The Sleeping Slave"
+    },
+    {
+      "number": 155,
+      "title": "The Sleeping Slave (2)"
+    },
+    {
+      "number": 155.5,
+      "title": "Chapter 155.5"
+    }
+  ]
+}
